@@ -1,0 +1,1697 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+	<game>
+		<path>./[BIOS] Othello Multivision (Japan).zip</path>
+		<name>[BIOS] Othello Multivision (Japan)</name>
+		<image>./media/images/[BIOS] Othello Multivision (Japan).png</image>
+		<video>./media/videos/[BIOS] Othello Multivision (Japan).mp4</video>
+		<marquee>./media/wheel/[BIOS] Othello Multivision (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./007 James Bond (Taiwan) (Othello Multivision).zip</path>
+		<name>007 James Bond (Taiwan) (Othello Multivision)</name>
+		<image>./media/images/007 James Bond (Taiwan) (Othello Multivision).png</image>
+		<video>./media/videos/007 James Bond (Taiwan) (Othello Multivision).mp4</video>
+		<marquee>./media/wheel/007 James Bond (Taiwan) (Othello Multivision).png</marquee>
+	</game>
+	<game>
+		<path>./007 James Bond (Japan) (Othello Multivision).zip</path>
+		<name>007 James Bond (Japan) (Othello Multivision)</name>
+		<image>./media/images/007 James Bond (Japan) (Othello Multivision).png</image>
+		<video>./media/videos/007 James Bond (Japan) (Othello Multivision).mp4</video>
+		<marquee>./media/wheel/007 James Bond (Japan) (Othello Multivision).png</marquee>
+	</game>
+	<game>
+		<path>./007 James Bond (Japan) (Alt 1) (Othello Multivision).zip</path>
+		<name>007 James Bond (Japan) (Alt 1) (Othello Multivision)</name>
+		<image>./media/images/007 James Bond (Japan) (Alt 1) (Othello Multivision).png</image>
+		<video>./media/videos/007 James Bond (Japan) (Alt 1) (Othello Multivision).mp4</video>
+		<marquee>./media/wheel/007 James Bond (Japan) (Alt 1) (Othello Multivision).png</marquee>
+	</game>
+	<game>
+		<path>./Bank Panic (Taiwan).zip</path>
+		<name>Bank Panic (Taiwan)</name>
+		<image>./media/images/Bank Panic (Taiwan).png</image>
+		<video>./media/videos/Bank Panic (Taiwan).mp4</video>
+		<marquee>./media/wheel/Bank Panic (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Bank Panic (Japan).zip</path>
+		<name>Bank Panic (Japan)</name>
+		<image>./media/images/Bank Panic (Japan).png</image>
+		<video>./media/videos/Bank Panic (Japan).mp4</video>
+		<marquee>./media/wheel/Bank Panic (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./BASIC Level II (Japan) (SC-3000) (Program).zip</path>
+		<name>BASIC Level II (Japan) (SC-3000) (Program)</name>
+		<image>./media/images/BASIC Level II (Japan) (SC-3000) (Program).png</image>
+		<video>./media/videos/BASIC Level II (Japan) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/BASIC Level II (Japan) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./BASIC Level III (Europe, Australia) (SC-3000) (Program).zip</path>
+		<name>BASIC Level III (Europe, Australia) (SC-3000) (Program)</name>
+		<image>./media/images/BASIC Level III (Europe, Australia) (SC-3000) (Program).png</image>
+		<video>./media/videos/BASIC Level III (Europe, Australia) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/BASIC Level III (Europe, Australia) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./BASIC Level III (Japan) (SC-3000) (Program).zip</path>
+		<name>BASIC Level III (Japan) (SC-3000) (Program)</name>
+		<image>./media/images/BASIC Level III (Japan) (SC-3000) (Program).png</image>
+		<video>./media/videos/BASIC Level III (Japan) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/BASIC Level III (Japan) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Black Onyx, The (Japan).zip</path>
+		<name>Black Onyx, The (Japan)</name>
+		<image>./media/images/Black Onyx, The (Japan).png</image>
+		<video>./media/videos/Black Onyx, The (Japan).mp4</video>
+		<marquee>./media/wheel/Black Onyx, The (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Bomb Jack (Japan, Australia).zip</path>
+		<name>Bomb Jack (Japan, Australia)</name>
+		<image>./media/images/Bomb Jack (Japan, Australia).png</image>
+		<video>./media/videos/Bomb Jack (Japan, Australia).mp4</video>
+		<marquee>./media/wheel/Bomb Jack (Japan, Australia).png</marquee>
+	</game>
+	<game>
+		<path>./Bomb Jack (Taiwan) (English Logo).zip</path>
+		<name>Bomb Jack (Taiwan) (English Logo)</name>
+		<image>./media/images/Bomb Jack (Taiwan) (English Logo).png</image>
+		<video>./media/videos/Bomb Jack (Taiwan) (English Logo).mp4</video>
+		<marquee>./media/wheel/Bomb Jack (Taiwan) (English Logo).png</marquee>
+	</game>
+	<game>
+		<path>./Bomb Jack (Taiwan) (Chinese Logo).zip</path>
+		<name>Bomb Jack (Taiwan) (Chinese Logo)</name>
+		<image>./media/images/Bomb Jack (Taiwan) (Chinese Logo).png</image>
+		<video>./media/videos/Bomb Jack (Taiwan) (Chinese Logo).mp4</video>
+		<marquee>./media/wheel/Bomb Jack (Taiwan) (Chinese Logo).png</marquee>
+	</game>
+	<game>
+		<path>./Bomb Jack (Korea) (English Logo) (Unl).zip</path>
+		<name>Bomb Jack (Korea) (English Logo) (Unl)</name>
+		<image>./media/images/Bomb Jack (Korea) (English Logo) (Unl).png</image>
+		<video>./media/videos/Bomb Jack (Korea) (English Logo) (Unl).mp4</video>
+		<marquee>./media/wheel/Bomb Jack (Korea) (English Logo) (Unl).png</marquee>
+	</game>
+	<game>
+		<path>./Bomb Jack (Korea) (Korean Logo) (Unl).zip</path>
+		<name>Bomb Jack (Korea) (Korean Logo) (Unl)</name>
+		<image>./media/images/Bomb Jack (Korea) (Korean Logo) (Unl).png</image>
+		<video>./media/videos/Bomb Jack (Korea) (Korean Logo) (Unl).mp4</video>
+		<marquee>./media/wheel/Bomb Jack (Korea) (Korean Logo) (Unl).png</marquee>
+	</game>
+	<game>
+		<path>./Bomberman Special (Taiwan) (English Logo) (Unl).zip</path>
+		<name>Bomberman Special (Taiwan) (English Logo) (Unl)</name>
+		<image>./media/images/Bomberman Special (Taiwan) (English Logo) (Unl).png</image>
+		<video>./media/videos/Bomberman Special (Taiwan) (English Logo) (Unl).mp4</video>
+		<marquee>./media/wheel/Bomberman Special (Taiwan) (English Logo) (Unl).png</marquee>
+	</game>
+	<game>
+		<path>./Bomberman Special (Taiwan) (Chinese Logo) (Unl).zip</path>
+		<name>Bomberman Special (Taiwan) (Chinese Logo) (Unl)</name>
+		<image>./media/images/Bomberman Special (Taiwan) (Chinese Logo) (Unl).png</image>
+		<video>./media/videos/Bomberman Special (Taiwan) (Chinese Logo) (Unl).mp4</video>
+		<marquee>./media/wheel/Bomberman Special (Taiwan) (Chinese Logo) (Unl).png</marquee>
+	</game>
+	<game>
+		<path>./Borderline (Japan, Europe, Australia, New Zealand).zip</path>
+		<name>Borderline (Japan, Europe, Australia, New Zealand)</name>
+		<image>./media/images/Borderline (Japan, Europe, Australia, New Zealand).png</image>
+		<video>./media/videos/Borderline (Japan, Europe, Australia, New Zealand).mp4</video>
+		<marquee>./media/wheel/Borderline (Japan, Europe, Australia, New Zealand).png</marquee>
+	</game>
+	<game>
+		<path>./C_So! (Taiwan).zip</path>
+		<name>C_So! (Taiwan)</name>
+		<image>./media/images/C_So! (Taiwan).png</image>
+		<video>./media/videos/C_So! (Taiwan).mp4</video>
+		<marquee>./media/wheel/C_So! (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./C_So! (Japan).zip</path>
+		<name>C_So! (Japan)</name>
+		<image>./media/images/C_So! (Japan).png</image>
+		<video>./media/videos/C_So! (Japan).mp4</video>
+		<marquee>./media/wheel/C_So! (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Cabbage Patch Kids (Taiwan).zip</path>
+		<name>Cabbage Patch Kids (Taiwan)</name>
+		<image>./media/images/Cabbage Patch Kids (Taiwan).png</image>
+		<video>./media/videos/Cabbage Patch Kids (Taiwan).mp4</video>
+		<marquee>./media/wheel/Cabbage Patch Kids (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Castle, The (Taiwan) (Unl) (Pirate).zip</path>
+		<name>Castle, The (Taiwan) (Unl) (Pirate)</name>
+		<image>./media/images/Castle, The (Taiwan) (Unl) (Pirate).png</image>
+		<video>./media/videos/Castle, The (Taiwan) (Unl) (Pirate).mp4</video>
+		<marquee>./media/wheel/Castle, The (Taiwan) (Unl) (Pirate).png</marquee>
+	</game>
+	<game>
+		<path>./Castle, The (Japan).zip</path>
+		<name>Castle, The (Japan)</name>
+		<image>./media/images/Castle, The (Japan).png</image>
+		<video>./media/videos/Castle, The (Japan).mp4</video>
+		<marquee>./media/wheel/Castle, The (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Chack'n Pop (Japan).zip</path>
+		<name>Chack'n Pop (Japan)</name>
+		<image>./media/images/Chack'n Pop (Japan).png</image>
+		<video>./media/videos/Chack'n Pop (Japan).mp4</video>
+		<marquee>./media/wheel/Chack'n Pop (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Chack'n Pop (Taiwan).zip</path>
+		<name>Chack'n Pop (Taiwan)</name>
+		<image>./media/images/Chack'n Pop (Taiwan).png</image>
+		<video>./media/videos/Chack'n Pop (Taiwan).mp4</video>
+		<marquee>./media/wheel/Chack'n Pop (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Challenge Derby (Japan) (Othello Multivision).zip</path>
+		<name>Challenge Derby (Japan) (Othello Multivision)</name>
+		<image>./media/images/Challenge Derby (Japan) (Othello Multivision).png</image>
+		<video>./media/videos/Challenge Derby (Japan) (Othello Multivision).mp4</video>
+		<marquee>./media/wheel/Challenge Derby (Japan) (Othello Multivision).png</marquee>
+	</game>
+	<game>
+		<path>./Challenge Derby (Japan) (Rev 1) (Othello Multivision).zip</path>
+		<name>Challenge Derby (Japan) (Rev 1) (Othello Multivision)</name>
+		<image>./media/images/Challenge Derby (Japan) (Rev 1) (Othello Multivision).png</image>
+		<video>./media/videos/Challenge Derby (Japan) (Rev 1) (Othello Multivision).mp4</video>
+		<marquee>./media/wheel/Challenge Derby (Japan) (Rev 1) (Othello Multivision).png</marquee>
+	</game>
+	<game>
+		<path>./Challenge Derby (Japan) (Rev 1) (Alt 1) (Othello Multivision).zip</path>
+		<name>Challenge Derby (Japan) (Rev 1) (Alt 1) (Othello Multivision)</name>
+		<image>./media/images/Challenge Derby (Japan) (Rev 1) (Alt 1) (Othello Multivision).png</image>
+		<video>./media/videos/Challenge Derby (Japan) (Rev 1) (Alt 1) (Othello Multivision).mp4</video>
+		<marquee>./media/wheel/Challenge Derby (Japan) (Rev 1) (Alt 1) (Othello Multivision).png</marquee>
+	</game>
+	<game>
+		<path>./Champion Baseball (Japan, Australia, New Zealand).zip</path>
+		<name>Champion Baseball (Japan, Australia, New Zealand)</name>
+		<image>./media/images/Champion Baseball (Japan, Australia, New Zealand).png</image>
+		<video>./media/videos/Champion Baseball (Japan, Australia, New Zealand).mp4</video>
+		<marquee>./media/wheel/Champion Baseball (Japan, Australia, New Zealand).png</marquee>
+	</game>
+	<game>
+		<path>./Champion Baseball (Taiwan).zip</path>
+		<name>Champion Baseball (Taiwan)</name>
+		<image>./media/images/Champion Baseball (Taiwan).png</image>
+		<video>./media/videos/Champion Baseball (Taiwan).mp4</video>
+		<marquee>./media/wheel/Champion Baseball (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Champion Baseball (Japan).zip</path>
+		<name>Champion Baseball (Japan)</name>
+		<image>./media/images/Champion Baseball (Japan).png</image>
+		<video>./media/videos/Champion Baseball (Japan).mp4</video>
+		<marquee>./media/wheel/Champion Baseball (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Champion Billiards (Taiwan).zip</path>
+		<name>Champion Billiards (Taiwan)</name>
+		<image>./media/images/Champion Billiards (Taiwan).png</image>
+		<video>./media/videos/Champion Billiards (Taiwan).mp4</video>
+		<marquee>./media/wheel/Champion Billiards (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Champion Billiards (Japan).zip</path>
+		<name>Champion Billiards (Japan)</name>
+		<image>./media/images/Champion Billiards (Japan).png</image>
+		<video>./media/videos/Champion Billiards (Japan).mp4</video>
+		<marquee>./media/wheel/Champion Billiards (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Champion Boxing (Taiwan).zip</path>
+		<name>Champion Boxing (Taiwan)</name>
+		<image>./media/images/Champion Boxing (Taiwan).png</image>
+		<video>./media/videos/Champion Boxing (Taiwan).mp4</video>
+		<marquee>./media/wheel/Champion Boxing (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Champion Boxing (Japan, New Zealand).zip</path>
+		<name>Champion Boxing (Japan, New Zealand)</name>
+		<image>./media/images/Champion Boxing (Japan, New Zealand).png</image>
+		<video>./media/videos/Champion Boxing (Japan, New Zealand).mp4</video>
+		<marquee>./media/wheel/Champion Boxing (Japan, New Zealand).png</marquee>
+	</game>
+	<game>
+		<path>./Champion Boxing (Japan) (Rev 1).zip</path>
+		<name>Champion Boxing (Japan) (Rev 1)</name>
+		<image>./media/images/Champion Boxing (Japan) (Rev 1).png</image>
+		<video>./media/videos/Champion Boxing (Japan) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Champion Boxing (Japan) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Champion Golf (Japan, Europe, Australia, New Zealand).zip</path>
+		<name>Champion Golf (Japan, Europe, Australia, New Zealand)</name>
+		<image>./media/images/Champion Golf (Japan, Europe, Australia, New Zealand).png</image>
+		<video>./media/videos/Champion Golf (Japan, Europe, Australia, New Zealand).mp4</video>
+		<marquee>./media/wheel/Champion Golf (Japan, Europe, Australia, New Zealand).png</marquee>
+	</game>
+	<game>
+		<path>./Champion Golf (Japan) (Rev 1).zip</path>
+		<name>Champion Golf (Japan) (Rev 1)</name>
+		<image>./media/images/Champion Golf (Japan) (Rev 1).png</image>
+		<video>./media/videos/Champion Golf (Japan) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Champion Golf (Japan) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Champion Golf (Korea) (Unl).zip</path>
+		<name>Champion Golf (Korea) (Unl)</name>
+		<image>./media/images/Champion Golf (Korea) (Unl).png</image>
+		<video>./media/videos/Champion Golf (Korea) (Unl).mp4</video>
+		<marquee>./media/wheel/Champion Golf (Korea) (Unl).png</marquee>
+	</game>
+	<game>
+		<path>./Champion Ice Hockey (Taiwan).zip</path>
+		<name>Champion Ice Hockey (Taiwan)</name>
+		<image>./media/images/Champion Ice Hockey (Taiwan).png</image>
+		<video>./media/videos/Champion Ice Hockey (Taiwan).mp4</video>
+		<marquee>./media/wheel/Champion Ice Hockey (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Champion Ice Hockey (Japan).zip</path>
+		<name>Champion Ice Hockey (Japan)</name>
+		<image>./media/images/Champion Ice Hockey (Japan).png</image>
+		<video>./media/videos/Champion Ice Hockey (Japan).mp4</video>
+		<marquee>./media/wheel/Champion Ice Hockey (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Champion Ice Hockey (Korea) (Unl).zip</path>
+		<name>Champion Ice Hockey (Korea) (Unl)</name>
+		<image>./media/images/Champion Ice Hockey (Korea) (Unl).png</image>
+		<video>./media/videos/Champion Ice Hockey (Korea) (Unl).mp4</video>
+		<marquee>./media/wheel/Champion Ice Hockey (Korea) (Unl).png</marquee>
+	</game>
+	<game>
+		<path>./Champion Kendou (Taiwan).zip</path>
+		<name>Champion Kendou (Taiwan)</name>
+		<image>./media/images/Champion Kendou (Taiwan).png</image>
+		<video>./media/videos/Champion Kendou (Taiwan).mp4</video>
+		<marquee>./media/wheel/Champion Kendou (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Champion Kendou (Japan).zip</path>
+		<name>Champion Kendou (Japan)</name>
+		<image>./media/images/Champion Kendou (Japan).png</image>
+		<video>./media/videos/Champion Kendou (Japan).mp4</video>
+		<marquee>./media/wheel/Champion Kendou (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Champion Pro Wrestling (Japan).zip</path>
+		<name>Champion Pro Wrestling (Japan)</name>
+		<image>./media/images/Champion Pro Wrestling (Japan).png</image>
+		<video>./media/videos/Champion Pro Wrestling (Japan).mp4</video>
+		<marquee>./media/wheel/Champion Pro Wrestling (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Champion Soccer (Japan, Europe).zip</path>
+		<name>Champion Soccer (Japan, Europe)</name>
+		<image>./media/images/Champion Soccer (Japan, Europe).png</image>
+		<video>./media/videos/Champion Soccer (Japan, Europe).mp4</video>
+		<marquee>./media/wheel/Champion Soccer (Japan, Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Champion Soccer (Taiwan).zip</path>
+		<name>Champion Soccer (Taiwan)</name>
+		<image>./media/images/Champion Soccer (Taiwan).png</image>
+		<video>./media/videos/Champion Soccer (Taiwan).mp4</video>
+		<marquee>./media/wheel/Champion Soccer (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Champion Tennis (Japan, Europe, Australia, New Zealand).zip</path>
+		<name>Champion Tennis (Japan, Europe, Australia, New Zealand)</name>
+		<image>./media/images/Champion Tennis (Japan, Europe, Australia, New Zealand).png</image>
+		<video>./media/videos/Champion Tennis (Japan, Europe, Australia, New Zealand).mp4</video>
+		<marquee>./media/wheel/Champion Tennis (Japan, Europe, Australia, New Zealand).png</marquee>
+	</game>
+	<game>
+		<path>./Championship Lode Runner (Taiwan).zip</path>
+		<name>Championship Lode Runner (Taiwan)</name>
+		<image>./media/images/Championship Lode Runner (Taiwan).png</image>
+		<video>./media/videos/Championship Lode Runner (Taiwan).mp4</video>
+		<marquee>./media/wheel/Championship Lode Runner (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Championship Lode Runner (Japan, Australia).zip</path>
+		<name>Championship Lode Runner (Japan, Australia)</name>
+		<image>./media/images/Championship Lode Runner (Japan, Australia).png</image>
+		<video>./media/videos/Championship Lode Runner (Japan, Australia).mp4</video>
+		<marquee>./media/wheel/Championship Lode Runner (Japan, Australia).png</marquee>
+	</game>
+	<game>
+		<path>./Choplifter (Japan, Australia) (Beta).zip</path>
+		<name>Choplifter (Japan, Australia) (Beta)</name>
+		<image>./media/images/Choplifter (Japan, Australia) (Beta).png</image>
+		<video>./media/videos/Choplifter (Japan, Australia) (Beta).mp4</video>
+		<marquee>./media/wheel/Choplifter (Japan, Australia) (Beta).png</marquee>
+	</game>
+	<game>
+		<path>./Choplifter (Korea) (Unl).zip</path>
+		<name>Choplifter (Korea) (Unl)</name>
+		<image>./media/images/Choplifter (Korea) (Unl).png</image>
+		<video>./media/videos/Choplifter (Korea) (Unl).mp4</video>
+		<marquee>./media/wheel/Choplifter (Korea) (Unl).png</marquee>
+	</game>
+	<game>
+		<path>./Choplifter (Taiwan) (No Logo).zip</path>
+		<name>Choplifter (Taiwan) (No Logo)</name>
+		<image>./media/images/Choplifter (Taiwan) (No Logo).png</image>
+		<video>./media/videos/Choplifter (Taiwan) (No Logo).mp4</video>
+		<marquee>./media/wheel/Choplifter (Taiwan) (No Logo).png</marquee>
+	</game>
+	<game>
+		<path>./Choplifter (Taiwan) (Chinese Logo).zip</path>
+		<name>Choplifter (Taiwan) (Chinese Logo)</name>
+		<image>./media/images/Choplifter (Taiwan) (Chinese Logo).png</image>
+		<video>./media/videos/Choplifter (Taiwan) (Chinese Logo).mp4</video>
+		<marquee>./media/wheel/Choplifter (Taiwan) (Chinese Logo).png</marquee>
+	</game>
+	<game>
+		<path>./Choplifter (Taiwan) (English Logo).zip</path>
+		<name>Choplifter (Taiwan) (English Logo)</name>
+		<image>./media/images/Choplifter (Taiwan) (English Logo).png</image>
+		<video>./media/videos/Choplifter (Taiwan) (English Logo).mp4</video>
+		<marquee>./media/wheel/Choplifter (Taiwan) (English Logo).png</marquee>
+	</game>
+	<game>
+		<path>./Choplifter (Japan, Australia).zip</path>
+		<name>Choplifter (Japan, Australia)</name>
+		<image>./media/images/Choplifter (Japan, Australia).png</image>
+		<video>./media/videos/Choplifter (Japan, Australia).mp4</video>
+		<marquee>./media/wheel/Choplifter (Japan, Australia).png</marquee>
+	</game>
+	<game>
+		<path>./Chuugaku Hisshuu Eibunpou - Chuugaku 1-Nen (Japan) (SC-3000) (Program).zip</path>
+		<name>Chuugaku Hisshuu Eibunpou - Chuugaku 1-Nen (Japan) (SC-3000) (Program)</name>
+		<image>./media/images/Chuugaku Hisshuu Eibunpou - Chuugaku 1-Nen (Japan) (SC-3000) (Program).png</image>
+		<video>./media/videos/Chuugaku Hisshuu Eibunpou - Chuugaku 1-Nen (Japan) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/Chuugaku Hisshuu Eibunpou - Chuugaku 1-Nen (Japan) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Chuugaku Hisshuu Eibunpou - Chuugaku 2-Nen (Japan) (SC-3000) (Program).zip</path>
+		<name>Chuugaku Hisshuu Eibunpou - Chuugaku 2-Nen (Japan) (SC-3000) (Program)</name>
+		<image>./media/images/Chuugaku Hisshuu Eibunpou - Chuugaku 2-Nen (Japan) (SC-3000) (Program).png</image>
+		<video>./media/videos/Chuugaku Hisshuu Eibunpou - Chuugaku 2-Nen (Japan) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/Chuugaku Hisshuu Eibunpou - Chuugaku 2-Nen (Japan) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program).zip</path>
+		<name>Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program)</name>
+		<image>./media/images/Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program).png</image>
+		<video>./media/videos/Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (Alt 1) (SC-3000) (Program).zip</path>
+		<name>Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (Alt 1) (SC-3000) (Program)</name>
+		<image>./media/images/Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (Alt 1) (SC-3000) (Program).png</image>
+		<video>./media/videos/Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (Alt 1) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (Alt 1) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program).zip</path>
+		<name>Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program)</name>
+		<image>./media/images/Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program).png</image>
+		<video>./media/videos/Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (Alt 1) (SC-3000) (Program).zip</path>
+		<name>Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (Alt 1) (SC-3000) (Program)</name>
+		<image>./media/images/Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (Alt 1) (SC-3000) (Program).png</image>
+		<video>./media/videos/Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (Alt 1) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (Alt 1) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Chuugaku Hisshuu Eitango - Chuugaku 1-Nen (Japan) (SC-3000) (Program).zip</path>
+		<name>Chuugaku Hisshuu Eitango - Chuugaku 1-Nen (Japan) (SC-3000) (Program)</name>
+		<image>./media/images/Chuugaku Hisshuu Eitango - Chuugaku 1-Nen (Japan) (SC-3000) (Program).png</image>
+		<video>./media/videos/Chuugaku Hisshuu Eitango - Chuugaku 1-Nen (Japan) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/Chuugaku Hisshuu Eitango - Chuugaku 1-Nen (Japan) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (Alt 1) (SC-3000) (Program).zip</path>
+		<name>Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (Alt 1) (SC-3000) (Program)</name>
+		<image>./media/images/Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (Alt 1) (SC-3000) (Program).png</image>
+		<video>./media/videos/Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (Alt 1) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (Alt 1) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program).zip</path>
+		<name>Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program)</name>
+		<image>./media/images/Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program).png</image>
+		<video>./media/videos/Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Circus Charlie (Taiwan).zip</path>
+		<name>Circus Charlie (Taiwan)</name>
+		<image>./media/images/Circus Charlie (Taiwan).png</image>
+		<video>./media/videos/Circus Charlie (Taiwan).mp4</video>
+		<marquee>./media/wheel/Circus Charlie (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Circus Charlie (Korea) (Unl).zip</path>
+		<name>Circus Charlie (Korea) (Unl)</name>
+		<image>./media/images/Circus Charlie (Korea) (Unl).png</image>
+		<video>./media/videos/Circus Charlie (Korea) (Unl).mp4</video>
+		<marquee>./media/wheel/Circus Charlie (Korea) (Unl).png</marquee>
+	</game>
+	<game>
+		<path>./Complete Arcade Pack Collection, The (New Zealand) (SF-7000).zip</path>
+		<name>Complete Arcade Pack Collection, The (New Zealand) (SF-7000)</name>
+		<image>./media/images/Complete Arcade Pack Collection, The (New Zealand) (SF-7000).png</image>
+		<video>./media/videos/Complete Arcade Pack Collection, The (New Zealand) (SF-7000).mp4</video>
+		<marquee>./media/wheel/Complete Arcade Pack Collection, The (New Zealand) (SF-7000).png</marquee>
+	</game>
+	<game>
+		<path>./Congo Bongo (Japan).zip</path>
+		<name>Congo Bongo (Japan)</name>
+		<image>./media/images/Congo Bongo (Japan).png</image>
+		<video>./media/videos/Congo Bongo (Japan).mp4</video>
+		<marquee>./media/wheel/Congo Bongo (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Congo Bongo (Japan, Europe, Australia, New Zealand) (Rev 1).zip</path>
+		<name>Congo Bongo (Japan, Europe, Australia, New Zealand) (Rev 1)</name>
+		<image>./media/images/Congo Bongo (Japan, Europe, Australia, New Zealand) (Rev 1).png</image>
+		<video>./media/videos/Congo Bongo (Japan, Europe, Australia, New Zealand) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Congo Bongo (Japan, Europe, Australia, New Zealand) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Congo Bongo (Japan) (Rev 1) (Alt 1).zip</path>
+		<name>Congo Bongo (Japan) (Rev 1) (Alt 1)</name>
+		<image>./media/images/Congo Bongo (Japan) (Rev 1) (Alt 1).png</image>
+		<video>./media/videos/Congo Bongo (Japan) (Rev 1) (Alt 1).mp4</video>
+		<marquee>./media/wheel/Congo Bongo (Japan) (Rev 1) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Congo Bongo (Taiwan) (Rev 1).zip</path>
+		<name>Congo Bongo (Taiwan) (Rev 1)</name>
+		<image>./media/images/Congo Bongo (Taiwan) (Rev 1).png</image>
+		<video>./media/videos/Congo Bongo (Taiwan) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Congo Bongo (Taiwan) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Disk BASIC (Japan) (Rev 1) (SF-7000) (Program).zip</path>
+		<name>Disk BASIC (Japan) (Rev 1) (SF-7000) (Program)</name>
+		<image>./media/images/Disk BASIC (Japan) (Rev 1) (SF-7000) (Program).png</image>
+		<video>./media/videos/Disk BASIC (Japan) (Rev 1) (SF-7000) (Program).mp4</video>
+		<marquee>./media/wheel/Disk BASIC (Japan) (Rev 1) (SF-7000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Disk BASIC (Japan) (SF-7000) (Program).zip</path>
+		<name>Disk BASIC (Japan) (SF-7000) (Program)</name>
+		<image>./media/images/Disk BASIC (Japan) (SF-7000) (Program).png</image>
+		<video>./media/videos/Disk BASIC (Japan) (SF-7000) (Program).mp4</video>
+		<marquee>./media/wheel/Disk BASIC (Japan) (SF-7000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Disk BASIC &amp; Yeno Demo (Japan) (SF-7000) (Program).zip</path>
+		<name>Disk BASIC &amp; Yeno Demo (Japan) (SF-7000) (Program)</name>
+		<image>./media/images/Disk BASIC &amp; Yeno Demo (Japan) (SF-7000) (Program).png</image>
+		<video>./media/videos/Disk BASIC &amp; Yeno Demo (Japan) (SF-7000) (Program).mp4</video>
+		<marquee>./media/wheel/Disk BASIC &amp; Yeno Demo (Japan) (SF-7000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Doki Doki Penguin Land (Japan).zip</path>
+		<name>Doki Doki Penguin Land (Japan)</name>
+		<image>./media/images/Doki Doki Penguin Land (Japan).png</image>
+		<video>./media/videos/Doki Doki Penguin Land (Japan).mp4</video>
+		<marquee>./media/wheel/Doki Doki Penguin Land (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Doki Doki Penguin Land (Taiwan).zip</path>
+		<name>Doki Doki Penguin Land (Taiwan)</name>
+		<image>./media/images/Doki Doki Penguin Land (Taiwan).png</image>
+		<video>./media/videos/Doki Doki Penguin Land (Taiwan).mp4</video>
+		<marquee>./media/wheel/Doki Doki Penguin Land (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Dragon Wang (Japan).zip</path>
+		<name>Dragon Wang (Japan)</name>
+		<image>./media/images/Dragon Wang (Japan).png</image>
+		<video>./media/videos/Dragon Wang (Japan).mp4</video>
+		<marquee>./media/wheel/Dragon Wang (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Dragon Wang (Taiwan) (English Logo).zip</path>
+		<name>Dragon Wang (Taiwan) (English Logo)</name>
+		<image>./media/images/Dragon Wang (Taiwan) (English Logo).png</image>
+		<video>./media/videos/Dragon Wang (Taiwan) (English Logo).mp4</video>
+		<marquee>./media/wheel/Dragon Wang (Taiwan) (English Logo).png</marquee>
+	</game>
+	<game>
+		<path>./Dragon Wang (Japan) (Rev 1).zip</path>
+		<name>Dragon Wang (Japan) (Rev 1)</name>
+		<image>./media/images/Dragon Wang (Japan) (Rev 1).png</image>
+		<video>./media/videos/Dragon Wang (Japan) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Dragon Wang (Japan) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Dragon Wang (Taiwan) (Chinese Logo).zip</path>
+		<name>Dragon Wang (Taiwan) (Chinese Logo)</name>
+		<image>./media/images/Dragon Wang (Taiwan) (Chinese Logo).png</image>
+		<video>./media/videos/Dragon Wang (Taiwan) (Chinese Logo).mp4</video>
+		<marquee>./media/wheel/Dragon Wang (Taiwan) (Chinese Logo).png</marquee>
+	</game>
+	<game>
+		<path>./Drol (Taiwan).zip</path>
+		<name>Drol (Taiwan)</name>
+		<image>./media/images/Drol (Taiwan).png</image>
+		<video>./media/videos/Drol (Taiwan).mp4</video>
+		<marquee>./media/wheel/Drol (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Drol (Japan, Australia).zip</path>
+		<name>Drol (Japan, Australia)</name>
+		<image>./media/images/Drol (Japan, Australia).png</image>
+		<video>./media/videos/Drol (Japan, Australia).mp4</video>
+		<marquee>./media/wheel/Drol (Japan, Australia).png</marquee>
+	</game>
+	<game>
+		<path>./Drol (Korea) (Unl).zip</path>
+		<name>Drol (Korea) (Unl)</name>
+		<image>./media/images/Drol (Korea) (Unl).png</image>
+		<video>./media/videos/Drol (Korea) (Unl).mp4</video>
+		<marquee>./media/wheel/Drol (Korea) (Unl).png</marquee>
+	</game>
+	<game>
+		<path>./Electronic Salesman (Japan) (Proto) (SC-3000) (Program).zip</path>
+		<name>Electronic Salesman (Japan) (Proto) (SC-3000) (Program)</name>
+		<image>./media/images/Electronic Salesman (Japan) (Proto) (SC-3000) (Program).png</image>
+		<video>./media/videos/Electronic Salesman (Japan) (Proto) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/Electronic Salesman (Japan) (Proto) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Elevator Action (Japan).zip</path>
+		<name>Elevator Action (Japan)</name>
+		<image>./media/images/Elevator Action (Japan).png</image>
+		<video>./media/videos/Elevator Action (Japan).mp4</video>
+		<marquee>./media/wheel/Elevator Action (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Elevator Action (Taiwan).zip</path>
+		<name>Elevator Action (Taiwan)</name>
+		<image>./media/images/Elevator Action (Taiwan).png</image>
+		<video>./media/videos/Elevator Action (Taiwan).mp4</video>
+		<marquee>./media/wheel/Elevator Action (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Exerion (Japan, Europe, Australia, New Zealand).zip</path>
+		<name>Exerion (Japan, Europe, Australia, New Zealand)</name>
+		<image>./media/images/Exerion (Japan, Europe, Australia, New Zealand).png</image>
+		<video>./media/videos/Exerion (Japan, Europe, Australia, New Zealand).mp4</video>
+		<marquee>./media/wheel/Exerion (Japan, Europe, Australia, New Zealand).png</marquee>
+	</game>
+	<game>
+		<path>./Exerion (Taiwan).zip</path>
+		<name>Exerion (Taiwan)</name>
+		<image>./media/images/Exerion (Taiwan).png</image>
+		<video>./media/videos/Exerion (Taiwan).mp4</video>
+		<marquee>./media/wheel/Exerion (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Exerion (Korea) (Unl).zip</path>
+		<name>Exerion (Korea) (Unl)</name>
+		<image>./media/images/Exerion (Korea) (Unl).png</image>
+		<video>./media/videos/Exerion (Korea) (Unl).mp4</video>
+		<marquee>./media/wheel/Exerion (Korea) (Unl).png</marquee>
+	</game>
+	<game>
+		<path>./Flicky (Japan) (Rev 1).zip</path>
+		<name>Flicky (Japan) (Rev 1)</name>
+		<image>./media/images/Flicky (Japan) (Rev 1).png</image>
+		<video>./media/videos/Flicky (Japan) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Flicky (Japan) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Flicky (Taiwan) (Rev 1).zip</path>
+		<name>Flicky (Taiwan) (Rev 1)</name>
+		<image>./media/images/Flicky (Taiwan) (Rev 1).png</image>
+		<video>./media/videos/Flicky (Taiwan) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Flicky (Taiwan) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Flicky (Japan, New Zealand).zip</path>
+		<name>Flicky (Japan, New Zealand)</name>
+		<image>./media/images/Flicky (Japan, New Zealand).png</image>
+		<video>./media/videos/Flicky (Japan, New Zealand).mp4</video>
+		<marquee>./media/wheel/Flicky (Japan, New Zealand).png</marquee>
+	</game>
+	<game>
+		<path>./Girl's Garden (Taiwan).zip</path>
+		<name>Girl's Garden (Taiwan)</name>
+		<image>./media/images/Girl's Garden (Taiwan).png</image>
+		<video>./media/videos/Girl's Garden (Taiwan).mp4</video>
+		<marquee>./media/wheel/Girl's Garden (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Girl's Garden (Japan, Australia).zip</path>
+		<name>Girl's Garden (Japan, Australia)</name>
+		<image>./media/images/Girl's Garden (Japan, Australia).png</image>
+		<video>./media/videos/Girl's Garden (Japan, Australia).mp4</video>
+		<marquee>./media/wheel/Girl's Garden (Japan, Australia).png</marquee>
+	</game>
+	<game>
+		<path>./Golgo 13 (Japan).zip</path>
+		<name>Golgo 13 (Japan)</name>
+		<image>./media/images/Golgo 13 (Japan).png</image>
+		<video>./media/videos/Golgo 13 (Japan).mp4</video>
+		<marquee>./media/wheel/Golgo 13 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./GP World (Japan) (Rev 1).zip</path>
+		<name>GP World (Japan) (Rev 1)</name>
+		<image>./media/images/GP World (Japan) (Rev 1).png</image>
+		<video>./media/videos/GP World (Japan) (Rev 1).mp4</video>
+		<marquee>./media/wheel/GP World (Japan) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./GP World (Japan).zip</path>
+		<name>GP World (Japan)</name>
+		<image>./media/images/GP World (Japan).png</image>
+		<video>./media/videos/GP World (Japan).mp4</video>
+		<marquee>./media/wheel/GP World (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./GP World (Taiwan).zip</path>
+		<name>GP World (Taiwan)</name>
+		<image>./media/images/GP World (Taiwan).png</image>
+		<video>./media/videos/GP World (Taiwan).mp4</video>
+		<marquee>./media/wheel/GP World (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Gulkave (Japan).zip</path>
+		<name>Gulkave (Japan)</name>
+		<image>./media/images/Gulkave (Japan).png</image>
+		<video>./media/videos/Gulkave (Japan).mp4</video>
+		<marquee>./media/wheel/Gulkave (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Gulkave (Korea) (Unl).zip</path>
+		<name>Gulkave (Korea) (Unl)</name>
+		<image>./media/images/Gulkave (Korea) (Unl).png</image>
+		<video>./media/videos/Gulkave (Korea) (Unl).mp4</video>
+		<marquee>./media/wheel/Gulkave (Korea) (Unl).png</marquee>
+	</game>
+	<game>
+		<path>./Guzzler (Taiwan) (Othello Multivision).zip</path>
+		<name>Guzzler (Taiwan) (Othello Multivision)</name>
+		<image>./media/images/Guzzler (Taiwan) (Othello Multivision).png</image>
+		<video>./media/videos/Guzzler (Taiwan) (Othello Multivision).mp4</video>
+		<marquee>./media/wheel/Guzzler (Taiwan) (Othello Multivision).png</marquee>
+	</game>
+	<game>
+		<path>./Guzzler (Japan) (Othello Multivision).zip</path>
+		<name>Guzzler (Japan) (Othello Multivision)</name>
+		<image>./media/images/Guzzler (Japan) (Othello Multivision).png</image>
+		<video>./media/videos/Guzzler (Japan) (Othello Multivision).mp4</video>
+		<marquee>./media/wheel/Guzzler (Japan) (Othello Multivision).png</marquee>
+	</game>
+	<game>
+		<path>./H.E.R.O. (Taiwan) (Chinese Logo).zip</path>
+		<name>H.E.R.O. (Taiwan) (Chinese Logo)</name>
+		<image>./media/images/H.E.R.O. (Taiwan) (Chinese Logo).png</image>
+		<video>./media/videos/H.E.R.O. (Taiwan) (Chinese Logo).mp4</video>
+		<marquee>./media/wheel/H.E.R.O. (Taiwan) (Chinese Logo).png</marquee>
+	</game>
+	<game>
+		<path>./H.E.R.O. (Japan).zip</path>
+		<name>H.E.R.O. (Japan)</name>
+		<image>./media/images/H.E.R.O. (Japan).png</image>
+		<video>./media/videos/H.E.R.O. (Japan).mp4</video>
+		<marquee>./media/wheel/H.E.R.O. (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./H.E.R.O. (Taiwan) (English Logo).zip</path>
+		<name>H.E.R.O. (Taiwan) (English Logo)</name>
+		<image>./media/images/H.E.R.O. (Taiwan) (English Logo).png</image>
+		<video>./media/videos/H.E.R.O. (Taiwan) (English Logo).mp4</video>
+		<marquee>./media/wheel/H.E.R.O. (Taiwan) (English Logo).png</marquee>
+	</game>
+	<game>
+		<path>./Hang-On II (Taiwan) (Chinese Logo).zip</path>
+		<name>Hang-On II (Taiwan) (Chinese Logo)</name>
+		<image>./media/images/Hang-On II (Taiwan) (Chinese Logo).png</image>
+		<video>./media/videos/Hang-On II (Taiwan) (Chinese Logo).mp4</video>
+		<marquee>./media/wheel/Hang-On II (Taiwan) (Chinese Logo).png</marquee>
+	</game>
+	<game>
+		<path>./Hang-On II (Japan, Australia).zip</path>
+		<name>Hang-On II (Japan, Australia)</name>
+		<image>./media/images/Hang-On II (Japan, Australia).png</image>
+		<video>./media/videos/Hang-On II (Japan, Australia).mp4</video>
+		<marquee>./media/wheel/Hang-On II (Japan, Australia).png</marquee>
+	</game>
+	<game>
+		<path>./Hang-On II (Taiwan) (English Logo).zip</path>
+		<name>Hang-On II (Taiwan) (English Logo)</name>
+		<image>./media/images/Hang-On II (Taiwan) (English Logo).png</image>
+		<video>./media/videos/Hang-On II (Taiwan) (English Logo).mp4</video>
+		<marquee>./media/wheel/Hang-On II (Taiwan) (English Logo).png</marquee>
+	</game>
+	<game>
+		<path>./Home BASIC (Japan) (SC-3000) (Program).zip</path>
+		<name>Home BASIC (Japan) (SC-3000) (Program)</name>
+		<image>./media/images/Home BASIC (Japan) (SC-3000) (Program).png</image>
+		<video>./media/videos/Home BASIC (Japan) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/Home BASIC (Japan) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Home Mahjong (Japan) (Rev 1).zip</path>
+		<name>Home Mahjong (Japan) (Rev 1)</name>
+		<image>./media/images/Home Mahjong (Japan) (Rev 1).png</image>
+		<video>./media/videos/Home Mahjong (Japan) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Home Mahjong (Japan) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Home Mahjong (Taiwan).zip</path>
+		<name>Home Mahjong (Taiwan)</name>
+		<image>./media/images/Home Mahjong (Taiwan).png</image>
+		<video>./media/videos/Home Mahjong (Taiwan).mp4</video>
+		<marquee>./media/wheel/Home Mahjong (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Home Mahjong (Japan).zip</path>
+		<name>Home Mahjong (Japan)</name>
+		<image>./media/images/Home Mahjong (Japan).png</image>
+		<video>./media/videos/Home Mahjong (Japan).mp4</video>
+		<marquee>./media/wheel/Home Mahjong (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Hustle Chumy (Japan).zip</path>
+		<name>Hustle Chumy (Japan)</name>
+		<image>./media/images/Hustle Chumy (Japan).png</image>
+		<video>./media/videos/Hustle Chumy (Japan).mp4</video>
+		<marquee>./media/wheel/Hustle Chumy (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Hustle Chumy (Taiwan).zip</path>
+		<name>Hustle Chumy (Taiwan)</name>
+		<image>./media/images/Hustle Chumy (Taiwan).png</image>
+		<video>./media/videos/Hustle Chumy (Taiwan).mp4</video>
+		<marquee>./media/wheel/Hustle Chumy (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Hyper Sports (Japan).zip</path>
+		<name>Hyper Sports (Japan)</name>
+		<image>./media/images/Hyper Sports (Japan).png</image>
+		<video>./media/videos/Hyper Sports (Japan).mp4</video>
+		<marquee>./media/wheel/Hyper Sports (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Hyper Sports (Taiwan).zip</path>
+		<name>Hyper Sports (Taiwan)</name>
+		<image>./media/images/Hyper Sports (Taiwan).png</image>
+		<video>./media/videos/Hyper Sports (Taiwan).mp4</video>
+		<marquee>./media/wheel/Hyper Sports (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Hyper Sports (Korea) (Unl).zip</path>
+		<name>Hyper Sports (Korea) (Unl)</name>
+		<image>./media/images/Hyper Sports (Korea) (Unl).png</image>
+		<video>./media/videos/Hyper Sports (Korea) (Unl).mp4</video>
+		<marquee>./media/wheel/Hyper Sports (Korea) (Unl).png</marquee>
+	</game>
+	<game>
+		<path>./Hyper Sports 2 (Taiwan).zip</path>
+		<name>Hyper Sports 2 (Taiwan)</name>
+		<image>./media/images/Hyper Sports 2 (Taiwan).png</image>
+		<video>./media/videos/Hyper Sports 2 (Taiwan).mp4</video>
+		<marquee>./media/wheel/Hyper Sports 2 (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./I.Q. (Korea) (Unl).zip</path>
+		<name>I.Q. (Korea) (Unl)</name>
+		<image>./media/images/I.Q. (Korea) (Unl).png</image>
+		<video>./media/videos/I.Q. (Korea) (Unl).mp4</video>
+		<marquee>./media/wheel/I.Q. (Korea) (Unl).png</marquee>
+	</game>
+	<game>
+		<path>./Kagaku (Gensokigou Master) (Japan) (SC-3000) (Program).zip</path>
+		<name>Kagaku (Gensokigou Master) (Japan) (SC-3000) (Program)</name>
+		<image>./media/images/Kagaku (Gensokigou Master) (Japan) (SC-3000) (Program).png</image>
+		<video>./media/videos/Kagaku (Gensokigou Master) (Japan) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/Kagaku (Gensokigou Master) (Japan) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Kamikaze (France) (SF-7000).zip</path>
+		<name>Kamikaze (France) (SF-7000)</name>
+		<image>./media/images/Kamikaze (France) (SF-7000).png</image>
+		<video>./media/videos/Kamikaze (France) (SF-7000).mp4</video>
+		<marquee>./media/wheel/Kamikaze (France) (SF-7000).png</marquee>
+	</game>
+	<game>
+		<path>./King's Valley (Taiwan).zip</path>
+		<name>King's Valley (Taiwan)</name>
+		<image>./media/images/King's Valley (Taiwan).png</image>
+		<video>./media/videos/King's Valley (Taiwan).mp4</video>
+		<marquee>./media/wheel/King's Valley (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Knightmare (Taiwan).zip</path>
+		<name>Knightmare (Taiwan)</name>
+		<image>./media/images/Knightmare (Taiwan).png</image>
+		<video>./media/videos/Knightmare (Taiwan).mp4</video>
+		<marquee>./media/wheel/Knightmare (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Legend of Kage, The (Taiwan).zip</path>
+		<name>Legend of Kage, The (Taiwan)</name>
+		<image>./media/images/Legend of Kage, The (Taiwan).png</image>
+		<video>./media/videos/Legend of Kage, The (Taiwan).mp4</video>
+		<marquee>./media/wheel/Legend of Kage, The (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./LinkWord (Japan) (Proto) (SC3000) (Program).zip</path>
+		<name>LinkWord (Japan) (Proto) (SC3000) (Program)</name>
+		<image>./media/images/LinkWord (Japan) (Proto) (SC3000) (Program).png</image>
+		<video>./media/videos/LinkWord (Japan) (Proto) (SC3000) (Program).mp4</video>
+		<marquee>./media/wheel/LinkWord (Japan) (Proto) (SC3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Lode Runner (Taiwan).zip</path>
+		<name>Lode Runner (Taiwan)</name>
+		<image>./media/images/Lode Runner (Taiwan).png</image>
+		<video>./media/videos/Lode Runner (Taiwan).mp4</video>
+		<marquee>./media/wheel/Lode Runner (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Lode Runner (Japan, Europe, Australia).zip</path>
+		<name>Lode Runner (Japan, Europe, Australia)</name>
+		<image>./media/images/Lode Runner (Japan, Europe, Australia).png</image>
+		<video>./media/videos/Lode Runner (Japan, Europe, Australia).mp4</video>
+		<marquee>./media/wheel/Lode Runner (Japan, Europe, Australia).png</marquee>
+	</game>
+	<game>
+		<path>./Lode Runner (Korea) (Unl).zip</path>
+		<name>Lode Runner (Korea) (Unl)</name>
+		<image>./media/images/Lode Runner (Korea) (Unl).png</image>
+		<video>./media/videos/Lode Runner (Korea) (Unl).mp4</video>
+		<marquee>./media/wheel/Lode Runner (Korea) (Unl).png</marquee>
+	</game>
+	<game>
+		<path>./Magical Kid Wiz (Taiwan).zip</path>
+		<name>Magical Kid Wiz (Taiwan)</name>
+		<image>./media/images/Magical Kid Wiz (Taiwan).png</image>
+		<video>./media/videos/Magical Kid Wiz (Taiwan).mp4</video>
+		<marquee>./media/wheel/Magical Kid Wiz (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Magical Tree (Taiwan).zip</path>
+		<name>Magical Tree (Taiwan)</name>
+		<image>./media/images/Magical Tree (Taiwan).png</image>
+		<video>./media/videos/Magical Tree (Taiwan).mp4</video>
+		<marquee>./media/wheel/Magical Tree (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Mahjong (Japan) (Rev 1).zip</path>
+		<name>Mahjong (Japan) (Rev 1)</name>
+		<image>./media/images/Mahjong (Japan) (Rev 1).png</image>
+		<video>./media/videos/Mahjong (Japan) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Mahjong (Japan) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Mahjong (Taiwan) (Rev 1).zip</path>
+		<name>Mahjong (Taiwan) (Rev 1)</name>
+		<image>./media/images/Mahjong (Taiwan) (Rev 1).png</image>
+		<video>./media/videos/Mahjong (Taiwan) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Mahjong (Taiwan) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Mahjong (Japan).zip</path>
+		<name>Mahjong (Japan)</name>
+		<image>./media/images/Mahjong (Japan).png</image>
+		<video>./media/videos/Mahjong (Japan).mp4</video>
+		<marquee>./media/wheel/Mahjong (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Monaco GP (Japan) (Rev 1).zip</path>
+		<name>Monaco GP (Japan) (Rev 1)</name>
+		<image>./media/images/Monaco GP (Japan) (Rev 1).png</image>
+		<video>./media/videos/Monaco GP (Japan) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Monaco GP (Japan) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Monaco GP (Japan, Europe, Australia, New Zealand).zip</path>
+		<name>Monaco GP (Japan, Europe, Australia, New Zealand)</name>
+		<image>./media/images/Monaco GP (Japan, Europe, Australia, New Zealand).png</image>
+		<video>./media/videos/Monaco GP (Japan, Europe, Australia, New Zealand).mp4</video>
+		<marquee>./media/wheel/Monaco GP (Japan, Europe, Australia, New Zealand).png</marquee>
+	</game>
+	<game>
+		<path>./Monaco GP (Japan, Europe) (Rev 2).zip</path>
+		<name>Monaco GP (Japan, Europe) (Rev 2)</name>
+		<image>./media/images/Monaco GP (Japan, Europe) (Rev 2).png</image>
+		<video>./media/videos/Monaco GP (Japan, Europe) (Rev 2).mp4</video>
+		<marquee>./media/wheel/Monaco GP (Japan, Europe) (Rev 2).png</marquee>
+	</game>
+	<game>
+		<path>./Monaco GP (Taiwan) (Rev 1).zip</path>
+		<name>Monaco GP (Taiwan) (Rev 1)</name>
+		<image>./media/images/Monaco GP (Taiwan) (Rev 1).png</image>
+		<video>./media/videos/Monaco GP (Taiwan) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Monaco GP (Taiwan) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Music (Japan) (SC-3000) (Program).zip</path>
+		<name>Music (Japan) (SC-3000) (Program)</name>
+		<image>./media/images/Music (Japan) (SC-3000) (Program).png</image>
+		<video>./media/videos/Music (Japan) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/Music (Japan) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Music (Europe, Australia, New Zealand) (SC-3000) (Program).zip</path>
+		<name>Music (Europe, Australia, New Zealand) (SC-3000) (Program)</name>
+		<image>./media/images/Music (Europe, Australia, New Zealand) (SC-3000) (Program).png</image>
+		<video>./media/videos/Music (Europe, Australia, New Zealand) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/Music (Europe, Australia, New Zealand) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./N-Sub (Taiwan).zip</path>
+		<name>N-Sub (Taiwan)</name>
+		<image>./media/images/N-Sub (Taiwan).png</image>
+		<video>./media/videos/N-Sub (Taiwan).mp4</video>
+		<marquee>./media/wheel/N-Sub (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./N-Sub (Japan, Europe, Australia, New Zealand, Taiwan).zip</path>
+		<name>N-Sub (Japan, Europe, Australia, New Zealand, Taiwan)</name>
+		<image>./media/images/N-Sub (Japan, Europe, Australia, New Zealand, Taiwan).png</image>
+		<video>./media/videos/N-Sub (Japan, Europe, Australia, New Zealand, Taiwan).mp4</video>
+		<marquee>./media/wheel/N-Sub (Japan, Europe, Australia, New Zealand, Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./N-Sub (Japan) (Alt 1).zip</path>
+		<name>N-Sub (Japan) (Alt 1)</name>
+		<image>./media/images/N-Sub (Japan) (Alt 1).png</image>
+		<video>./media/videos/N-Sub (Japan) (Alt 1).mp4</video>
+		<marquee>./media/wheel/N-Sub (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Nihonshi Nenpyou (Japan) (SC-3000) (Program).zip</path>
+		<name>Nihonshi Nenpyou (Japan) (SC-3000) (Program)</name>
+		<image>./media/images/Nihonshi Nenpyou (Japan) (SC-3000) (Program).png</image>
+		<video>./media/videos/Nihonshi Nenpyou (Japan) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/Nihonshi Nenpyou (Japan) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Ninja Princess (Japan, Australia).zip</path>
+		<name>Ninja Princess (Japan, Australia)</name>
+		<image>./media/images/Ninja Princess (Japan, Australia).png</image>
+		<video>./media/videos/Ninja Princess (Japan, Australia).mp4</video>
+		<marquee>./media/wheel/Ninja Princess (Japan, Australia).png</marquee>
+	</game>
+	<game>
+		<path>./Ninja Princess (Taiwan).zip</path>
+		<name>Ninja Princess (Taiwan)</name>
+		<image>./media/images/Ninja Princess (Taiwan).png</image>
+		<video>./media/videos/Ninja Princess (Taiwan).mp4</video>
+		<marquee>./media/wheel/Ninja Princess (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Okamoto Ayako no Match Play Golf (Taiwan) (Rev 1) (Othello Multivision).zip</path>
+		<name>Okamoto Ayako no Match Play Golf (Taiwan) (Rev 1) (Othello Multivision)</name>
+		<image>./media/images/Okamoto Ayako no Match Play Golf (Taiwan) (Rev 1) (Othello Multivision).png</image>
+		<video>./media/videos/Okamoto Ayako no Match Play Golf (Taiwan) (Rev 1) (Othello Multivision).mp4</video>
+		<marquee>./media/wheel/Okamoto Ayako no Match Play Golf (Taiwan) (Rev 1) (Othello Multivision).png</marquee>
+	</game>
+	<game>
+		<path>./Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision).zip</path>
+		<name>Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision)</name>
+		<image>./media/images/Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision).png</image>
+		<video>./media/videos/Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision).mp4</video>
+		<marquee>./media/wheel/Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision).png</marquee>
+	</game>
+	<game>
+		<path>./Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision).zip</path>
+		<name>Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision)</name>
+		<image>./media/images/Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision).png</image>
+		<video>./media/videos/Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision).mp4</video>
+		<marquee>./media/wheel/Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision).png</marquee>
+	</game>
+	<game>
+		<path>./Orguss (Japan, Europe, Australia, New Zealand, Taiwan).zip</path>
+		<name>Orguss (Japan, Europe, Australia, New Zealand, Taiwan)</name>
+		<image>./media/images/Orguss (Japan, Europe, Australia, New Zealand, Taiwan).png</image>
+		<video>./media/videos/Orguss (Japan, Europe, Australia, New Zealand, Taiwan).mp4</video>
+		<marquee>./media/wheel/Orguss (Japan, Europe, Australia, New Zealand, Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Othello (Japan).zip</path>
+		<name>Othello (Japan)</name>
+		<image>./media/images/Othello (Japan).png</image>
+		<video>./media/videos/Othello (Japan).mp4</video>
+		<marquee>./media/wheel/Othello (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Othello (Taiwan).zip</path>
+		<name>Othello (Taiwan)</name>
+		<image>./media/images/Othello (Taiwan).png</image>
+		<video>./media/videos/Othello (Taiwan).mp4</video>
+		<marquee>./media/wheel/Othello (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Pacar (Taiwan).zip</path>
+		<name>Pacar (Taiwan)</name>
+		<image>./media/images/Pacar (Taiwan).png</image>
+		<video>./media/videos/Pacar (Taiwan).mp4</video>
+		<marquee>./media/wheel/Pacar (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Pacar (Japan, Europe, Australia, New Zealand).zip</path>
+		<name>Pacar (Japan, Europe, Australia, New Zealand)</name>
+		<image>./media/images/Pacar (Japan, Europe, Australia, New Zealand).png</image>
+		<video>./media/videos/Pacar (Japan, Europe, Australia, New Zealand).mp4</video>
+		<marquee>./media/wheel/Pacar (Japan, Europe, Australia, New Zealand).png</marquee>
+	</game>
+	<game>
+		<path>./Pacar (Japan) (Alt 1).zip</path>
+		<name>Pacar (Japan) (Alt 1)</name>
+		<image>./media/images/Pacar (Japan) (Alt 1).png</image>
+		<video>./media/videos/Pacar (Japan) (Alt 1).mp4</video>
+		<marquee>./media/wheel/Pacar (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Pachinko (Japan).zip</path>
+		<name>Pachinko (Japan)</name>
+		<image>./media/images/Pachinko (Japan).png</image>
+		<video>./media/videos/Pachinko (Japan).mp4</video>
+		<marquee>./media/wheel/Pachinko (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Pachinko II (Taiwan).zip</path>
+		<name>Pachinko II (Taiwan)</name>
+		<image>./media/images/Pachinko II (Taiwan).png</image>
+		<video>./media/videos/Pachinko II (Taiwan).mp4</video>
+		<marquee>./media/wheel/Pachinko II (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Pachinko II (Japan).zip</path>
+		<name>Pachinko II (Japan)</name>
+		<image>./media/images/Pachinko II (Japan).png</image>
+		<video>./media/videos/Pachinko II (Japan).mp4</video>
+		<marquee>./media/wheel/Pachinko II (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Ping Pong (Taiwan).zip</path>
+		<name>Ping Pong (Taiwan)</name>
+		<image>./media/images/Ping Pong (Taiwan).png</image>
+		<video>./media/videos/Ping Pong (Taiwan).mp4</video>
+		<marquee>./media/wheel/Ping Pong (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Pippols (Taiwan).zip</path>
+		<name>Pippols (Taiwan)</name>
+		<image>./media/images/Pippols (Taiwan).png</image>
+		<video>./media/videos/Pippols (Taiwan).mp4</video>
+		<marquee>./media/wheel/Pippols (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Pitfall II (Taiwan) (Chinese Logo).zip</path>
+		<name>Pitfall II (Taiwan) (Chinese Logo)</name>
+		<image>./media/images/Pitfall II (Taiwan) (Chinese Logo).png</image>
+		<video>./media/videos/Pitfall II (Taiwan) (Chinese Logo).mp4</video>
+		<marquee>./media/wheel/Pitfall II (Taiwan) (Chinese Logo).png</marquee>
+	</game>
+	<game>
+		<path>./Pitfall II (Taiwan) (English Logo).zip</path>
+		<name>Pitfall II (Taiwan) (English Logo)</name>
+		<image>./media/images/Pitfall II (Taiwan) (English Logo).png</image>
+		<video>./media/videos/Pitfall II (Taiwan) (English Logo).mp4</video>
+		<marquee>./media/wheel/Pitfall II (Taiwan) (English Logo).png</marquee>
+	</game>
+	<game>
+		<path>./Pitfall II - The Lost Caverns (Japan) (Rev 1).zip</path>
+		<name>Pitfall II - The Lost Caverns (Japan) (Rev 1)</name>
+		<image>./media/images/Pitfall II - The Lost Caverns (Japan) (Rev 1).png</image>
+		<video>./media/videos/Pitfall II - The Lost Caverns (Japan) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Pitfall II - The Lost Caverns (Japan) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Pitfall II - The Lost Caverns (Japan).zip</path>
+		<name>Pitfall II - The Lost Caverns (Japan)</name>
+		<image>./media/images/Pitfall II - The Lost Caverns (Japan).png</image>
+		<video>./media/videos/Pitfall II - The Lost Caverns (Japan).mp4</video>
+		<marquee>./media/wheel/Pitfall II - The Lost Caverns (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Pop Flamer (Japan, Europe, Australia, New Zealand).zip</path>
+		<name>Pop Flamer (Japan, Europe, Australia, New Zealand)</name>
+		<image>./media/images/Pop Flamer (Japan, Europe, Australia, New Zealand).png</image>
+		<video>./media/videos/Pop Flamer (Japan, Europe, Australia, New Zealand).mp4</video>
+		<marquee>./media/wheel/Pop Flamer (Japan, Europe, Australia, New Zealand).png</marquee>
+	</game>
+	<game>
+		<path>./Pop Flamer (Taiwan).zip</path>
+		<name>Pop Flamer (Taiwan)</name>
+		<image>./media/images/Pop Flamer (Taiwan).png</image>
+		<video>./media/videos/Pop Flamer (Taiwan).mp4</video>
+		<marquee>./media/wheel/Pop Flamer (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Poseidon Wars + Space Panic + Rambo (France) (SF-7000).zip</path>
+		<name>Poseidon Wars + Space Panic + Rambo (France) (SF-7000)</name>
+		<image>./media/images/Poseidon Wars + Space Panic + Rambo (France) (SF-7000).png</image>
+		<video>./media/videos/Poseidon Wars + Space Panic + Rambo (France) (SF-7000).mp4</video>
+		<marquee>./media/wheel/Poseidon Wars + Space Panic + Rambo (France) (SF-7000).png</marquee>
+	</game>
+	<game>
+		<path>./Q-bert (Japan) (Othello Multivision).zip</path>
+		<name>Q-bert (Japan) (Othello Multivision)</name>
+		<image>./media/images/Q-bert (Japan) (Othello Multivision).png</image>
+		<video>./media/videos/Q-bert (Japan) (Othello Multivision).mp4</video>
+		<marquee>./media/wheel/Q-bert (Japan) (Othello Multivision).png</marquee>
+	</game>
+	<game>
+		<path>./Rally-X (Taiwan) (Chinese Logo).zip</path>
+		<name>Rally-X (Taiwan) (Chinese Logo)</name>
+		<image>./media/images/Rally-X (Taiwan) (Chinese Logo).png</image>
+		<video>./media/videos/Rally-X (Taiwan) (Chinese Logo).mp4</video>
+		<marquee>./media/wheel/Rally-X (Taiwan) (Chinese Logo).png</marquee>
+	</game>
+	<game>
+		<path>./Rally-X (Taiwan) (English Logo).zip</path>
+		<name>Rally-X (Taiwan) (English Logo)</name>
+		<image>./media/images/Rally-X (Taiwan) (English Logo).png</image>
+		<video>./media/videos/Rally-X (Taiwan) (English Logo).mp4</video>
+		<marquee>./media/wheel/Rally-X (Taiwan) (English Logo).png</marquee>
+	</game>
+	<game>
+		<path>./Road Fighter (Taiwan) (English Logo).zip</path>
+		<name>Road Fighter (Taiwan) (English Logo)</name>
+		<image>./media/images/Road Fighter (Taiwan) (English Logo).png</image>
+		<video>./media/videos/Road Fighter (Taiwan) (English Logo).mp4</video>
+		<marquee>./media/wheel/Road Fighter (Taiwan) (English Logo).png</marquee>
+	</game>
+	<game>
+		<path>./Road Fighter (Taiwan) (Chinese Logo).zip</path>
+		<name>Road Fighter (Taiwan) (Chinese Logo)</name>
+		<image>./media/images/Road Fighter (Taiwan) (Chinese Logo).png</image>
+		<video>./media/videos/Road Fighter (Taiwan) (Chinese Logo).mp4</video>
+		<marquee>./media/wheel/Road Fighter (Taiwan) (Chinese Logo).png</marquee>
+	</game>
+	<game>
+		<path>./Rock n' Bolt (Japan).zip</path>
+		<name>Rock n' Bolt (Japan)</name>
+		<image>./media/images/Rock n' Bolt (Japan).png</image>
+		<video>./media/videos/Rock n' Bolt (Japan).mp4</video>
+		<marquee>./media/wheel/Rock n' Bolt (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Rock n' Bolt (Taiwan) (Chinese Logo).zip</path>
+		<name>Rock n' Bolt (Taiwan) (Chinese Logo)</name>
+		<image>./media/images/Rock n' Bolt (Taiwan) (Chinese Logo).png</image>
+		<video>./media/videos/Rock n' Bolt (Taiwan) (Chinese Logo).mp4</video>
+		<marquee>./media/wheel/Rock n' Bolt (Taiwan) (Chinese Logo).png</marquee>
+	</game>
+	<game>
+		<path>./Rock n' Bolt (Taiwan) (English Logo).zip</path>
+		<name>Rock n' Bolt (Taiwan) (English Logo)</name>
+		<image>./media/images/Rock n' Bolt (Taiwan) (English Logo).png</image>
+		<video>./media/videos/Rock n' Bolt (Taiwan) (English Logo).mp4</video>
+		<marquee>./media/wheel/Rock n' Bolt (Taiwan) (English Logo).png</marquee>
+	</game>
+	<game>
+		<path>./Safari Hunting (Taiwan).zip</path>
+		<name>Safari Hunting (Taiwan)</name>
+		<image>./media/images/Safari Hunting (Taiwan).png</image>
+		<video>./media/videos/Safari Hunting (Taiwan).mp4</video>
+		<marquee>./media/wheel/Safari Hunting (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Safari Hunting (Japan, Europe, Australia, New Zealand).zip</path>
+		<name>Safari Hunting (Japan, Europe, Australia, New Zealand)</name>
+		<image>./media/images/Safari Hunting (Japan, Europe, Australia, New Zealand).png</image>
+		<video>./media/videos/Safari Hunting (Japan, Europe, Australia, New Zealand).mp4</video>
+		<marquee>./media/wheel/Safari Hunting (Japan, Europe, Australia, New Zealand).png</marquee>
+	</game>
+	<game>
+		<path>./Safari Race (Japan, Europe, Australia, New Zealand).zip</path>
+		<name>Safari Race (Japan, Europe, Australia, New Zealand)</name>
+		<image>./media/images/Safari Race (Japan, Europe, Australia, New Zealand).png</image>
+		<video>./media/videos/Safari Race (Japan, Europe, Australia, New Zealand).mp4</video>
+		<marquee>./media/wheel/Safari Race (Japan, Europe, Australia, New Zealand).png</marquee>
+	</game>
+	<game>
+		<path>./Safari Race (Taiwan).zip</path>
+		<name>Safari Race (Taiwan)</name>
+		<image>./media/images/Safari Race (Taiwan).png</image>
+		<video>./media/videos/Safari Race (Taiwan).mp4</video>
+		<marquee>./media/wheel/Safari Race (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./San-nin Mahjong (Japan) (Othello Multivision).zip</path>
+		<name>San-nin Mahjong (Japan) (Othello Multivision)</name>
+		<image>./media/images/San-nin Mahjong (Japan) (Othello Multivision).png</image>
+		<video>./media/videos/San-nin Mahjong (Japan) (Othello Multivision).mp4</video>
+		<marquee>./media/wheel/San-nin Mahjong (Japan) (Othello Multivision).png</marquee>
+	</game>
+	<game>
+		<path>./San-nin Mahjong (Taiwan) (Othello Multivision).zip</path>
+		<name>San-nin Mahjong (Taiwan) (Othello Multivision)</name>
+		<image>./media/images/San-nin Mahjong (Taiwan) (Othello Multivision).png</image>
+		<video>./media/videos/San-nin Mahjong (Taiwan) (Othello Multivision).mp4</video>
+		<marquee>./media/wheel/San-nin Mahjong (Taiwan) (Othello Multivision).png</marquee>
+	</game>
+	<game>
+		<path>./San-nin Mahjong (Japan) (Alt 1) (Othello Multivision).zip</path>
+		<name>San-nin Mahjong (Japan) (Alt 1) (Othello Multivision)</name>
+		<image>./media/images/San-nin Mahjong (Japan) (Alt 1) (Othello Multivision).png</image>
+		<video>./media/videos/San-nin Mahjong (Japan) (Alt 1) (Othello Multivision).mp4</video>
+		<marquee>./media/wheel/San-nin Mahjong (Japan) (Alt 1) (Othello Multivision).png</marquee>
+	</game>
+	<game>
+		<path>./Sega Flipper (Taiwan).zip</path>
+		<name>Sega Flipper (Taiwan)</name>
+		<image>./media/images/Sega Flipper (Taiwan).png</image>
+		<video>./media/videos/Sega Flipper (Taiwan).mp4</video>
+		<marquee>./media/wheel/Sega Flipper (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Sega Flipper (Japan) (Alt 1).zip</path>
+		<name>Sega Flipper (Japan) (Alt 1)</name>
+		<image>./media/images/Sega Flipper (Japan) (Alt 1).png</image>
+		<video>./media/videos/Sega Flipper (Japan) (Alt 1).mp4</video>
+		<marquee>./media/wheel/Sega Flipper (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Sega Flipper ~ Video Flipper (Japan, Europe, Australia, New Zealand).zip</path>
+		<name>Sega Flipper ~ Video Flipper (Japan, Europe, Australia, New Zealand)</name>
+		<image>./media/images/Sega Flipper ~ Video Flipper (Japan, Europe, Australia, New Zealand).png</image>
+		<video>./media/videos/Sega Flipper ~ Video Flipper (Japan, Europe, Australia, New Zealand).mp4</video>
+		<marquee>./media/wheel/Sega Flipper ~ Video Flipper (Japan, Europe, Australia, New Zealand).png</marquee>
+	</game>
+	<game>
+		<path>./Sega Logo (Japan) (SF-7000) (Program).zip</path>
+		<name>Sega Logo (Japan) (SF-7000) (Program)</name>
+		<image>./media/images/Sega Logo (Japan) (SF-7000) (Program).png</image>
+		<video>./media/videos/Sega Logo (Japan) (SF-7000) (Program).mp4</video>
+		<marquee>./media/wheel/Sega Logo (Japan) (SF-7000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Sega-Galaga (Taiwan).zip</path>
+		<name>Sega-Galaga (Taiwan)</name>
+		<image>./media/images/Sega-Galaga (Taiwan).png</image>
+		<video>./media/videos/Sega-Galaga (Taiwan).mp4</video>
+		<marquee>./media/wheel/Sega-Galaga (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Sega-Galaga (Japan).zip</path>
+		<name>Sega-Galaga (Japan)</name>
+		<image>./media/images/Sega-Galaga (Japan).png</image>
+		<video>./media/videos/Sega-Galaga (Japan).mp4</video>
+		<marquee>./media/wheel/Sega-Galaga (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Sega-Galaga (Japan, Australia).zip</path>
+		<name>Sega-Galaga (Japan, Australia)</name>
+		<image>./media/images/Sega-Galaga (Japan, Australia).png</image>
+		<video>./media/videos/Sega-Galaga (Japan, Australia).mp4</video>
+		<marquee>./media/wheel/Sega-Galaga (Japan, Australia).png</marquee>
+	</game>
+	<game>
+		<path>./Sekaishi Nenpyou (Japan) (SC-3000) (Program).zip</path>
+		<name>Sekaishi Nenpyou (Japan) (SC-3000) (Program)</name>
+		<image>./media/images/Sekaishi Nenpyou (Japan) (SC-3000) (Program).png</image>
+		<video>./media/videos/Sekaishi Nenpyou (Japan) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/Sekaishi Nenpyou (Japan) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Serizawa Hachidan no Tsumeshougi (Japan).zip</path>
+		<name>Serizawa Hachidan no Tsumeshougi (Japan)</name>
+		<image>./media/images/Serizawa Hachidan no Tsumeshougi (Japan).png</image>
+		<video>./media/videos/Serizawa Hachidan no Tsumeshougi (Japan).mp4</video>
+		<marquee>./media/wheel/Serizawa Hachidan no Tsumeshougi (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./SG-1000 M2 Test Cartridge (Japan).zip</path>
+		<name>SG-1000 M2 Test Cartridge (Japan)</name>
+		<image>./media/images/SG-1000 M2 Test Cartridge (Japan).png</image>
+		<video>./media/videos/SG-1000 M2 Test Cartridge (Japan).mp4</video>
+		<marquee>./media/wheel/SG-1000 M2 Test Cartridge (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Shinnyushain Tooru-kun (Japan).zip</path>
+		<name>Shinnyushain Tooru-kun (Japan)</name>
+		<image>./media/images/Shinnyushain Tooru-kun (Japan).png</image>
+		<video>./media/videos/Shinnyushain Tooru-kun (Japan).mp4</video>
+		<marquee>./media/wheel/Shinnyushain Tooru-kun (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Shinnyushain Tooru-kun (Taiwan).zip</path>
+		<name>Shinnyushain Tooru-kun (Taiwan)</name>
+		<image>./media/images/Shinnyushain Tooru-kun (Taiwan).png</image>
+		<video>./media/videos/Shinnyushain Tooru-kun (Taiwan).mp4</video>
+		<marquee>./media/wheel/Shinnyushain Tooru-kun (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Sindbad Mystery (Japan, Europe, Australia, New Zealand).zip</path>
+		<name>Sindbad Mystery (Japan, Europe, Australia, New Zealand)</name>
+		<image>./media/images/Sindbad Mystery (Japan, Europe, Australia, New Zealand).png</image>
+		<video>./media/videos/Sindbad Mystery (Japan, Europe, Australia, New Zealand).mp4</video>
+		<marquee>./media/wheel/Sindbad Mystery (Japan, Europe, Australia, New Zealand).png</marquee>
+	</game>
+	<game>
+		<path>./Sindbad Mystery (Taiwan).zip</path>
+		<name>Sindbad Mystery (Taiwan)</name>
+		<image>./media/images/Sindbad Mystery (Taiwan).png</image>
+		<video>./media/videos/Sindbad Mystery (Taiwan).mp4</video>
+		<marquee>./media/wheel/Sindbad Mystery (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Soukoban (Taiwan).zip</path>
+		<name>Soukoban (Taiwan)</name>
+		<image>./media/images/Soukoban (Taiwan).png</image>
+		<video>./media/videos/Soukoban (Taiwan).mp4</video>
+		<marquee>./media/wheel/Soukoban (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Soukoban (Japan, Australia).zip</path>
+		<name>Soukoban (Japan, Australia)</name>
+		<image>./media/images/Soukoban (Japan, Australia).png</image>
+		<video>./media/videos/Soukoban (Japan, Australia).mp4</video>
+		<marquee>./media/wheel/Soukoban (Japan, Australia).png</marquee>
+	</game>
+	<game>
+		<path>./Soukoban (Korea) (Unl).zip</path>
+		<name>Soukoban (Korea) (Unl)</name>
+		<image>./media/images/Soukoban (Korea) (Unl).png</image>
+		<video>./media/videos/Soukoban (Korea) (Unl).mp4</video>
+		<marquee>./media/wheel/Soukoban (Korea) (Unl).png</marquee>
+	</game>
+	<game>
+		<path>./Space Armor (Japan, Taiwan) (Rev 1) (Othello Multivision).zip</path>
+		<name>Space Armor (Japan, Taiwan) (Rev 1) (Othello Multivision)</name>
+		<image>./media/images/Space Armor (Japan, Taiwan) (Rev 1) (Othello Multivision).png</image>
+		<video>./media/videos/Space Armor (Japan, Taiwan) (Rev 1) (Othello Multivision).mp4</video>
+		<marquee>./media/wheel/Space Armor (Japan, Taiwan) (Rev 1) (Othello Multivision).png</marquee>
+	</game>
+	<game>
+		<path>./Space Armor (Japan) (Othello Multivision).zip</path>
+		<name>Space Armor (Japan) (Othello Multivision)</name>
+		<image>./media/images/Space Armor (Japan) (Othello Multivision).png</image>
+		<video>./media/videos/Space Armor (Japan) (Othello Multivision).mp4</video>
+		<marquee>./media/wheel/Space Armor (Japan) (Othello Multivision).png</marquee>
+	</game>
+	<game>
+		<path>./Space Armor (Japan) (Rev 2) (Othello Multivision).zip</path>
+		<name>Space Armor (Japan) (Rev 2) (Othello Multivision)</name>
+		<image>./media/images/Space Armor (Japan) (Rev 2) (Othello Multivision).png</image>
+		<video>./media/videos/Space Armor (Japan) (Rev 2) (Othello Multivision).mp4</video>
+		<marquee>./media/wheel/Space Armor (Japan) (Rev 2) (Othello Multivision).png</marquee>
+	</game>
+	<game>
+		<path>./Space Invaders (Taiwan).zip</path>
+		<name>Space Invaders (Taiwan)</name>
+		<image>./media/images/Space Invaders (Taiwan).png</image>
+		<video>./media/videos/Space Invaders (Taiwan).mp4</video>
+		<marquee>./media/wheel/Space Invaders (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Space Invaders (Japan).zip</path>
+		<name>Space Invaders (Japan)</name>
+		<image>./media/images/Space Invaders (Japan).png</image>
+		<video>./media/videos/Space Invaders (Japan).mp4</video>
+		<marquee>./media/wheel/Space Invaders (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Space Mountain (Japan) (Othello Multivision).zip</path>
+		<name>Space Mountain (Japan) (Othello Multivision)</name>
+		<image>./media/images/Space Mountain (Japan) (Othello Multivision).png</image>
+		<video>./media/videos/Space Mountain (Japan) (Othello Multivision).mp4</video>
+		<marquee>./media/wheel/Space Mountain (Japan) (Othello Multivision).png</marquee>
+	</game>
+	<game>
+		<path>./Space Slalom (Japan).zip</path>
+		<name>Space Slalom (Japan)</name>
+		<image>./media/images/Space Slalom (Japan).png</image>
+		<video>./media/videos/Space Slalom (Japan).mp4</video>
+		<marquee>./media/wheel/Space Slalom (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Star Force (Taiwan) (Alt 1).zip</path>
+		<name>Star Force (Taiwan) (Alt 1)</name>
+		<image>./media/images/Star Force (Taiwan) (Alt 1).png</image>
+		<video>./media/videos/Star Force (Taiwan) (Alt 1).mp4</video>
+		<marquee>./media/wheel/Star Force (Taiwan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Star Force (Japan, Australia).zip</path>
+		<name>Star Force (Japan, Australia)</name>
+		<image>./media/images/Star Force (Japan, Australia).png</image>
+		<video>./media/videos/Star Force (Japan, Australia).mp4</video>
+		<marquee>./media/wheel/Star Force (Japan, Australia).png</marquee>
+	</game>
+	<game>
+		<path>./Star Force (Taiwan).zip</path>
+		<name>Star Force (Taiwan)</name>
+		<image>./media/images/Star Force (Taiwan).png</image>
+		<video>./media/videos/Star Force (Taiwan).mp4</video>
+		<marquee>./media/wheel/Star Force (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Star Jacker (Taiwan) (Rev 1).zip</path>
+		<name>Star Jacker (Taiwan) (Rev 1)</name>
+		<image>./media/images/Star Jacker (Taiwan) (Rev 1).png</image>
+		<video>./media/videos/Star Jacker (Taiwan) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Star Jacker (Taiwan) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Star Jacker (Japan, Europe) (Rev 2).zip</path>
+		<name>Star Jacker (Japan, Europe) (Rev 2)</name>
+		<image>./media/images/Star Jacker (Japan, Europe) (Rev 2).png</image>
+		<video>./media/videos/Star Jacker (Japan, Europe) (Rev 2).mp4</video>
+		<marquee>./media/wheel/Star Jacker (Japan, Europe) (Rev 2).png</marquee>
+	</game>
+	<game>
+		<path>./Star Jacker (Japan, Europe, Australia, New Zealand) (Rev 1).zip</path>
+		<name>Star Jacker (Japan, Europe, Australia, New Zealand) (Rev 1)</name>
+		<image>./media/images/Star Jacker (Japan, Europe, Australia, New Zealand) (Rev 1).png</image>
+		<video>./media/videos/Star Jacker (Japan, Europe, Australia, New Zealand) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Star Jacker (Japan, Europe, Australia, New Zealand) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Star Jacker (Japan).zip</path>
+		<name>Star Jacker (Japan)</name>
+		<image>./media/images/Star Jacker (Japan).png</image>
+		<video>./media/videos/Star Jacker (Japan).mp4</video>
+		<marquee>./media/wheel/Star Jacker (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Star Soldier (Taiwan).zip</path>
+		<name>Star Soldier (Taiwan)</name>
+		<image>./media/images/Star Soldier (Taiwan).png</image>
+		<video>./media/videos/Star Soldier (Taiwan).mp4</video>
+		<marquee>./media/wheel/Star Soldier (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Super Tank (Japan).zip</path>
+		<name>Super Tank (Japan)</name>
+		<image>./media/images/Super Tank (Japan).png</image>
+		<video>./media/videos/Super Tank (Japan).mp4</video>
+		<marquee>./media/wheel/Super Tank (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Super Tank (Taiwan).zip</path>
+		<name>Super Tank (Taiwan)</name>
+		<image>./media/images/Super Tank (Taiwan).png</image>
+		<video>./media/videos/Super Tank (Taiwan).mp4</video>
+		<marquee>./media/wheel/Super Tank (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Super Tank (Korea) (Unl).zip</path>
+		<name>Super Tank (Korea) (Unl)</name>
+		<image>./media/images/Super Tank (Korea) (Unl).png</image>
+		<video>./media/videos/Super Tank (Korea) (Unl).mp4</video>
+		<marquee>./media/wheel/Super Tank (Korea) (Unl).png</marquee>
+	</game>
+	<game>
+		<path>./Tank Battalion (Taiwan).zip</path>
+		<name>Tank Battalion (Taiwan)</name>
+		<image>./media/images/Tank Battalion (Taiwan).png</image>
+		<video>./media/videos/Tank Battalion (Taiwan).mp4</video>
+		<marquee>./media/wheel/Tank Battalion (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Tanoshii Sansuu - Shougaku 4-Nen Ge (Japan) (SC-3000) (Program).zip</path>
+		<name>Tanoshii Sansuu - Shougaku 4-Nen Ge (Japan) (SC-3000) (Program)</name>
+		<image>./media/images/Tanoshii Sansuu - Shougaku 4-Nen Ge (Japan) (SC-3000) (Program).png</image>
+		<video>./media/videos/Tanoshii Sansuu - Shougaku 4-Nen Ge (Japan) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/Tanoshii Sansuu - Shougaku 4-Nen Ge (Japan) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (Alt 1) (SC-3000) (Program).zip</path>
+		<name>Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (Alt 1) (SC-3000) (Program)</name>
+		<image>./media/images/Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (Alt 1) (SC-3000) (Program).png</image>
+		<video>./media/videos/Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (Alt 1) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (Alt 1) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program).zip</path>
+		<name>Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program)</name>
+		<image>./media/images/Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program).png</image>
+		<video>./media/videos/Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Tanoshii Sansuu - Shougaku 5-Nen Ge (Japan) (SC-3000) (Program).zip</path>
+		<name>Tanoshii Sansuu - Shougaku 5-Nen Ge (Japan) (SC-3000) (Program)</name>
+		<image>./media/images/Tanoshii Sansuu - Shougaku 5-Nen Ge (Japan) (SC-3000) (Program).png</image>
+		<video>./media/videos/Tanoshii Sansuu - Shougaku 5-Nen Ge (Japan) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/Tanoshii Sansuu - Shougaku 5-Nen Ge (Japan) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Tanoshii Sansuu - Shougaku 5-Nen Jou (Japan) (SC-3000) (Program).zip</path>
+		<name>Tanoshii Sansuu - Shougaku 5-Nen Jou (Japan) (SC-3000) (Program)</name>
+		<image>./media/images/Tanoshii Sansuu - Shougaku 5-Nen Jou (Japan) (SC-3000) (Program).png</image>
+		<video>./media/videos/Tanoshii Sansuu - Shougaku 5-Nen Jou (Japan) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/Tanoshii Sansuu - Shougaku 5-Nen Jou (Japan) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Tanoshii Sansuu - Shougaku 6-Nen Ge (Japan) (SC-3000) (Program).zip</path>
+		<name>Tanoshii Sansuu - Shougaku 6-Nen Ge (Japan) (SC-3000) (Program)</name>
+		<image>./media/images/Tanoshii Sansuu - Shougaku 6-Nen Ge (Japan) (SC-3000) (Program).png</image>
+		<video>./media/videos/Tanoshii Sansuu - Shougaku 6-Nen Ge (Japan) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/Tanoshii Sansuu - Shougaku 6-Nen Ge (Japan) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Tanoshii Sansuu - Shougaku 6-Nen Jou (Japan) (SC-3000) (Program).zip</path>
+		<name>Tanoshii Sansuu - Shougaku 6-Nen Jou (Japan) (SC-3000) (Program)</name>
+		<image>./media/images/Tanoshii Sansuu - Shougaku 6-Nen Jou (Japan) (SC-3000) (Program).png</image>
+		<video>./media/videos/Tanoshii Sansuu - Shougaku 6-Nen Jou (Japan) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/Tanoshii Sansuu - Shougaku 6-Nen Jou (Japan) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Terebi Oekaki (Japan, Taiwan) (Program).zip</path>
+		<name>Terebi Oekaki (Japan, Taiwan) (Program)</name>
+		<image>./media/images/Terebi Oekaki (Japan, Taiwan) (Program).png</image>
+		<video>./media/videos/Terebi Oekaki (Japan, Taiwan) (Program).mp4</video>
+		<marquee>./media/wheel/Terebi Oekaki (Japan, Taiwan) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./TwinBee (Taiwan).zip</path>
+		<name>TwinBee (Taiwan)</name>
+		<image>./media/images/TwinBee (Taiwan).png</image>
+		<video>./media/videos/TwinBee (Taiwan).mp4</video>
+		<marquee>./media/wheel/TwinBee (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Uranai Angel Cutie (Japan) (SC-3000) (Program).zip</path>
+		<name>Uranai Angel Cutie (Japan) (SC-3000) (Program)</name>
+		<image>./media/images/Uranai Angel Cutie (Japan) (SC-3000) (Program).png</image>
+		<video>./media/videos/Uranai Angel Cutie (Japan) (SC-3000) (Program).mp4</video>
+		<marquee>./media/wheel/Uranai Angel Cutie (Japan) (SC-3000) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Wonder Boy (Japan).zip</path>
+		<name>Wonder Boy (Japan)</name>
+		<image>./media/images/Wonder Boy (Japan).png</image>
+		<video>./media/videos/Wonder Boy (Japan).mp4</video>
+		<marquee>./media/wheel/Wonder Boy (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Wonder Boy (Japan) (Rev 1).zip</path>
+		<name>Wonder Boy (Japan) (Rev 1)</name>
+		<image>./media/images/Wonder Boy (Japan) (Rev 1).png</image>
+		<video>./media/videos/Wonder Boy (Japan) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Wonder Boy (Japan) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Wonder Boy (Taiwan) (Rev 1).zip</path>
+		<name>Wonder Boy (Taiwan) (Rev 1)</name>
+		<image>./media/images/Wonder Boy (Taiwan) (Rev 1).png</image>
+		<video>./media/videos/Wonder Boy (Taiwan) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Wonder Boy (Taiwan) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Yamato (Japan, Europe, Australia, New Zealand).zip</path>
+		<name>Yamato (Japan, Europe, Australia, New Zealand)</name>
+		<image>./media/images/Yamato (Japan, Europe, Australia, New Zealand).png</image>
+		<video>./media/videos/Yamato (Japan, Europe, Australia, New Zealand).mp4</video>
+		<marquee>./media/wheel/Yamato (Japan, Europe, Australia, New Zealand).png</marquee>
+	</game>
+	<game>
+		<path>./Yamato (Japan) (Alt 1).zip</path>
+		<name>Yamato (Japan) (Alt 1)</name>
+		<image>./media/images/Yamato (Japan) (Alt 1).png</image>
+		<video>./media/videos/Yamato (Japan) (Alt 1).mp4</video>
+		<marquee>./media/wheel/Yamato (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Yamato (Taiwan).zip</path>
+		<name>Yamato (Taiwan)</name>
+		<image>./media/images/Yamato (Taiwan).png</image>
+		<video>./media/videos/Yamato (Taiwan).mp4</video>
+		<marquee>./media/wheel/Yamato (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Yie Ar Kung-Fu (Taiwan).zip</path>
+		<name>Yie Ar Kung-Fu (Taiwan)</name>
+		<image>./media/images/Yie Ar Kung-Fu (Taiwan).png</image>
+		<video>./media/videos/Yie Ar Kung-Fu (Taiwan).mp4</video>
+		<marquee>./media/wheel/Yie Ar Kung-Fu (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Yie Ar Kung-Fu II (Taiwan).zip</path>
+		<name>Yie Ar Kung-Fu II (Taiwan)</name>
+		<image>./media/images/Yie Ar Kung-Fu II (Taiwan).png</image>
+		<video>./media/videos/Yie Ar Kung-Fu II (Taiwan).mp4</video>
+		<marquee>./media/wheel/Yie Ar Kung-Fu II (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Zaxxon (Japan, Taiwan).zip</path>
+		<name>Zaxxon (Japan, Taiwan)</name>
+		<image>./media/images/Zaxxon (Japan, Taiwan).png</image>
+		<video>./media/videos/Zaxxon (Japan, Taiwan).mp4</video>
+		<marquee>./media/wheel/Zaxxon (Japan, Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Zaxxon (Taiwan).zip</path>
+		<name>Zaxxon (Taiwan)</name>
+		<image>./media/images/Zaxxon (Taiwan).png</image>
+		<video>./media/videos/Zaxxon (Taiwan).mp4</video>
+		<marquee>./media/wheel/Zaxxon (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Zippy Race (Japan, Australia).zip</path>
+		<name>Zippy Race (Japan, Australia)</name>
+		<image>./media/images/Zippy Race (Japan, Australia).png</image>
+		<video>./media/videos/Zippy Race (Japan, Australia).mp4</video>
+		<marquee>./media/wheel/Zippy Race (Japan, Australia).png</marquee>
+	</game>
+	<game>
+		<path>./Zippy Race (Taiwan).zip</path>
+		<name>Zippy Race (Taiwan)</name>
+		<image>./media/images/Zippy Race (Taiwan).png</image>
+		<video>./media/videos/Zippy Race (Taiwan).mp4</video>
+		<marquee>./media/wheel/Zippy Race (Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Zoom 909 (Japan, Taiwan).zip</path>
+		<name>Zoom 909 (Japan, Taiwan)</name>
+		<image>./media/images/Zoom 909 (Japan, Taiwan).png</image>
+		<video>./media/videos/Zoom 909 (Japan, Taiwan).mp4</video>
+		<marquee>./media/wheel/Zoom 909 (Japan, Taiwan).png</marquee>
+	</game>
+	<game>
+		<path>./Zoom 909 (Taiwan).zip</path>
+		<name>Zoom 909 (Taiwan)</name>
+		<image>./media/images/Zoom 909 (Taiwan).png</image>
+		<video>./media/videos/Zoom 909 (Taiwan).mp4</video>
+		<marquee>./media/wheel/Zoom 909 (Taiwan).png</marquee>
+	</game>
+</gameList>

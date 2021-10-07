@@ -1,0 +1,3860 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+	<game>
+		<path>./20th Century Video Almanac (USA).chd</path>
+		<name>20th Century Video Almanac (USA)</name>
+		<image>./media/images/20th Century Video Almanac (USA).png</image>
+		<video>./media/videos/20th Century Video Almanac (USA).mp4</video>
+		<marquee>./media/wheel/20th Century Video Almanac (USA).png</marquee>
+	</game>
+	<game>
+		<path>./3D Atlas (Europe).chd</path>
+		<name>3D Atlas (Europe)</name>
+		<image>./media/images/3D Atlas (Europe).png</image>
+		<video>./media/videos/3D Atlas (Europe).mp4</video>
+		<marquee>./media/wheel/3D Atlas (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./3D Atlas (USA).chd</path>
+		<name>3D Atlas (USA)</name>
+		<image>./media/images/3D Atlas (USA).png</image>
+		<video>./media/videos/3D Atlas (USA).mp4</video>
+		<marquee>./media/wheel/3D Atlas (USA).png</marquee>
+	</game>
+	<game>
+		<path>./3DO Game Guru (USA, Europe).chd</path>
+		<name>3DO Game Guru (USA, Europe)</name>
+		<image>./media/images/3DO Game Guru (USA, Europe).png</image>
+		<video>./media/videos/3DO Game Guru (USA, Europe).mp4</video>
+		<marquee>./media/wheel/3DO Game Guru (USA, Europe).png</marquee>
+	</game>
+	<game>
+		<path>./3DO Interactive Sampler CD 2, The (USA).chd</path>
+		<name>3DO Interactive Sampler CD 2, The (USA)</name>
+		<image>./media/images/3DO Interactive Sampler CD 2, The (USA).png</image>
+		<video>./media/videos/3DO Interactive Sampler CD 2, The (USA).mp4</video>
+		<marquee>./media/wheel/3DO Interactive Sampler CD 2, The (USA).png</marquee>
+	</game>
+	<game>
+		<path>./3DO Interactive Sampler CD 3, The (USA).chd</path>
+		<name>3DO Interactive Sampler CD 3, The (USA)</name>
+		<image>./media/images/3DO Interactive Sampler CD 3, The (USA).png</image>
+		<video>./media/videos/3DO Interactive Sampler CD 3, The (USA).mp4</video>
+		<marquee>./media/wheel/3DO Interactive Sampler CD 3, The (USA).png</marquee>
+	</game>
+	<game>
+		<path>./3DO Interactive Sampler CD 4, The (USA).chd</path>
+		<name>3DO Interactive Sampler CD 4, The (USA)</name>
+		<image>./media/images/3DO Interactive Sampler CD 4, The (USA).png</image>
+		<video>./media/videos/3DO Interactive Sampler CD 4, The (USA).mp4</video>
+		<marquee>./media/wheel/3DO Interactive Sampler CD 4, The (USA).png</marquee>
+	</game>
+	<game>
+		<path>./3DO Interactive Sampler CD, The (USA).chd</path>
+		<name>3DO Interactive Sampler CD, The (USA)</name>
+		<image>./media/images/3DO Interactive Sampler CD, The (USA).png</image>
+		<video>./media/videos/3DO Interactive Sampler CD, The (USA).mp4</video>
+		<marquee>./media/wheel/3DO Interactive Sampler CD, The (USA).png</marquee>
+	</game>
+	<game>
+		<path>./3DO Interactive Sampler, The (Europe).chd</path>
+		<name>3DO Interactive Sampler, The (Europe)</name>
+		<image>./media/images/3DO Interactive Sampler, The (Europe).png</image>
+		<video>./media/videos/3DO Interactive Sampler, The (Europe).mp4</video>
+		<marquee>./media/wheel/3DO Interactive Sampler, The (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./3DO Multi Game Sampler Number 3, The (Europe).chd</path>
+		<name>3DO Multi Game Sampler Number 3, The (Europe)</name>
+		<image>./media/images/3DO Multi Game Sampler Number 3, The (Europe).png</image>
+		<video>./media/videos/3DO Multi Game Sampler Number 3, The (Europe).mp4</video>
+		<marquee>./media/wheel/3DO Multi Game Sampler Number 3, The (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./AI Shougi (Japan).chd</path>
+		<name>AI Shougi (Japan)</name>
+		<image>./media/images/AI Shougi (Japan).png</image>
+		<video>./media/videos/AI Shougi (Japan).mp4</video>
+		<marquee>./media/wheel/AI Shougi (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Alone in the Dark (Europe) (En,Fr).chd</path>
+		<name>Alone in the Dark (Europe) (En,Fr)</name>
+		<image>./media/images/Alone in the Dark (Europe) (En,Fr).png</image>
+		<video>./media/videos/Alone in the Dark (Europe) (En,Fr).mp4</video>
+		<marquee>./media/wheel/Alone in the Dark (Europe) (En,Fr).png</marquee>
+	</game>
+	<game>
+		<path>./Alone in the Dark (Europe) (En,Fr) (NTSC Version).chd</path>
+		<name>Alone in the Dark (Europe) (En,Fr) (NTSC Version)</name>
+		<image>./media/images/Alone in the Dark (Europe) (En,Fr) (NTSC Version).png</image>
+		<video>./media/videos/Alone in the Dark (Europe) (En,Fr) (NTSC Version).mp4</video>
+		<marquee>./media/wheel/Alone in the Dark (Europe) (En,Fr) (NTSC Version).png</marquee>
+	</game>
+	<game>
+		<path>./Alone in the Dark (Japan).chd</path>
+		<name>Alone in the Dark (Japan)</name>
+		<image>./media/images/Alone in the Dark (Japan).png</image>
+		<video>./media/videos/Alone in the Dark (Japan).mp4</video>
+		<marquee>./media/wheel/Alone in the Dark (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Alone in the Dark (USA).chd</path>
+		<name>Alone in the Dark (USA)</name>
+		<image>./media/images/Alone in the Dark (USA).png</image>
+		<video>./media/videos/Alone in the Dark (USA).mp4</video>
+		<marquee>./media/wheel/Alone in the Dark (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Alone in the Dark (USA) (Demo).chd</path>
+		<name>Alone in the Dark (USA) (Demo)</name>
+		<image>./media/images/Alone in the Dark (USA) (Demo).png</image>
+		<video>./media/videos/Alone in the Dark (USA) (Demo).mp4</video>
+		<marquee>./media/wheel/Alone in the Dark (USA) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Alone in the Dark 2 (France).chd</path>
+		<name>Alone in the Dark 2 (France)</name>
+		<image>./media/images/Alone in the Dark 2 (France).png</image>
+		<video>./media/videos/Alone in the Dark 2 (France).mp4</video>
+		<marquee>./media/wheel/Alone in the Dark 2 (France).png</marquee>
+	</game>
+	<game>
+		<path>./Alone in the Dark 2 (Japan).chd</path>
+		<name>Alone in the Dark 2 (Japan)</name>
+		<image>./media/images/Alone in the Dark 2 (Japan).png</image>
+		<video>./media/videos/Alone in the Dark 2 (Japan).mp4</video>
+		<marquee>./media/wheel/Alone in the Dark 2 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Alone in the Dark 2 (USA).chd</path>
+		<name>Alone in the Dark 2 (USA)</name>
+		<image>./media/images/Alone in the Dark 2 (USA).png</image>
+		<video>./media/videos/Alone in the Dark 2 (USA).mp4</video>
+		<marquee>./media/wheel/Alone in the Dark 2 (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Anno Mitsumasa Pepperon-mura no Shiki (Japan).chd</path>
+		<name>Anno Mitsumasa Pepperon-mura no Shiki (Japan)</name>
+		<image>./media/images/Anno Mitsumasa Pepperon-mura no Shiki (Japan).png</image>
+		<video>./media/videos/Anno Mitsumasa Pepperon-mura no Shiki (Japan).mp4</video>
+		<marquee>./media/wheel/Anno Mitsumasa Pepperon-mura no Shiki (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Aqua World - Umi Monogatari (Japan).chd</path>
+		<name>Aqua World - Umi Monogatari (Japan)</name>
+		<image>./media/images/Aqua World - Umi Monogatari (Japan).png</image>
+		<video>./media/videos/Aqua World - Umi Monogatari (Japan).mp4</video>
+		<marquee>./media/wheel/Aqua World - Umi Monogatari (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./AutoBahn Tokio (Japan).chd</path>
+		<name>AutoBahn Tokio (Japan)</name>
+		<image>./media/images/AutoBahn Tokio (Japan).png</image>
+		<video>./media/videos/AutoBahn Tokio (Japan).mp4</video>
+		<marquee>./media/wheel/AutoBahn Tokio (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./AutoBahn Tokio (Japan) (Demo).chd</path>
+		<name>AutoBahn Tokio (Japan) (Demo)</name>
+		<image>./media/images/AutoBahn Tokio (Japan) (Demo).png</image>
+		<video>./media/videos/AutoBahn Tokio (Japan) (Demo).mp4</video>
+		<marquee>./media/wheel/AutoBahn Tokio (Japan) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./BC Racers (USA).chd</path>
+		<name>BC Racers (USA)</name>
+		<image>./media/images/BC Racers (USA).png</image>
+		<video>./media/videos/BC Racers (USA).mp4</video>
+		<marquee>./media/wheel/BC Racers (USA).png</marquee>
+	</game>
+	<game>
+		<path>./BFS - Blue Forest Story (Japan).chd</path>
+		<name>BFS - Blue Forest Story (Japan)</name>
+		<image>./media/images/BFS - Blue Forest Story (Japan).png</image>
+		<video>./media/videos/BFS - Blue Forest Story (Japan).mp4</video>
+		<marquee>./media/wheel/BFS - Blue Forest Story (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./BFS - Blue Forest Story (Japan) (Alt).chd</path>
+		<name>BFS - Blue Forest Story (Japan) (Alt)</name>
+		<image>./media/images/BFS - Blue Forest Story (Japan) (Alt).png</image>
+		<video>./media/videos/BFS - Blue Forest Story (Japan) (Alt).mp4</video>
+		<marquee>./media/wheel/BFS - Blue Forest Story (Japan) (Alt).png</marquee>
+	</game>
+	<game>
+		<path>./Bakushou!! All Yoshimoto Quiz-ou Kettei-sen (Japan).chd</path>
+		<name>Bakushou!! All Yoshimoto Quiz-ou Kettei-sen (Japan)</name>
+		<image>./media/images/Bakushou!! All Yoshimoto Quiz-ou Kettei-sen (Japan).png</image>
+		<video>./media/videos/Bakushou!! All Yoshimoto Quiz-ou Kettei-sen (Japan).mp4</video>
+		<marquee>./media/wheel/Bakushou!! All Yoshimoto Quiz-ou Kettei-sen (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Ballz - The Director's Cut (World) (En,Ja).chd</path>
+		<name>Ballz - The Director's Cut (World) (En,Ja)</name>
+		<image>./media/images/Ballz - The Director's Cut (World) (En,Ja).png</image>
+		<video>./media/videos/Ballz - The Director's Cut (World) (En,Ja).mp4</video>
+		<marquee>./media/wheel/Ballz - The Director's Cut (World) (En,Ja).png</marquee>
+	</game>
+	<game>
+		<path>./Battle Chess (Europe).chd</path>
+		<name>Battle Chess (Europe)</name>
+		<image>./media/images/Battle Chess (Europe).png</image>
+		<video>./media/videos/Battle Chess (Europe).mp4</video>
+		<marquee>./media/wheel/Battle Chess (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Battle Chess (Japan).chd</path>
+		<name>Battle Chess (Japan)</name>
+		<image>./media/images/Battle Chess (Japan).png</image>
+		<video>./media/videos/Battle Chess (Japan).mp4</video>
+		<marquee>./media/wheel/Battle Chess (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Battle Chess (USA).chd</path>
+		<name>Battle Chess (USA)</name>
+		<image>./media/images/Battle Chess (USA).png</image>
+		<video>./media/videos/Battle Chess (USA).mp4</video>
+		<marquee>./media/wheel/Battle Chess (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Battle Pinball (Japan).chd</path>
+		<name>Battle Pinball (Japan)</name>
+		<image>./media/images/Battle Pinball (Japan).png</image>
+		<video>./media/videos/Battle Pinball (Japan).mp4</video>
+		<marquee>./media/wheel/Battle Pinball (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./BattleSport (Europe).chd</path>
+		<name>BattleSport (Europe)</name>
+		<image>./media/images/BattleSport (Europe).png</image>
+		<video>./media/videos/BattleSport (Europe).mp4</video>
+		<marquee>./media/wheel/BattleSport (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./BattleSport (USA).chd</path>
+		<name>BattleSport (USA)</name>
+		<image>./media/images/BattleSport (USA).png</image>
+		<video>./media/videos/BattleSport (USA).mp4</video>
+		<marquee>./media/wheel/BattleSport (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Belzerion (Japan).chd</path>
+		<name>Belzerion (Japan)</name>
+		<image>./media/images/Belzerion (Japan).png</image>
+		<video>./media/videos/Belzerion (Japan).mp4</video>
+		<marquee>./media/wheel/Belzerion (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Blade Force (Europe).chd</path>
+		<name>Blade Force (Europe)</name>
+		<image>./media/images/Blade Force (Europe).png</image>
+		<video>./media/videos/Blade Force (Europe).mp4</video>
+		<marquee>./media/wheel/Blade Force (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Blade Force (Japan).chd</path>
+		<name>Blade Force (Japan)</name>
+		<image>./media/images/Blade Force (Japan).png</image>
+		<video>./media/videos/Blade Force (Japan).mp4</video>
+		<marquee>./media/wheel/Blade Force (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Blade Force (USA).chd</path>
+		<name>Blade Force (USA)</name>
+		<image>./media/images/Blade Force (USA).png</image>
+		<video>./media/videos/Blade Force (USA).mp4</video>
+		<marquee>./media/wheel/Blade Force (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Blonde Justice (USA).chd</path>
+		<name>Blonde Justice (USA)</name>
+		<image>./media/images/Blonde Justice (USA).png</image>
+		<video>./media/videos/Blonde Justice (USA).mp4</video>
+		<marquee>./media/wheel/Blonde Justice (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Blood Angels (Japan).chd</path>
+		<name>Blood Angels (Japan)</name>
+		<image>./media/images/Blood Angels (Japan).png</image>
+		<video>./media/videos/Blood Angels (Japan).mp4</video>
+		<marquee>./media/wheel/Blood Angels (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Bonogurashi (Japan).chd</path>
+		<name>Bonogurashi (Japan)</name>
+		<image>./media/images/Bonogurashi (Japan).png</image>
+		<video>./media/videos/Bonogurashi (Japan).mp4</video>
+		<marquee>./media/wheel/Bonogurashi (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./BrainDead 13 (USA) (Disc 1).chd</path>
+		<name>BrainDead 13 (USA) (Disc 1)</name>
+		<image>./media/images/BrainDead 13 (USA) (Disc 1).png</image>
+		<video>./media/videos/BrainDead 13 (USA) (Disc 1).mp4</video>
+		<marquee>./media/wheel/BrainDead 13 (USA) (Disc 1).png</marquee>
+	</game>
+	<game>
+		<path>./BrainDead 13 (USA) (Disc 1) (RE-1).chd</path>
+		<name>BrainDead 13 (USA) (Disc 1) (RE-1)</name>
+		<image>./media/images/BrainDead 13 (USA) (Disc 1) (RE-1).png</image>
+		<video>./media/videos/BrainDead 13 (USA) (Disc 1) (RE-1).mp4</video>
+		<marquee>./media/wheel/BrainDead 13 (USA) (Disc 1) (RE-1).png</marquee>
+	</game>
+	<game>
+		<path>./BrainDead 13 (USA) (Disc 2).chd</path>
+		<name>BrainDead 13 (USA) (Disc 2)</name>
+		<image>./media/images/BrainDead 13 (USA) (Disc 2).png</image>
+		<video>./media/videos/BrainDead 13 (USA) (Disc 2).mp4</video>
+		<marquee>./media/wheel/BrainDead 13 (USA) (Disc 2).png</marquee>
+	</game>
+	<game>
+		<path>./Burning Soldier (Canada).chd</path>
+		<name>Burning Soldier (Canada)</name>
+		<image>./media/images/Burning Soldier (Canada).png</image>
+		<video>./media/videos/Burning Soldier (Canada).mp4</video>
+		<marquee>./media/wheel/Burning Soldier (Canada).png</marquee>
+	</game>
+	<game>
+		<path>./Burning Soldier (Europe).chd</path>
+		<name>Burning Soldier (Europe)</name>
+		<image>./media/images/Burning Soldier (Europe).png</image>
+		<video>./media/videos/Burning Soldier (Europe).mp4</video>
+		<marquee>./media/wheel/Burning Soldier (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Burning Soldier (Japan).chd</path>
+		<name>Burning Soldier (Japan)</name>
+		<image>./media/images/Burning Soldier (Japan).png</image>
+		<video>./media/videos/Burning Soldier (Japan).mp4</video>
+		<marquee>./media/wheel/Burning Soldier (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Burning Soldier (USA, Korea).chd</path>
+		<name>Burning Soldier (USA, Korea)</name>
+		<image>./media/images/Burning Soldier (USA, Korea).png</image>
+		<video>./media/videos/Burning Soldier (USA, Korea).mp4</video>
+		<marquee>./media/wheel/Burning Soldier (USA, Korea).png</marquee>
+	</game>
+	<game>
+		<path>./Cannon Fodder (Europe).chd</path>
+		<name>Cannon Fodder (Europe)</name>
+		<image>./media/images/Cannon Fodder (Europe).png</image>
+		<video>./media/videos/Cannon Fodder (Europe).mp4</video>
+		<marquee>./media/wheel/Cannon Fodder (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Cannon Fodder (USA).chd</path>
+		<name>Cannon Fodder (USA)</name>
+		<image>./media/images/Cannon Fodder (USA).png</image>
+		<video>./media/videos/Cannon Fodder (USA).mp4</video>
+		<marquee>./media/wheel/Cannon Fodder (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Captain Quazar &amp; BattleSport (Europe) (Demo).chd</path>
+		<name>Captain Quazar &amp; BattleSport (Europe) (Demo)</name>
+		<image>./media/images/Captain Quazar &amp; BattleSport (Europe) (Demo).png</image>
+		<video>./media/videos/Captain Quazar &amp; BattleSport (Europe) (Demo).mp4</video>
+		<marquee>./media/wheel/Captain Quazar &amp; BattleSport (Europe) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Captain Quazar (Europe).chd</path>
+		<name>Captain Quazar (Europe)</name>
+		<image>./media/images/Captain Quazar (Europe).png</image>
+		<video>./media/videos/Captain Quazar (Europe).mp4</video>
+		<marquee>./media/wheel/Captain Quazar (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Captain Quazar (Japan).chd</path>
+		<name>Captain Quazar (Japan)</name>
+		<image>./media/images/Captain Quazar (Japan).png</image>
+		<video>./media/videos/Captain Quazar (Japan).mp4</video>
+		<marquee>./media/wheel/Captain Quazar (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Captain Quazar (USA).chd</path>
+		<name>Captain Quazar (USA)</name>
+		<image>./media/images/Captain Quazar (USA).png</image>
+		<video>./media/videos/Captain Quazar (USA).mp4</video>
+		<marquee>./media/wheel/Captain Quazar (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Carrier - Fortress at Sea (USA).chd</path>
+		<name>Carrier - Fortress at Sea (USA)</name>
+		<image>./media/images/Carrier - Fortress at Sea (USA).png</image>
+		<video>./media/videos/Carrier - Fortress at Sea (USA).mp4</video>
+		<marquee>./media/wheel/Carrier - Fortress at Sea (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Casper (USA).chd</path>
+		<name>Casper (USA)</name>
+		<image>./media/images/Casper (USA).png</image>
+		<video>./media/videos/Casper (USA).mp4</video>
+		<marquee>./media/wheel/Casper (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen (Japan).chd</path>
+		<name>Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen (Japan)</name>
+		<image>./media/images/Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen (Japan).png</image>
+		<video>./media/videos/Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen (Japan).mp4</video>
+		<marquee>./media/wheel/Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Chiki Chiki Machine Mou Race 2 - In Space (Japan).chd</path>
+		<name>Chiki Chiki Machine Mou Race 2 - In Space (Japan)</name>
+		<image>./media/images/Chiki Chiki Machine Mou Race 2 - In Space (Japan).png</image>
+		<video>./media/videos/Chiki Chiki Machine Mou Race 2 - In Space (Japan).mp4</video>
+		<marquee>./media/wheel/Chiki Chiki Machine Mou Race 2 - In Space (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Chiki Chiki Machine Mou Race 2 - In Space (Japan) (Demo).chd</path>
+		<name>Chiki Chiki Machine Mou Race 2 - In Space (Japan) (Demo)</name>
+		<image>./media/images/Chiki Chiki Machine Mou Race 2 - In Space (Japan) (Demo).png</image>
+		<video>./media/videos/Chiki Chiki Machine Mou Race 2 - In Space (Japan) (Demo).mp4</video>
+		<marquee>./media/wheel/Chiki Chiki Machine Mou Race 2 - In Space (Japan) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Club 3DO - Station Invasion (USA).chd</path>
+		<name>Club 3DO - Station Invasion (USA)</name>
+		<image>./media/images/Club 3DO - Station Invasion (USA).png</image>
+		<video>./media/videos/Club 3DO - Station Invasion (USA).mp4</video>
+		<marquee>./media/wheel/Club 3DO - Station Invasion (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Corpse Killer (Japan).chd</path>
+		<name>Corpse Killer (Japan)</name>
+		<image>./media/images/Corpse Killer (Japan).png</image>
+		<video>./media/videos/Corpse Killer (Japan).mp4</video>
+		<marquee>./media/wheel/Corpse Killer (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Corpse Killer (USA).chd</path>
+		<name>Corpse Killer (USA)</name>
+		<image>./media/images/Corpse Killer (USA).png</image>
+		<video>./media/videos/Corpse Killer (USA).mp4</video>
+		<marquee>./media/wheel/Corpse Killer (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Coven, The (USA).chd</path>
+		<name>Coven, The (USA)</name>
+		<image>./media/images/Coven, The (USA).png</image>
+		<video>./media/videos/Coven, The (USA).mp4</video>
+		<marquee>./media/wheel/Coven, The (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Cowboy Casino (USA).chd</path>
+		<name>Cowboy Casino (USA)</name>
+		<image>./media/images/Cowboy Casino (USA).png</image>
+		<video>./media/videos/Cowboy Casino (USA).mp4</video>
+		<marquee>./media/wheel/Cowboy Casino (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Crash 'n Burn (Japan).chd</path>
+		<name>Crash 'n Burn (Japan)</name>
+		<image>./media/images/Crash 'n Burn (Japan).png</image>
+		<video>./media/videos/Crash 'n Burn (Japan).mp4</video>
+		<marquee>./media/wheel/Crash 'n Burn (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Crash 'n Burn (Korea).chd</path>
+		<name>Crash 'n Burn (Korea)</name>
+		<image>./media/images/Crash 'n Burn (Korea).png</image>
+		<video>./media/videos/Crash 'n Burn (Korea).mp4</video>
+		<marquee>./media/wheel/Crash 'n Burn (Korea).png</marquee>
+	</game>
+	<game>
+		<path>./Crash 'n Burn (USA) (Not for Resale).chd</path>
+		<name>Crash 'n Burn (USA) (Not for Resale)</name>
+		<image>./media/images/Crash 'n Burn (USA) (Not for Resale).png</image>
+		<video>./media/videos/Crash 'n Burn (USA) (Not for Resale).mp4</video>
+		<marquee>./media/wheel/Crash 'n Burn (USA) (Not for Resale).png</marquee>
+	</game>
+	<game>
+		<path>./Crayon Shin-chan - Puzzle Daimaou no Nazo (Japan).chd</path>
+		<name>Crayon Shin-chan - Puzzle Daimaou no Nazo (Japan)</name>
+		<image>./media/images/Crayon Shin-chan - Puzzle Daimaou no Nazo (Japan).png</image>
+		<video>./media/videos/Crayon Shin-chan - Puzzle Daimaou no Nazo (Japan).mp4</video>
+		<marquee>./media/wheel/Crayon Shin-chan - Puzzle Daimaou no Nazo (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Creature Shock (USA) (Disc 1).chd</path>
+		<name>Creature Shock (USA) (Disc 1)</name>
+		<image>./media/images/Creature Shock (USA) (Disc 1).png</image>
+		<video>./media/videos/Creature Shock (USA) (Disc 1).mp4</video>
+		<marquee>./media/wheel/Creature Shock (USA) (Disc 1).png</marquee>
+	</game>
+	<game>
+		<path>./Creature Shock (USA) (Disc 2).chd</path>
+		<name>Creature Shock (USA) (Disc 2)</name>
+		<image>./media/images/Creature Shock (USA) (Disc 2).png</image>
+		<video>./media/videos/Creature Shock (USA) (Disc 2).mp4</video>
+		<marquee>./media/wheel/Creature Shock (USA) (Disc 2).png</marquee>
+	</game>
+	<game>
+		<path>./Crime Patrol (USA).chd</path>
+		<name>Crime Patrol (USA)</name>
+		<image>./media/images/Crime Patrol (USA).png</image>
+		<video>./media/videos/Crime Patrol (USA).mp4</video>
+		<marquee>./media/wheel/Crime Patrol (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Crystal Dynamics Best Selection ~ Sample This! (Japan, USA).chd</path>
+		<name>Crystal Dynamics Best Selection ~ Sample This! (Japan, USA)</name>
+		<image>./media/images/Crystal Dynamics Best Selection ~ Sample This! (Japan, USA).png</image>
+		<video>./media/videos/Crystal Dynamics Best Selection ~ Sample This! (Japan, USA).mp4</video>
+		<marquee>./media/wheel/Crystal Dynamics Best Selection ~ Sample This! (Japan, USA).png</marquee>
+	</game>
+	<game>
+		<path>./CyberDillo (USA).chd</path>
+		<name>CyberDillo (USA)</name>
+		<image>./media/images/CyberDillo (USA).png</image>
+		<video>./media/videos/CyberDillo (USA).mp4</video>
+		<marquee>./media/wheel/CyberDillo (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Cyberia (Europe).chd</path>
+		<name>Cyberia (Europe)</name>
+		<image>./media/images/Cyberia (Europe).png</image>
+		<video>./media/videos/Cyberia (Europe).mp4</video>
+		<marquee>./media/wheel/Cyberia (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Cyberia (Japan).chd</path>
+		<name>Cyberia (Japan)</name>
+		<image>./media/images/Cyberia (Japan).png</image>
+		<video>./media/videos/Cyberia (Japan).mp4</video>
+		<marquee>./media/wheel/Cyberia (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Cyberia (USA).chd</path>
+		<name>Cyberia (USA)</name>
+		<image>./media/images/Cyberia (USA).png</image>
+		<video>./media/videos/Cyberia (USA).mp4</video>
+		<marquee>./media/wheel/Cyberia (USA).png</marquee>
+	</game>
+	<game>
+		<path>./D (Germany) (Disc 1).chd</path>
+		<name>D (Germany) (Disc 1)</name>
+		<image>./media/images/D (Germany) (Disc 1).png</image>
+		<video>./media/videos/D (Germany) (Disc 1).mp4</video>
+		<marquee>./media/wheel/D (Germany) (Disc 1).png</marquee>
+	</game>
+	<game>
+		<path>./D (Germany) (Disc 2).chd</path>
+		<name>D (Germany) (Disc 2)</name>
+		<image>./media/images/D (Germany) (Disc 2).png</image>
+		<video>./media/videos/D (Germany) (Disc 2).mp4</video>
+		<marquee>./media/wheel/D (Germany) (Disc 2).png</marquee>
+	</game>
+	<game>
+		<path>./D (USA, Europe) (Disc 1).chd</path>
+		<name>D (USA, Europe) (Disc 1)</name>
+		<image>./media/images/D (USA, Europe) (Disc 1).png</image>
+		<video>./media/videos/D (USA, Europe) (Disc 1).mp4</video>
+		<marquee>./media/wheel/D (USA, Europe) (Disc 1).png</marquee>
+	</game>
+	<game>
+		<path>./D (USA, Europe) (Disc 2).chd</path>
+		<name>D (USA, Europe) (Disc 2)</name>
+		<image>./media/images/D (USA, Europe) (Disc 2).png</image>
+		<video>./media/videos/D (USA, Europe) (Disc 2).mp4</video>
+		<marquee>./media/wheel/D (USA, Europe) (Disc 2).png</marquee>
+	</game>
+	<game>
+		<path>./D no Shokutaku (Japan) (Disc 1).chd</path>
+		<name>D no Shokutaku (Japan) (Disc 1)</name>
+		<image>./media/images/D no Shokutaku (Japan) (Disc 1).png</image>
+		<video>./media/videos/D no Shokutaku (Japan) (Disc 1).mp4</video>
+		<marquee>./media/wheel/D no Shokutaku (Japan) (Disc 1).png</marquee>
+	</game>
+	<game>
+		<path>./D no Shokutaku (Japan) (Disc 2).chd</path>
+		<name>D no Shokutaku (Japan) (Disc 2)</name>
+		<image>./media/images/D no Shokutaku (Japan) (Disc 2).png</image>
+		<video>./media/videos/D no Shokutaku (Japan) (Disc 2).mp4</video>
+		<marquee>./media/wheel/D no Shokutaku (Japan) (Disc 2).png</marquee>
+	</game>
+	<game>
+		<path>./D's Diner - The Director's Cut (Japan) (Disc A).chd</path>
+		<name>D's Diner - The Director's Cut (Japan) (Disc A)</name>
+		<image>./media/images/D's Diner - The Director's Cut (Japan) (Disc A).png</image>
+		<video>./media/videos/D's Diner - The Director's Cut (Japan) (Disc A).mp4</video>
+		<marquee>./media/wheel/D's Diner - The Director's Cut (Japan) (Disc A).png</marquee>
+	</game>
+	<game>
+		<path>./D's Diner - The Director's Cut (Japan) (Disc B).chd</path>
+		<name>D's Diner - The Director's Cut (Japan) (Disc B)</name>
+		<image>./media/images/D's Diner - The Director's Cut (Japan) (Disc B).png</image>
+		<video>./media/videos/D's Diner - The Director's Cut (Japan) (Disc B).mp4</video>
+		<marquee>./media/wheel/D's Diner - The Director's Cut (Japan) (Disc B).png</marquee>
+	</game>
+	<game>
+		<path>./D's Diner - The Director's Cut (Japan) (Disc C).chd</path>
+		<name>D's Diner - The Director's Cut (Japan) (Disc C)</name>
+		<image>./media/images/D's Diner - The Director's Cut (Japan) (Disc C).png</image>
+		<video>./media/videos/D's Diner - The Director's Cut (Japan) (Disc C).mp4</video>
+		<marquee>./media/wheel/D's Diner - The Director's Cut (Japan) (Disc C).png</marquee>
+	</game>
+	<game>
+		<path>./Daedalus Encounter, The (Japan) (Demo).chd</path>
+		<name>Daedalus Encounter, The (Japan) (Demo)</name>
+		<image>./media/images/Daedalus Encounter, The (Japan) (Demo).png</image>
+		<video>./media/videos/Daedalus Encounter, The (Japan) (Demo).mp4</video>
+		<marquee>./media/wheel/Daedalus Encounter, The (Japan) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Daedalus Encounter, The (USA) (Disc 1).chd</path>
+		<name>Daedalus Encounter, The (USA) (Disc 1)</name>
+		<image>./media/images/Daedalus Encounter, The (USA) (Disc 1).png</image>
+		<video>./media/videos/Daedalus Encounter, The (USA) (Disc 1).mp4</video>
+		<marquee>./media/wheel/Daedalus Encounter, The (USA) (Disc 1).png</marquee>
+	</game>
+	<game>
+		<path>./Daedalus Encounter, The (USA) (Disc 2).chd</path>
+		<name>Daedalus Encounter, The (USA) (Disc 2)</name>
+		<image>./media/images/Daedalus Encounter, The (USA) (Disc 2).png</image>
+		<video>./media/videos/Daedalus Encounter, The (USA) (Disc 2).mp4</video>
+		<marquee>./media/wheel/Daedalus Encounter, The (USA) (Disc 2).png</marquee>
+	</game>
+	<game>
+		<path>./Daedalus Encounter, The (USA) (Disc 3).chd</path>
+		<name>Daedalus Encounter, The (USA) (Disc 3)</name>
+		<image>./media/images/Daedalus Encounter, The (USA) (Disc 3).png</image>
+		<video>./media/videos/Daedalus Encounter, The (USA) (Disc 3).mp4</video>
+		<marquee>./media/wheel/Daedalus Encounter, The (USA) (Disc 3).png</marquee>
+	</game>
+	<game>
+		<path>./Daedalus Encounter, The (USA) (Disc 4).chd</path>
+		<name>Daedalus Encounter, The (USA) (Disc 4)</name>
+		<image>./media/images/Daedalus Encounter, The (USA) (Disc 4).png</image>
+		<video>./media/videos/Daedalus Encounter, The (USA) (Disc 4).mp4</video>
+		<marquee>./media/wheel/Daedalus Encounter, The (USA) (Disc 4).png</marquee>
+	</game>
+	<game>
+		<path>./Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 1).chd</path>
+		<name>Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 1)</name>
+		<image>./media/images/Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 1).png</image>
+		<video>./media/videos/Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 1).mp4</video>
+		<marquee>./media/wheel/Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 1).png</marquee>
+	</game>
+	<game>
+		<path>./Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 2).chd</path>
+		<name>Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 2)</name>
+		<image>./media/images/Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 2).png</image>
+		<video>./media/videos/Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 2).mp4</video>
+		<marquee>./media/wheel/Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 2).png</marquee>
+	</game>
+	<game>
+		<path>./Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 3).chd</path>
+		<name>Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 3)</name>
+		<image>./media/images/Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 3).png</image>
+		<video>./media/videos/Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 3).mp4</video>
+		<marquee>./media/wheel/Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 3).png</marquee>
+	</game>
+	<game>
+		<path>./Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 4).chd</path>
+		<name>Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 4)</name>
+		<image>./media/images/Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 4).png</image>
+		<video>./media/videos/Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 4).mp4</video>
+		<marquee>./media/wheel/Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 4).png</marquee>
+	</game>
+	<game>
+		<path>./DeathKeep (USA).chd</path>
+		<name>DeathKeep (USA)</name>
+		<image>./media/images/DeathKeep (USA).png</image>
+		<video>./media/videos/DeathKeep (USA).mp4</video>
+		<marquee>./media/wheel/DeathKeep (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Decathlon (USA) (Unl).chd</path>
+		<name>Decathlon (USA) (Unl)</name>
+		<image>./media/images/Decathlon (USA) (Unl).png</image>
+		<video>./media/videos/Decathlon (USA) (Unl).mp4</video>
+		<marquee>./media/wheel/Decathlon (USA) (Unl).png</marquee>
+	</game>
+	<game>
+		<path>./Defcon 5 (Germany).chd</path>
+		<name>Defcon 5 (Germany)</name>
+		<image>./media/images/Defcon 5 (Germany).png</image>
+		<video>./media/videos/Defcon 5 (Germany).mp4</video>
+		<marquee>./media/wheel/Defcon 5 (Germany).png</marquee>
+	</game>
+	<game>
+		<path>./Defcon 5 (Japan).chd</path>
+		<name>Defcon 5 (Japan)</name>
+		<image>./media/images/Defcon 5 (Japan).png</image>
+		<video>./media/videos/Defcon 5 (Japan).mp4</video>
+		<marquee>./media/wheel/Defcon 5 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Demolition Man (Japan).chd</path>
+		<name>Demolition Man (Japan)</name>
+		<image>./media/images/Demolition Man (Japan).png</image>
+		<video>./media/videos/Demolition Man (Japan).mp4</video>
+		<marquee>./media/wheel/Demolition Man (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Demolition Man (USA).chd</path>
+		<name>Demolition Man (USA)</name>
+		<image>./media/images/Demolition Man (USA).png</image>
+		<video>./media/videos/Demolition Man (USA).mp4</video>
+		<marquee>./media/wheel/Demolition Man (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Dennou Hyouryuu - Multimedia Cruising (Japan).chd</path>
+		<name>Dennou Hyouryuu - Multimedia Cruising (Japan)</name>
+		<image>./media/images/Dennou Hyouryuu - Multimedia Cruising (Japan).png</image>
+		<video>./media/videos/Dennou Hyouryuu - Multimedia Cruising (Japan).mp4</video>
+		<marquee>./media/wheel/Dennou Hyouryuu - Multimedia Cruising (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Digital Dreamware (USA).chd</path>
+		<name>Digital Dreamware (USA)</name>
+		<image>./media/images/Digital Dreamware (USA).png</image>
+		<video>./media/videos/Digital Dreamware (USA).mp4</video>
+		<marquee>./media/wheel/Digital Dreamware (USA).png</marquee>
+	</game>
+	<game>
+		<path>./DinoPark Tycoon (USA).chd</path>
+		<name>DinoPark Tycoon (USA)</name>
+		<image>./media/images/DinoPark Tycoon (USA).png</image>
+		<video>./media/videos/DinoPark Tycoon (USA).mp4</video>
+		<marquee>./media/wheel/DinoPark Tycoon (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Diving Spot Guide - Marine Tour (Japan).chd</path>
+		<name>Diving Spot Guide - Marine Tour (Japan)</name>
+		<image>./media/images/Diving Spot Guide - Marine Tour (Japan).png</image>
+		<video>./media/videos/Diving Spot Guide - Marine Tour (Japan).mp4</video>
+		<marquee>./media/wheel/Diving Spot Guide - Marine Tour (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Doctor Hauzer (Japan).chd</path>
+		<name>Doctor Hauzer (Japan)</name>
+		<image>./media/images/Doctor Hauzer (Japan).png</image>
+		<video>./media/videos/Doctor Hauzer (Japan).mp4</video>
+		<marquee>./media/wheel/Doctor Hauzer (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Doom (USA).chd</path>
+		<name>Doom (USA)</name>
+		<image>./media/images/Doom (USA).png</image>
+		<video>./media/videos/Doom (USA).mp4</video>
+		<marquee>./media/wheel/Doom (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Dragon Lore - The Legend Begins (USA, Europe) (Disc 1).chd</path>
+		<name>Dragon Lore - The Legend Begins (USA, Europe) (Disc 1)</name>
+		<image>./media/images/Dragon Lore - The Legend Begins (USA, Europe) (Disc 1).png</image>
+		<video>./media/videos/Dragon Lore - The Legend Begins (USA, Europe) (Disc 1).mp4</video>
+		<marquee>./media/wheel/Dragon Lore - The Legend Begins (USA, Europe) (Disc 1).png</marquee>
+	</game>
+	<game>
+		<path>./Dragon Lore - The Legend Begins (USA, Europe) (Disc 2).chd</path>
+		<name>Dragon Lore - The Legend Begins (USA, Europe) (Disc 2)</name>
+		<image>./media/images/Dragon Lore - The Legend Begins (USA, Europe) (Disc 2).png</image>
+		<video>./media/videos/Dragon Lore - The Legend Begins (USA, Europe) (Disc 2).mp4</video>
+		<marquee>./media/wheel/Dragon Lore - The Legend Begins (USA, Europe) (Disc 2).png</marquee>
+	</game>
+	<game>
+		<path>./Dragon Lore - The Legend Begins (USA, Europe) (Disc 3).chd</path>
+		<name>Dragon Lore - The Legend Begins (USA, Europe) (Disc 3)</name>
+		<image>./media/images/Dragon Lore - The Legend Begins (USA, Europe) (Disc 3).png</image>
+		<video>./media/videos/Dragon Lore - The Legend Begins (USA, Europe) (Disc 3).mp4</video>
+		<marquee>./media/wheel/Dragon Lore - The Legend Begins (USA, Europe) (Disc 3).png</marquee>
+	</game>
+	<game>
+		<path>./Dragon Tycoon Edge (Japan).chd</path>
+		<name>Dragon Tycoon Edge (Japan)</name>
+		<image>./media/images/Dragon Tycoon Edge (Japan).png</image>
+		<video>./media/videos/Dragon Tycoon Edge (Japan).mp4</video>
+		<marquee>./media/wheel/Dragon Tycoon Edge (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Dragon's Lair (Japan).chd</path>
+		<name>Dragon's Lair (Japan)</name>
+		<image>./media/images/Dragon's Lair (Japan).png</image>
+		<video>./media/videos/Dragon's Lair (Japan).mp4</video>
+		<marquee>./media/wheel/Dragon's Lair (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Dragon's Lair (USA) (RE1).chd</path>
+		<name>Dragon's Lair (USA) (RE1)</name>
+		<image>./media/images/Dragon's Lair (USA) (RE1).png</image>
+		<video>./media/videos/Dragon's Lair (USA) (RE1).mp4</video>
+		<marquee>./media/wheel/Dragon's Lair (USA) (RE1).png</marquee>
+	</game>
+	<game>
+		<path>./Drug Wars (USA).chd</path>
+		<name>Drug Wars (USA)</name>
+		<image>./media/images/Drug Wars (USA).png</image>
+		<video>./media/videos/Drug Wars (USA).mp4</video>
+		<marquee>./media/wheel/Drug Wars (USA).png</marquee>
+	</game>
+	<game>
+		<path>./ESPN Baseball - Hitting (USA).chd</path>
+		<name>ESPN Baseball - Hitting (USA)</name>
+		<image>./media/images/ESPN Baseball - Hitting (USA).png</image>
+		<video>./media/videos/ESPN Baseball - Hitting (USA).mp4</video>
+		<marquee>./media/wheel/ESPN Baseball - Hitting (USA).png</marquee>
+	</game>
+	<game>
+		<path>./ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 1).chd</path>
+		<name>ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 1)</name>
+		<image>./media/images/ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 1).png</image>
+		<video>./media/videos/ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 1).mp4</video>
+		<marquee>./media/wheel/ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 1).png</marquee>
+	</game>
+	<game>
+		<path>./ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 2).chd</path>
+		<name>ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 2)</name>
+		<image>./media/images/ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 2).png</image>
+		<video>./media/videos/ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 2).mp4</video>
+		<marquee>./media/wheel/ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 2).png</marquee>
+	</game>
+	<game>
+		<path>./ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 3).chd</path>
+		<name>ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 3)</name>
+		<image>./media/images/ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 3).png</image>
+		<video>./media/videos/ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 3).mp4</video>
+		<marquee>./media/wheel/ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 3).png</marquee>
+	</game>
+	<game>
+		<path>./ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 4).chd</path>
+		<name>ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 4)</name>
+		<image>./media/images/ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 4).png</image>
+		<video>./media/videos/ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 4).mp4</video>
+		<marquee>./media/wheel/ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 4).png</marquee>
+	</game>
+	<game>
+		<path>./ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 1) (Shot Yousei Kouza Vol. 1).chd</path>
+		<name>ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 1) (Shot Yousei Kouza Vol. 1)</name>
+		<image>./media/images/ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 1) (Shot Yousei Kouza Vol. 1).png</image>
+		<video>./media/videos/ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 1) (Shot Yousei Kouza Vol. 1).mp4</video>
+		<marquee>./media/wheel/ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 1) (Shot Yousei Kouza Vol. 1).png</marquee>
+	</game>
+	<game>
+		<path>./ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 2) (Shot Yousei Kouza Vol. 2).chd</path>
+		<name>ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 2) (Shot Yousei Kouza Vol. 2)</name>
+		<image>./media/images/ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 2) (Shot Yousei Kouza Vol. 2).png</image>
+		<video>./media/videos/ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 2) (Shot Yousei Kouza Vol. 2).mp4</video>
+		<marquee>./media/wheel/ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 2) (Shot Yousei Kouza Vol. 2).png</marquee>
+	</game>
+	<game>
+		<path>./ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 3) (Pro ni Kike!).chd</path>
+		<name>ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 3) (Pro ni Kike!)</name>
+		<image>./media/images/ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 3) (Pro ni Kike!).png</image>
+		<video>./media/videos/ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 3) (Pro ni Kike!).mp4</video>
+		<marquee>./media/wheel/ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 3) (Pro ni Kike!).png</marquee>
+	</game>
+	<game>
+		<path>./Emit Vol. 1 - Toki no Maigo (Japan).chd</path>
+		<name>Emit Vol. 1 - Toki no Maigo (Japan)</name>
+		<image>./media/images/Emit Vol. 1 - Toki no Maigo (Japan).png</image>
+		<video>./media/videos/Emit Vol. 1 - Toki no Maigo (Japan).mp4</video>
+		<marquee>./media/wheel/Emit Vol. 1 - Toki no Maigo (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Emit Vol. 2 - Inochigake no Tabi (Japan).chd</path>
+		<name>Emit Vol. 2 - Inochigake no Tabi (Japan)</name>
+		<image>./media/images/Emit Vol. 2 - Inochigake no Tabi (Japan).png</image>
+		<video>./media/videos/Emit Vol. 2 - Inochigake no Tabi (Japan).mp4</video>
+		<marquee>./media/wheel/Emit Vol. 2 - Inochigake no Tabi (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Emit Vol. 3 - Watashi ni Sayonara o (Japan).chd</path>
+		<name>Emit Vol. 3 - Watashi ni Sayonara o (Japan)</name>
+		<image>./media/images/Emit Vol. 3 - Watashi ni Sayonara o (Japan).png</image>
+		<video>./media/videos/Emit Vol. 3 - Watashi ni Sayonara o (Japan).mp4</video>
+		<marquee>./media/wheel/Emit Vol. 3 - Watashi ni Sayonara o (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Endlessly (USA).chd</path>
+		<name>Endlessly (USA)</name>
+		<image>./media/images/Endlessly (USA).png</image>
+		<video>./media/videos/Endlessly (USA).mp4</video>
+		<marquee>./media/wheel/Endlessly (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Escape from Monster Manor (Europe).chd</path>
+		<name>Escape from Monster Manor (Europe)</name>
+		<image>./media/images/Escape from Monster Manor (Europe).png</image>
+		<video>./media/videos/Escape from Monster Manor (Europe).mp4</video>
+		<marquee>./media/wheel/Escape from Monster Manor (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Escape from Monster Manor (Korea) (En,Ko).chd</path>
+		<name>Escape from Monster Manor (Korea) (En,Ko)</name>
+		<image>./media/images/Escape from Monster Manor (Korea) (En,Ko).png</image>
+		<video>./media/videos/Escape from Monster Manor (Korea) (En,Ko).mp4</video>
+		<marquee>./media/wheel/Escape from Monster Manor (Korea) (En,Ko).png</marquee>
+	</game>
+	<game>
+		<path>./Escape from Monster Manor (USA).chd</path>
+		<name>Escape from Monster Manor (USA)</name>
+		<image>./media/images/Escape from Monster Manor (USA).png</image>
+		<video>./media/videos/Escape from Monster Manor (USA).mp4</video>
+		<marquee>./media/wheel/Escape from Monster Manor (USA).png</marquee>
+	</game>
+	<game>
+		<path>./F1GP (Japan).chd</path>
+		<name>F1GP (Japan)</name>
+		<image>./media/images/F1GP (Japan).png</image>
+		<video>./media/videos/F1GP (Japan).mp4</video>
+		<marquee>./media/wheel/F1GP (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./FIFA International Soccer (Europe).chd</path>
+		<name>FIFA International Soccer (Europe)</name>
+		<image>./media/images/FIFA International Soccer (Europe).png</image>
+		<video>./media/videos/FIFA International Soccer (Europe).mp4</video>
+		<marquee>./media/wheel/FIFA International Soccer (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./FIFA International Soccer (USA).chd</path>
+		<name>FIFA International Soccer (USA)</name>
+		<image>./media/images/FIFA International Soccer (USA).png</image>
+		<video>./media/videos/FIFA International Soccer (USA).mp4</video>
+		<marquee>./media/wheel/FIFA International Soccer (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Family Feud (USA).chd</path>
+		<name>Family Feud (USA)</name>
+		<image>./media/images/Family Feud (USA).png</image>
+		<video>./media/videos/Family Feud (USA).mp4</video>
+		<marquee>./media/wheel/Family Feud (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Fatty Bear's Birthday Surprise (Japan) (En,Ja).chd</path>
+		<name>Fatty Bear's Birthday Surprise (Japan) (En,Ja)</name>
+		<image>./media/images/Fatty Bear's Birthday Surprise (Japan) (En,Ja).png</image>
+		<video>./media/videos/Fatty Bear's Birthday Surprise (Japan) (En,Ja).mp4</video>
+		<marquee>./media/wheel/Fatty Bear's Birthday Surprise (Japan) (En,Ja).png</marquee>
+	</game>
+	<game>
+		<path>./Fatty Bear's Birthday Surprise (USA).chd</path>
+		<name>Fatty Bear's Birthday Surprise (USA)</name>
+		<image>./media/images/Fatty Bear's Birthday Surprise (USA).png</image>
+		<video>./media/videos/Fatty Bear's Birthday Surprise (USA).mp4</video>
+		<marquee>./media/wheel/Fatty Bear's Birthday Surprise (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Fatty Bear's Funpack (Japan).chd</path>
+		<name>Fatty Bear's Funpack (Japan)</name>
+		<image>./media/images/Fatty Bear's Funpack (Japan).png</image>
+		<video>./media/videos/Fatty Bear's Funpack (Japan).mp4</video>
+		<marquee>./media/wheel/Fatty Bear's Funpack (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Fatty Bear's Funpack (USA).chd</path>
+		<name>Fatty Bear's Funpack (USA)</name>
+		<image>./media/images/Fatty Bear's Funpack (USA).png</image>
+		<video>./media/videos/Fatty Bear's Funpack (USA).mp4</video>
+		<marquee>./media/wheel/Fatty Bear's Funpack (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Fire Ball!! (Japan).chd</path>
+		<name>Fire Ball!! (Japan)</name>
+		<image>./media/images/Fire Ball!! (Japan).png</image>
+		<video>./media/videos/Fire Ball!! (Japan).mp4</video>
+		<marquee>./media/wheel/Fire Ball!! (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Fire Ball!! (Japan) (Rev 1).chd</path>
+		<name>Fire Ball!! (Japan) (Rev 1)</name>
+		<image>./media/images/Fire Ball!! (Japan) (Rev 1).png</image>
+		<video>./media/videos/Fire Ball!! (Japan) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Fire Ball!! (Japan) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Flashback (Europe) (En,Fr).chd</path>
+		<name>Flashback (Europe) (En,Fr)</name>
+		<image>./media/images/Flashback (Europe) (En,Fr).png</image>
+		<video>./media/videos/Flashback (Europe) (En,Fr).mp4</video>
+		<marquee>./media/wheel/Flashback (Europe) (En,Fr).png</marquee>
+	</game>
+	<game>
+		<path>./Flashback (Japan) (En,Ja,Fr,De,It,Nl).chd</path>
+		<name>Flashback (Japan) (En,Ja,Fr,De,It,Nl)</name>
+		<image>./media/images/Flashback (Japan) (En,Ja,Fr,De,It,Nl).png</image>
+		<video>./media/videos/Flashback (Japan) (En,Ja,Fr,De,It,Nl).mp4</video>
+		<marquee>./media/wheel/Flashback (Japan) (En,Ja,Fr,De,It,Nl).png</marquee>
+	</game>
+	<game>
+		<path>./Flashback - The Quest for Identity (USA) (En,Fr).chd</path>
+		<name>Flashback - The Quest for Identity (USA) (En,Fr)</name>
+		<image>./media/images/Flashback - The Quest for Identity (USA) (En,Fr).png</image>
+		<video>./media/videos/Flashback - The Quest for Identity (USA) (En,Fr).mp4</video>
+		<marquee>./media/wheel/Flashback - The Quest for Identity (USA) (En,Fr).png</marquee>
+	</game>
+	<game>
+		<path>./Flopon World (Japan).chd</path>
+		<name>Flopon World (Japan)</name>
+		<image>./media/images/Flopon World (Japan).png</image>
+		<video>./media/videos/Flopon World (Japan).mp4</video>
+		<marquee>./media/wheel/Flopon World (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Flying Nightmares (Europe).chd</path>
+		<name>Flying Nightmares (Europe)</name>
+		<image>./media/images/Flying Nightmares (Europe).png</image>
+		<video>./media/videos/Flying Nightmares (Europe).mp4</video>
+		<marquee>./media/wheel/Flying Nightmares (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Flying Nightmares (USA).chd</path>
+		<name>Flying Nightmares (USA)</name>
+		<image>./media/images/Flying Nightmares (USA).png</image>
+		<video>./media/videos/Flying Nightmares (USA).mp4</video>
+		<marquee>./media/wheel/Flying Nightmares (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Foes of Ali (Europe).chd</path>
+		<name>Foes of Ali (Europe)</name>
+		<image>./media/images/Foes of Ali (Europe).png</image>
+		<video>./media/videos/Foes of Ali (Europe).mp4</video>
+		<marquee>./media/wheel/Foes of Ali (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Foes of Ali (USA).chd</path>
+		<name>Foes of Ali (USA)</name>
+		<image>./media/images/Foes of Ali (USA).png</image>
+		<video>./media/videos/Foes of Ali (USA).mp4</video>
+		<marquee>./media/wheel/Foes of Ali (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Footie (USA) (Powerslide Bonus Disk) (Unl).chd</path>
+		<name>Footie (USA) (Powerslide Bonus Disk) (Unl)</name>
+		<image>./media/images/Footie (USA) (Powerslide Bonus Disk) (Unl).png</image>
+		<video>./media/videos/Footie (USA) (Powerslide Bonus Disk) (Unl).mp4</video>
+		<marquee>./media/wheel/Footie (USA) (Powerslide Bonus Disk) (Unl).png</marquee>
+	</game>
+	<game>
+		<path>./Fun 'n Games - Soft no Omochabako (Japan) (En,Ja).chd</path>
+		<name>Fun 'n Games - Soft no Omochabako (Japan) (En,Ja)</name>
+		<image>./media/images/Fun 'n Games - Soft no Omochabako (Japan) (En,Ja).png</image>
+		<video>./media/videos/Fun 'n Games - Soft no Omochabako (Japan) (En,Ja).mp4</video>
+		<marquee>./media/wheel/Fun 'n Games - Soft no Omochabako (Japan) (En,Ja).png</marquee>
+	</game>
+	<game>
+		<path>./Gakkou no Kowai Uwasa - Hanako-san ga Kita!! (Japan).chd</path>
+		<name>Gakkou no Kowai Uwasa - Hanako-san ga Kita!! (Japan)</name>
+		<image>./media/images/Gakkou no Kowai Uwasa - Hanako-san ga Kita!! (Japan).png</image>
+		<video>./media/videos/Gakkou no Kowai Uwasa - Hanako-san ga Kita!! (Japan).mp4</video>
+		<marquee>./media/wheel/Gakkou no Kowai Uwasa - Hanako-san ga Kita!! (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Game no Tatsujin (Japan).chd</path>
+		<name>Game no Tatsujin (Japan)</name>
+		<image>./media/images/Game no Tatsujin (Japan).png</image>
+		<video>./media/videos/Game no Tatsujin (Japan).mp4</video>
+		<marquee>./media/wheel/Game no Tatsujin (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Gateway to English - Eigo de Go! (Japan).chd</path>
+		<name>Gateway to English - Eigo de Go! (Japan)</name>
+		<image>./media/images/Gateway to English - Eigo de Go! (Japan).png</image>
+		<video>./media/videos/Gateway to English - Eigo de Go! (Japan).mp4</video>
+		<marquee>./media/wheel/Gateway to English - Eigo de Go! (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Gex (Japan).chd</path>
+		<name>Gex (Japan)</name>
+		<image>./media/images/Gex (Japan).png</image>
+		<video>./media/videos/Gex (Japan).mp4</video>
+		<marquee>./media/wheel/Gex (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Gex (USA, Europe).chd</path>
+		<name>Gex (USA, Europe)</name>
+		<image>./media/images/Gex (USA, Europe).png</image>
+		<video>./media/videos/Gex (USA, Europe).mp4</video>
+		<marquee>./media/wheel/Gex (USA, Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Ghost Hunter Series - Kuroki Shi no Kamen (Japan).chd</path>
+		<name>Ghost Hunter Series - Kuroki Shi no Kamen (Japan)</name>
+		<image>./media/images/Ghost Hunter Series - Kuroki Shi no Kamen (Japan).png</image>
+		<video>./media/videos/Ghost Hunter Series - Kuroki Shi no Kamen (Japan).mp4</video>
+		<marquee>./media/wheel/Ghost Hunter Series - Kuroki Shi no Kamen (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Ghost Hunter Series - Kuroki Shi no Kamen (Japan) (Rev 1).chd</path>
+		<name>Ghost Hunter Series - Kuroki Shi no Kamen (Japan) (Rev 1)</name>
+		<image>./media/images/Ghost Hunter Series - Kuroki Shi no Kamen (Japan) (Rev 1).png</image>
+		<video>./media/videos/Ghost Hunter Series - Kuroki Shi no Kamen (Japan) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Ghost Hunter Series - Kuroki Shi no Kamen (Japan) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Goal FH (Field Hunter) (Japan).chd</path>
+		<name>Goal FH (Field Hunter) (Japan)</name>
+		<image>./media/images/Goal FH (Field Hunter) (Japan).png</image>
+		<video>./media/videos/Goal FH (Field Hunter) (Japan).mp4</video>
+		<marquee>./media/wheel/Goal FH (Field Hunter) (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Great! Soccer Kid (Japan).chd</path>
+		<name>Great! Soccer Kid (Japan)</name>
+		<image>./media/images/Great! Soccer Kid (Japan).png</image>
+		<video>./media/videos/Great! Soccer Kid (Japan).mp4</video>
+		<marquee>./media/wheel/Great! Soccer Kid (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Gridders (Europe).chd</path>
+		<name>Gridders (Europe)</name>
+		<image>./media/images/Gridders (Europe).png</image>
+		<video>./media/videos/Gridders (Europe).mp4</video>
+		<marquee>./media/wheel/Gridders (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Gridders (Japan).chd</path>
+		<name>Gridders (Japan)</name>
+		<image>./media/images/Gridders (Japan).png</image>
+		<video>./media/videos/Gridders (Japan).mp4</video>
+		<marquee>./media/wheel/Gridders (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Gridders (USA, Korea).chd</path>
+		<name>Gridders (USA, Korea)</name>
+		<image>./media/images/Gridders (USA, Korea).png</image>
+		<video>./media/videos/Gridders (USA, Korea).mp4</video>
+		<marquee>./media/wheel/Gridders (USA, Korea).png</marquee>
+	</game>
+	<game>
+		<path>./Grimm Meisaku Gekijou Vol. 1 - Bremen no Ongakutai (Japan).chd</path>
+		<name>Grimm Meisaku Gekijou Vol. 1 - Bremen no Ongakutai (Japan)</name>
+		<image>./media/images/Grimm Meisaku Gekijou Vol. 1 - Bremen no Ongakutai (Japan).png</image>
+		<video>./media/videos/Grimm Meisaku Gekijou Vol. 1 - Bremen no Ongakutai (Japan).mp4</video>
+		<marquee>./media/wheel/Grimm Meisaku Gekijou Vol. 1 - Bremen no Ongakutai (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Grimm Meisaku Gekijou Vol. 2 - Hansel to Gretel (Japan).chd</path>
+		<name>Grimm Meisaku Gekijou Vol. 2 - Hansel to Gretel (Japan)</name>
+		<image>./media/images/Grimm Meisaku Gekijou Vol. 2 - Hansel to Gretel (Japan).png</image>
+		<video>./media/videos/Grimm Meisaku Gekijou Vol. 2 - Hansel to Gretel (Japan).mp4</video>
+		<marquee>./media/wheel/Grimm Meisaku Gekijou Vol. 2 - Hansel to Gretel (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Grimm Meisaku Gekijou Vol. 3 - Akazukin (Japan).chd</path>
+		<name>Grimm Meisaku Gekijou Vol. 3 - Akazukin (Japan)</name>
+		<image>./media/images/Grimm Meisaku Gekijou Vol. 3 - Akazukin (Japan).png</image>
+		<video>./media/videos/Grimm Meisaku Gekijou Vol. 3 - Akazukin (Japan).mp4</video>
+		<marquee>./media/wheel/Grimm Meisaku Gekijou Vol. 3 - Akazukin (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Guardian War (Canada).chd</path>
+		<name>Guardian War (Canada)</name>
+		<image>./media/images/Guardian War (Canada).png</image>
+		<video>./media/videos/Guardian War (Canada).mp4</video>
+		<marquee>./media/wheel/Guardian War (Canada).png</marquee>
+	</game>
+	<game>
+		<path>./Guardian War (USA, Korea).chd</path>
+		<name>Guardian War (USA, Korea)</name>
+		<image>./media/images/Guardian War (USA, Korea).png</image>
+		<video>./media/videos/Guardian War (USA, Korea).mp4</video>
+		<marquee>./media/wheel/Guardian War (USA, Korea).png</marquee>
+	</game>
+	<game>
+		<path>./Hatsubai 1 Shuunen - 3DO REAL - Tokubetsu Premium CD (Japan).chd</path>
+		<name>Hatsubai 1 Shuunen - 3DO REAL - Tokubetsu Premium CD (Japan)</name>
+		<image>./media/images/Hatsubai 1 Shuunen - 3DO REAL - Tokubetsu Premium CD (Japan).png</image>
+		<video>./media/videos/Hatsubai 1 Shuunen - 3DO REAL - Tokubetsu Premium CD (Japan).mp4</video>
+		<marquee>./media/wheel/Hatsubai 1 Shuunen - 3DO REAL - Tokubetsu Premium CD (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Hell - A Cyberpunk Thriller (USA).chd</path>
+		<name>Hell - A Cyberpunk Thriller (USA)</name>
+		<image>./media/images/Hell - A Cyberpunk Thriller (USA).png</image>
+		<video>./media/videos/Hell - A Cyberpunk Thriller (USA).mp4</video>
+		<marquee>./media/wheel/Hell - A Cyberpunk Thriller (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Hirata Shougo Interactive Ehon - Aesop Monogatari Vol. 1 (Japan) (En,Ja,Fr).chd</path>
+		<name>Hirata Shougo Interactive Ehon - Aesop Monogatari Vol. 1 (Japan) (En,Ja,Fr)</name>
+		<image>./media/images/Hirata Shougo Interactive Ehon - Aesop Monogatari Vol. 1 (Japan) (En,Ja,Fr).png</image>
+		<video>./media/videos/Hirata Shougo Interactive Ehon - Aesop Monogatari Vol. 1 (Japan) (En,Ja,Fr).mp4</video>
+		<marquee>./media/wheel/Hirata Shougo Interactive Ehon - Aesop Monogatari Vol. 1 (Japan) (En,Ja,Fr).png</marquee>
+	</game>
+	<game>
+		<path>./Hirata Shougo Interactive Ehon - Cinderella (Japan) (En,Ja,Fr).chd</path>
+		<name>Hirata Shougo Interactive Ehon - Cinderella (Japan) (En,Ja,Fr)</name>
+		<image>./media/images/Hirata Shougo Interactive Ehon - Cinderella (Japan) (En,Ja,Fr).png</image>
+		<video>./media/videos/Hirata Shougo Interactive Ehon - Cinderella (Japan) (En,Ja,Fr).mp4</video>
+		<marquee>./media/wheel/Hirata Shougo Interactive Ehon - Cinderella (Japan) (En,Ja,Fr).png</marquee>
+	</game>
+	<game>
+		<path>./Hirata Shougo Interactive Ehon - Ningyo-hime (Japan) (En,Ja,Fr).chd</path>
+		<name>Hirata Shougo Interactive Ehon - Ningyo-hime (Japan) (En,Ja,Fr)</name>
+		<image>./media/images/Hirata Shougo Interactive Ehon - Ningyo-hime (Japan) (En,Ja,Fr).png</image>
+		<video>./media/videos/Hirata Shougo Interactive Ehon - Ningyo-hime (Japan) (En,Ja,Fr).mp4</video>
+		<marquee>./media/wheel/Hirata Shougo Interactive Ehon - Ningyo-hime (Japan) (En,Ja,Fr).png</marquee>
+	</game>
+	<game>
+		<path>./Hirata Shougo Interactive Ehon - Ookami to Shichihiki no Koyagi (Japan) (En,Ja,Fr).chd</path>
+		<name>Hirata Shougo Interactive Ehon - Ookami to Shichihiki no Koyagi (Japan) (En,Ja,Fr)</name>
+		<image>./media/images/Hirata Shougo Interactive Ehon - Ookami to Shichihiki no Koyagi (Japan) (En,Ja,Fr).png</image>
+		<video>./media/videos/Hirata Shougo Interactive Ehon - Ookami to Shichihiki no Koyagi (Japan) (En,Ja,Fr).mp4</video>
+		<marquee>./media/wheel/Hirata Shougo Interactive Ehon - Ookami to Shichihiki no Koyagi (Japan) (En,Ja,Fr).png</marquee>
+	</game>
+	<game>
+		<path>./Hirata Shougo Interactive Ehon - Sanbiki no Kobuta (Japan) (En,Ja,Fr).chd</path>
+		<name>Hirata Shougo Interactive Ehon - Sanbiki no Kobuta (Japan) (En,Ja,Fr)</name>
+		<image>./media/images/Hirata Shougo Interactive Ehon - Sanbiki no Kobuta (Japan) (En,Ja,Fr).png</image>
+		<video>./media/videos/Hirata Shougo Interactive Ehon - Sanbiki no Kobuta (Japan) (En,Ja,Fr).mp4</video>
+		<marquee>./media/wheel/Hirata Shougo Interactive Ehon - Sanbiki no Kobuta (Japan) (En,Ja,Fr).png</marquee>
+	</game>
+	<game>
+		<path>./Hirata Shougo Interactive Ehon - Shirayukihime (Japan) (En,Ja,Fr).chd</path>
+		<name>Hirata Shougo Interactive Ehon - Shirayukihime (Japan) (En,Ja,Fr)</name>
+		<image>./media/images/Hirata Shougo Interactive Ehon - Shirayukihime (Japan) (En,Ja,Fr).png</image>
+		<video>./media/videos/Hirata Shougo Interactive Ehon - Shirayukihime (Japan) (En,Ja,Fr).mp4</video>
+		<marquee>./media/wheel/Hirata Shougo Interactive Ehon - Shirayukihime (Japan) (En,Ja,Fr).png</marquee>
+	</game>
+	<game>
+		<path>./Hitchcock ni Chousen (Japan).chd</path>
+		<name>Hitchcock ni Chousen (Japan)</name>
+		<image>./media/images/Hitchcock ni Chousen (Japan).png</image>
+		<video>./media/videos/Hitchcock ni Chousen (Japan).mp4</video>
+		<marquee>./media/wheel/Hitchcock ni Chousen (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Horde, The (Europe).chd</path>
+		<name>Horde, The (Europe)</name>
+		<image>./media/images/Horde, The (Europe).png</image>
+		<video>./media/videos/Horde, The (Europe).mp4</video>
+		<marquee>./media/wheel/Horde, The (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Horde, The (Japan).chd</path>
+		<name>Horde, The (Japan)</name>
+		<image>./media/images/Horde, The (Japan).png</image>
+		<video>./media/videos/Horde, The (Japan).mp4</video>
+		<marquee>./media/wheel/Horde, The (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Horde, The (USA).chd</path>
+		<name>Horde, The (USA)</name>
+		<image>./media/images/Horde, The (USA).png</image>
+		<video>./media/videos/Horde, The (USA).mp4</video>
+		<marquee>./media/wheel/Horde, The (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Horde, The (USA) (RCB).chd</path>
+		<name>Horde, The (USA) (RCB)</name>
+		<image>./media/images/Horde, The (USA) (RCB).png</image>
+		<video>./media/videos/Horde, The (USA) (RCB).mp4</video>
+		<marquee>./media/wheel/Horde, The (USA) (RCB).png</marquee>
+	</game>
+	<game>
+		<path>./Icebreaker (USA).chd</path>
+		<name>Icebreaker (USA)</name>
+		<image>./media/images/Icebreaker (USA).png</image>
+		<video>./media/videos/Icebreaker (USA).mp4</video>
+		<marquee>./media/wheel/Icebreaker (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Icebreaker II (USA) (Bonus Disk) (Unl).chd</path>
+		<name>Icebreaker II (USA) (Bonus Disk) (Unl)</name>
+		<image>./media/images/Icebreaker II (USA) (Bonus Disk) (Unl).png</image>
+		<video>./media/videos/Icebreaker II (USA) (Bonus Disk) (Unl).mp4</video>
+		<marquee>./media/wheel/Icebreaker II (USA) (Bonus Disk) (Unl).png</marquee>
+	</game>
+	<game>
+		<path>./Ide Yousuke Meijin no Shin Jissen Mahjong (Japan).chd</path>
+		<name>Ide Yousuke Meijin no Shin Jissen Mahjong (Japan)</name>
+		<image>./media/images/Ide Yousuke Meijin no Shin Jissen Mahjong (Japan).png</image>
+		<video>./media/videos/Ide Yousuke Meijin no Shin Jissen Mahjong (Japan).mp4</video>
+		<marquee>./media/wheel/Ide Yousuke Meijin no Shin Jissen Mahjong (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Idol Janshi Suchie-Pai Special (Japan).chd</path>
+		<name>Idol Janshi Suchie-Pai Special (Japan)</name>
+		<image>./media/images/Idol Janshi Suchie-Pai Special (Japan).png</image>
+		<video>./media/videos/Idol Janshi Suchie-Pai Special (Japan).mp4</video>
+		<marquee>./media/wheel/Idol Janshi Suchie-Pai Special (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Idol Mahjong - Final Romance 2 - Hyper Edition (Japan).chd</path>
+		<name>Idol Mahjong - Final Romance 2 - Hyper Edition (Japan)</name>
+		<image>./media/images/Idol Mahjong - Final Romance 2 - Hyper Edition (Japan).png</image>
+		<video>./media/videos/Idol Mahjong - Final Romance 2 - Hyper Edition (Japan).mp4</video>
+		<marquee>./media/wheel/Idol Mahjong - Final Romance 2 - Hyper Edition (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Igo Time Trial - Shikatsu Daihyakka (Japan).chd</path>
+		<name>Igo Time Trial - Shikatsu Daihyakka (Japan)</name>
+		<image>./media/images/Igo Time Trial - Shikatsu Daihyakka (Japan).png</image>
+		<video>./media/videos/Igo Time Trial - Shikatsu Daihyakka (Japan).mp4</video>
+		<marquee>./media/wheel/Igo Time Trial - Shikatsu Daihyakka (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Igo Time Trial - Tsumego I (Japan).chd</path>
+		<name>Igo Time Trial - Tsumego I (Japan)</name>
+		<image>./media/images/Igo Time Trial - Tsumego I (Japan).png</image>
+		<video>./media/videos/Igo Time Trial - Tsumego I (Japan).mp4</video>
+		<marquee>./media/wheel/Igo Time Trial - Tsumego I (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Immercenary (Europe).chd</path>
+		<name>Immercenary (Europe)</name>
+		<image>./media/images/Immercenary (Europe).png</image>
+		<video>./media/videos/Immercenary (Europe).mp4</video>
+		<marquee>./media/wheel/Immercenary (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Immercenary - Combat in a Digital World (USA).chd</path>
+		<name>Immercenary - Combat in a Digital World (USA)</name>
+		<image>./media/images/Immercenary - Combat in a Digital World (USA).png</image>
+		<video>./media/videos/Immercenary - Combat in a Digital World (USA).mp4</video>
+		<marquee>./media/wheel/Immercenary - Combat in a Digital World (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Immortal Desire (USA).chd</path>
+		<name>Immortal Desire (USA)</name>
+		<image>./media/images/Immortal Desire (USA).png</image>
+		<video>./media/videos/Immortal Desire (USA).mp4</video>
+		<marquee>./media/wheel/Immortal Desire (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Incredible Machine, The (Europe).chd</path>
+		<name>Incredible Machine, The (Europe)</name>
+		<image>./media/images/Incredible Machine, The (Europe).png</image>
+		<video>./media/videos/Incredible Machine, The (Europe).mp4</video>
+		<marquee>./media/wheel/Incredible Machine, The (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Incredible Machine, The (USA).chd</path>
+		<name>Incredible Machine, The (USA)</name>
+		<image>./media/images/Incredible Machine, The (USA).png</image>
+		<video>./media/videos/Incredible Machine, The (USA).mp4</video>
+		<marquee>./media/wheel/Incredible Machine, The (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Incredible Machine, The - Pararancho (Japan).chd</path>
+		<name>Incredible Machine, The - Pararancho (Japan)</name>
+		<image>./media/images/Incredible Machine, The - Pararancho (Japan).png</image>
+		<video>./media/videos/Incredible Machine, The - Pararancho (Japan).mp4</video>
+		<marquee>./media/wheel/Incredible Machine, The - Pararancho (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Insector War (Japan).chd</path>
+		<name>Insector War (Japan)</name>
+		<image>./media/images/Insector War (Japan).png</image>
+		<video>./media/videos/Insector War (Japan).mp4</video>
+		<marquee>./media/wheel/Insector War (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Interplay 3DO Buffet, The (USA).chd</path>
+		<name>Interplay 3DO Buffet, The (USA)</name>
+		<image>./media/images/Interplay 3DO Buffet, The (USA).png</image>
+		<video>./media/videos/Interplay 3DO Buffet, The (USA).mp4</video>
+		<marquee>./media/wheel/Interplay 3DO Buffet, The (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Iron Angel of the Apocalypse - Tetsujin (Europe).chd</path>
+		<name>Iron Angel of the Apocalypse - Tetsujin (Europe)</name>
+		<image>./media/images/Iron Angel of the Apocalypse - Tetsujin (Europe).png</image>
+		<video>./media/videos/Iron Angel of the Apocalypse - Tetsujin (Europe).mp4</video>
+		<marquee>./media/wheel/Iron Angel of the Apocalypse - Tetsujin (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Iron Angel of the Apocalypse - Tetsujin (USA).chd</path>
+		<name>Iron Angel of the Apocalypse - Tetsujin (USA)</name>
+		<image>./media/images/Iron Angel of the Apocalypse - Tetsujin (USA).png</image>
+		<video>./media/videos/Iron Angel of the Apocalypse - Tetsujin (USA).mp4</video>
+		<marquee>./media/wheel/Iron Angel of the Apocalypse - Tetsujin (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Iron Angel of the Apocalypse - The Return (USA).chd</path>
+		<name>Iron Angel of the Apocalypse - The Return (USA)</name>
+		<image>./media/images/Iron Angel of the Apocalypse - The Return (USA).png</image>
+		<video>./media/videos/Iron Angel of the Apocalypse - The Return (USA).mp4</video>
+		<marquee>./media/wheel/Iron Angel of the Apocalypse - The Return (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Ishida Yoshio Kudan no Igo Seiha (Japan).chd</path>
+		<name>Ishida Yoshio Kudan no Igo Seiha (Japan)</name>
+		<image>./media/images/Ishida Yoshio Kudan no Igo Seiha (Japan).png</image>
+		<video>./media/videos/Ishida Yoshio Kudan no Igo Seiha (Japan).mp4</video>
+		<marquee>./media/wheel/Ishida Yoshio Kudan no Igo Seiha (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./J. B. Harold - Blue Chicago Blues (Japan) (Disc 1).chd</path>
+		<name>J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)</name>
+		<image>./media/images/J. B. Harold - Blue Chicago Blues (Japan) (Disc 1).png</image>
+		<video>./media/videos/J. B. Harold - Blue Chicago Blues (Japan) (Disc 1).mp4</video>
+		<marquee>./media/wheel/J. B. Harold - Blue Chicago Blues (Japan) (Disc 1).png</marquee>
+	</game>
+	<game>
+		<path>./J. B. Harold - Blue Chicago Blues (Japan) (Disc 2).chd</path>
+		<name>J. B. Harold - Blue Chicago Blues (Japan) (Disc 2)</name>
+		<image>./media/images/J. B. Harold - Blue Chicago Blues (Japan) (Disc 2).png</image>
+		<video>./media/videos/J. B. Harold - Blue Chicago Blues (Japan) (Disc 2).mp4</video>
+		<marquee>./media/wheel/J. B. Harold - Blue Chicago Blues (Japan) (Disc 2).png</marquee>
+	</game>
+	<game>
+		<path>./J.League Virtual Stadium '95 (Japan).chd</path>
+		<name>J.League Virtual Stadium '95 (Japan)</name>
+		<image>./media/images/J.League Virtual Stadium '95 (Japan).png</image>
+		<video>./media/videos/J.League Virtual Stadium '95 (Japan).mp4</video>
+		<marquee>./media/wheel/J.League Virtual Stadium '95 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./J.League Virtual Stadium (Japan).chd</path>
+		<name>J.League Virtual Stadium (Japan)</name>
+		<image>./media/images/J.League Virtual Stadium (Japan).png</image>
+		<video>./media/videos/J.League Virtual Stadium (Japan).mp4</video>
+		<marquee>./media/wheel/J.League Virtual Stadium (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Jikki Pachi-Slot Simulator Vol. 1 (Japan).chd</path>
+		<name>Jikki Pachi-Slot Simulator Vol. 1 (Japan)</name>
+		<image>./media/images/Jikki Pachi-Slot Simulator Vol. 1 (Japan).png</image>
+		<video>./media/videos/Jikki Pachi-Slot Simulator Vol. 1 (Japan).mp4</video>
+		<marquee>./media/wheel/Jikki Pachi-Slot Simulator Vol. 1 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./John Madden Football (USA).chd</path>
+		<name>John Madden Football (USA)</name>
+		<image>./media/images/John Madden Football (USA).png</image>
+		<video>./media/videos/John Madden Football (USA).mp4</video>
+		<marquee>./media/wheel/John Madden Football (USA).png</marquee>
+	</game>
+	<game>
+		<path>./John Madden Football (USA) (Alt).chd</path>
+		<name>John Madden Football (USA) (Alt)</name>
+		<image>./media/images/John Madden Football (USA) (Alt).png</image>
+		<video>./media/videos/John Madden Football (USA) (Alt).mp4</video>
+		<marquee>./media/wheel/John Madden Football (USA) (Alt).png</marquee>
+	</game>
+	<game>
+		<path>./John Madden NFL Football (Europe).chd</path>
+		<name>John Madden NFL Football (Europe)</name>
+		<image>./media/images/John Madden NFL Football (Europe).png</image>
+		<video>./media/videos/John Madden NFL Football (Europe).mp4</video>
+		<marquee>./media/wheel/John Madden NFL Football (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Johnny Bazookatone (USA).chd</path>
+		<name>Johnny Bazookatone (USA)</name>
+		<image>./media/images/Johnny Bazookatone (USA).png</image>
+		<video>./media/videos/Johnny Bazookatone (USA).mp4</video>
+		<marquee>./media/wheel/Johnny Bazookatone (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Jurassic Park Interactive (Japan).chd</path>
+		<name>Jurassic Park Interactive (Japan)</name>
+		<image>./media/images/Jurassic Park Interactive (Japan).png</image>
+		<video>./media/videos/Jurassic Park Interactive (Japan).mp4</video>
+		<marquee>./media/wheel/Jurassic Park Interactive (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Jurassic Park Interactive (USA).chd</path>
+		<name>Jurassic Park Interactive (USA)</name>
+		<image>./media/images/Jurassic Park Interactive (USA).png</image>
+		<video>./media/videos/Jurassic Park Interactive (USA).mp4</video>
+		<marquee>./media/wheel/Jurassic Park Interactive (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Kakinoki Shougi (Japan).chd</path>
+		<name>Kakinoki Shougi (Japan)</name>
+		<image>./media/images/Kakinoki Shougi (Japan).png</image>
+		<video>./media/videos/Kakinoki Shougi (Japan).mp4</video>
+		<marquee>./media/wheel/Kakinoki Shougi (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Keiba Saishou no Housoku (Japan).chd</path>
+		<name>Keiba Saishou no Housoku (Japan)</name>
+		<image>./media/images/Keiba Saishou no Housoku (Japan).png</image>
+		<video>./media/videos/Keiba Saishou no Housoku (Japan).mp4</video>
+		<marquee>./media/wheel/Keiba Saishou no Housoku (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Kero Kero Keroppi to Origami no Tabibito (Japan).chd</path>
+		<name>Kero Kero Keroppi to Origami no Tabibito (Japan)</name>
+		<image>./media/images/Kero Kero Keroppi to Origami no Tabibito (Japan).png</image>
+		<video>./media/videos/Kero Kero Keroppi to Origami no Tabibito (Japan).mp4</video>
+		<marquee>./media/wheel/Kero Kero Keroppi to Origami no Tabibito (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Killing Time (Europe).chd</path>
+		<name>Killing Time (Europe)</name>
+		<image>./media/images/Killing Time (Europe).png</image>
+		<video>./media/videos/Killing Time (Europe).mp4</video>
+		<marquee>./media/wheel/Killing Time (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Killing Time (USA) (RE1).chd</path>
+		<name>Killing Time (USA) (RE1)</name>
+		<image>./media/images/Killing Time (USA) (RE1).png</image>
+		<video>./media/videos/Killing Time (USA) (RE1).mp4</video>
+		<marquee>./media/wheel/Killing Time (USA) (RE1).png</marquee>
+	</game>
+	<game>
+		<path>./Kingdom - The Far Reaches (USA, Europe).chd</path>
+		<name>Kingdom - The Far Reaches (USA, Europe)</name>
+		<image>./media/images/Kingdom - The Far Reaches (USA, Europe).png</image>
+		<video>./media/videos/Kingdom - The Far Reaches (USA, Europe).mp4</video>
+		<marquee>./media/wheel/Kingdom - The Far Reaches (USA, Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Konpeki no Kantai (Japan).chd</path>
+		<name>Konpeki no Kantai (Japan)</name>
+		<image>./media/images/Konpeki no Kantai (Japan).png</image>
+		<video>./media/videos/Konpeki no Kantai (Japan).mp4</video>
+		<marquee>./media/wheel/Konpeki no Kantai (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Konpeki no Kantai (Japan) (Rev 1).chd</path>
+		<name>Konpeki no Kantai (Japan) (Rev 1)</name>
+		<image>./media/images/Konpeki no Kantai (Japan) (Rev 1).png</image>
+		<video>./media/videos/Konpeki no Kantai (Japan) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Konpeki no Kantai (Japan) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Kyuusei Senjutsu ni Yoru - Heisei Kaiun Koyomi (Japan).chd</path>
+		<name>Kyuusei Senjutsu ni Yoru - Heisei Kaiun Koyomi (Japan)</name>
+		<image>./media/images/Kyuusei Senjutsu ni Yoru - Heisei Kaiun Koyomi (Japan).png</image>
+		<video>./media/videos/Kyuusei Senjutsu ni Yoru - Heisei Kaiun Koyomi (Japan).mp4</video>
+		<marquee>./media/wheel/Kyuusei Senjutsu ni Yoru - Heisei Kaiun Koyomi (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Last Bounty Hunter, The (USA).chd</path>
+		<name>Last Bounty Hunter, The (USA)</name>
+		<image>./media/images/Last Bounty Hunter, The (USA).png</image>
+		<video>./media/videos/Last Bounty Hunter, The (USA).mp4</video>
+		<marquee>./media/wheel/Last Bounty Hunter, The (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Lemmings (Japan).chd</path>
+		<name>Lemmings (Japan)</name>
+		<image>./media/images/Lemmings (Japan).png</image>
+		<video>./media/videos/Lemmings (Japan).mp4</video>
+		<marquee>./media/wheel/Lemmings (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Lemmings (USA).chd</path>
+		<name>Lemmings (USA)</name>
+		<image>./media/images/Lemmings (USA).png</image>
+		<video>./media/videos/Lemmings (USA).mp4</video>
+		<marquee>./media/wheel/Lemmings (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Let's Go Skiing (USA).chd</path>
+		<name>Let's Go Skiing (USA)</name>
+		<image>./media/images/Let's Go Skiing (USA).png</image>
+		<video>./media/videos/Let's Go Skiing (USA).mp4</video>
+		<marquee>./media/wheel/Let's Go Skiing (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Let's Play Beach Volleyball (USA).chd</path>
+		<name>Let's Play Beach Volleyball (USA)</name>
+		<image>./media/images/Let's Play Beach Volleyball (USA).png</image>
+		<video>./media/videos/Let's Play Beach Volleyball (USA).mp4</video>
+		<marquee>./media/wheel/Let's Play Beach Volleyball (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Life Stage, The - Virtual House (Japan).chd</path>
+		<name>Life Stage, The - Virtual House (Japan)</name>
+		<image>./media/images/Life Stage, The - Virtual House (Japan).png</image>
+		<video>./media/videos/Life Stage, The - Virtual House (Japan).mp4</video>
+		<marquee>./media/wheel/Life Stage, The - Virtual House (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Life Stage, The - Virtual House (Japan) (Rev 1).chd</path>
+		<name>Life Stage, The - Virtual House (Japan) (Rev 1)</name>
+		<image>./media/images/Life Stage, The - Virtual House (Japan) (Rev 1).png</image>
+		<video>./media/videos/Life Stage, The - Virtual House (Japan) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Life Stage, The - Virtual House (Japan) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Life Stage, The - Virtual House (USA).chd</path>
+		<name>Life Stage, The - Virtual House (USA)</name>
+		<image>./media/images/Life Stage, The - Virtual House (USA).png</image>
+		<video>./media/videos/Life Stage, The - Virtual House (USA).mp4</video>
+		<marquee>./media/wheel/Life Stage, The - Virtual House (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Live! 3DO Magazine CD-ROM 1 (Japan).chd</path>
+		<name>Live! 3DO Magazine CD-ROM 1 (Japan)</name>
+		<image>./media/images/Live! 3DO Magazine CD-ROM 1 (Japan).png</image>
+		<video>./media/videos/Live! 3DO Magazine CD-ROM 1 (Japan).mp4</video>
+		<marquee>./media/wheel/Live! 3DO Magazine CD-ROM 1 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Live! 3DO Magazine CD-ROM 10 (Japan).chd</path>
+		<name>Live! 3DO Magazine CD-ROM 10 (Japan)</name>
+		<image>./media/images/Live! 3DO Magazine CD-ROM 10 (Japan).png</image>
+		<video>./media/videos/Live! 3DO Magazine CD-ROM 10 (Japan).mp4</video>
+		<marquee>./media/wheel/Live! 3DO Magazine CD-ROM 10 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Live! 3DO Magazine CD-ROM 11 (Japan).chd</path>
+		<name>Live! 3DO Magazine CD-ROM 11 (Japan)</name>
+		<image>./media/images/Live! 3DO Magazine CD-ROM 11 (Japan).png</image>
+		<video>./media/videos/Live! 3DO Magazine CD-ROM 11 (Japan).mp4</video>
+		<marquee>./media/wheel/Live! 3DO Magazine CD-ROM 11 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Live! 3DO Magazine CD-ROM 2 (Japan).chd</path>
+		<name>Live! 3DO Magazine CD-ROM 2 (Japan)</name>
+		<image>./media/images/Live! 3DO Magazine CD-ROM 2 (Japan).png</image>
+		<video>./media/videos/Live! 3DO Magazine CD-ROM 2 (Japan).mp4</video>
+		<marquee>./media/wheel/Live! 3DO Magazine CD-ROM 2 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Live! 3DO Magazine CD-ROM 3 (Japan).chd</path>
+		<name>Live! 3DO Magazine CD-ROM 3 (Japan)</name>
+		<image>./media/images/Live! 3DO Magazine CD-ROM 3 (Japan).png</image>
+		<video>./media/videos/Live! 3DO Magazine CD-ROM 3 (Japan).mp4</video>
+		<marquee>./media/wheel/Live! 3DO Magazine CD-ROM 3 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Live! 3DO Magazine CD-ROM 4 (Japan).chd</path>
+		<name>Live! 3DO Magazine CD-ROM 4 (Japan)</name>
+		<image>./media/images/Live! 3DO Magazine CD-ROM 4 (Japan).png</image>
+		<video>./media/videos/Live! 3DO Magazine CD-ROM 4 (Japan).mp4</video>
+		<marquee>./media/wheel/Live! 3DO Magazine CD-ROM 4 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Live! 3DO Magazine CD-ROM 5 (Japan).chd</path>
+		<name>Live! 3DO Magazine CD-ROM 5 (Japan)</name>
+		<image>./media/images/Live! 3DO Magazine CD-ROM 5 (Japan).png</image>
+		<video>./media/videos/Live! 3DO Magazine CD-ROM 5 (Japan).mp4</video>
+		<marquee>./media/wheel/Live! 3DO Magazine CD-ROM 5 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Live! 3DO Magazine CD-ROM 6 (Japan).chd</path>
+		<name>Live! 3DO Magazine CD-ROM 6 (Japan)</name>
+		<image>./media/images/Live! 3DO Magazine CD-ROM 6 (Japan).png</image>
+		<video>./media/videos/Live! 3DO Magazine CD-ROM 6 (Japan).mp4</video>
+		<marquee>./media/wheel/Live! 3DO Magazine CD-ROM 6 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Live! 3DO Magazine CD-ROM 7 (Japan).chd</path>
+		<name>Live! 3DO Magazine CD-ROM 7 (Japan)</name>
+		<image>./media/images/Live! 3DO Magazine CD-ROM 7 (Japan).png</image>
+		<video>./media/videos/Live! 3DO Magazine CD-ROM 7 (Japan).mp4</video>
+		<marquee>./media/wheel/Live! 3DO Magazine CD-ROM 7 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Live! 3DO Magazine CD-ROM 8 (Japan).chd</path>
+		<name>Live! 3DO Magazine CD-ROM 8 (Japan)</name>
+		<image>./media/images/Live! 3DO Magazine CD-ROM 8 (Japan).png</image>
+		<video>./media/videos/Live! 3DO Magazine CD-ROM 8 (Japan).mp4</video>
+		<marquee>./media/wheel/Live! 3DO Magazine CD-ROM 8 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Live! 3DO Magazine CD-ROM 9 (Japan).chd</path>
+		<name>Live! 3DO Magazine CD-ROM 9 (Japan)</name>
+		<image>./media/images/Live! 3DO Magazine CD-ROM 9 (Japan).png</image>
+		<video>./media/videos/Live! 3DO Magazine CD-ROM 9 (Japan).mp4</video>
+		<marquee>./media/wheel/Live! 3DO Magazine CD-ROM 9 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Lost Dungeon (Japan).chd</path>
+		<name>Lost Dungeon (Japan)</name>
+		<image>./media/images/Lost Dungeon (Japan).png</image>
+		<video>./media/videos/Lost Dungeon (Japan).mp4</video>
+		<marquee>./media/wheel/Lost Dungeon (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Lost Eden (USA).chd</path>
+		<name>Lost Eden (USA)</name>
+		<image>./media/images/Lost Eden (USA).png</image>
+		<video>./media/videos/Lost Eden (USA).mp4</video>
+		<marquee>./media/wheel/Lost Eden (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Lost Files of Sherlock Holmes, The (Europe).chd</path>
+		<name>Lost Files of Sherlock Holmes, The (Europe)</name>
+		<image>./media/images/Lost Files of Sherlock Holmes, The (Europe).png</image>
+		<video>./media/videos/Lost Files of Sherlock Holmes, The (Europe).mp4</video>
+		<marquee>./media/wheel/Lost Files of Sherlock Holmes, The (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Lost Files of Sherlock Holmes, The (USA).chd</path>
+		<name>Lost Files of Sherlock Holmes, The (USA)</name>
+		<image>./media/images/Lost Files of Sherlock Holmes, The (USA).png</image>
+		<video>./media/videos/Lost Files of Sherlock Holmes, The (USA).mp4</video>
+		<marquee>./media/wheel/Lost Files of Sherlock Holmes, The (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Love Bites (USA).chd</path>
+		<name>Love Bites (USA)</name>
+		<image>./media/images/Love Bites (USA).png</image>
+		<video>./media/videos/Love Bites (USA).mp4</video>
+		<marquee>./media/wheel/Love Bites (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Lucienne's Quest (USA).chd</path>
+		<name>Lucienne's Quest (USA)</name>
+		<image>./media/images/Lucienne's Quest (USA).png</image>
+		<video>./media/videos/Lucienne's Quest (USA).mp4</video>
+		<marquee>./media/wheel/Lucienne's Quest (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Mad Dog II - The Lost Gold (USA).chd</path>
+		<name>Mad Dog II - The Lost Gold (USA)</name>
+		<image>./media/images/Mad Dog II - The Lost Gold (USA).png</image>
+		<video>./media/videos/Mad Dog II - The Lost Gold (USA).mp4</video>
+		<marquee>./media/wheel/Mad Dog II - The Lost Gold (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Mad Dog McCree (USA).chd</path>
+		<name>Mad Dog McCree (USA)</name>
+		<image>./media/images/Mad Dog McCree (USA).png</image>
+		<video>./media/videos/Mad Dog McCree (USA).mp4</video>
+		<marquee>./media/wheel/Mad Dog McCree (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Mahjong Gokuu Tenjiku (Japan).chd</path>
+		<name>Mahjong Gokuu Tenjiku (Japan)</name>
+		<image>./media/images/Mahjong Gokuu Tenjiku (Japan).png</image>
+		<video>./media/videos/Mahjong Gokuu Tenjiku (Japan).mp4</video>
+		<marquee>./media/wheel/Mahjong Gokuu Tenjiku (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Mahjong-kyou Jidai - AV Gal Seifuku-hen (Japan).chd</path>
+		<name>Mahjong-kyou Jidai - AV Gal Seifuku-hen (Japan)</name>
+		<image>./media/images/Mahjong-kyou Jidai - AV Gal Seifuku-hen (Japan).png</image>
+		<video>./media/videos/Mahjong-kyou Jidai - AV Gal Seifuku-hen (Japan).mp4</video>
+		<marquee>./media/wheel/Mahjong-kyou Jidai - AV Gal Seifuku-hen (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Mahjong-kyou Jidai Cogal Houkago-hen (Japan).chd</path>
+		<name>Mahjong-kyou Jidai Cogal Houkago-hen (Japan)</name>
+		<image>./media/images/Mahjong-kyou Jidai Cogal Houkago-hen (Japan).png</image>
+		<video>./media/videos/Mahjong-kyou Jidai Cogal Houkago-hen (Japan).mp4</video>
+		<marquee>./media/wheel/Mahjong-kyou Jidai Cogal Houkago-hen (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Makaroni Hourensou Interactive (Japan).chd</path>
+		<name>Makaroni Hourensou Interactive (Japan)</name>
+		<image>./media/images/Makaroni Hourensou Interactive (Japan).png</image>
+		<video>./media/videos/Makaroni Hourensou Interactive (Japan).mp4</video>
+		<marquee>./media/wheel/Makaroni Hourensou Interactive (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Mathemagics - An Interactive Learning Cube (USA).chd</path>
+		<name>Mathemagics - An Interactive Learning Cube (USA)</name>
+		<image>./media/images/Mathemagics - An Interactive Learning Cube (USA).png</image>
+		<video>./media/videos/Mathemagics - An Interactive Learning Cube (USA).mp4</video>
+		<marquee>./media/wheel/Mathemagics - An Interactive Learning Cube (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Mazer (USA).chd</path>
+		<name>Mazer (USA)</name>
+		<image>./media/images/Mazer (USA).png</image>
+		<video>./media/videos/Mazer (USA).mp4</video>
+		<marquee>./media/wheel/Mazer (USA).png</marquee>
+	</game>
+	<game>
+		<path>./MegaRace (Europe) (En,Fr,De,Es,It).chd</path>
+		<name>MegaRace (Europe) (En,Fr,De,Es,It)</name>
+		<image>./media/images/MegaRace (Europe) (En,Fr,De,Es,It).png</image>
+		<video>./media/videos/MegaRace (Europe) (En,Fr,De,Es,It).mp4</video>
+		<marquee>./media/wheel/MegaRace (Europe) (En,Fr,De,Es,It).png</marquee>
+	</game>
+	<game>
+		<path>./MegaRace (Japan).chd</path>
+		<name>MegaRace (Japan)</name>
+		<image>./media/images/MegaRace (Japan).png</image>
+		<video>./media/videos/MegaRace (Japan).mp4</video>
+		<marquee>./media/wheel/MegaRace (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./MegaRace (USA) (En,Fr,De,Es,It).chd</path>
+		<name>MegaRace (USA) (En,Fr,De,Es,It)</name>
+		<image>./media/images/MegaRace (USA) (En,Fr,De,Es,It).png</image>
+		<video>./media/videos/MegaRace (USA) (En,Fr,De,Es,It).mp4</video>
+		<marquee>./media/wheel/MegaRace (USA) (En,Fr,De,Es,It).png</marquee>
+	</game>
+	<game>
+		<path>./MegaRace (USA, Europe) (En,Fr,De,Es,It).chd</path>
+		<name>MegaRace (USA, Europe) (En,Fr,De,Es,It)</name>
+		<image>./media/images/MegaRace (USA, Europe) (En,Fr,De,Es,It).png</image>
+		<video>./media/videos/MegaRace (USA, Europe) (En,Fr,De,Es,It).mp4</video>
+		<marquee>./media/wheel/MegaRace (USA, Europe) (En,Fr,De,Es,It).png</marquee>
+	</game>
+	<game>
+		<path>./Microcosm (Japan).chd</path>
+		<name>Microcosm (Japan)</name>
+		<image>./media/images/Microcosm (Japan).png</image>
+		<video>./media/videos/Microcosm (Japan).mp4</video>
+		<marquee>./media/wheel/Microcosm (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Microcosm (USA).chd</path>
+		<name>Microcosm (USA)</name>
+		<image>./media/images/Microcosm (USA).png</image>
+		<video>./media/videos/Microcosm (USA).mp4</video>
+		<marquee>./media/wheel/Microcosm (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Mirai Shounen Conan - Digital Library (Japan).chd</path>
+		<name>Mirai Shounen Conan - Digital Library (Japan)</name>
+		<image>./media/images/Mirai Shounen Conan - Digital Library (Japan).png</image>
+		<video>./media/videos/Mirai Shounen Conan - Digital Library (Japan).mp4</video>
+		<marquee>./media/wheel/Mirai Shounen Conan - Digital Library (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Monoshiri Jiyuugaku - Ogura Hyakunin Isshu-hen (Japan).chd</path>
+		<name>Monoshiri Jiyuugaku - Ogura Hyakunin Isshu-hen (Japan)</name>
+		<image>./media/images/Monoshiri Jiyuugaku - Ogura Hyakunin Isshu-hen (Japan).png</image>
+		<video>./media/videos/Monoshiri Jiyuugaku - Ogura Hyakunin Isshu-hen (Japan).mp4</video>
+		<marquee>./media/wheel/Monoshiri Jiyuugaku - Ogura Hyakunin Isshu-hen (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Montana Jones (Japan).chd</path>
+		<name>Montana Jones (Japan)</name>
+		<image>./media/images/Montana Jones (Japan).png</image>
+		<video>./media/videos/Montana Jones (Japan).mp4</video>
+		<marquee>./media/wheel/Montana Jones (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Montana Jones (Japan) (Demo).chd</path>
+		<name>Montana Jones (Japan) (Demo)</name>
+		<image>./media/images/Montana Jones (Japan) (Demo).png</image>
+		<video>./media/videos/Montana Jones (Japan) (Demo).mp4</video>
+		<marquee>./media/wheel/Montana Jones (Japan) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Moon Cradle - Igyou no Hanayome (Japan).chd</path>
+		<name>Moon Cradle - Igyou no Hanayome (Japan)</name>
+		<image>./media/images/Moon Cradle - Igyou no Hanayome (Japan).png</image>
+		<video>./media/videos/Moon Cradle - Igyou no Hanayome (Japan).mp4</video>
+		<marquee>./media/wheel/Moon Cradle - Igyou no Hanayome (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Murphy da yo Zen'in Shuugou!! (Japan) (En,Ja).chd</path>
+		<name>Murphy da yo Zen'in Shuugou!! (Japan) (En,Ja)</name>
+		<image>./media/images/Murphy da yo Zen'in Shuugou!! (Japan) (En,Ja).png</image>
+		<video>./media/videos/Murphy da yo Zen'in Shuugou!! (Japan) (En,Ja).mp4</video>
+		<marquee>./media/wheel/Murphy da yo Zen'in Shuugou!! (Japan) (En,Ja).png</marquee>
+	</game>
+	<game>
+		<path>./Myst (Germany).chd</path>
+		<name>Myst (Germany)</name>
+		<image>./media/images/Myst (Germany).png</image>
+		<video>./media/videos/Myst (Germany).mp4</video>
+		<marquee>./media/wheel/Myst (Germany).png</marquee>
+	</game>
+	<game>
+		<path>./Myst (Japan).chd</path>
+		<name>Myst (Japan)</name>
+		<image>./media/images/Myst (Japan).png</image>
+		<video>./media/videos/Myst (Japan).mp4</video>
+		<marquee>./media/wheel/Myst (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Myst (USA).chd</path>
+		<name>Myst (USA)</name>
+		<image>./media/images/Myst (USA).png</image>
+		<video>./media/videos/Myst (USA).mp4</video>
+		<marquee>./media/wheel/Myst (USA).png</marquee>
+	</game>
+	<game>
+		<path>./N.O.B. (Neo Organic Bioform) (Japan).chd</path>
+		<name>N.O.B. (Neo Organic Bioform) (Japan)</name>
+		<image>./media/images/N.O.B. (Neo Organic Bioform) (Japan).png</image>
+		<video>./media/videos/N.O.B. (Neo Organic Bioform) (Japan).mp4</video>
+		<marquee>./media/wheel/N.O.B. (Neo Organic Bioform) (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./NFL Madden Football (Japan).chd</path>
+		<name>NFL Madden Football (Japan)</name>
+		<image>./media/images/NFL Madden Football (Japan).png</image>
+		<video>./media/videos/NFL Madden Football (Japan).mp4</video>
+		<marquee>./media/wheel/NFL Madden Football (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Naoko to Hide-bou - Kanji no Tensai 1 - Bushu-hen, Bushu no Namae ga Tanoshii Chou Kioku-hou (Japan).chd</path>
+		<name>Naoko to Hide-bou - Kanji no Tensai 1 - Bushu-hen, Bushu no Namae ga Tanoshii Chou Kioku-hou (Japan)</name>
+		<image>./media/images/Naoko to Hide-bou - Kanji no Tensai 1 - Bushu-hen, Bushu no Namae ga Tanoshii Chou Kioku-hou (Japan).png</image>
+		<video>./media/videos/Naoko to Hide-bou - Kanji no Tensai 1 - Bushu-hen, Bushu no Namae ga Tanoshii Chou Kioku-hou (Japan).mp4</video>
+		<marquee>./media/wheel/Naoko to Hide-bou - Kanji no Tensai 1 - Bushu-hen, Bushu no Namae ga Tanoshii Chou Kioku-hou (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Naoko to Hide-bou - Sansuu no Tensai 1 - Wa to Sa no Bunshoudai Tsurukamezan Part I (Butsubutsu Koukan no Maki) (Japan).chd</path>
+		<name>Naoko to Hide-bou - Sansuu no Tensai 1 - Wa to Sa no Bunshoudai Tsurukamezan Part I (Butsubutsu Koukan no Maki) (Japan)</name>
+		<image>./media/images/Naoko to Hide-bou - Sansuu no Tensai 1 - Wa to Sa no Bunshoudai Tsurukamezan Part I (Butsubutsu Koukan no Maki) (Japan).png</image>
+		<video>./media/videos/Naoko to Hide-bou - Sansuu no Tensai 1 - Wa to Sa no Bunshoudai Tsurukamezan Part I (Butsubutsu Koukan no Maki) (Japan).mp4</video>
+		<marquee>./media/wheel/Naoko to Hide-bou - Sansuu no Tensai 1 - Wa to Sa no Bunshoudai Tsurukamezan Part I (Butsubutsu Koukan no Maki) (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Naoko to Hide-bou - Sansuu no Tensai 2 - Hayasa no Bunshoudai Tsuukasan Part I (Japan).chd</path>
+		<name>Naoko to Hide-bou - Sansuu no Tensai 2 - Hayasa no Bunshoudai Tsuukasan Part I (Japan)</name>
+		<image>./media/images/Naoko to Hide-bou - Sansuu no Tensai 2 - Hayasa no Bunshoudai Tsuukasan Part I (Japan).png</image>
+		<video>./media/videos/Naoko to Hide-bou - Sansuu no Tensai 2 - Hayasa no Bunshoudai Tsuukasan Part I (Japan).mp4</video>
+		<marquee>./media/wheel/Naoko to Hide-bou - Sansuu no Tensai 2 - Hayasa no Bunshoudai Tsuukasan Part I (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Nemurenu Yoru no Chiisana Ohanashi (Japan).chd</path>
+		<name>Nemurenu Yoru no Chiisana Ohanashi (Japan)</name>
+		<image>./media/images/Nemurenu Yoru no Chiisana Ohanashi (Japan).png</image>
+		<video>./media/videos/Nemurenu Yoru no Chiisana Ohanashi (Japan).mp4</video>
+		<marquee>./media/wheel/Nemurenu Yoru no Chiisana Ohanashi (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./NeuroDancer - Journey into the Neuronet! (USA).chd</path>
+		<name>NeuroDancer - Journey into the Neuronet! (USA)</name>
+		<image>./media/images/NeuroDancer - Journey into the Neuronet! (USA).png</image>
+		<video>./media/videos/NeuroDancer - Journey into the Neuronet! (USA).mp4</video>
+		<marquee>./media/wheel/NeuroDancer - Journey into the Neuronet! (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Nice Body - For Professional Use (Japan).chd</path>
+		<name>Nice Body - For Professional Use (Japan)</name>
+		<image>./media/images/Nice Body - For Professional Use (Japan).png</image>
+		<video>./media/videos/Nice Body - For Professional Use (Japan).mp4</video>
+		<marquee>./media/wheel/Nice Body - For Professional Use (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Night Trap (Japan) (Disc 1).chd</path>
+		<name>Night Trap (Japan) (Disc 1)</name>
+		<image>./media/images/Night Trap (Japan) (Disc 1).png</image>
+		<video>./media/videos/Night Trap (Japan) (Disc 1).mp4</video>
+		<marquee>./media/wheel/Night Trap (Japan) (Disc 1).png</marquee>
+	</game>
+	<game>
+		<path>./Night Trap (Japan) (Disc 2).chd</path>
+		<name>Night Trap (Japan) (Disc 2)</name>
+		<image>./media/images/Night Trap (Japan) (Disc 2).png</image>
+		<video>./media/videos/Night Trap (Japan) (Disc 2).mp4</video>
+		<marquee>./media/wheel/Night Trap (Japan) (Disc 2).png</marquee>
+	</game>
+	<game>
+		<path>./Night Trap (USA) (Disc 1).chd</path>
+		<name>Night Trap (USA) (Disc 1)</name>
+		<image>./media/images/Night Trap (USA) (Disc 1).png</image>
+		<video>./media/videos/Night Trap (USA) (Disc 1).mp4</video>
+		<marquee>./media/wheel/Night Trap (USA) (Disc 1).png</marquee>
+	</game>
+	<game>
+		<path>./Night Trap (USA) (Disc 2).chd</path>
+		<name>Night Trap (USA) (Disc 2)</name>
+		<image>./media/images/Night Trap (USA) (Disc 2).png</image>
+		<video>./media/videos/Night Trap (USA) (Disc 2).mp4</video>
+		<marquee>./media/wheel/Night Trap (USA) (Disc 2).png</marquee>
+	</game>
+	<game>
+		<path>./Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 1).chd</path>
+		<name>Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 1)</name>
+		<image>./media/images/Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 1).png</image>
+		<video>./media/videos/Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 1).mp4</video>
+		<marquee>./media/wheel/Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 1).png</marquee>
+	</game>
+	<game>
+		<path>./Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 2).chd</path>
+		<name>Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 2)</name>
+		<image>./media/images/Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 2).png</image>
+		<video>./media/videos/Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 2).mp4</video>
+		<marquee>./media/wheel/Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 2).png</marquee>
+	</game>
+	<game>
+		<path>./Nobunaga no Yabou - Haouden (Japan).chd</path>
+		<name>Nobunaga no Yabou - Haouden (Japan)</name>
+		<image>./media/images/Nobunaga no Yabou - Haouden (Japan).png</image>
+		<video>./media/videos/Nobunaga no Yabou - Haouden (Japan).mp4</video>
+		<marquee>./media/wheel/Nobunaga no Yabou - Haouden (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Nontan to Issho - Hoshi no Okurimono (Japan).chd</path>
+		<name>Nontan to Issho - Hoshi no Okurimono (Japan)</name>
+		<image>./media/images/Nontan to Issho - Hoshi no Okurimono (Japan).png</image>
+		<video>./media/videos/Nontan to Issho - Hoshi no Okurimono (Japan).mp4</video>
+		<marquee>./media/wheel/Nontan to Issho - Hoshi no Okurimono (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Nontan to Issho - Nohara de Asobo (Japan).chd</path>
+		<name>Nontan to Issho - Nohara de Asobo (Japan)</name>
+		<image>./media/images/Nontan to Issho - Nohara de Asobo (Japan).png</image>
+		<video>./media/videos/Nontan to Issho - Nohara de Asobo (Japan).mp4</video>
+		<marquee>./media/wheel/Nontan to Issho - Nohara de Asobo (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Nova-Storm (Japan).chd</path>
+		<name>Nova-Storm (Japan)</name>
+		<image>./media/images/Nova-Storm (Japan).png</image>
+		<video>./media/videos/Nova-Storm (Japan).mp4</video>
+		<marquee>./media/wheel/Nova-Storm (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Novastorm (USA).chd</path>
+		<name>Novastorm (USA)</name>
+		<image>./media/images/Novastorm (USA).png</image>
+		<video>./media/videos/Novastorm (USA).mp4</video>
+		<marquee>./media/wheel/Novastorm (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Oceans Below (Japan).chd</path>
+		<name>Oceans Below (Japan)</name>
+		<image>./media/images/Oceans Below (Japan).png</image>
+		<video>./media/videos/Oceans Below (Japan).mp4</video>
+		<marquee>./media/wheel/Oceans Below (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Oceans Below (USA).chd</path>
+		<name>Oceans Below (USA)</name>
+		<image>./media/images/Oceans Below (USA).png</image>
+		<video>./media/videos/Oceans Below (USA).mp4</video>
+		<marquee>./media/wheel/Oceans Below (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Off-World Interceptor (Japan).chd</path>
+		<name>Off-World Interceptor (Japan)</name>
+		<image>./media/images/Off-World Interceptor (Japan).png</image>
+		<video>./media/videos/Off-World Interceptor (Japan).mp4</video>
+		<marquee>./media/wheel/Off-World Interceptor (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Off-World Interceptor (USA, Europe).chd</path>
+		<name>Off-World Interceptor (USA, Europe)</name>
+		<image>./media/images/Off-World Interceptor (USA, Europe).png</image>
+		<video>./media/videos/Off-World Interceptor (USA, Europe).mp4</video>
+		<marquee>./media/wheel/Off-World Interceptor (USA, Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Ogura Hyakunin Isshu (Japan).chd</path>
+		<name>Ogura Hyakunin Isshu (Japan)</name>
+		<image>./media/images/Ogura Hyakunin Isshu (Japan).png</image>
+		<video>./media/videos/Ogura Hyakunin Isshu (Japan).mp4</video>
+		<marquee>./media/wheel/Ogura Hyakunin Isshu (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Olympic Games (Europe) (Demo).chd</path>
+		<name>Olympic Games (Europe) (Demo)</name>
+		<image>./media/images/Olympic Games (Europe) (Demo).png</image>
+		<video>./media/videos/Olympic Games (Europe) (Demo).mp4</video>
+		<marquee>./media/wheel/Olympic Games (Europe) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Olympic Soccer (USA).chd</path>
+		<name>Olympic Soccer (USA)</name>
+		<image>./media/images/Olympic Soccer (USA).png</image>
+		<video>./media/videos/Olympic Soccer (USA).mp4</video>
+		<marquee>./media/wheel/Olympic Soccer (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Olympic Summer Games (USA).chd</path>
+		<name>Olympic Summer Games (USA)</name>
+		<image>./media/images/Olympic Summer Games (USA).png</image>
+		<video>./media/videos/Olympic Summer Games (USA).mp4</video>
+		<marquee>./media/wheel/Olympic Summer Games (USA).png</marquee>
+	</game>
+	<game>
+		<path>./OnSide Soccer (USA) (Unl).chd</path>
+		<name>OnSide Soccer (USA) (Unl)</name>
+		<image>./media/images/OnSide Soccer (USA) (Unl).png</image>
+		<video>./media/videos/OnSide Soccer (USA) (Unl).mp4</video>
+		<marquee>./media/wheel/OnSide Soccer (USA) (Unl).png</marquee>
+	</game>
+	<game>
+		<path>./Onee-san to Issho! Janken Paradise (Japan).chd</path>
+		<name>Onee-san to Issho! Janken Paradise (Japan)</name>
+		<image>./media/images/Onee-san to Issho! Janken Paradise (Japan).png</image>
+		<video>./media/videos/Onee-san to Issho! Janken Paradise (Japan).mp4</video>
+		<marquee>./media/wheel/Onee-san to Issho! Janken Paradise (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Onee-san to Issho! Kisekae Paradise (Japan).chd</path>
+		<name>Onee-san to Issho! Kisekae Paradise (Japan)</name>
+		<image>./media/images/Onee-san to Issho! Kisekae Paradise (Japan).png</image>
+		<video>./media/videos/Onee-san to Issho! Kisekae Paradise (Japan).mp4</video>
+		<marquee>./media/wheel/Onee-san to Issho! Kisekae Paradise (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Oukoku no Grand Chef (Japan).chd</path>
+		<name>Oukoku no Grand Chef (Japan)</name>
+		<image>./media/images/Oukoku no Grand Chef (Japan).png</image>
+		<video>./media/videos/Oukoku no Grand Chef (Japan).mp4</video>
+		<marquee>./media/wheel/Oukoku no Grand Chef (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Out of this World (USA) (3DO Maniac Pack) (RE).chd</path>
+		<name>Out of this World (USA) (3DO Maniac Pack) (RE)</name>
+		<image>./media/images/Out of this World (USA) (3DO Maniac Pack) (RE).png</image>
+		<video>./media/videos/Out of this World (USA) (3DO Maniac Pack) (RE).mp4</video>
+		<marquee>./media/wheel/Out of this World (USA) (3DO Maniac Pack) (RE).png</marquee>
+	</game>
+	<game>
+		<path>./Outer World (Japan).chd</path>
+		<name>Outer World (Japan)</name>
+		<image>./media/images/Outer World (Japan).png</image>
+		<video>./media/videos/Outer World (Japan).mp4</video>
+		<marquee>./media/wheel/Outer World (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Oyaji Hunter Mahjong (Japan).chd</path>
+		<name>Oyaji Hunter Mahjong (Japan)</name>
+		<image>./media/images/Oyaji Hunter Mahjong (Japan).png</image>
+		<video>./media/videos/Oyaji Hunter Mahjong (Japan).mp4</video>
+		<marquee>./media/wheel/Oyaji Hunter Mahjong (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./PGA Tour 96 (Europe).chd</path>
+		<name>PGA Tour 96 (Europe)</name>
+		<image>./media/images/PGA Tour 96 (Europe).png</image>
+		<video>./media/videos/PGA Tour 96 (Europe).mp4</video>
+		<marquee>./media/wheel/PGA Tour 96 (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./PGA Tour 96 (USA).chd</path>
+		<name>PGA Tour 96 (USA)</name>
+		<image>./media/images/PGA Tour 96 (USA).png</image>
+		<video>./media/videos/PGA Tour 96 (USA).mp4</video>
+		<marquee>./media/wheel/PGA Tour 96 (USA).png</marquee>
+	</game>
+	<game>
+		<path>./PO'ed (USA, Europe).chd</path>
+		<name>PO'ed (USA, Europe)</name>
+		<image>./media/images/PO'ed (USA, Europe).png</image>
+		<video>./media/videos/PO'ed (USA, Europe).mp4</video>
+		<marquee>./media/wheel/PO'ed (USA, Europe).png</marquee>
+	</game>
+	<game>
+		<path>./PaTaank (Japan).chd</path>
+		<name>PaTaank (Japan)</name>
+		<image>./media/images/PaTaank (Japan).png</image>
+		<video>./media/videos/PaTaank (Japan).mp4</video>
+		<marquee>./media/wheel/PaTaank (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./PaTaank (USA, Europe).chd</path>
+		<name>PaTaank (USA, Europe)</name>
+		<image>./media/images/PaTaank (USA, Europe).png</image>
+		<video>./media/videos/PaTaank (USA, Europe).mp4</video>
+		<marquee>./media/wheel/PaTaank (USA, Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Paddock Note '95 (Japan).chd</path>
+		<name>Paddock Note '95 (Japan)</name>
+		<image>./media/images/Paddock Note '95 (Japan).png</image>
+		<video>./media/videos/Paddock Note '95 (Japan).mp4</video>
+		<marquee>./media/wheel/Paddock Note '95 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Paddock Note '95 (Japan) (Rev 1).chd</path>
+		<name>Paddock Note '95 (Japan) (Rev 1)</name>
+		<image>./media/images/Paddock Note '95 (Japan) (Rev 1).png</image>
+		<video>./media/videos/Paddock Note '95 (Japan) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Paddock Note '95 (Japan) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (Japan) (Rev 1).chd</path>
+		<name>Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (Japan) (Rev 1)</name>
+		<image>./media/images/Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (Japan) (Rev 1).png</image>
+		<video>./media/videos/Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (Japan) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (Japan) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (USA) (ZAZ).chd</path>
+		<name>Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (USA) (ZAZ)</name>
+		<image>./media/images/Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (USA) (ZAZ).png</image>
+		<video>./media/videos/Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (USA) (ZAZ).mp4</video>
+		<marquee>./media/wheel/Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (USA) (ZAZ).png</marquee>
+	</game>
+	<game>
+		<path>./Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (USA) (ZBZ).chd</path>
+		<name>Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (USA) (ZBZ)</name>
+		<image>./media/images/Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (USA) (ZBZ).png</image>
+		<video>./media/videos/Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (USA) (ZBZ).mp4</video>
+		<marquee>./media/wheel/Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (USA) (ZBZ).png</marquee>
+	</game>
+	<game>
+		<path>./Panasonic REAL 3DO Interactive Multiplayer - Sampler CD for PAL System (Europe) (Rev 1).chd</path>
+		<name>Panasonic REAL 3DO Interactive Multiplayer - Sampler CD for PAL System (Europe) (Rev 1)</name>
+		<image>./media/images/Panasonic REAL 3DO Interactive Multiplayer - Sampler CD for PAL System (Europe) (Rev 1).png</image>
+		<video>./media/videos/Panasonic REAL 3DO Interactive Multiplayer - Sampler CD for PAL System (Europe) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Panasonic REAL 3DO Interactive Multiplayer - Sampler CD for PAL System (Europe) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Panasonic Special CD-ROM (Japan).chd</path>
+		<name>Panasonic Special CD-ROM (Japan)</name>
+		<image>./media/images/Panasonic Special CD-ROM (Japan).png</image>
+		<video>./media/videos/Panasonic Special CD-ROM (Japan).mp4</video>
+		<marquee>./media/wheel/Panasonic Special CD-ROM (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Pebble Beach Golf Links (USA, Canada) (Rev 1).chd</path>
+		<name>Pebble Beach Golf Links (USA, Canada) (Rev 1)</name>
+		<image>./media/images/Pebble Beach Golf Links (USA, Canada) (Rev 1).png</image>
+		<video>./media/videos/Pebble Beach Golf Links (USA, Canada) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Pebble Beach Golf Links (USA, Canada) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Pebble Beach Golf Links (USA, Korea).chd</path>
+		<name>Pebble Beach Golf Links (USA, Korea)</name>
+		<image>./media/images/Pebble Beach Golf Links (USA, Korea).png</image>
+		<video>./media/videos/Pebble Beach Golf Links (USA, Korea).mp4</video>
+		<marquee>./media/wheel/Pebble Beach Golf Links (USA, Korea).png</marquee>
+	</game>
+	<game>
+		<path>./Penthouse Interactive - Virtual Photo Shoot Vol. 1 (Japan).chd</path>
+		<name>Penthouse Interactive - Virtual Photo Shoot Vol. 1 (Japan)</name>
+		<image>./media/images/Penthouse Interactive - Virtual Photo Shoot Vol. 1 (Japan).png</image>
+		<video>./media/videos/Penthouse Interactive - Virtual Photo Shoot Vol. 1 (Japan).mp4</video>
+		<marquee>./media/wheel/Penthouse Interactive - Virtual Photo Shoot Vol. 1 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Perfect General, The (USA).chd</path>
+		<name>Perfect General, The (USA)</name>
+		<image>./media/images/Perfect General, The (USA).png</image>
+		<video>./media/videos/Perfect General, The (USA).mp4</video>
+		<marquee>./media/wheel/Perfect General, The (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Perfect World - Combat in a Digital World (Japan).chd</path>
+		<name>Perfect World - Combat in a Digital World (Japan)</name>
+		<image>./media/images/Perfect World - Combat in a Digital World (Japan).png</image>
+		<video>./media/videos/Perfect World - Combat in a Digital World (Japan).mp4</video>
+		<marquee>./media/wheel/Perfect World - Combat in a Digital World (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Perfect World - Combat in a Digital World (Japan) (Demo).chd</path>
+		<name>Perfect World - Combat in a Digital World (Japan) (Demo)</name>
+		<image>./media/images/Perfect World - Combat in a Digital World (Japan) (Demo).png</image>
+		<video>./media/videos/Perfect World - Combat in a Digital World (Japan) (Demo).mp4</video>
+		<marquee>./media/wheel/Perfect World - Combat in a Digital World (Japan) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Peter Frankl - Puzzle no Tou (Japan).chd</path>
+		<name>Peter Frankl - Puzzle no Tou (Japan)</name>
+		<image>./media/images/Peter Frankl - Puzzle no Tou (Japan).png</image>
+		<video>./media/videos/Peter Frankl - Puzzle no Tou (Japan).mp4</video>
+		<marquee>./media/wheel/Peter Frankl - Puzzle no Tou (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Phoenix 3 (Europe).chd</path>
+		<name>Phoenix 3 (Europe)</name>
+		<image>./media/images/Phoenix 3 (Europe).png</image>
+		<video>./media/videos/Phoenix 3 (Europe).mp4</video>
+		<marquee>./media/wheel/Phoenix 3 (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Phoenix 3 (Europe) (Demo).chd</path>
+		<name>Phoenix 3 (Europe) (Demo)</name>
+		<image>./media/images/Phoenix 3 (Europe) (Demo).png</image>
+		<video>./media/videos/Phoenix 3 (Europe) (Demo).mp4</video>
+		<marquee>./media/wheel/Phoenix 3 (Europe) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Phoenix 3 (USA).chd</path>
+		<name>Phoenix 3 (USA)</name>
+		<image>./media/images/Phoenix 3 (USA).png</image>
+		<video>./media/videos/Phoenix 3 (USA).mp4</video>
+		<marquee>./media/wheel/Phoenix 3 (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Plumbers Don't Wear Ties (USA).chd</path>
+		<name>Plumbers Don't Wear Ties (USA)</name>
+		<image>./media/images/Plumbers Don't Wear Ties (USA).png</image>
+		<video>./media/videos/Plumbers Don't Wear Ties (USA).mp4</video>
+		<marquee>./media/wheel/Plumbers Don't Wear Ties (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Policenauts (Japan) (Disc 1).chd</path>
+		<name>Policenauts (Japan) (Disc 1)</name>
+		<image>./media/images/Policenauts (Japan) (Disc 1).png</image>
+		<video>./media/videos/Policenauts (Japan) (Disc 1).mp4</video>
+		<marquee>./media/wheel/Policenauts (Japan) (Disc 1).png</marquee>
+	</game>
+	<game>
+		<path>./Policenauts (Japan) (Disc 2).chd</path>
+		<name>Policenauts (Japan) (Disc 2)</name>
+		<image>./media/images/Policenauts (Japan) (Disc 2).png</image>
+		<video>./media/videos/Policenauts (Japan) (Disc 2).mp4</video>
+		<marquee>./media/wheel/Policenauts (Japan) (Disc 2).png</marquee>
+	</game>
+	<game>
+		<path>./Policenauts - Pilot Disk (Japan).chd</path>
+		<name>Policenauts - Pilot Disk (Japan)</name>
+		<image>./media/images/Policenauts - Pilot Disk (Japan).png</image>
+		<video>./media/videos/Policenauts - Pilot Disk (Japan).mp4</video>
+		<marquee>./media/wheel/Policenauts - Pilot Disk (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Powers Kingdom (Europe).chd</path>
+		<name>Powers Kingdom (Europe)</name>
+		<image>./media/images/Powers Kingdom (Europe).png</image>
+		<video>./media/videos/Powers Kingdom (Europe).mp4</video>
+		<marquee>./media/wheel/Powers Kingdom (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Powers Kingdom (Japan).chd</path>
+		<name>Powers Kingdom (Japan)</name>
+		<image>./media/images/Powers Kingdom (Japan).png</image>
+		<video>./media/videos/Powers Kingdom (Japan).mp4</video>
+		<marquee>./media/wheel/Powers Kingdom (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Powerslide (USA) (Unl).chd</path>
+		<name>Powerslide (USA) (Unl)</name>
+		<image>./media/images/Powerslide (USA) (Unl).png</image>
+		<video>./media/videos/Powerslide (USA) (Unl).mp4</video>
+		<marquee>./media/wheel/Powerslide (USA) (Unl).png</marquee>
+	</game>
+	<game>
+		<path>./Pretty Soldier SailorMoon S (Japan).chd</path>
+		<name>Pretty Soldier SailorMoon S (Japan)</name>
+		<image>./media/images/Pretty Soldier SailorMoon S (Japan).png</image>
+		<video>./media/videos/Pretty Soldier SailorMoon S (Japan).mp4</video>
+		<marquee>./media/wheel/Pretty Soldier SailorMoon S (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Pretty Soldier SailorMoon S (Japan) (Demo).chd</path>
+		<name>Pretty Soldier SailorMoon S (Japan) (Demo)</name>
+		<image>./media/images/Pretty Soldier SailorMoon S (Japan) (Demo).png</image>
+		<video>./media/videos/Pretty Soldier SailorMoon S (Japan) (Demo).mp4</video>
+		<marquee>./media/wheel/Pretty Soldier SailorMoon S (Japan) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Primal Rage (USA, Europe).chd</path>
+		<name>Primal Rage (USA, Europe)</name>
+		<image>./media/images/Primal Rage (USA, Europe).png</image>
+		<video>./media/videos/Primal Rage (USA, Europe).mp4</video>
+		<marquee>./media/wheel/Primal Rage (USA, Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Princess Maker 2 (Japan).chd</path>
+		<name>Princess Maker 2 (Japan)</name>
+		<image>./media/images/Princess Maker 2 (Japan).png</image>
+		<video>./media/videos/Princess Maker 2 (Japan).mp4</video>
+		<marquee>./media/wheel/Princess Maker 2 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Pro Stadium (Japan).chd</path>
+		<name>Pro Stadium (Japan)</name>
+		<image>./media/images/Pro Stadium (Japan).png</image>
+		<video>./media/videos/Pro Stadium (Japan).mp4</video>
+		<marquee>./media/wheel/Pro Stadium (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Pro Yakyuu Virtual Stadium - Professional Baseball (Japan).chd</path>
+		<name>Pro Yakyuu Virtual Stadium - Professional Baseball (Japan)</name>
+		<image>./media/images/Pro Yakyuu Virtual Stadium - Professional Baseball (Japan).png</image>
+		<video>./media/videos/Pro Yakyuu Virtual Stadium - Professional Baseball (Japan).mp4</video>
+		<marquee>./media/wheel/Pro Yakyuu Virtual Stadium - Professional Baseball (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Pro Yakyuu Virtual Stadium - Professional Baseball (Japan) (Demo).chd</path>
+		<name>Pro Yakyuu Virtual Stadium - Professional Baseball (Japan) (Demo)</name>
+		<image>./media/images/Pro Yakyuu Virtual Stadium - Professional Baseball (Japan) (Demo).png</image>
+		<video>./media/videos/Pro Yakyuu Virtual Stadium - Professional Baseball (Japan) (Demo).mp4</video>
+		<marquee>./media/wheel/Pro Yakyuu Virtual Stadium - Professional Baseball (Japan) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Psychic Detective (USA) (Disc 1).chd</path>
+		<name>Psychic Detective (USA) (Disc 1)</name>
+		<image>./media/images/Psychic Detective (USA) (Disc 1).png</image>
+		<video>./media/videos/Psychic Detective (USA) (Disc 1).mp4</video>
+		<marquee>./media/wheel/Psychic Detective (USA) (Disc 1).png</marquee>
+	</game>
+	<game>
+		<path>./Psychic Detective (USA) (Disc 2).chd</path>
+		<name>Psychic Detective (USA) (Disc 2)</name>
+		<image>./media/images/Psychic Detective (USA) (Disc 2).png</image>
+		<video>./media/videos/Psychic Detective (USA) (Disc 2).mp4</video>
+		<marquee>./media/wheel/Psychic Detective (USA) (Disc 2).png</marquee>
+	</game>
+	<game>
+		<path>./Psychic Detective (USA) (Disc 3).chd</path>
+		<name>Psychic Detective (USA) (Disc 3)</name>
+		<image>./media/images/Psychic Detective (USA) (Disc 3).png</image>
+		<video>./media/videos/Psychic Detective (USA) (Disc 3).mp4</video>
+		<marquee>./media/wheel/Psychic Detective (USA) (Disc 3).png</marquee>
+	</game>
+	<game>
+		<path>./Puppet Tale (Japan).chd</path>
+		<name>Puppet Tale (Japan)</name>
+		<image>./media/images/Puppet Tale (Japan).png</image>
+		<video>./media/videos/Puppet Tale (Japan).mp4</video>
+		<marquee>./media/wheel/Puppet Tale (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Putt-Putt Goes to the Moon (USA).chd</path>
+		<name>Putt-Putt Goes to the Moon (USA)</name>
+		<image>./media/images/Putt-Putt Goes to the Moon (USA).png</image>
+		<video>./media/videos/Putt-Putt Goes to the Moon (USA).mp4</video>
+		<marquee>./media/wheel/Putt-Putt Goes to the Moon (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Putt-Putt Joins the Parade (Japan) (En,Ja).chd</path>
+		<name>Putt-Putt Joins the Parade (Japan) (En,Ja)</name>
+		<image>./media/images/Putt-Putt Joins the Parade (Japan) (En,Ja).png</image>
+		<video>./media/videos/Putt-Putt Joins the Parade (Japan) (En,Ja).mp4</video>
+		<marquee>./media/wheel/Putt-Putt Joins the Parade (Japan) (En,Ja).png</marquee>
+	</game>
+	<game>
+		<path>./Putt-Putt Joins the Parade (USA).chd</path>
+		<name>Putt-Putt Joins the Parade (USA)</name>
+		<image>./media/images/Putt-Putt Joins the Parade (USA).png</image>
+		<video>./media/videos/Putt-Putt Joins the Parade (USA).mp4</video>
+		<marquee>./media/wheel/Putt-Putt Joins the Parade (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Putt-Putt's Fun Pack (Japan) (En,Ja).chd</path>
+		<name>Putt-Putt's Fun Pack (Japan) (En,Ja)</name>
+		<image>./media/images/Putt-Putt's Fun Pack (Japan) (En,Ja).png</image>
+		<video>./media/videos/Putt-Putt's Fun Pack (Japan) (En,Ja).mp4</video>
+		<marquee>./media/wheel/Putt-Putt's Fun Pack (Japan) (En,Ja).png</marquee>
+	</game>
+	<game>
+		<path>./Putt-Putt's Fun Pack (USA).chd</path>
+		<name>Putt-Putt's Fun Pack (USA)</name>
+		<image>./media/images/Putt-Putt's Fun Pack (USA).png</image>
+		<video>./media/videos/Putt-Putt's Fun Pack (USA).mp4</video>
+		<marquee>./media/wheel/Putt-Putt's Fun Pack (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Puzzle Bobble (Japan).chd</path>
+		<name>Puzzle Bobble (Japan)</name>
+		<image>./media/images/Puzzle Bobble (Japan).png</image>
+		<video>./media/videos/Puzzle Bobble (Japan).mp4</video>
+		<marquee>./media/wheel/Puzzle Bobble (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Puzzle Bobble (Japan) (Demo).chd</path>
+		<name>Puzzle Bobble (Japan) (Demo)</name>
+		<image>./media/images/Puzzle Bobble (Japan) (Demo).png</image>
+		<video>./media/videos/Puzzle Bobble (Japan) (Demo).mp4</video>
+		<marquee>./media/wheel/Puzzle Bobble (Japan) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Pyramid Intruder (Japan).chd</path>
+		<name>Pyramid Intruder (Japan)</name>
+		<image>./media/images/Pyramid Intruder (Japan).png</image>
+		<video>./media/videos/Pyramid Intruder (Japan).mp4</video>
+		<marquee>./media/wheel/Pyramid Intruder (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Quarantine (Japan, USA) (En,Ja,Fr,De,Es) (RE3).chd</path>
+		<name>Quarantine (Japan, USA) (En,Ja,Fr,De,Es) (RE3)</name>
+		<image>./media/images/Quarantine (Japan, USA) (En,Ja,Fr,De,Es) (RE3).png</image>
+		<video>./media/videos/Quarantine (Japan, USA) (En,Ja,Fr,De,Es) (RE3).mp4</video>
+		<marquee>./media/wheel/Quarantine (Japan, USA) (En,Ja,Fr,De,Es) (RE3).png</marquee>
+	</game>
+	<game>
+		<path>./Real Pinball (Canada).chd</path>
+		<name>Real Pinball (Canada)</name>
+		<image>./media/images/Real Pinball (Canada).png</image>
+		<video>./media/videos/Real Pinball (Canada).mp4</video>
+		<marquee>./media/wheel/Real Pinball (Canada).png</marquee>
+	</game>
+	<game>
+		<path>./Real Pinball (Europe).chd</path>
+		<name>Real Pinball (Europe)</name>
+		<image>./media/images/Real Pinball (Europe).png</image>
+		<video>./media/videos/Real Pinball (Europe).mp4</video>
+		<marquee>./media/wheel/Real Pinball (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Real Pinball (USA).chd</path>
+		<name>Real Pinball (USA)</name>
+		<image>./media/images/Real Pinball (USA).png</image>
+		<video>./media/videos/Real Pinball (USA).mp4</video>
+		<marquee>./media/wheel/Real Pinball (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Return Fire (Japan, Europe) (En,Ja,Fr,De,Es,It,Pt,Ko,Ru,Ar).chd</path>
+		<name>Return Fire (Japan, Europe) (En,Ja,Fr,De,Es,It,Pt,Ko,Ru,Ar)</name>
+		<image>./media/images/Return Fire (Japan, Europe) (En,Ja,Fr,De,Es,It,Pt,Ko,Ru,Ar).png</image>
+		<video>./media/videos/Return Fire (Japan, Europe) (En,Ja,Fr,De,Es,It,Pt,Ko,Ru,Ar).mp4</video>
+		<marquee>./media/wheel/Return Fire (Japan, Europe) (En,Ja,Fr,De,Es,It,Pt,Ko,Ru,Ar).png</marquee>
+	</game>
+	<game>
+		<path>./Return Fire (USA).chd</path>
+		<name>Return Fire (USA)</name>
+		<image>./media/images/Return Fire (USA).png</image>
+		<video>./media/videos/Return Fire (USA).mp4</video>
+		<marquee>./media/wheel/Return Fire (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Return Fire (USA, Europe).chd</path>
+		<name>Return Fire (USA, Europe)</name>
+		<image>./media/images/Return Fire (USA, Europe).png</image>
+		<video>./media/videos/Return Fire (USA, Europe).mp4</video>
+		<marquee>./media/wheel/Return Fire (USA, Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Return Fire - Maps O' Death (Europe).chd</path>
+		<name>Return Fire - Maps O' Death (Europe)</name>
+		<image>./media/images/Return Fire - Maps O' Death (Europe).png</image>
+		<video>./media/videos/Return Fire - Maps O' Death (Europe).mp4</video>
+		<marquee>./media/wheel/Return Fire - Maps O' Death (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Return Fire - Maps O' Death (USA).chd</path>
+		<name>Return Fire - Maps O' Death (USA)</name>
+		<image>./media/images/Return Fire - Maps O' Death (USA).png</image>
+		<video>./media/videos/Return Fire - Maps O' Death (USA).mp4</video>
+		<marquee>./media/wheel/Return Fire - Maps O' Death (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Rise of the Robots (Europe).chd</path>
+		<name>Rise of the Robots (Europe)</name>
+		<image>./media/images/Rise of the Robots (Europe).png</image>
+		<video>./media/videos/Rise of the Robots (Europe).mp4</video>
+		<marquee>./media/wheel/Rise of the Robots (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Rise of the Robots (USA).chd</path>
+		<name>Rise of the Robots (USA)</name>
+		<image>./media/images/Rise of the Robots (USA).png</image>
+		<video>./media/videos/Rise of the Robots (USA).mp4</video>
+		<marquee>./media/wheel/Rise of the Robots (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Road &amp; Track Presents - OverDrivin' (Japan).chd</path>
+		<name>Road &amp; Track Presents - OverDrivin' (Japan)</name>
+		<image>./media/images/Road &amp; Track Presents - OverDrivin' (Japan).png</image>
+		<video>./media/videos/Road &amp; Track Presents - OverDrivin' (Japan).mp4</video>
+		<marquee>./media/wheel/Road &amp; Track Presents - OverDrivin' (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Road &amp; Track Presents - The Need for Speed (USA, Europe).chd</path>
+		<name>Road &amp; Track Presents - The Need for Speed (USA, Europe)</name>
+		<image>./media/images/Road &amp; Track Presents - The Need for Speed (USA, Europe).png</image>
+		<video>./media/videos/Road &amp; Track Presents - The Need for Speed (USA, Europe).mp4</video>
+		<marquee>./media/wheel/Road &amp; Track Presents - The Need for Speed (USA, Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Road Rash (Europe).chd</path>
+		<name>Road Rash (Europe)</name>
+		<image>./media/images/Road Rash (Europe).png</image>
+		<video>./media/videos/Road Rash (Europe).mp4</video>
+		<marquee>./media/wheel/Road Rash (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Road Rash (Europe) (Rev 1).chd</path>
+		<name>Road Rash (Europe) (Rev 1)</name>
+		<image>./media/images/Road Rash (Europe) (Rev 1).png</image>
+		<video>./media/videos/Road Rash (Europe) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Road Rash (Europe) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Road Rash (Japan).chd</path>
+		<name>Road Rash (Japan)</name>
+		<image>./media/images/Road Rash (Japan).png</image>
+		<video>./media/videos/Road Rash (Japan).mp4</video>
+		<marquee>./media/wheel/Road Rash (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Road Rash (Japan) (Demo).chd</path>
+		<name>Road Rash (Japan) (Demo)</name>
+		<image>./media/images/Road Rash (Japan) (Demo).png</image>
+		<video>./media/videos/Road Rash (Japan) (Demo).mp4</video>
+		<marquee>./media/wheel/Road Rash (Japan) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Road Rash (USA).chd</path>
+		<name>Road Rash (USA)</name>
+		<image>./media/images/Road Rash (USA).png</image>
+		<video>./media/videos/Road Rash (USA).mp4</video>
+		<marquee>./media/wheel/Road Rash (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Robinson's Requiem (USA).chd</path>
+		<name>Robinson's Requiem (USA)</name>
+		<image>./media/images/Robinson's Requiem (USA).png</image>
+		<video>./media/videos/Robinson's Requiem (USA).mp4</video>
+		<marquee>./media/wheel/Robinson's Requiem (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Royal Pro Wrestling - Jikkyou Live!! (Japan).chd</path>
+		<name>Royal Pro Wrestling - Jikkyou Live!! (Japan)</name>
+		<image>./media/images/Royal Pro Wrestling - Jikkyou Live!! (Japan).png</image>
+		<video>./media/videos/Royal Pro Wrestling - Jikkyou Live!! (Japan).mp4</video>
+		<marquee>./media/wheel/Royal Pro Wrestling - Jikkyou Live!! (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./SHADOW - War of Succession (USA).chd</path>
+		<name>SHADOW - War of Succession (USA)</name>
+		<image>./media/images/SHADOW - War of Succession (USA).png</image>
+		<video>./media/videos/SHADOW - War of Succession (USA).mp4</video>
+		<marquee>./media/wheel/SHADOW - War of Succession (USA).png</marquee>
+	</game>
+	<game>
+		<path>./SHADOW Warriors (Japan).chd</path>
+		<name>SHADOW Warriors (Japan)</name>
+		<image>./media/images/SHADOW Warriors (Japan).png</image>
+		<video>./media/videos/SHADOW Warriors (Japan).mp4</video>
+		<marquee>./media/wheel/SHADOW Warriors (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Samurai Shodown (Japan) (En,Ja).chd</path>
+		<name>Samurai Shodown (Japan) (En,Ja)</name>
+		<image>./media/images/Samurai Shodown (Japan) (En,Ja).png</image>
+		<video>./media/videos/Samurai Shodown (Japan) (En,Ja).mp4</video>
+		<marquee>./media/wheel/Samurai Shodown (Japan) (En,Ja).png</marquee>
+	</game>
+	<game>
+		<path>./Samurai Shodown (USA, Europe).chd</path>
+		<name>Samurai Shodown (USA, Europe)</name>
+		<image>./media/images/Samurai Shodown (USA, Europe).png</image>
+		<video>./media/videos/Samurai Shodown (USA, Europe).mp4</video>
+		<marquee>./media/wheel/Samurai Shodown (USA, Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Sangokushi IV (Japan).chd</path>
+		<name>Sangokushi IV (Japan)</name>
+		<image>./media/images/Sangokushi IV (Japan).png</image>
+		<video>./media/videos/Sangokushi IV (Japan).mp4</video>
+		<marquee>./media/wheel/Sangokushi IV (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Scramble Cobra (Europe).chd</path>
+		<name>Scramble Cobra (Europe)</name>
+		<image>./media/images/Scramble Cobra (Europe).png</image>
+		<video>./media/videos/Scramble Cobra (Europe).mp4</video>
+		<marquee>./media/wheel/Scramble Cobra (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Scramble Cobra (Japan).chd</path>
+		<name>Scramble Cobra (Japan)</name>
+		<image>./media/images/Scramble Cobra (Japan).png</image>
+		<video>./media/videos/Scramble Cobra (Japan).mp4</video>
+		<marquee>./media/wheel/Scramble Cobra (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Scramble Cobra (Japan) (Demo).chd</path>
+		<name>Scramble Cobra (Japan) (Demo)</name>
+		<image>./media/images/Scramble Cobra (Japan) (Demo).png</image>
+		<video>./media/videos/Scramble Cobra (Japan) (Demo).mp4</video>
+		<marquee>./media/wheel/Scramble Cobra (Japan) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Scramble Cobra (USA).chd</path>
+		<name>Scramble Cobra (USA)</name>
+		<image>./media/images/Scramble Cobra (USA).png</image>
+		<video>./media/videos/Scramble Cobra (USA).mp4</video>
+		<marquee>./media/wheel/Scramble Cobra (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Seal of the Pharaoh (USA).chd</path>
+		<name>Seal of the Pharaoh (USA)</name>
+		<image>./media/images/Seal of the Pharaoh (USA).png</image>
+		<video>./media/videos/Seal of the Pharaoh (USA).mp4</video>
+		<marquee>./media/wheel/Seal of the Pharaoh (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Secre Fuumin no Omochabako (Japan).chd</path>
+		<name>Secre Fuumin no Omochabako (Japan)</name>
+		<image>./media/images/Secre Fuumin no Omochabako (Japan).png</image>
+		<video>./media/videos/Secre Fuumin no Omochabako (Japan).mp4</video>
+		<marquee>./media/wheel/Secre Fuumin no Omochabako (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Seimei Handan (Japan).chd</path>
+		<name>Seimei Handan (Japan)</name>
+		<image>./media/images/Seimei Handan (Japan).png</image>
+		<video>./media/videos/Seimei Handan (Japan).mp4</video>
+		<marquee>./media/wheel/Seimei Handan (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Sento Monogatari - Sono I (Japan).chd</path>
+		<name>Sento Monogatari - Sono I (Japan)</name>
+		<image>./media/images/Sento Monogatari - Sono I (Japan).png</image>
+		<video>./media/videos/Sento Monogatari - Sono I (Japan).mp4</video>
+		<marquee>./media/wheel/Sento Monogatari - Sono I (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Sesame Street - Numbers (Japan).chd</path>
+		<name>Sesame Street - Numbers (Japan)</name>
+		<image>./media/images/Sesame Street - Numbers (Japan).png</image>
+		<video>./media/videos/Sesame Street - Numbers (Japan).mp4</video>
+		<marquee>./media/wheel/Sesame Street - Numbers (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Sesame Street - Numbers (USA).chd</path>
+		<name>Sesame Street - Numbers (USA)</name>
+		<image>./media/images/Sesame Street - Numbers (USA).png</image>
+		<video>./media/videos/Sesame Street - Numbers (USA).mp4</video>
+		<marquee>./media/wheel/Sesame Street - Numbers (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Sewer Shark (USA).chd</path>
+		<name>Sewer Shark (USA)</name>
+		<image>./media/images/Sewer Shark (USA).png</image>
+		<video>./media/videos/Sewer Shark (USA).mp4</video>
+		<marquee>./media/wheel/Sewer Shark (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Sex (USA).chd</path>
+		<name>Sex (USA)</name>
+		<image>./media/images/Sex (USA).png</image>
+		<video>./media/videos/Sex (USA).mp4</video>
+		<marquee>./media/wheel/Sex (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Shanghai - Banri no Choujou - The Great Wall (Japan) (Rev 1).chd</path>
+		<name>Shanghai - Banri no Choujou - The Great Wall (Japan) (Rev 1)</name>
+		<image>./media/images/Shanghai - Banri no Choujou - The Great Wall (Japan) (Rev 1).png</image>
+		<video>./media/videos/Shanghai - Banri no Choujou - The Great Wall (Japan) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Shanghai - Banri no Choujou - The Great Wall (Japan) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Shanghai - Triple-Threat (USA).chd</path>
+		<name>Shanghai - Triple-Threat (USA)</name>
+		<image>./media/images/Shanghai - Triple-Threat (USA).png</image>
+		<video>./media/videos/Shanghai - Triple-Threat (USA).mp4</video>
+		<marquee>./media/wheel/Shanghai - Triple-Threat (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Shanghai - Triple-Threat (USA) (3DO Action Pak).chd</path>
+		<name>Shanghai - Triple-Threat (USA) (3DO Action Pak)</name>
+		<image>./media/images/Shanghai - Triple-Threat (USA) (3DO Action Pak).png</image>
+		<video>./media/videos/Shanghai - Triple-Threat (USA) (3DO Action Pak).mp4</video>
+		<marquee>./media/wheel/Shanghai - Triple-Threat (USA) (3DO Action Pak).png</marquee>
+	</game>
+	<game>
+		<path>./Shelley Duvall's It's a Bird's Life (USA).chd</path>
+		<name>Shelley Duvall's It's a Bird's Life (USA)</name>
+		<image>./media/images/Shelley Duvall's It's a Bird's Life (USA).png</image>
+		<video>./media/videos/Shelley Duvall's It's a Bird's Life (USA).mp4</video>
+		<marquee>./media/wheel/Shelley Duvall's It's a Bird's Life (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Shock Wave (Europe).chd</path>
+		<name>Shock Wave (Europe)</name>
+		<image>./media/images/Shock Wave (Europe).png</image>
+		<video>./media/videos/Shock Wave (Europe).mp4</video>
+		<marquee>./media/wheel/Shock Wave (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Shock Wave (Japan).chd</path>
+		<name>Shock Wave (Japan)</name>
+		<image>./media/images/Shock Wave (Japan).png</image>
+		<video>./media/videos/Shock Wave (Japan).mp4</video>
+		<marquee>./media/wheel/Shock Wave (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Shock Wave (Japan) (Demo).chd</path>
+		<name>Shock Wave (Japan) (Demo)</name>
+		<image>./media/images/Shock Wave (Japan) (Demo).png</image>
+		<video>./media/videos/Shock Wave (Japan) (Demo).mp4</video>
+		<marquee>./media/wheel/Shock Wave (Japan) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Shock Wave (USA) (RE1).chd</path>
+		<name>Shock Wave (USA) (RE1)</name>
+		<image>./media/images/Shock Wave (USA) (RE1).png</image>
+		<video>./media/videos/Shock Wave (USA) (RE1).mp4</video>
+		<marquee>./media/wheel/Shock Wave (USA) (RE1).png</marquee>
+	</game>
+	<game>
+		<path>./Shock Wave (USA) (RE2).chd</path>
+		<name>Shock Wave (USA) (RE2)</name>
+		<image>./media/images/Shock Wave (USA) (RE2).png</image>
+		<video>./media/videos/Shock Wave (USA) (RE2).mp4</video>
+		<marquee>./media/wheel/Shock Wave (USA) (RE2).png</marquee>
+	</game>
+	<game>
+		<path>./Shock Wave - Operation JumpGate (Japan).chd</path>
+		<name>Shock Wave - Operation JumpGate (Japan)</name>
+		<image>./media/images/Shock Wave - Operation JumpGate (Japan).png</image>
+		<video>./media/videos/Shock Wave - Operation JumpGate (Japan).mp4</video>
+		<marquee>./media/wheel/Shock Wave - Operation JumpGate (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Shock Wave - Operation JumpGate (Japan) (Demo).chd</path>
+		<name>Shock Wave - Operation JumpGate (Japan) (Demo)</name>
+		<image>./media/images/Shock Wave - Operation JumpGate (Japan) (Demo).png</image>
+		<video>./media/videos/Shock Wave - Operation JumpGate (Japan) (Demo).mp4</video>
+		<marquee>./media/wheel/Shock Wave - Operation JumpGate (Japan) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Shock Wave - Operation JumpGate (USA, Europe).chd</path>
+		<name>Shock Wave - Operation JumpGate (USA, Europe)</name>
+		<image>./media/images/Shock Wave - Operation JumpGate (USA, Europe).png</image>
+		<video>./media/videos/Shock Wave - Operation JumpGate (USA, Europe).mp4</video>
+		<marquee>./media/wheel/Shock Wave - Operation JumpGate (USA, Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Shockwave 2 - Beyond the Gate (Europe) (Disc 1).chd</path>
+		<name>Shockwave 2 - Beyond the Gate (Europe) (Disc 1)</name>
+		<image>./media/images/Shockwave 2 - Beyond the Gate (Europe) (Disc 1).png</image>
+		<video>./media/videos/Shockwave 2 - Beyond the Gate (Europe) (Disc 1).mp4</video>
+		<marquee>./media/wheel/Shockwave 2 - Beyond the Gate (Europe) (Disc 1).png</marquee>
+	</game>
+	<game>
+		<path>./Shockwave 2 - Beyond the Gate (Europe) (Disc 2).chd</path>
+		<name>Shockwave 2 - Beyond the Gate (Europe) (Disc 2)</name>
+		<image>./media/images/Shockwave 2 - Beyond the Gate (Europe) (Disc 2).png</image>
+		<video>./media/videos/Shockwave 2 - Beyond the Gate (Europe) (Disc 2).mp4</video>
+		<marquee>./media/wheel/Shockwave 2 - Beyond the Gate (Europe) (Disc 2).png</marquee>
+	</game>
+	<game>
+		<path>./Shockwave 2 - Beyond the Gate (USA) (Disc 01).chd</path>
+		<name>Shockwave 2 - Beyond the Gate (USA) (Disc 01)</name>
+		<image>./media/images/Shockwave 2 - Beyond the Gate (USA) (Disc 01).png</image>
+		<video>./media/videos/Shockwave 2 - Beyond the Gate (USA) (Disc 01).mp4</video>
+		<marquee>./media/wheel/Shockwave 2 - Beyond the Gate (USA) (Disc 01).png</marquee>
+	</game>
+	<game>
+		<path>./Shockwave 2 - Beyond the Gate (USA) (Disc 02).chd</path>
+		<name>Shockwave 2 - Beyond the Gate (USA) (Disc 02)</name>
+		<image>./media/images/Shockwave 2 - Beyond the Gate (USA) (Disc 02).png</image>
+		<video>./media/videos/Shockwave 2 - Beyond the Gate (USA) (Disc 02).mp4</video>
+		<marquee>./media/wheel/Shockwave 2 - Beyond the Gate (USA) (Disc 02).png</marquee>
+	</game>
+	<game>
+		<path>./Short Warp - Warp's Short Game Collection (Japan).chd</path>
+		<name>Short Warp - Warp's Short Game Collection (Japan)</name>
+		<image>./media/images/Short Warp - Warp's Short Game Collection (Japan).png</image>
+		<video>./media/videos/Short Warp - Warp's Short Game Collection (Japan).mp4</video>
+		<marquee>./media/wheel/Short Warp - Warp's Short Game Collection (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Sid Meier's C.P.U. Bach (USA).chd</path>
+		<name>Sid Meier's C.P.U. Bach (USA)</name>
+		<image>./media/images/Sid Meier's C.P.U. Bach (USA).png</image>
+		<video>./media/videos/Sid Meier's C.P.U. Bach (USA).mp4</video>
+		<marquee>./media/wheel/Sid Meier's C.P.U. Bach (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Slam 'n Jam '95 (Japan).chd</path>
+		<name>Slam 'n Jam '95 (Japan)</name>
+		<image>./media/images/Slam 'n Jam '95 (Japan).png</image>
+		<video>./media/videos/Slam 'n Jam '95 (Japan).mp4</video>
+		<marquee>./media/wheel/Slam 'n Jam '95 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Slam 'n Jam '95 (USA, Europe).chd</path>
+		<name>Slam 'n Jam '95 (USA, Europe)</name>
+		<image>./media/images/Slam 'n Jam '95 (USA, Europe).png</image>
+		<video>./media/videos/Slam 'n Jam '95 (USA, Europe).mp4</video>
+		<marquee>./media/wheel/Slam 'n Jam '95 (USA, Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Slayer (Europe).chd</path>
+		<name>Slayer (Europe)</name>
+		<image>./media/images/Slayer (Europe).png</image>
+		<video>./media/videos/Slayer (Europe).mp4</video>
+		<marquee>./media/wheel/Slayer (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Slayer (USA).chd</path>
+		<name>Slayer (USA)</name>
+		<image>./media/images/Slayer (USA).png</image>
+		<video>./media/videos/Slayer (USA).mp4</video>
+		<marquee>./media/wheel/Slayer (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Slayer (USA) (3DO Action Pak).chd</path>
+		<name>Slayer (USA) (3DO Action Pak)</name>
+		<image>./media/images/Slayer (USA) (3DO Action Pak).png</image>
+		<video>./media/videos/Slayer (USA) (3DO Action Pak).mp4</video>
+		<marquee>./media/wheel/Slayer (USA) (3DO Action Pak).png</marquee>
+	</game>
+	<game>
+		<path>./Slopestyle - An Interactive Learning Cube (USA).chd</path>
+		<name>Slopestyle - An Interactive Learning Cube (USA)</name>
+		<image>./media/images/Slopestyle - An Interactive Learning Cube (USA).png</image>
+		<video>./media/videos/Slopestyle - An Interactive Learning Cube (USA).mp4</video>
+		<marquee>./media/wheel/Slopestyle - An Interactive Learning Cube (USA).png</marquee>
+	</game>
+	<game>
+		<path>./SnowJob (Europe) (Disc 1).chd</path>
+		<name>SnowJob (Europe) (Disc 1)</name>
+		<image>./media/images/SnowJob (Europe) (Disc 1).png</image>
+		<video>./media/videos/SnowJob (Europe) (Disc 1).mp4</video>
+		<marquee>./media/wheel/SnowJob (Europe) (Disc 1).png</marquee>
+	</game>
+	<game>
+		<path>./SnowJob (Europe) (Disc 2).chd</path>
+		<name>SnowJob (Europe) (Disc 2)</name>
+		<image>./media/images/SnowJob (Europe) (Disc 2).png</image>
+		<video>./media/videos/SnowJob (Europe) (Disc 2).mp4</video>
+		<marquee>./media/wheel/SnowJob (Europe) (Disc 2).png</marquee>
+	</game>
+	<game>
+		<path>./Soccer Kid (Europe).chd</path>
+		<name>Soccer Kid (Europe)</name>
+		<image>./media/images/Soccer Kid (Europe).png</image>
+		<video>./media/videos/Soccer Kid (Europe).mp4</video>
+		<marquee>./media/wheel/Soccer Kid (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Soccer Kid (USA).chd</path>
+		<name>Soccer Kid (USA)</name>
+		<image>./media/images/Soccer Kid (USA).png</image>
+		<video>./media/videos/Soccer Kid (USA).mp4</video>
+		<marquee>./media/wheel/Soccer Kid (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Sotsugyou - Graduation - Final (Japan).chd</path>
+		<name>Sotsugyou - Graduation - Final (Japan)</name>
+		<image>./media/images/Sotsugyou - Graduation - Final (Japan).png</image>
+		<video>./media/videos/Sotsugyou - Graduation - Final (Japan).mp4</video>
+		<marquee>./media/wheel/Sotsugyou - Graduation - Final (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Sotsugyou - Graduation - Final (Japan) (Demo).chd</path>
+		<name>Sotsugyou - Graduation - Final (Japan) (Demo)</name>
+		<image>./media/images/Sotsugyou - Graduation - Final (Japan) (Demo).png</image>
+		<video>./media/videos/Sotsugyou - Graduation - Final (Japan) (Demo).mp4</video>
+		<marquee>./media/wheel/Sotsugyou - Graduation - Final (Japan) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Sotsugyou II Special - Neo Generation (Japan).chd</path>
+		<name>Sotsugyou II Special - Neo Generation (Japan)</name>
+		<image>./media/images/Sotsugyou II Special - Neo Generation (Japan).png</image>
+		<video>./media/videos/Sotsugyou II Special - Neo Generation (Japan).mp4</video>
+		<marquee>./media/wheel/Sotsugyou II Special - Neo Generation (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Space Ace (Europe) (Demo).chd</path>
+		<name>Space Ace (Europe) (Demo)</name>
+		<image>./media/images/Space Ace (Europe) (Demo).png</image>
+		<video>./media/videos/Space Ace (Europe) (Demo).mp4</video>
+		<marquee>./media/wheel/Space Ace (Europe) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Space Ace (USA).chd</path>
+		<name>Space Ace (USA)</name>
+		<image>./media/images/Space Ace (USA).png</image>
+		<video>./media/videos/Space Ace (USA).mp4</video>
+		<marquee>./media/wheel/Space Ace (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Space Hulk - Vengeance of the Blood Angels (Europe).chd</path>
+		<name>Space Hulk - Vengeance of the Blood Angels (Europe)</name>
+		<image>./media/images/Space Hulk - Vengeance of the Blood Angels (Europe).png</image>
+		<video>./media/videos/Space Hulk - Vengeance of the Blood Angels (Europe).mp4</video>
+		<marquee>./media/wheel/Space Hulk - Vengeance of the Blood Angels (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Space Hulk - Vengeance of the Blood Angels (USA).chd</path>
+		<name>Space Hulk - Vengeance of the Blood Angels (USA)</name>
+		<image>./media/images/Space Hulk - Vengeance of the Blood Angels (USA).png</image>
+		<video>./media/videos/Space Hulk - Vengeance of the Blood Angels (USA).mp4</video>
+		<marquee>./media/wheel/Space Hulk - Vengeance of the Blood Angels (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Space Pirates (USA).chd</path>
+		<name>Space Pirates (USA)</name>
+		<image>./media/images/Space Pirates (USA).png</image>
+		<video>./media/videos/Space Pirates (USA).mp4</video>
+		<marquee>./media/wheel/Space Pirates (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Space Shuttle (USA).chd</path>
+		<name>Space Shuttle (USA)</name>
+		<image>./media/images/Space Shuttle (USA).png</image>
+		<video>./media/videos/Space Shuttle (USA).mp4</video>
+		<marquee>./media/wheel/Space Shuttle (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Star Control II (USA).chd</path>
+		<name>Star Control II (USA)</name>
+		<image>./media/images/Star Control II (USA).png</image>
+		<video>./media/videos/Star Control II (USA).mp4</video>
+		<marquee>./media/wheel/Star Control II (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Star Control II - The Ur-Quan Masters (Japan).chd</path>
+		<name>Star Control II - The Ur-Quan Masters (Japan)</name>
+		<image>./media/images/Star Control II - The Ur-Quan Masters (Japan).png</image>
+		<video>./media/videos/Star Control II - The Ur-Quan Masters (Japan).mp4</video>
+		<marquee>./media/wheel/Star Control II - The Ur-Quan Masters (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Star Fighter (Europe) (Demo).chd</path>
+		<name>Star Fighter (Europe) (Demo)</name>
+		<image>./media/images/Star Fighter (Europe) (Demo).png</image>
+		<video>./media/videos/Star Fighter (Europe) (Demo).mp4</video>
+		<marquee>./media/wheel/Star Fighter (Europe) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Star Fighter (USA, Europe).chd</path>
+		<name>Star Fighter (USA, Europe)</name>
+		<image>./media/images/Star Fighter (USA, Europe).png</image>
+		<video>./media/videos/Star Fighter (USA, Europe).mp4</video>
+		<marquee>./media/wheel/Star Fighter (USA, Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Star Wars - Rebel Assault (Japan).chd</path>
+		<name>Star Wars - Rebel Assault (Japan)</name>
+		<image>./media/images/Star Wars - Rebel Assault (Japan).png</image>
+		<video>./media/videos/Star Wars - Rebel Assault (Japan).mp4</video>
+		<marquee>./media/wheel/Star Wars - Rebel Assault (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Star Wars - Rebel Assault (USA, Europe).chd</path>
+		<name>Star Wars - Rebel Assault (USA, Europe)</name>
+		<image>./media/images/Star Wars - Rebel Assault (USA, Europe).png</image>
+		<video>./media/videos/Star Wars - Rebel Assault (USA, Europe).mp4</video>
+		<marquee>./media/wheel/Star Wars - Rebel Assault (USA, Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Starblade (Canada).chd</path>
+		<name>Starblade (Canada)</name>
+		<image>./media/images/Starblade (Canada).png</image>
+		<video>./media/videos/Starblade (Canada).mp4</video>
+		<marquee>./media/wheel/Starblade (Canada).png</marquee>
+	</game>
+	<game>
+		<path>./Starblade (Europe, Germany).chd</path>
+		<name>Starblade (Europe, Germany)</name>
+		<image>./media/images/Starblade (Europe, Germany).png</image>
+		<video>./media/videos/Starblade (Europe, Germany).mp4</video>
+		<marquee>./media/wheel/Starblade (Europe, Germany).png</marquee>
+	</game>
+	<game>
+		<path>./Starblade (Japan).chd</path>
+		<name>Starblade (Japan)</name>
+		<image>./media/images/Starblade (Japan).png</image>
+		<video>./media/videos/Starblade (Japan).mp4</video>
+		<marquee>./media/wheel/Starblade (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Starblade (Japan) (Demo).chd</path>
+		<name>Starblade (Japan) (Demo)</name>
+		<image>./media/images/Starblade (Japan) (Demo).png</image>
+		<video>./media/videos/Starblade (Japan) (Demo).mp4</video>
+		<marquee>./media/wheel/Starblade (Japan) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Starblade (USA).chd</path>
+		<name>Starblade (USA)</name>
+		<image>./media/images/Starblade (USA).png</image>
+		<video>./media/videos/Starblade (USA).mp4</video>
+		<marquee>./media/wheel/Starblade (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Stellar 7 - Draxon's Revenge (Japan).chd</path>
+		<name>Stellar 7 - Draxon's Revenge (Japan)</name>
+		<image>./media/images/Stellar 7 - Draxon's Revenge (Japan).png</image>
+		<video>./media/videos/Stellar 7 - Draxon's Revenge (Japan).mp4</video>
+		<marquee>./media/wheel/Stellar 7 - Draxon's Revenge (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Stellar 7 - Draxon's Revenge (USA).chd</path>
+		<name>Stellar 7 - Draxon's Revenge (USA)</name>
+		<image>./media/images/Stellar 7 - Draxon's Revenge (USA).png</image>
+		<video>./media/videos/Stellar 7 - Draxon's Revenge (USA).mp4</video>
+		<marquee>./media/wheel/Stellar 7 - Draxon's Revenge (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Step Aerobics (USA).chd</path>
+		<name>Step Aerobics (USA)</name>
+		<image>./media/images/Step Aerobics (USA).png</image>
+		<video>./media/videos/Step Aerobics (USA).mp4</video>
+		<marquee>./media/wheel/Step Aerobics (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Storage Manager - Memory Kanri (Japan).chd</path>
+		<name>Storage Manager - Memory Kanri (Japan)</name>
+		<image>./media/images/Storage Manager - Memory Kanri (Japan).png</image>
+		<video>./media/videos/Storage Manager - Memory Kanri (Japan).mp4</video>
+		<marquee>./media/wheel/Storage Manager - Memory Kanri (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Strahl (Japan).chd</path>
+		<name>Strahl (Japan)</name>
+		<image>./media/images/Strahl (Japan).png</image>
+		<video>./media/videos/Strahl (Japan).mp4</video>
+		<marquee>./media/wheel/Strahl (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Strahl (USA).chd</path>
+		<name>Strahl (USA)</name>
+		<image>./media/images/Strahl (USA).png</image>
+		<video>./media/videos/Strahl (USA).mp4</video>
+		<marquee>./media/wheel/Strahl (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Striker - World Cup Special (Europe).chd</path>
+		<name>Striker - World Cup Special (Europe)</name>
+		<image>./media/images/Striker - World Cup Special (Europe).png</image>
+		<video>./media/videos/Striker - World Cup Special (Europe).mp4</video>
+		<marquee>./media/wheel/Striker - World Cup Special (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Super Model, The - Gail McKenna (Japan).chd</path>
+		<name>Super Model, The - Gail McKenna (Japan)</name>
+		<image>./media/images/Super Model, The - Gail McKenna (Japan).png</image>
+		<video>./media/videos/Super Model, The - Gail McKenna (Japan).mp4</video>
+		<marquee>./media/wheel/Super Model, The - Gail McKenna (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Super Real Mahjong P.V (Japan).chd</path>
+		<name>Super Real Mahjong P.V (Japan)</name>
+		<image>./media/images/Super Real Mahjong P.V (Japan).png</image>
+		<video>./media/videos/Super Real Mahjong P.V (Japan).mp4</video>
+		<marquee>./media/wheel/Super Real Mahjong P.V (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Super Real Mahjong PIV + Aishou Shindan (Japan).chd</path>
+		<name>Super Real Mahjong PIV + Aishou Shindan (Japan)</name>
+		<image>./media/images/Super Real Mahjong PIV + Aishou Shindan (Japan).png</image>
+		<video>./media/videos/Super Real Mahjong PIV + Aishou Shindan (Japan).mp4</video>
+		<marquee>./media/wheel/Super Real Mahjong PIV + Aishou Shindan (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Super Street Fighter II Turbo (Europe).chd</path>
+		<name>Super Street Fighter II Turbo (Europe)</name>
+		<image>./media/images/Super Street Fighter II Turbo (Europe).png</image>
+		<video>./media/videos/Super Street Fighter II Turbo (Europe).mp4</video>
+		<marquee>./media/wheel/Super Street Fighter II Turbo (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Super Street Fighter II Turbo (Europe) (Demo) (3DO Magazine - Issue 10).chd</path>
+		<name>Super Street Fighter II Turbo (Europe) (Demo) (3DO Magazine - Issue 10)</name>
+		<image>./media/images/Super Street Fighter II Turbo (Europe) (Demo) (3DO Magazine - Issue 10).png</image>
+		<video>./media/videos/Super Street Fighter II Turbo (Europe) (Demo) (3DO Magazine - Issue 10).mp4</video>
+		<marquee>./media/wheel/Super Street Fighter II Turbo (Europe) (Demo) (3DO Magazine - Issue 10).png</marquee>
+	</game>
+	<game>
+		<path>./Super Street Fighter II Turbo (Germany).chd</path>
+		<name>Super Street Fighter II Turbo (Germany)</name>
+		<image>./media/images/Super Street Fighter II Turbo (Germany).png</image>
+		<video>./media/videos/Super Street Fighter II Turbo (Germany).mp4</video>
+		<marquee>./media/wheel/Super Street Fighter II Turbo (Germany).png</marquee>
+	</game>
+	<game>
+		<path>./Super Street Fighter II Turbo (USA).chd</path>
+		<name>Super Street Fighter II Turbo (USA)</name>
+		<image>./media/images/Super Street Fighter II Turbo (USA).png</image>
+		<video>./media/videos/Super Street Fighter II Turbo (USA).mp4</video>
+		<marquee>./media/wheel/Super Street Fighter II Turbo (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Super Street Fighter II Turbo (USA) (RE2).chd</path>
+		<name>Super Street Fighter II Turbo (USA) (RE2)</name>
+		<image>./media/images/Super Street Fighter II Turbo (USA) (RE2).png</image>
+		<video>./media/videos/Super Street Fighter II Turbo (USA) (RE2).mp4</video>
+		<marquee>./media/wheel/Super Street Fighter II Turbo (USA) (RE2).png</marquee>
+	</game>
+	<game>
+		<path>./Super Street Fighter II Turbo (USA, Canada) (RE1).chd</path>
+		<name>Super Street Fighter II Turbo (USA, Canada) (RE1)</name>
+		<image>./media/images/Super Street Fighter II Turbo (USA, Canada) (RE1).png</image>
+		<video>./media/videos/Super Street Fighter II Turbo (USA, Canada) (RE1).mp4</video>
+		<marquee>./media/wheel/Super Street Fighter II Turbo (USA, Canada) (RE1).png</marquee>
+	</game>
+	<game>
+		<path>./Super Street Fighter II X - Grand Master Challenge (Japan).chd</path>
+		<name>Super Street Fighter II X - Grand Master Challenge (Japan)</name>
+		<image>./media/images/Super Street Fighter II X - Grand Master Challenge (Japan).png</image>
+		<video>./media/videos/Super Street Fighter II X - Grand Master Challenge (Japan).mp4</video>
+		<marquee>./media/wheel/Super Street Fighter II X - Grand Master Challenge (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Super Street Fighter II X - Grand Master Challenge (Japan, Europe) (Demo).chd</path>
+		<name>Super Street Fighter II X - Grand Master Challenge (Japan, Europe) (Demo)</name>
+		<image>./media/images/Super Street Fighter II X - Grand Master Challenge (Japan, Europe) (Demo).png</image>
+		<video>./media/videos/Super Street Fighter II X - Grand Master Challenge (Japan, Europe) (Demo).mp4</video>
+		<marquee>./media/wheel/Super Street Fighter II X - Grand Master Challenge (Japan, Europe) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Super Wing Commander (Europe).chd</path>
+		<name>Super Wing Commander (Europe)</name>
+		<image>./media/images/Super Wing Commander (Europe).png</image>
+		<video>./media/videos/Super Wing Commander (Europe).mp4</video>
+		<marquee>./media/wheel/Super Wing Commander (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Super Wing Commander (Japan).chd</path>
+		<name>Super Wing Commander (Japan)</name>
+		<image>./media/images/Super Wing Commander (Japan).png</image>
+		<video>./media/videos/Super Wing Commander (Japan).mp4</video>
+		<marquee>./media/wheel/Super Wing Commander (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Super Wing Commander (Korea).chd</path>
+		<name>Super Wing Commander (Korea)</name>
+		<image>./media/images/Super Wing Commander (Korea).png</image>
+		<video>./media/videos/Super Wing Commander (Korea).mp4</video>
+		<marquee>./media/wheel/Super Wing Commander (Korea).png</marquee>
+	</game>
+	<game>
+		<path>./Super Wing Commander (USA).chd</path>
+		<name>Super Wing Commander (USA)</name>
+		<image>./media/images/Super Wing Commander (USA).png</image>
+		<video>./media/videos/Super Wing Commander (USA).mp4</video>
+		<marquee>./media/wheel/Super Wing Commander (USA).png</marquee>
+	</game>
+	<game>
+		<path>./SuperModels Go Wild (USA).chd</path>
+		<name>SuperModels Go Wild (USA)</name>
+		<image>./media/images/SuperModels Go Wild (USA).png</image>
+		<video>./media/videos/SuperModels Go Wild (USA).mp4</video>
+		<marquee>./media/wheel/SuperModels Go Wild (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Supreme Warrior (Japan) (Ja,Zh) (Disc 1) (Fire &amp; Earth).chd</path>
+		<name>Supreme Warrior (Japan) (Ja,Zh) (Disc 1) (Fire &amp; Earth)</name>
+		<image>./media/images/Supreme Warrior (Japan) (Ja,Zh) (Disc 1) (Fire &amp; Earth).png</image>
+		<video>./media/videos/Supreme Warrior (Japan) (Ja,Zh) (Disc 1) (Fire &amp; Earth).mp4</video>
+		<marquee>./media/wheel/Supreme Warrior (Japan) (Ja,Zh) (Disc 1) (Fire &amp; Earth).png</marquee>
+	</game>
+	<game>
+		<path>./Supreme Warrior (Japan) (Ja,Zh) (Disc 2) (Wind &amp; Fang Tu).chd</path>
+		<name>Supreme Warrior (Japan) (Ja,Zh) (Disc 2) (Wind &amp; Fang Tu)</name>
+		<image>./media/images/Supreme Warrior (Japan) (Ja,Zh) (Disc 2) (Wind &amp; Fang Tu).png</image>
+		<video>./media/videos/Supreme Warrior (Japan) (Ja,Zh) (Disc 2) (Wind &amp; Fang Tu).mp4</video>
+		<marquee>./media/wheel/Supreme Warrior (Japan) (Ja,Zh) (Disc 2) (Wind &amp; Fang Tu).png</marquee>
+	</game>
+	<game>
+		<path>./Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu).chd</path>
+		<name>Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu)</name>
+		<image>./media/images/Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu).png</image>
+		<video>./media/videos/Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu).mp4</video>
+		<marquee>./media/wheel/Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu).png</marquee>
+	</game>
+	<game>
+		<path>./Sword &amp; Sorcery (Japan).chd</path>
+		<name>Sword &amp; Sorcery (Japan)</name>
+		<image>./media/images/Sword &amp; Sorcery (Japan).png</image>
+		<video>./media/videos/Sword &amp; Sorcery (Japan).mp4</video>
+		<marquee>./media/wheel/Sword &amp; Sorcery (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Sword &amp; Sorcery (Japan) (Demo).chd</path>
+		<name>Sword &amp; Sorcery (Japan) (Demo)</name>
+		<image>./media/images/Sword &amp; Sorcery (Japan) (Demo).png</image>
+		<video>./media/videos/Sword &amp; Sorcery (Japan) (Demo).mp4</video>
+		<marquee>./media/wheel/Sword &amp; Sorcery (Japan) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Syndicate (Europe).chd</path>
+		<name>Syndicate (Europe)</name>
+		<image>./media/images/Syndicate (Europe).png</image>
+		<video>./media/videos/Syndicate (Europe).mp4</video>
+		<marquee>./media/wheel/Syndicate (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Syndicate (Europe) (Demo).chd</path>
+		<name>Syndicate (Europe) (Demo)</name>
+		<image>./media/images/Syndicate (Europe) (Demo).png</image>
+		<video>./media/videos/Syndicate (Europe) (Demo).mp4</video>
+		<marquee>./media/wheel/Syndicate (Europe) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Syndicate (Japan).chd</path>
+		<name>Syndicate (Japan)</name>
+		<image>./media/images/Syndicate (Japan).png</image>
+		<video>./media/videos/Syndicate (Japan).mp4</video>
+		<marquee>./media/wheel/Syndicate (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Syndicate (USA).chd</path>
+		<name>Syndicate (USA)</name>
+		<image>./media/images/Syndicate (USA).png</image>
+		<video>./media/videos/Syndicate (USA).mp4</video>
+		<marquee>./media/wheel/Syndicate (USA).png</marquee>
+	</game>
+	<game>
+		<path>./T&amp;E VR Golf - Devil's Course (Japan).chd</path>
+		<name>T&amp;E VR Golf - Devil's Course (Japan)</name>
+		<image>./media/images/T&amp;E VR Golf - Devil's Course (Japan).png</image>
+		<video>./media/videos/T&amp;E VR Golf - Devil's Course (Japan).mp4</video>
+		<marquee>./media/wheel/T&amp;E VR Golf - Devil's Course (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./T&amp;E VR Golf - Masters - Harukanaru Augusta 3 (Japan).chd</path>
+		<name>T&amp;E VR Golf - Masters - Harukanaru Augusta 3 (Japan)</name>
+		<image>./media/images/T&amp;E VR Golf - Masters - Harukanaru Augusta 3 (Japan).png</image>
+		<video>./media/videos/T&amp;E VR Golf - Masters - Harukanaru Augusta 3 (Japan).mp4</video>
+		<marquee>./media/wheel/T&amp;E VR Golf - Masters - Harukanaru Augusta 3 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./T&amp;E VR Golf - Masters - Harukanaru Augusta 3 (Japan) (Demo).chd</path>
+		<name>T&amp;E VR Golf - Masters - Harukanaru Augusta 3 (Japan) (Demo)</name>
+		<image>./media/images/T&amp;E VR Golf - Masters - Harukanaru Augusta 3 (Japan) (Demo).png</image>
+		<video>./media/videos/T&amp;E VR Golf - Masters - Harukanaru Augusta 3 (Japan) (Demo).mp4</video>
+		<marquee>./media/wheel/T&amp;E VR Golf - Masters - Harukanaru Augusta 3 (Japan) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./T&amp;E VR Golf - Pebble Beach no Hatou (Japan).chd</path>
+		<name>T&amp;E VR Golf - Pebble Beach no Hatou (Japan)</name>
+		<image>./media/images/T&amp;E VR Golf - Pebble Beach no Hatou (Japan).png</image>
+		<video>./media/videos/T&amp;E VR Golf - Pebble Beach no Hatou (Japan).mp4</video>
+		<marquee>./media/wheel/T&amp;E VR Golf - Pebble Beach no Hatou (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./T&amp;E VR Golf - Waialae no Kiseki (Japan).chd</path>
+		<name>T&amp;E VR Golf - Waialae no Kiseki (Japan)</name>
+		<image>./media/images/T&amp;E VR Golf - Waialae no Kiseki (Japan).png</image>
+		<video>./media/videos/T&amp;E VR Golf - Waialae no Kiseki (Japan).mp4</video>
+		<marquee>./media/wheel/T&amp;E VR Golf - Waialae no Kiseki (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Taiketsu Rumiizu! (Japan).chd</path>
+		<name>Taiketsu Rumiizu! (Japan)</name>
+		<image>./media/images/Taiketsu Rumiizu! (Japan).png</image>
+		<video>./media/videos/Taiketsu Rumiizu! (Japan).mp4</video>
+		<marquee>./media/wheel/Taiketsu Rumiizu! (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Takeru (Japan) (Rev 1).chd</path>
+		<name>Takeru (Japan) (Rev 1)</name>
+		<image>./media/images/Takeru (Japan) (Rev 1).png</image>
+		<video>./media/videos/Takeru (Japan) (Rev 1).mp4</video>
+		<marquee>./media/wheel/Takeru (Japan) (Rev 1).png</marquee>
+	</game>
+	<game>
+		<path>./Tanjou - Debut - Pure (Japan) (Rev A).chd</path>
+		<name>Tanjou - Debut - Pure (Japan) (Rev A)</name>
+		<image>./media/images/Tanjou - Debut - Pure (Japan) (Rev A).png</image>
+		<video>./media/videos/Tanjou - Debut - Pure (Japan) (Rev A).mp4</video>
+		<marquee>./media/wheel/Tanjou - Debut - Pure (Japan) (Rev A).png</marquee>
+	</game>
+	<game>
+		<path>./Tarot Uranai (Japan).chd</path>
+		<name>Tarot Uranai (Japan)</name>
+		<image>./media/images/Tarot Uranai (Japan).png</image>
+		<video>./media/videos/Tarot Uranai (Japan).mp4</video>
+		<marquee>./media/wheel/Tarot Uranai (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Tetsujin (Japan).chd</path>
+		<name>Tetsujin (Japan)</name>
+		<image>./media/images/Tetsujin (Japan).png</image>
+		<video>./media/videos/Tetsujin (Japan).mp4</video>
+		<marquee>./media/wheel/Tetsujin (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Tetsujin Returns (Japan).chd</path>
+		<name>Tetsujin Returns (Japan)</name>
+		<image>./media/images/Tetsujin Returns (Japan).png</image>
+		<video>./media/videos/Tetsujin Returns (Japan).mp4</video>
+		<marquee>./media/wheel/Tetsujin Returns (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Theatre Wars - Goraku no Dendou (Japan).chd</path>
+		<name>Theatre Wars - Goraku no Dendou (Japan)</name>
+		<image>./media/images/Theatre Wars - Goraku no Dendou (Japan).png</image>
+		<video>./media/videos/Theatre Wars - Goraku no Dendou (Japan).mp4</video>
+		<marquee>./media/wheel/Theatre Wars - Goraku no Dendou (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Theme Park (Europe) (Demo).chd</path>
+		<name>Theme Park (Europe) (Demo)</name>
+		<image>./media/images/Theme Park (Europe) (Demo).png</image>
+		<video>./media/videos/Theme Park (Europe) (Demo).mp4</video>
+		<marquee>./media/wheel/Theme Park (Europe) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Theme Park (Europe) (En,Fr).chd</path>
+		<name>Theme Park (Europe) (En,Fr)</name>
+		<image>./media/images/Theme Park (Europe) (En,Fr).png</image>
+		<video>./media/videos/Theme Park (Europe) (En,Fr).mp4</video>
+		<marquee>./media/wheel/Theme Park (Europe) (En,Fr).png</marquee>
+	</game>
+	<game>
+		<path>./Theme Park (Germany).chd</path>
+		<name>Theme Park (Germany)</name>
+		<image>./media/images/Theme Park (Germany).png</image>
+		<video>./media/videos/Theme Park (Germany).mp4</video>
+		<marquee>./media/wheel/Theme Park (Germany).png</marquee>
+	</game>
+	<game>
+		<path>./Theme Park (Japan).chd</path>
+		<name>Theme Park (Japan)</name>
+		<image>./media/images/Theme Park (Japan).png</image>
+		<video>./media/videos/Theme Park (Japan).mp4</video>
+		<marquee>./media/wheel/Theme Park (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Theme Park (USA).chd</path>
+		<name>Theme Park (USA)</name>
+		<image>./media/images/Theme Park (USA).png</image>
+		<video>./media/videos/Theme Park (USA).mp4</video>
+		<marquee>./media/wheel/Theme Park (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Toki o Koeta Tegami (Japan).chd</path>
+		<name>Toki o Koeta Tegami (Japan)</name>
+		<image>./media/images/Toki o Koeta Tegami (Japan).png</image>
+		<video>./media/videos/Toki o Koeta Tegami (Japan).mp4</video>
+		<marquee>./media/wheel/Toki o Koeta Tegami (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat (Japan).chd</path>
+		<name>Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat (Japan)</name>
+		<image>./media/images/Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat (Japan).png</image>
+		<video>./media/videos/Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat (Japan).mp4</video>
+		<marquee>./media/wheel/Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./ToonTime ...in the Classroom (USA).chd</path>
+		<name>ToonTime ...in the Classroom (USA)</name>
+		<image>./media/images/ToonTime ...in the Classroom (USA).png</image>
+		<video>./media/videos/ToonTime ...in the Classroom (USA).mp4</video>
+		<marquee>./media/wheel/ToonTime ...in the Classroom (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Total Eclipse (Europe).chd</path>
+		<name>Total Eclipse (Europe)</name>
+		<image>./media/images/Total Eclipse (Europe).png</image>
+		<video>./media/videos/Total Eclipse (Europe).mp4</video>
+		<marquee>./media/wheel/Total Eclipse (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Total Eclipse (Europe) (DFJN5015ZAZ).chd</path>
+		<name>Total Eclipse (Europe) (DFJN5015ZAZ)</name>
+		<image>./media/images/Total Eclipse (Europe) (DFJN5015ZAZ).png</image>
+		<video>./media/videos/Total Eclipse (Europe) (DFJN5015ZAZ).mp4</video>
+		<marquee>./media/wheel/Total Eclipse (Europe) (DFJN5015ZAZ).png</marquee>
+	</game>
+	<game>
+		<path>./Total Eclipse (Japan).chd</path>
+		<name>Total Eclipse (Japan)</name>
+		<image>./media/images/Total Eclipse (Japan).png</image>
+		<video>./media/videos/Total Eclipse (Japan).mp4</video>
+		<marquee>./media/wheel/Total Eclipse (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Total Eclipse (Korea).chd</path>
+		<name>Total Eclipse (Korea)</name>
+		<image>./media/images/Total Eclipse (Korea).png</image>
+		<video>./media/videos/Total Eclipse (Korea).mp4</video>
+		<marquee>./media/wheel/Total Eclipse (Korea).png</marquee>
+	</game>
+	<game>
+		<path>./Total Eclipse (USA).chd</path>
+		<name>Total Eclipse (USA)</name>
+		<image>./media/images/Total Eclipse (USA).png</image>
+		<video>./media/videos/Total Eclipse (USA).mp4</video>
+		<marquee>./media/wheel/Total Eclipse (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Total Eclipse (USA, Europe).chd</path>
+		<name>Total Eclipse (USA, Europe)</name>
+		<image>./media/images/Total Eclipse (USA, Europe).png</image>
+		<video>./media/videos/Total Eclipse (USA, Europe).mp4</video>
+		<marquee>./media/wheel/Total Eclipse (USA, Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Totsugeki Karakuri! Megadas!! (Japan).chd</path>
+		<name>Totsugeki Karakuri! Megadas!! (Japan)</name>
+		<image>./media/images/Totsugeki Karakuri! Megadas!! (Japan).png</image>
+		<video>./media/videos/Totsugeki Karakuri! Megadas!! (Japan).mp4</video>
+		<marquee>./media/wheel/Totsugeki Karakuri! Megadas!! (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Totsugeki Karakuri! Megadas!! (Japan) (Demo).chd</path>
+		<name>Totsugeki Karakuri! Megadas!! (Japan) (Demo)</name>
+		<image>./media/images/Totsugeki Karakuri! Megadas!! (Japan) (Demo).png</image>
+		<video>./media/videos/Totsugeki Karakuri! Megadas!! (Japan) (Demo).mp4</video>
+		<marquee>./media/wheel/Totsugeki Karakuri! Megadas!! (Japan) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Touhaiden Akagi (Japan).chd</path>
+		<name>Touhaiden Akagi (Japan)</name>
+		<image>./media/images/Touhaiden Akagi (Japan).png</image>
+		<video>./media/videos/Touhaiden Akagi (Japan).mp4</video>
+		<marquee>./media/wheel/Touhaiden Akagi (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Tower, The (Japan).chd</path>
+		<name>Tower, The (Japan)</name>
+		<image>./media/images/Tower, The (Japan).png</image>
+		<video>./media/videos/Tower, The (Japan).mp4</video>
+		<marquee>./media/wheel/Tower, The (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Tozasareta Yakata (Japan).chd</path>
+		<name>Tozasareta Yakata (Japan)</name>
+		<image>./media/images/Tozasareta Yakata (Japan).png</image>
+		<video>./media/videos/Tozasareta Yakata (Japan).mp4</video>
+		<marquee>./media/wheel/Tozasareta Yakata (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Trip'd (USA, Europe).chd</path>
+		<name>Trip'd (USA, Europe)</name>
+		<image>./media/images/Trip'd (USA, Europe).png</image>
+		<video>./media/videos/Trip'd (USA, Europe).mp4</video>
+		<marquee>./media/wheel/Trip'd (USA, Europe).png</marquee>
+	</game>
+	<game>
+		<path>./True Golf Classics - Pebble Beach Golf Links (Europe).chd</path>
+		<name>True Golf Classics - Pebble Beach Golf Links (Europe)</name>
+		<image>./media/images/True Golf Classics - Pebble Beach Golf Links (Europe).png</image>
+		<video>./media/videos/True Golf Classics - Pebble Beach Golf Links (Europe).mp4</video>
+		<marquee>./media/wheel/True Golf Classics - Pebble Beach Golf Links (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./True Golf Classics - Waialae Country Club (Germany).chd</path>
+		<name>True Golf Classics - Waialae Country Club (Germany)</name>
+		<image>./media/images/True Golf Classics - Waialae Country Club (Germany).png</image>
+		<video>./media/videos/True Golf Classics - Waialae Country Club (Germany).mp4</video>
+		<marquee>./media/wheel/True Golf Classics - Waialae Country Club (Germany).png</marquee>
+	</game>
+	<game>
+		<path>./Twinkle Knights (Japan).chd</path>
+		<name>Twinkle Knights (Japan)</name>
+		<image>./media/images/Twinkle Knights (Japan).png</image>
+		<video>./media/videos/Twinkle Knights (Japan).mp4</video>
+		<marquee>./media/wheel/Twinkle Knights (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Twisted (Japan).chd</path>
+		<name>Twisted (Japan)</name>
+		<image>./media/images/Twisted (Japan).png</image>
+		<video>./media/videos/Twisted (Japan).mp4</video>
+		<marquee>./media/wheel/Twisted (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Twisted - The Game Show (Europe).chd</path>
+		<name>Twisted - The Game Show (Europe)</name>
+		<image>./media/images/Twisted - The Game Show (Europe).png</image>
+		<video>./media/videos/Twisted - The Game Show (Europe).mp4</video>
+		<marquee>./media/wheel/Twisted - The Game Show (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Twisted - The Game Show (USA).chd</path>
+		<name>Twisted - The Game Show (USA)</name>
+		<image>./media/images/Twisted - The Game Show (USA).png</image>
+		<video>./media/videos/Twisted - The Game Show (USA).mp4</video>
+		<marquee>./media/wheel/Twisted - The Game Show (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Twisted - The Game Show (USA) (Alt).chd</path>
+		<name>Twisted - The Game Show (USA) (Alt)</name>
+		<image>./media/images/Twisted - The Game Show (USA) (Alt).png</image>
+		<video>./media/videos/Twisted - The Game Show (USA) (Alt).mp4</video>
+		<marquee>./media/wheel/Twisted - The Game Show (USA) (Alt).png</marquee>
+	</game>
+	<game>
+		<path>./Uchuu Seibutsu Flopon-kun (Japan).chd</path>
+		<name>Uchuu Seibutsu Flopon-kun (Japan)</name>
+		<image>./media/images/Uchuu Seibutsu Flopon-kun (Japan).png</image>
+		<video>./media/videos/Uchuu Seibutsu Flopon-kun (Japan).mp4</video>
+		<marquee>./media/wheel/Uchuu Seibutsu Flopon-kun (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Ultraman Powered (Japan).chd</path>
+		<name>Ultraman Powered (Japan)</name>
+		<image>./media/images/Ultraman Powered (Japan).png</image>
+		<video>./media/videos/Ultraman Powered (Japan).mp4</video>
+		<marquee>./media/wheel/Ultraman Powered (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./V Goal Soccer '96 (Japan).chd</path>
+		<name>V Goal Soccer '96 (Japan)</name>
+		<image>./media/images/V Goal Soccer '96 (Japan).png</image>
+		<video>./media/videos/V Goal Soccer '96 (Japan).mp4</video>
+		<marquee>./media/wheel/V Goal Soccer '96 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./V Goal Soccer '96 (Japan) (Demo).chd</path>
+		<name>V Goal Soccer '96 (Japan) (Demo)</name>
+		<image>./media/images/V Goal Soccer '96 (Japan) (Demo).png</image>
+		<video>./media/videos/V Goal Soccer '96 (Japan) (Demo).mp4</video>
+		<marquee>./media/wheel/V Goal Soccer '96 (Japan) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./VR Stalker (Europe) (Improved Version).chd</path>
+		<name>VR Stalker (Europe) (Improved Version)</name>
+		<image>./media/images/VR Stalker (Europe) (Improved Version).png</image>
+		<video>./media/videos/VR Stalker (Europe) (Improved Version).mp4</video>
+		<marquee>./media/wheel/VR Stalker (Europe) (Improved Version).png</marquee>
+	</game>
+	<game>
+		<path>./VR Stalker (USA).chd</path>
+		<name>VR Stalker (USA)</name>
+		<image>./media/images/VR Stalker (USA).png</image>
+		<video>./media/videos/VR Stalker (USA).mp4</video>
+		<marquee>./media/wheel/VR Stalker (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Virtual Cameraman Part 1 - Naomi Sawada &amp; Anna Juri (Japan).chd</path>
+		<name>Virtual Cameraman Part 1 - Naomi Sawada &amp; Anna Juri (Japan)</name>
+		<image>./media/images/Virtual Cameraman Part 1 - Naomi Sawada &amp; Anna Juri (Japan).png</image>
+		<video>./media/videos/Virtual Cameraman Part 1 - Naomi Sawada &amp; Anna Juri (Japan).mp4</video>
+		<marquee>./media/wheel/Virtual Cameraman Part 1 - Naomi Sawada &amp; Anna Juri (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Virtual Cameraman Part 2 - Natsumi Kawai &amp; Kimi Tachihara (Japan).chd</path>
+		<name>Virtual Cameraman Part 2 - Natsumi Kawai &amp; Kimi Tachihara (Japan)</name>
+		<image>./media/images/Virtual Cameraman Part 2 - Natsumi Kawai &amp; Kimi Tachihara (Japan).png</image>
+		<video>./media/videos/Virtual Cameraman Part 2 - Natsumi Kawai &amp; Kimi Tachihara (Japan).mp4</video>
+		<marquee>./media/wheel/Virtual Cameraman Part 2 - Natsumi Kawai &amp; Kimi Tachihara (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Virtual Horror - Norowareta Yakata (Japan) (En,Ja).chd</path>
+		<name>Virtual Horror - Norowareta Yakata (Japan) (En,Ja)</name>
+		<image>./media/images/Virtual Horror - Norowareta Yakata (Japan) (En,Ja).png</image>
+		<video>./media/videos/Virtual Horror - Norowareta Yakata (Japan) (En,Ja).mp4</video>
+		<marquee>./media/wheel/Virtual Horror - Norowareta Yakata (Japan) (En,Ja).png</marquee>
+	</game>
+	<game>
+		<path>./Virtual Puppet Reika (Japan).chd</path>
+		<name>Virtual Puppet Reika (Japan)</name>
+		<image>./media/images/Virtual Puppet Reika (Japan).png</image>
+		<video>./media/videos/Virtual Puppet Reika (Japan).mp4</video>
+		<marquee>./media/wheel/Virtual Puppet Reika (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Virtual Quest - Pharaoh no Fuuin (Japan).chd</path>
+		<name>Virtual Quest - Pharaoh no Fuuin (Japan)</name>
+		<image>./media/images/Virtual Quest - Pharaoh no Fuuin (Japan).png</image>
+		<video>./media/videos/Virtual Quest - Pharaoh no Fuuin (Japan).mp4</video>
+		<marquee>./media/wheel/Virtual Quest - Pharaoh no Fuuin (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Virtual Vivid (USA) (RE-1).chd</path>
+		<name>Virtual Vivid (USA) (RE-1)</name>
+		<image>./media/images/Virtual Vivid (USA) (RE-1).png</image>
+		<video>./media/videos/Virtual Vivid (USA) (RE-1).mp4</video>
+		<marquee>./media/wheel/Virtual Vivid (USA) (RE-1).png</marquee>
+	</game>
+	<game>
+		<path>./Virtuoso (Europe) (En,Fr,De).chd</path>
+		<name>Virtuoso (Europe) (En,Fr,De)</name>
+		<image>./media/images/Virtuoso (Europe) (En,Fr,De).png</image>
+		<video>./media/videos/Virtuoso (Europe) (En,Fr,De).mp4</video>
+		<marquee>./media/wheel/Virtuoso (Europe) (En,Fr,De).png</marquee>
+	</game>
+	<game>
+		<path>./Virtuoso (Japan).chd</path>
+		<name>Virtuoso (Japan)</name>
+		<image>./media/images/Virtuoso (Japan).png</image>
+		<video>./media/videos/Virtuoso (Japan).mp4</video>
+		<marquee>./media/wheel/Virtuoso (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Waialae Country Club (USA, Canada).chd</path>
+		<name>Waialae Country Club (USA, Canada)</name>
+		<image>./media/images/Waialae Country Club (USA, Canada).png</image>
+		<video>./media/videos/Waialae Country Club (USA, Canada).mp4</video>
+		<marquee>./media/wheel/Waialae Country Club (USA, Canada).png</marquee>
+	</game>
+	<game>
+		<path>./Warner Music Group (USA).chd</path>
+		<name>Warner Music Group (USA)</name>
+		<image>./media/images/Warner Music Group (USA).png</image>
+		<video>./media/videos/Warner Music Group (USA).mp4</video>
+		<marquee>./media/wheel/Warner Music Group (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Way of the Warrior (Japan).chd</path>
+		<name>Way of the Warrior (Japan)</name>
+		<image>./media/images/Way of the Warrior (Japan).png</image>
+		<video>./media/videos/Way of the Warrior (Japan).mp4</video>
+		<marquee>./media/wheel/Way of the Warrior (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Way of the Warrior (USA).chd</path>
+		<name>Way of the Warrior (USA)</name>
+		<image>./media/images/Way of the Warrior (USA).png</image>
+		<video>./media/videos/Way of the Warrior (USA).mp4</video>
+		<marquee>./media/wheel/Way of the Warrior (USA).png</marquee>
+	</game>
+	<game>
+		<path>./We Got It (Europe).chd</path>
+		<name>We Got It (Europe)</name>
+		<image>./media/images/We Got It (Europe).png</image>
+		<video>./media/videos/We Got It (Europe).mp4</video>
+		<marquee>./media/wheel/We Got It (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Wicked 18 (USA).chd</path>
+		<name>Wicked 18 (USA)</name>
+		<image>./media/images/Wicked 18 (USA).png</image>
+		<video>./media/videos/Wicked 18 (USA).mp4</video>
+		<marquee>./media/wheel/Wicked 18 (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Wing Commander III - Heart of the Tiger (Germany) (Disc 1).chd</path>
+		<name>Wing Commander III - Heart of the Tiger (Germany) (Disc 1)</name>
+		<image>./media/images/Wing Commander III - Heart of the Tiger (Germany) (Disc 1).png</image>
+		<video>./media/videos/Wing Commander III - Heart of the Tiger (Germany) (Disc 1).mp4</video>
+		<marquee>./media/wheel/Wing Commander III - Heart of the Tiger (Germany) (Disc 1).png</marquee>
+	</game>
+	<game>
+		<path>./Wing Commander III - Heart of the Tiger (Germany) (Disc 2).chd</path>
+		<name>Wing Commander III - Heart of the Tiger (Germany) (Disc 2)</name>
+		<image>./media/images/Wing Commander III - Heart of the Tiger (Germany) (Disc 2).png</image>
+		<video>./media/videos/Wing Commander III - Heart of the Tiger (Germany) (Disc 2).mp4</video>
+		<marquee>./media/wheel/Wing Commander III - Heart of the Tiger (Germany) (Disc 2).png</marquee>
+	</game>
+	<game>
+		<path>./Wing Commander III - Heart of the Tiger (Germany) (Disc 3).chd</path>
+		<name>Wing Commander III - Heart of the Tiger (Germany) (Disc 3)</name>
+		<image>./media/images/Wing Commander III - Heart of the Tiger (Germany) (Disc 3).png</image>
+		<video>./media/videos/Wing Commander III - Heart of the Tiger (Germany) (Disc 3).mp4</video>
+		<marquee>./media/wheel/Wing Commander III - Heart of the Tiger (Germany) (Disc 3).png</marquee>
+	</game>
+	<game>
+		<path>./Wing Commander III - Heart of the Tiger (Germany) (Disc 4).chd</path>
+		<name>Wing Commander III - Heart of the Tiger (Germany) (Disc 4)</name>
+		<image>./media/images/Wing Commander III - Heart of the Tiger (Germany) (Disc 4).png</image>
+		<video>./media/videos/Wing Commander III - Heart of the Tiger (Germany) (Disc 4).mp4</video>
+		<marquee>./media/wheel/Wing Commander III - Heart of the Tiger (Germany) (Disc 4).png</marquee>
+	</game>
+	<game>
+		<path>./Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 1).chd</path>
+		<name>Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 1)</name>
+		<image>./media/images/Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 1).png</image>
+		<video>./media/videos/Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 1).mp4</video>
+		<marquee>./media/wheel/Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 1).png</marquee>
+	</game>
+	<game>
+		<path>./Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 2).chd</path>
+		<name>Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 2)</name>
+		<image>./media/images/Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 2).png</image>
+		<video>./media/videos/Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 2).mp4</video>
+		<marquee>./media/wheel/Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 2).png</marquee>
+	</game>
+	<game>
+		<path>./Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 3).chd</path>
+		<name>Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 3)</name>
+		<image>./media/images/Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 3).png</image>
+		<video>./media/videos/Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 3).mp4</video>
+		<marquee>./media/wheel/Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 3).png</marquee>
+	</game>
+	<game>
+		<path>./Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 4).chd</path>
+		<name>Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 4)</name>
+		<image>./media/images/Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 4).png</image>
+		<video>./media/videos/Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 4).mp4</video>
+		<marquee>./media/wheel/Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 4).png</marquee>
+	</game>
+	<game>
+		<path>./Winning Post (Japan).chd</path>
+		<name>Winning Post (Japan)</name>
+		<image>./media/images/Winning Post (Japan).png</image>
+		<video>./media/videos/Winning Post (Japan).mp4</video>
+		<marquee>./media/wheel/Winning Post (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Wolfenstein 3D (Europe).chd</path>
+		<name>Wolfenstein 3D (Europe)</name>
+		<image>./media/images/Wolfenstein 3D (Europe).png</image>
+		<video>./media/videos/Wolfenstein 3D (Europe).mp4</video>
+		<marquee>./media/wheel/Wolfenstein 3D (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Wolfenstein 3D (Japan).chd</path>
+		<name>Wolfenstein 3D (Japan)</name>
+		<image>./media/images/Wolfenstein 3D (Japan).png</image>
+		<video>./media/videos/Wolfenstein 3D (Japan).mp4</video>
+		<marquee>./media/wheel/Wolfenstein 3D (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Wolfenstein 3D (USA).chd</path>
+		<name>Wolfenstein 3D (USA)</name>
+		<image>./media/images/Wolfenstein 3D (USA).png</image>
+		<video>./media/videos/Wolfenstein 3D (USA).mp4</video>
+		<marquee>./media/wheel/Wolfenstein 3D (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Woody Woodpecker and Friends - Volume One (USA) (RE-1).chd</path>
+		<name>Woody Woodpecker and Friends - Volume One (USA) (RE-1)</name>
+		<image>./media/images/Woody Woodpecker and Friends - Volume One (USA) (RE-1).png</image>
+		<video>./media/videos/Woody Woodpecker and Friends - Volume One (USA) (RE-1).mp4</video>
+		<marquee>./media/wheel/Woody Woodpecker and Friends - Volume One (USA) (RE-1).png</marquee>
+	</game>
+	<game>
+		<path>./Woody Woodpecker and Friends - Volume Three (USA).chd</path>
+		<name>Woody Woodpecker and Friends - Volume Three (USA)</name>
+		<image>./media/images/Woody Woodpecker and Friends - Volume Three (USA).png</image>
+		<video>./media/videos/Woody Woodpecker and Friends - Volume Three (USA).mp4</video>
+		<marquee>./media/wheel/Woody Woodpecker and Friends - Volume Three (USA).png</marquee>
+	</game>
+	<game>
+		<path>./Woody Woodpecker and Friends - Volume Two (USA).chd</path>
+		<name>Woody Woodpecker and Friends - Volume Two (USA)</name>
+		<image>./media/images/Woody Woodpecker and Friends - Volume Two (USA).png</image>
+		<video>./media/videos/Woody Woodpecker and Friends - Volume Two (USA).mp4</video>
+		<marquee>./media/wheel/Woody Woodpecker and Friends - Volume Two (USA).png</marquee>
+	</game>
+	<game>
+		<path>./World Cup Golf - Hyatt Dorado Beach (Europe).chd</path>
+		<name>World Cup Golf - Hyatt Dorado Beach (Europe)</name>
+		<image>./media/images/World Cup Golf - Hyatt Dorado Beach (Europe).png</image>
+		<video>./media/videos/World Cup Golf - Hyatt Dorado Beach (Europe).mp4</video>
+		<marquee>./media/wheel/World Cup Golf - Hyatt Dorado Beach (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./World Cup Golf - Hyatt Dorado Beach (USA, Europe).chd</path>
+		<name>World Cup Golf - Hyatt Dorado Beach (USA, Europe)</name>
+		<image>./media/images/World Cup Golf - Hyatt Dorado Beach (USA, Europe).png</image>
+		<video>./media/videos/World Cup Golf - Hyatt Dorado Beach (USA, Europe).mp4</video>
+		<marquee>./media/wheel/World Cup Golf - Hyatt Dorado Beach (USA, Europe).png</marquee>
+	</game>
+	<game>
+		<path>./World Cup Special (Japan).chd</path>
+		<name>World Cup Special (Japan)</name>
+		<image>./media/images/World Cup Special (Japan).png</image>
+		<video>./media/videos/World Cup Special (Japan).mp4</video>
+		<marquee>./media/wheel/World Cup Special (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./WorldCup Super Stadium (Japan).chd</path>
+		<name>WorldCup Super Stadium (Japan)</name>
+		<image>./media/images/WorldCup Super Stadium (Japan).png</image>
+		<video>./media/videos/WorldCup Super Stadium (Japan).mp4</video>
+		<marquee>./media/wheel/WorldCup Super Stadium (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Yakyuuken Special, The (Japan).chd</path>
+		<name>Yakyuuken Special, The (Japan)</name>
+		<image>./media/images/Yakyuuken Special, The (Japan).png</image>
+		<video>./media/videos/Yakyuuken Special, The (Japan).mp4</video>
+		<marquee>./media/wheel/Yakyuuken Special, The (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Yamada Kamachi Bijutsukan - Kamachi's Museum (Japan).chd</path>
+		<name>Yamada Kamachi Bijutsukan - Kamachi's Museum (Japan)</name>
+		<image>./media/images/Yamada Kamachi Bijutsukan - Kamachi's Museum (Japan).png</image>
+		<video>./media/videos/Yamada Kamachi Bijutsukan - Kamachi's Museum (Japan).mp4</video>
+		<marquee>./media/wheel/Yamada Kamachi Bijutsukan - Kamachi's Museum (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 1).chd</path>
+		<name>Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 1)</name>
+		<image>./media/images/Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 1).png</image>
+		<video>./media/videos/Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 1).mp4</video>
+		<marquee>./media/wheel/Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 1).png</marquee>
+	</game>
+	<game>
+		<path>./Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 2).chd</path>
+		<name>Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 2)</name>
+		<image>./media/images/Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 2).png</image>
+		<video>./media/videos/Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 2).mp4</video>
+		<marquee>./media/wheel/Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 2).png</marquee>
+	</game>
+	<game>
+		<path>./Yu Yu Hakusho (Japan).chd</path>
+		<name>Yu Yu Hakusho (Japan)</name>
+		<image>./media/images/Yu Yu Hakusho (Japan).png</image>
+		<video>./media/videos/Yu Yu Hakusho (Japan).mp4</video>
+		<marquee>./media/wheel/Yu Yu Hakusho (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Yu Yu Hakusho (Japan) (Demo).chd</path>
+		<name>Yu Yu Hakusho (Japan) (Demo)</name>
+		<image>./media/images/Yu Yu Hakusho (Japan) (Demo).png</image>
+		<video>./media/videos/Yu Yu Hakusho (Japan) (Demo).mp4</video>
+		<marquee>./media/wheel/Yu Yu Hakusho (Japan) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Yuujou Densetsu - The Doraemons (Japan).chd</path>
+		<name>Yuujou Densetsu - The Doraemons (Japan)</name>
+		<image>./media/images/Yuujou Densetsu - The Doraemons (Japan).png</image>
+		<video>./media/videos/Yuujou Densetsu - The Doraemons (Japan).mp4</video>
+		<marquee>./media/wheel/Yuujou Densetsu - The Doraemons (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Yuujou Densetsu - The Doraemons (Japan) (Demo).chd</path>
+		<name>Yuujou Densetsu - The Doraemons (Japan) (Demo)</name>
+		<image>./media/images/Yuujou Densetsu - The Doraemons (Japan) (Demo).png</image>
+		<video>./media/videos/Yuujou Densetsu - The Doraemons (Japan) (Demo).mp4</video>
+		<marquee>./media/wheel/Yuujou Densetsu - The Doraemons (Japan) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Zhadnost - The People's Party (USA).chd</path>
+		<name>Zhadnost - The People's Party (USA)</name>
+		<image>./media/images/Zhadnost - The People's Party (USA).png</image>
+		<video>./media/videos/Zhadnost - The People's Party (USA).mp4</video>
+		<marquee>./media/wheel/Zhadnost - The People's Party (USA).png</marquee>
+	</game>
+</gameList>

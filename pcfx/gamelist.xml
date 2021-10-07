@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+	<game>
+		<path>./Aa! Megami-sama (Japan) (Disc 1).chd</path>
+		<name>Aa! Megami-sama (Japan) (Disc 1)</name>
+		<image>./media/images/Aa! Megami-sama (Japan) (Disc 1).png</image>
+		<video>./media/videos/Aa! Megami-sama (Japan) (Disc 1).mp4</video>
+		<marquee>./media/wheel/Aa! Megami-sama (Japan) (Disc 1).png</marquee>
+	</game>
+	<game>
+		<path>./Aa! Megami-sama (Japan) (Disc 2).chd</path>
+		<name>Aa! Megami-sama (Japan) (Disc 2)</name>
+		<image>./media/images/Aa! Megami-sama (Japan) (Disc 2).png</image>
+		<video>./media/videos/Aa! Megami-sama (Japan) (Disc 2).mp4</video>
+		<marquee>./media/wheel/Aa! Megami-sama (Japan) (Disc 2).png</marquee>
+	</game>
+	<game>
+		<path>./Akazukin ChaCha - Osawagase! Panic Race! (Japan).chd</path>
+		<name>Akazukin ChaCha - Osawagase! Panic Race! (Japan)</name>
+		<image>./media/images/Akazukin ChaCha - Osawagase! Panic Race! (Japan).png</image>
+		<video>./media/videos/Akazukin ChaCha - Osawagase! Panic Race! (Japan).mp4</video>
+		<marquee>./media/wheel/Akazukin ChaCha - Osawagase! Panic Race! (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Albaria no Otome (Japan).chd</path>
+		<name>Albaria no Otome (Japan)</name>
+		<image>./media/images/Albaria no Otome (Japan).png</image>
+		<video>./media/videos/Albaria no Otome (Japan).mp4</video>
+		<marquee>./media/wheel/Albaria no Otome (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Amateur Teikyou CD-ROM (Japan) (DOS-V-you) (NEC PC-FXGA).chd</path>
+		<name>Amateur Teikyou CD-ROM (Japan) (DOS-V-you) (NEC PC-FXGA)</name>
+		<image>./media/images/Amateur Teikyou CD-ROM (Japan) (DOS-V-you) (NEC PC-FXGA).png</image>
+		<video>./media/videos/Amateur Teikyou CD-ROM (Japan) (DOS-V-you) (NEC PC-FXGA).mp4</video>
+		<marquee>./media/wheel/Amateur Teikyou CD-ROM (Japan) (DOS-V-you) (NEC PC-FXGA).png</marquee>
+	</game>
+	<game>
+		<path>./Amateur Teikyou CD-ROM (Japan) (NEC PC-FXGA).chd</path>
+		<name>Amateur Teikyou CD-ROM (Japan) (NEC PC-FXGA)</name>
+		<image>./media/images/Amateur Teikyou CD-ROM (Japan) (NEC PC-FXGA).png</image>
+		<video>./media/videos/Amateur Teikyou CD-ROM (Japan) (NEC PC-FXGA).mp4</video>
+		<marquee>./media/wheel/Amateur Teikyou CD-ROM (Japan) (NEC PC-FXGA).png</marquee>
+	</game>
+	<game>
+		<path>./Angelique - Tenkuu no Requiem (Japan).chd</path>
+		<name>Angelique - Tenkuu no Requiem (Japan)</name>
+		<image>./media/images/Angelique - Tenkuu no Requiem (Japan).png</image>
+		<video>./media/videos/Angelique - Tenkuu no Requiem (Japan).mp4</video>
+		<marquee>./media/wheel/Angelique - Tenkuu no Requiem (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Angelique Special (Japan).chd</path>
+		<name>Angelique Special (Japan)</name>
+		<image>./media/images/Angelique Special (Japan).png</image>
+		<video>./media/videos/Angelique Special (Japan).mp4</video>
+		<marquee>./media/wheel/Angelique Special (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Angelique Special 2 (Japan).chd</path>
+		<name>Angelique Special 2 (Japan)</name>
+		<image>./media/images/Angelique Special 2 (Japan).png</image>
+		<video>./media/videos/Angelique Special 2 (Japan).mp4</video>
+		<marquee>./media/wheel/Angelique Special 2 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./AnimeFreak FX Vol. 1 (Japan).chd</path>
+		<name>AnimeFreak FX Vol. 1 (Japan)</name>
+		<image>./media/images/AnimeFreak FX Vol. 1 (Japan).png</image>
+		<video>./media/videos/AnimeFreak FX Vol. 1 (Japan).mp4</video>
+		<marquee>./media/wheel/AnimeFreak FX Vol. 1 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./AnimeFreak FX Vol. 2 (Japan).chd</path>
+		<name>AnimeFreak FX Vol. 2 (Japan)</name>
+		<image>./media/images/AnimeFreak FX Vol. 2 (Japan).png</image>
+		<video>./media/videos/AnimeFreak FX Vol. 2 (Japan).mp4</video>
+		<marquee>./media/wheel/AnimeFreak FX Vol. 2 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./AnimeFreak FX Vol. 3 (Japan).chd</path>
+		<name>AnimeFreak FX Vol. 3 (Japan)</name>
+		<image>./media/images/AnimeFreak FX Vol. 3 (Japan).png</image>
+		<video>./media/videos/AnimeFreak FX Vol. 3 (Japan).mp4</video>
+		<marquee>./media/wheel/AnimeFreak FX Vol. 3 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./AnimeFreak FX Vol. 4 (Japan).chd</path>
+		<name>AnimeFreak FX Vol. 4 (Japan)</name>
+		<image>./media/images/AnimeFreak FX Vol. 4 (Japan).png</image>
+		<video>./media/videos/AnimeFreak FX Vol. 4 (Japan).mp4</video>
+		<marquee>./media/wheel/AnimeFreak FX Vol. 4 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./AnimeFreak FX Vol. 5 (Japan) (Disc 1).chd</path>
+		<name>AnimeFreak FX Vol. 5 (Japan) (Disc 1)</name>
+		<image>./media/images/AnimeFreak FX Vol. 5 (Japan) (Disc 1).png</image>
+		<video>./media/videos/AnimeFreak FX Vol. 5 (Japan) (Disc 1).mp4</video>
+		<marquee>./media/wheel/AnimeFreak FX Vol. 5 (Japan) (Disc 1).png</marquee>
+	</game>
+	<game>
+		<path>./AnimeFreak FX Vol. 5 (Japan) (Disc 2).chd</path>
+		<name>AnimeFreak FX Vol. 5 (Japan) (Disc 2)</name>
+		<image>./media/images/AnimeFreak FX Vol. 5 (Japan) (Disc 2).png</image>
+		<video>./media/videos/AnimeFreak FX Vol. 5 (Japan) (Disc 2).mp4</video>
+		<marquee>./media/wheel/AnimeFreak FX Vol. 5 (Japan) (Disc 2).png</marquee>
+	</game>
+	<game>
+		<path>./AnimeFreak FX Vol. 6 (Japan) (Disc 1).chd</path>
+		<name>AnimeFreak FX Vol. 6 (Japan) (Disc 1)</name>
+		<image>./media/images/AnimeFreak FX Vol. 6 (Japan) (Disc 1).png</image>
+		<video>./media/videos/AnimeFreak FX Vol. 6 (Japan) (Disc 1).mp4</video>
+		<marquee>./media/wheel/AnimeFreak FX Vol. 6 (Japan) (Disc 1).png</marquee>
+	</game>
+	<game>
+		<path>./AnimeFreak FX Vol. 6 (Japan) (Disc 2).chd</path>
+		<name>AnimeFreak FX Vol. 6 (Japan) (Disc 2)</name>
+		<image>./media/images/AnimeFreak FX Vol. 6 (Japan) (Disc 2).png</image>
+		<video>./media/videos/AnimeFreak FX Vol. 6 (Japan) (Disc 2).mp4</video>
+		<marquee>./media/wheel/AnimeFreak FX Vol. 6 (Japan) (Disc 2).png</marquee>
+	</game>
+	<game>
+		<path>./Battle Heat (Japan).chd</path>
+		<name>Battle Heat (Japan)</name>
+		<image>./media/images/Battle Heat (Japan).png</image>
+		<video>./media/videos/Battle Heat (Japan).mp4</video>
+		<marquee>./media/wheel/Battle Heat (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Blue Breaker - Ken yori mo Hohoemi o (Japan).chd</path>
+		<name>Blue Breaker - Ken yori mo Hohoemi o (Japan)</name>
+		<image>./media/images/Blue Breaker - Ken yori mo Hohoemi o (Japan).png</image>
+		<video>./media/videos/Blue Breaker - Ken yori mo Hohoemi o (Japan).mp4</video>
+		<marquee>./media/wheel/Blue Breaker - Ken yori mo Hohoemi o (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Boundary Gate - Daughter of Kingdom (Japan).chd</path>
+		<name>Boundary Gate - Daughter of Kingdom (Japan)</name>
+		<image>./media/images/Boundary Gate - Daughter of Kingdom (Japan).png</image>
+		<video>./media/videos/Boundary Gate - Daughter of Kingdom (Japan).mp4</video>
+		<marquee>./media/wheel/Boundary Gate - Daughter of Kingdom (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Can Can Bunny Extra DX (Japan).chd</path>
+		<name>Can Can Bunny Extra DX (Japan)</name>
+		<image>./media/images/Can Can Bunny Extra DX (Japan).png</image>
+		<video>./media/videos/Can Can Bunny Extra DX (Japan).mp4</video>
+		<marquee>./media/wheel/Can Can Bunny Extra DX (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Chip-chan Kick! (Japan).chd</path>
+		<name>Chip-chan Kick! (Japan)</name>
+		<image>./media/images/Chip-chan Kick! (Japan).png</image>
+		<video>./media/videos/Chip-chan Kick! (Japan).mp4</video>
+		<marquee>./media/wheel/Chip-chan Kick! (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Choujin Heiki Zeroigar (Japan).chd</path>
+		<name>Choujin Heiki Zeroigar (Japan)</name>
+		<image>./media/images/Choujin Heiki Zeroigar (Japan).png</image>
+		<video>./media/videos/Choujin Heiki Zeroigar (Japan).mp4</video>
+		<marquee>./media/wheel/Choujin Heiki Zeroigar (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Comic Road (Japan).chd</path>
+		<name>Comic Road (Japan)</name>
+		<image>./media/images/Comic Road (Japan).png</image>
+		<video>./media/videos/Comic Road (Japan).mp4</video>
+		<marquee>./media/wheel/Comic Road (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Cutey Honey FX (Japan).chd</path>
+		<name>Cutey Honey FX (Japan)</name>
+		<image>./media/images/Cutey Honey FX (Japan).png</image>
+		<video>./media/videos/Cutey Honey FX (Japan).mp4</video>
+		<marquee>./media/wheel/Cutey Honey FX (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Doukyuusei 2 (Japan).chd</path>
+		<name>Doukyuusei 2 (Japan)</name>
+		<image>./media/images/Doukyuusei 2 (Japan).png</image>
+		<video>./media/videos/Doukyuusei 2 (Japan).mp4</video>
+		<marquee>./media/wheel/Doukyuusei 2 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Dragon Knight 4 (Japan).chd</path>
+		<name>Dragon Knight 4 (Japan)</name>
+		<image>./media/images/Dragon Knight 4 (Japan).png</image>
+		<video>./media/videos/Dragon Knight 4 (Japan).mp4</video>
+		<marquee>./media/wheel/Dragon Knight 4 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Farland Story FX (Japan).chd</path>
+		<name>Farland Story FX (Japan)</name>
+		<image>./media/images/Farland Story FX (Japan).png</image>
+		<video>./media/videos/Farland Story FX (Japan).mp4</video>
+		<marquee>./media/wheel/Farland Story FX (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Fire Woman Matoigumi (Japan).chd</path>
+		<name>Fire Woman Matoigumi (Japan)</name>
+		<image>./media/images/Fire Woman Matoigumi (Japan).png</image>
+		<video>./media/videos/Fire Woman Matoigumi (Japan).mp4</video>
+		<marquee>./media/wheel/Fire Woman Matoigumi (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./First Kiss Story (Japan).chd</path>
+		<name>First Kiss Story (Japan)</name>
+		<image>./media/images/First Kiss Story (Japan).png</image>
+		<video>./media/videos/First Kiss Story (Japan).mp4</video>
+		<marquee>./media/wheel/First Kiss Story (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Fushigi no Kuni no Angelique (Japan).chd</path>
+		<name>Fushigi no Kuni no Angelique (Japan)</name>
+		<image>./media/images/Fushigi no Kuni no Angelique (Japan).png</image>
+		<video>./media/videos/Fushigi no Kuni no Angelique (Japan).mp4</video>
+		<marquee>./media/wheel/Fushigi no Kuni no Angelique (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan).chd</path>
+		<name>Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan)</name>
+		<image>./media/images/Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan).png</image>
+		<video>./media/videos/Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan).mp4</video>
+		<marquee>./media/wheel/Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan) (Sample).chd</path>
+		<name>Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan) (Sample)</name>
+		<image>./media/images/Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan) (Sample).png</image>
+		<video>./media/videos/Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan) (Sample).mp4</video>
+		<marquee>./media/wheel/Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan) (Sample).png</marquee>
+	</game>
+	<game>
+		<path>./Hataraku Shoujo - Tekipaki Working Love FX (Japan).chd</path>
+		<name>Hataraku Shoujo - Tekipaki Working Love FX (Japan)</name>
+		<image>./media/images/Hataraku Shoujo - Tekipaki Working Love FX (Japan).png</image>
+		<video>./media/videos/Hataraku Shoujo - Tekipaki Working Love FX (Japan).mp4</video>
+		<marquee>./media/wheel/Hataraku Shoujo - Tekipaki Working Love FX (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./J. B. Harold - Blue Chicago Blues (Japan) (Disc 1).chd</path>
+		<name>J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)</name>
+		<image>./media/images/J. B. Harold - Blue Chicago Blues (Japan) (Disc 1).png</image>
+		<video>./media/videos/J. B. Harold - Blue Chicago Blues (Japan) (Disc 1).mp4</video>
+		<marquee>./media/wheel/J. B. Harold - Blue Chicago Blues (Japan) (Disc 1).png</marquee>
+	</game>
+	<game>
+		<path>./J. B. Harold - Blue Chicago Blues (Japan) (Disc 2).chd</path>
+		<name>J. B. Harold - Blue Chicago Blues (Japan) (Disc 2)</name>
+		<image>./media/images/J. B. Harold - Blue Chicago Blues (Japan) (Disc 2).png</image>
+		<video>./media/videos/J. B. Harold - Blue Chicago Blues (Japan) (Disc 2).mp4</video>
+		<marquee>./media/wheel/J. B. Harold - Blue Chicago Blues (Japan) (Disc 2).png</marquee>
+	</game>
+	<game>
+		<path>./Kishin Douji Zenki FX - Vajra Fight (Japan).chd</path>
+		<name>Kishin Douji Zenki FX - Vajra Fight (Japan)</name>
+		<image>./media/images/Kishin Douji Zenki FX - Vajra Fight (Japan).png</image>
+		<video>./media/videos/Kishin Douji Zenki FX - Vajra Fight (Japan).mp4</video>
+		<marquee>./media/wheel/Kishin Douji Zenki FX - Vajra Fight (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Kokuu Hyouryuu - Nirgends (Japan).chd</path>
+		<name>Kokuu Hyouryuu - Nirgends (Japan)</name>
+		<image>./media/images/Kokuu Hyouryuu - Nirgends (Japan).png</image>
+		<video>./media/videos/Kokuu Hyouryuu - Nirgends (Japan).mp4</video>
+		<marquee>./media/wheel/Kokuu Hyouryuu - Nirgends (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Konpeki no Kantai (Japan).chd</path>
+		<name>Konpeki no Kantai (Japan)</name>
+		<image>./media/images/Konpeki no Kantai (Japan).png</image>
+		<video>./media/videos/Konpeki no Kantai (Japan).mp4</video>
+		<marquee>./media/wheel/Konpeki no Kantai (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Langrisser FX, Der (Japan).chd</path>
+		<name>Langrisser FX, Der (Japan)</name>
+		<image>./media/images/Langrisser FX, Der (Japan).png</image>
+		<video>./media/videos/Langrisser FX, Der (Japan).mp4</video>
+		<marquee>./media/wheel/Langrisser FX, Der (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Last Imperial Prince (Japan) (Disc A).chd</path>
+		<name>Last Imperial Prince (Japan) (Disc A)</name>
+		<image>./media/images/Last Imperial Prince (Japan) (Disc A).png</image>
+		<video>./media/videos/Last Imperial Prince (Japan) (Disc A).mp4</video>
+		<marquee>./media/wheel/Last Imperial Prince (Japan) (Disc A).png</marquee>
+	</game>
+	<game>
+		<path>./Last Imperial Prince (Japan) (Disc B).chd</path>
+		<name>Last Imperial Prince (Japan) (Disc B)</name>
+		<image>./media/images/Last Imperial Prince (Japan) (Disc B).png</image>
+		<video>./media/videos/Last Imperial Prince (Japan) (Disc B).mp4</video>
+		<marquee>./media/wheel/Last Imperial Prince (Japan) (Disc B).png</marquee>
+	</game>
+	<game>
+		<path>./Lunatic Dawn FX (Japan).chd</path>
+		<name>Lunatic Dawn FX (Japan)</name>
+		<image>./media/images/Lunatic Dawn FX (Japan).png</image>
+		<video>./media/videos/Lunatic Dawn FX (Japan).mp4</video>
+		<marquee>./media/wheel/Lunatic Dawn FX (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Mahjong Gokuu Tenjiku (Japan) (SABS).chd</path>
+		<name>Mahjong Gokuu Tenjiku (Japan) (SABS)</name>
+		<image>./media/images/Mahjong Gokuu Tenjiku (Japan) (SABS).png</image>
+		<video>./media/videos/Mahjong Gokuu Tenjiku (Japan) (SABS).mp4</video>
+		<marquee>./media/wheel/Mahjong Gokuu Tenjiku (Japan) (SABS).png</marquee>
+	</game>
+	<game>
+		<path>./Makeruna! Makendou Z (Japan).chd</path>
+		<name>Makeruna! Makendou Z (Japan)</name>
+		<image>./media/images/Makeruna! Makendou Z (Japan).png</image>
+		<video>./media/videos/Makeruna! Makendou Z (Japan).mp4</video>
+		<marquee>./media/wheel/Makeruna! Makendou Z (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Megami Paradise II (Japan).chd</path>
+		<name>Megami Paradise II (Japan)</name>
+		<image>./media/images/Megami Paradise II (Japan).png</image>
+		<video>./media/videos/Megami Paradise II (Japan).mp4</video>
+		<marquee>./media/wheel/Megami Paradise II (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Minimum Nanonic (Japan).chd</path>
+		<name>Minimum Nanonic (Japan)</name>
+		<image>./media/images/Minimum Nanonic (Japan).png</image>
+		<video>./media/videos/Minimum Nanonic (Japan).mp4</video>
+		<marquee>./media/wheel/Minimum Nanonic (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Miraculum - The Last Revelation (Japan).chd</path>
+		<name>Miraculum - The Last Revelation (Japan)</name>
+		<image>./media/images/Miraculum - The Last Revelation (Japan).png</image>
+		<video>./media/videos/Miraculum - The Last Revelation (Japan).mp4</video>
+		<marquee>./media/wheel/Miraculum - The Last Revelation (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Ojousama Sousamou (Japan).chd</path>
+		<name>Ojousama Sousamou (Japan)</name>
+		<image>./media/images/Ojousama Sousamou (Japan).png</image>
+		<video>./media/videos/Ojousama Sousamou (Japan).mp4</video>
+		<marquee>./media/wheel/Ojousama Sousamou (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./PC Engine Fan - Special CD-ROM Vol. 2 (Japan).chd</path>
+		<name>PC Engine Fan - Special CD-ROM Vol. 2 (Japan)</name>
+		<image>./media/images/PC Engine Fan - Special CD-ROM Vol. 2 (Japan).png</image>
+		<video>./media/videos/PC Engine Fan - Special CD-ROM Vol. 2 (Japan).mp4</video>
+		<marquee>./media/wheel/PC Engine Fan - Special CD-ROM Vol. 2 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./PC Engine Fan - Special CD-ROM Vol. 3 (Japan).chd</path>
+		<name>PC Engine Fan - Special CD-ROM Vol. 3 (Japan)</name>
+		<image>./media/images/PC Engine Fan - Special CD-ROM Vol. 3 (Japan).png</image>
+		<video>./media/videos/PC Engine Fan - Special CD-ROM Vol. 3 (Japan).mp4</video>
+		<marquee>./media/wheel/PC Engine Fan - Special CD-ROM Vol. 3 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan).chd</path>
+		<name>Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan)</name>
+		<image>./media/images/Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan).png</image>
+		<video>./media/videos/Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan).mp4</video>
+		<marquee>./media/wheel/Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Pia Carrot e Youkoso!! We've Been Waiting for You (Japan).chd</path>
+		<name>Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)</name>
+		<image>./media/images/Pia Carrot e Youkoso!! We've Been Waiting for You (Japan).png</image>
+		<video>./media/videos/Pia Carrot e Youkoso!! We've Been Waiting for You (Japan).mp4</video>
+		<marquee>./media/wheel/Pia Carrot e Youkoso!! We've Been Waiting for You (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Power DoLLS FX (Japan).chd</path>
+		<name>Power DoLLS FX (Japan)</name>
+		<image>./media/images/Power DoLLS FX (Japan).png</image>
+		<video>./media/videos/Power DoLLS FX (Japan).mp4</video>
+		<marquee>./media/wheel/Power DoLLS FX (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Return to Zork (Japan).chd</path>
+		<name>Return to Zork (Japan)</name>
+		<image>./media/images/Return to Zork (Japan).png</image>
+		<video>./media/videos/Return to Zork (Japan).mp4</video>
+		<marquee>./media/wheel/Return to Zork (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Ruruli Ra Rura (Japan).chd</path>
+		<name>Ruruli Ra Rura (Japan)</name>
+		<image>./media/images/Ruruli Ra Rura (Japan).png</image>
+		<video>./media/videos/Ruruli Ra Rura (Japan).mp4</video>
+		<marquee>./media/wheel/Ruruli Ra Rura (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Same Game FX (Japan) (NEC PC-FXGA).chd</path>
+		<name>Same Game FX (Japan) (NEC PC-FXGA)</name>
+		<image>./media/images/Same Game FX (Japan) (NEC PC-FXGA).png</image>
+		<video>./media/videos/Same Game FX (Japan) (NEC PC-FXGA).mp4</video>
+		<marquee>./media/wheel/Same Game FX (Japan) (NEC PC-FXGA).png</marquee>
+	</game>
+	<game>
+		<path>./Shanghai - Banri no Choujou (Japan).chd</path>
+		<name>Shanghai - Banri no Choujou (Japan)</name>
+		<image>./media/images/Shanghai - Banri no Choujou (Japan).png</image>
+		<video>./media/videos/Shanghai - Banri no Choujou (Japan).mp4</video>
+		<marquee>./media/wheel/Shanghai - Banri no Choujou (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS).chd</path>
+		<name>Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS)</name>
+		<image>./media/images/Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS).png</image>
+		<video>./media/videos/Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS).mp4</video>
+		<marquee>./media/wheel/Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS).png</marquee>
+	</game>
+	<game>
+		<path>./Sotsugyou R - Graduation Real (Japan).chd</path>
+		<name>Sotsugyou R - Graduation Real (Japan)</name>
+		<image>./media/images/Sotsugyou R - Graduation Real (Japan).png</image>
+		<video>./media/videos/Sotsugyou R - Graduation Real (Japan).mp4</video>
+		<marquee>./media/wheel/Sotsugyou R - Graduation Real (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Sparkling Feather (Japan).chd</path>
+		<name>Sparkling Feather (Japan)</name>
+		<image>./media/images/Sparkling Feather (Japan).png</image>
+		<video>./media/videos/Sparkling Feather (Japan).mp4</video>
+		<marquee>./media/wheel/Sparkling Feather (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Super PC Engine Fan Deluxe - Special CD-ROM Vol. 1 (Japan).chd</path>
+		<name>Super PC Engine Fan Deluxe - Special CD-ROM Vol. 1 (Japan)</name>
+		<image>./media/images/Super PC Engine Fan Deluxe - Special CD-ROM Vol. 1 (Japan).png</image>
+		<video>./media/videos/Super PC Engine Fan Deluxe - Special CD-ROM Vol. 1 (Japan).mp4</video>
+		<marquee>./media/wheel/Super PC Engine Fan Deluxe - Special CD-ROM Vol. 1 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Super PC Engine Fan Deluxe - Special CD-ROM Vol. 2 (Japan).chd</path>
+		<name>Super PC Engine Fan Deluxe - Special CD-ROM Vol. 2 (Japan)</name>
+		<image>./media/images/Super PC Engine Fan Deluxe - Special CD-ROM Vol. 2 (Japan).png</image>
+		<video>./media/videos/Super PC Engine Fan Deluxe - Special CD-ROM Vol. 2 (Japan).mp4</video>
+		<marquee>./media/wheel/Super PC Engine Fan Deluxe - Special CD-ROM Vol. 2 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Super Power League FX (Japan).chd</path>
+		<name>Super Power League FX (Japan)</name>
+		<image>./media/images/Super Power League FX (Japan).png</image>
+		<video>./media/videos/Super Power League FX (Japan).mp4</video>
+		<marquee>./media/wheel/Super Power League FX (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Super Real Mahjong P.V FX (Japan).chd</path>
+		<name>Super Real Mahjong P.V FX (Japan)</name>
+		<image>./media/images/Super Real Mahjong P.V FX (Japan).png</image>
+		<video>./media/videos/Super Real Mahjong P.V FX (Japan).mp4</video>
+		<marquee>./media/wheel/Super Real Mahjong P.V FX (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Team Innocent - The Point of No Return - G.C.P.O.SS (Japan).chd</path>
+		<name>Team Innocent - The Point of No Return - G.C.P.O.SS (Japan)</name>
+		<image>./media/images/Team Innocent - The Point of No Return - G.C.P.O.SS (Japan).png</image>
+		<video>./media/videos/Team Innocent - The Point of No Return - G.C.P.O.SS (Japan).mp4</video>
+		<marquee>./media/wheel/Team Innocent - The Point of No Return - G.C.P.O.SS (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Tenchi Muyou! Ryououki FX (Japan) (Disc A) (Hakua Kaikou).chd</path>
+		<name>Tenchi Muyou! Ryououki FX (Japan) (Disc A) (Hakua Kaikou)</name>
+		<image>./media/images/Tenchi Muyou! Ryououki FX (Japan) (Disc A) (Hakua Kaikou).png</image>
+		<video>./media/videos/Tenchi Muyou! Ryououki FX (Japan) (Disc A) (Hakua Kaikou).mp4</video>
+		<marquee>./media/wheel/Tenchi Muyou! Ryououki FX (Japan) (Disc A) (Hakua Kaikou).png</marquee>
+	</game>
+	<game>
+		<path>./Tenchi Muyou! Ryououki FX (Japan) (Disc B) (Kiyone Houguu).chd</path>
+		<name>Tenchi Muyou! Ryououki FX (Japan) (Disc B) (Kiyone Houguu)</name>
+		<image>./media/images/Tenchi Muyou! Ryououki FX (Japan) (Disc B) (Kiyone Houguu).png</image>
+		<video>./media/videos/Tenchi Muyou! Ryououki FX (Japan) (Disc B) (Kiyone Houguu).mp4</video>
+		<marquee>./media/wheel/Tenchi Muyou! Ryououki FX (Japan) (Disc B) (Kiyone Houguu).png</marquee>
+	</game>
+	<game>
+		<path>./Tengai Makyou - Dennou Karakuri Kakutouden (Japan).chd</path>
+		<name>Tengai Makyou - Dennou Karakuri Kakutouden (Japan)</name>
+		<image>./media/images/Tengai Makyou - Dennou Karakuri Kakutouden (Japan).png</image>
+		<video>./media/videos/Tengai Makyou - Dennou Karakuri Kakutouden (Japan).mp4</video>
+		<marquee>./media/wheel/Tengai Makyou - Dennou Karakuri Kakutouden (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan).chd</path>
+		<name>Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan)</name>
+		<image>./media/images/Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan).png</image>
+		<video>./media/videos/Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan).mp4</video>
+		<marquee>./media/wheel/Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Tonari no Princess Rolfee! (Japan).chd</path>
+		<name>Tonari no Princess Rolfee! (Japan)</name>
+		<image>./media/images/Tonari no Princess Rolfee! (Japan).png</image>
+		<video>./media/videos/Tonari no Princess Rolfee! (Japan).mp4</video>
+		<marquee>./media/wheel/Tonari no Princess Rolfee! (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Voice Paradise (Japan) (Disc A).chd</path>
+		<name>Voice Paradise (Japan) (Disc A)</name>
+		<image>./media/images/Voice Paradise (Japan) (Disc A).png</image>
+		<video>./media/videos/Voice Paradise (Japan) (Disc A).mp4</video>
+		<marquee>./media/wheel/Voice Paradise (Japan) (Disc A).png</marquee>
+	</game>
+	<game>
+		<path>./Voice Paradise (Japan) (Disc B).chd</path>
+		<name>Voice Paradise (Japan) (Disc B)</name>
+		<image>./media/images/Voice Paradise (Japan) (Disc B).png</image>
+		<video>./media/videos/Voice Paradise (Japan) (Disc B).mp4</video>
+		<marquee>./media/wheel/Voice Paradise (Japan) (Disc B).png</marquee>
+	</game>
+	<game>
+		<path>./Wakusei Koukitai - Little Cats (Japan).chd</path>
+		<name>Wakusei Koukitai - Little Cats (Japan)</name>
+		<image>./media/images/Wakusei Koukitai - Little Cats (Japan).png</image>
+		<video>./media/videos/Wakusei Koukitai - Little Cats (Japan).mp4</video>
+		<marquee>./media/wheel/Wakusei Koukitai - Little Cats (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc A) (Zenjo vs Zenjo).chd</path>
+		<name>Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc A) (Zenjo vs Zenjo)</name>
+		<image>./media/images/Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc A) (Zenjo vs Zenjo).png</image>
+		<video>./media/videos/Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc A) (Zenjo vs Zenjo).mp4</video>
+		<marquee>./media/wheel/Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc A) (Zenjo vs Zenjo).png</marquee>
+	</game>
+	<game>
+		<path>./Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc B) (Zenjo vs KWP).chd</path>
+		<name>Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc B) (Zenjo vs KWP)</name>
+		<image>./media/images/Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc B) (Zenjo vs KWP).png</image>
+		<video>./media/videos/Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc B) (Zenjo vs KWP).mp4</video>
+		<marquee>./media/wheel/Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc B) (Zenjo vs KWP).png</marquee>
+	</game>
+	<game>
+		<path>./Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc I).chd</path>
+		<name>Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc I)</name>
+		<image>./media/images/Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc I).png</image>
+		<video>./media/videos/Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc I).mp4</video>
+		<marquee>./media/wheel/Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc I).png</marquee>
+	</game>
+	<game>
+		<path>./Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc II).chd</path>
+		<name>Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc II)</name>
+		<image>./media/images/Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc II).png</image>
+		<video>./media/videos/Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc II).mp4</video>
+		<marquee>./media/wheel/Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc II).png</marquee>
+	</game>
+</gameList>
