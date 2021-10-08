@@ -58,14 +58,14 @@
   </game>
   <game>
     <path>./1943 Kai (Japan).zip</path>
-    <name>1943 Kai (Japan)</name>
+    <name>1943改</name>
     <image>./media/images/1943 Kai (Japan).png</image>
     <video>./media/videos/1943 Kai (Japan).mp4</video>
     <marquee>./media/wheel/1943 Kai (Japan).png</marquee>
   </game>
   <game>
     <path>./21 Emon - Mezase Hotel Ou!! (Japan).zip</path>
-    <name>21 Emon - Mezase Hotel Ou!! (Japan)</name>
+    <name>21エモン めざせホテル王!!</name>
     <image>./media/images/21 Emon - Mezase Hotel Ou!! (Japan).png</image>
     <video>./media/videos/21 Emon - Mezase Hotel Ou!! (Japan).mp4</video>
     <marquee>./media/wheel/21 Emon - Mezase Hotel Ou!! (Japan).png</marquee>
@@ -93,7 +93,7 @@
   </game>
   <game>
     <path>./After Burner II (Japan).zip</path>
-    <name>After Burner II (Japan)</name>
+    <name>アフターバーナーII</name>
     <image>./media/images/After Burner II (Japan).png</image>
     <video>./media/videos/After Burner II (Japan).mp4</video>
     <marquee>./media/wheel/After Burner II (Japan).png</marquee>
@@ -212,7 +212,7 @@
   </game>
   <game>
     <path>./Batman (Japan).zip</path>
-    <name>Batman (Japan)</name>
+    <name>バットマン</name>
     <image>./media/images/Batman (Japan).png</image>
     <video>./media/videos/Batman (Japan).mp4</video>
     <marquee>./media/wheel/Batman (Japan).png</marquee>
@@ -240,7 +240,7 @@
   </game>
   <game>
     <path>./Benkei Gaiden (Japan).zip</path>
-    <name>Benkei Gaiden (Japan)</name>
+    <name>弁慶外伝</name>
     <image>./media/images/Benkei Gaiden (Japan).png</image>
     <video>./media/videos/Benkei Gaiden (Japan).mp4</video>
     <marquee>./media/wheel/Benkei Gaiden (Japan).png</marquee>
@@ -296,7 +296,7 @@
   </game>
   <game>
     <path>./Bomberman (Japan).zip</path>
-    <name>Bomberman (Japan)</name>
+    <name>ボンバーマン</name>
     <image>./media/images/Bomberman (Japan).png</image>
     <video>./media/videos/Bomberman (Japan).mp4</video>
     <marquee>./media/wheel/Bomberman (Japan).png</marquee>
@@ -317,7 +317,7 @@
   </game>
   <game>
     <path>./Bomberman '93 (Japan).zip</path>
-    <name>Bomberman '93 (Japan)</name>
+    <name>ボンバーマン'93</name>
     <image>./media/images/Bomberman '93 (Japan).png</image>
     <video>./media/videos/Bomberman '93 (Japan).mp4</video>
     <marquee>./media/wheel/Bomberman '93 (Japan).png</marquee>
@@ -345,7 +345,7 @@
   </game>
   <game>
     <path>./Bomberman '94 (Japan).zip</path>
-    <name>Bomberman '94 (Japan)</name>
+    <name>ボンバーマン'94</name>
     <image>./media/images/Bomberman '94 (Japan).png</image>
     <video>./media/videos/Bomberman '94 (Japan).mp4</video>
     <marquee>./media/wheel/Bomberman '94 (Japan).png</marquee>
@@ -422,7 +422,7 @@
   </game>
   <game>
     <path>./Burning Angels (Japan).zip</path>
-    <name>Burning Angels (Japan)</name>
+    <name>バーニングエンジェル</name>
     <image>./media/images/Burning Angels (Japan).png</image>
     <video>./media/videos/Burning Angels (Japan).mp4</video>
     <marquee>./media/wheel/Burning Angels (Japan).png</marquee>
@@ -499,7 +499,7 @@
   </game>
   <game>
     <path>./Chouzetsurinjin Bravoman (Japan).zip</path>
-    <name>Chouzetsurinjin Bravoman (Japan)</name>
+    <name>超絶倫人ベラボーマン</name>
     <image>./media/images/Chouzetsurinjin Bravoman (Japan).png</image>
     <video>./media/videos/Chouzetsurinjin Bravoman (Japan).mp4</video>
     <marquee>./media/wheel/Chouzetsurinjin Bravoman (Japan).png</marquee>
@@ -513,7 +513,7 @@
   </game>
   <game>
     <path>./City Hunter (Japan).zip</path>
-    <name>City Hunter (Japan)</name>
+    <name>シティーハンター</name>
     <image>./media/images/City Hunter (Japan).png</image>
     <video>./media/videos/City Hunter (Japan).mp4</video>
     <marquee>./media/wheel/City Hunter (Japan).png</marquee>
@@ -688,14 +688,14 @@
   </game>
   <game>
     <path>./Doraemon - Meikyuu Daisakusen (Japan).zip</path>
-    <name>Doraemon - Meikyuu Daisakusen (Japan)</name>
+    <name>ドラえもん 迷宮大作戦</name>
     <image>./media/images/Doraemon - Meikyuu Daisakusen (Japan).png</image>
     <video>./media/videos/Doraemon - Meikyuu Daisakusen (Japan).mp4</video>
     <marquee>./media/wheel/Doraemon - Meikyuu Daisakusen (Japan).png</marquee>
   </game>
   <game>
     <path>./Doraemon - Nobita no Dorabian Night (Japan).zip</path>
-    <name>Doraemon - Nobita no Dorabian Night (Japan)</name>
+    <name>ドラえもん のび太のドラビアンナイト</name>
     <image>./media/images/Doraemon - Nobita no Dorabian Night (Japan).png</image>
     <video>./media/videos/Doraemon - Nobita no Dorabian Night (Japan).mp4</video>
     <marquee>./media/wheel/Doraemon - Nobita no Dorabian Night (Japan).png</marquee>
@@ -716,7 +716,7 @@
   </game>
   <game>
     <path>./Download (Japan).zip</path>
-    <name>Download (Japan)</name>
+    <name>ダウンロード</name>
     <image>./media/images/Download (Japan).png</image>
     <video>./media/videos/Download (Japan).mp4</video>
     <marquee>./media/wheel/Download (Japan).png</marquee>
@@ -730,14 +730,14 @@
   </game>
   <game>
     <path>./Dragon Saber (Japan).zip</path>
-    <name>Dragon Saber (Japan)</name>
+    <name>ドラゴンセイバー</name>
     <image>./media/images/Dragon Saber (Japan).png</image>
     <video>./media/videos/Dragon Saber (Japan).mp4</video>
     <marquee>./media/wheel/Dragon Saber (Japan).png</marquee>
   </game>
   <game>
     <path>./Dragon Spirit (Japan).zip</path>
-    <name>Dragon Spirit (Japan)</name>
+    <name>ドラゴンスピリット</name>
     <image>./media/images/Dragon Spirit (Japan).png</image>
     <video>./media/videos/Dragon Spirit (Japan).mp4</video>
     <marquee>./media/wheel/Dragon Spirit (Japan).png</marquee>
@@ -863,7 +863,7 @@
   </game>
   <game>
     <path>./Fantasy Zone (Japan).zip</path>
-    <name>Fantasy Zone (Japan)</name>
+    <name>ファンタジーゾーン</name>
     <image>./media/images/Fantasy Zone (Japan).png</image>
     <video>./media/videos/Fantasy Zone (Japan).mp4</video>
     <marquee>./media/wheel/Fantasy Zone (Japan).png</marquee>
@@ -919,21 +919,21 @@
   </game>
   <game>
     <path>./Fire Pro Wrestling - Combination Tag (Japan).zip</path>
-    <name>Fire Pro Wrestling - Combination Tag (Japan)</name>
+    <name>ファイヤープロレスリング コンビネーションタッグ</name>
     <image>./media/images/Fire Pro Wrestling - Combination Tag (Japan).png</image>
     <video>./media/videos/Fire Pro Wrestling - Combination Tag (Japan).mp4</video>
     <marquee>./media/wheel/Fire Pro Wrestling - Combination Tag (Japan).png</marquee>
   </game>
   <game>
     <path>./Fire Pro Wrestling 2 - 2nd Bout (Japan).zip</path>
-    <name>Fire Pro Wrestling 2 - 2nd Bout (Japan)</name>
+    <name>ファイヤープロレスリング2nd BOUT</name>
     <image>./media/images/Fire Pro Wrestling 2 - 2nd Bout (Japan).png</image>
     <video>./media/videos/Fire Pro Wrestling 2 - 2nd Bout (Japan).mp4</video>
     <marquee>./media/wheel/Fire Pro Wrestling 2 - 2nd Bout (Japan).png</marquee>
   </game>
   <game>
     <path>./Fire Pro Wrestling 3 - Legend Bout (Japan).zip</path>
-    <name>Fire Pro Wrestling 3 - Legend Bout (Japan)</name>
+    <name>ファイヤープロレスリング3 Legend Bout</name>
     <image>./media/images/Fire Pro Wrestling 3 - Legend Bout (Japan).png</image>
     <video>./media/videos/Fire Pro Wrestling 3 - Legend Bout (Japan).mp4</video>
     <marquee>./media/wheel/Fire Pro Wrestling 3 - Legend Bout (Japan).png</marquee>
@@ -975,7 +975,7 @@
   </game>
   <game>
     <path>./Galaga '88 (Japan).zip</path>
-    <name>Galaga '88 (Japan)</name>
+    <name>ギャラガ'88</name>
     <image>./media/images/Galaga '88 (Japan).png</image>
     <video>./media/videos/Galaga '88 (Japan).mp4</video>
     <marquee>./media/wheel/Galaga '88 (Japan).png</marquee>
@@ -1010,14 +1010,14 @@
   </game>
   <game>
     <path>./Genpei Toumaden (Japan).zip</path>
-    <name>Genpei Toumaden (Japan)</name>
+    <name>源平討魔伝</name>
     <image>./media/images/Genpei Toumaden (Japan).png</image>
     <video>./media/videos/Genpei Toumaden (Japan).mp4</video>
     <marquee>./media/wheel/Genpei Toumaden (Japan).png</marquee>
   </game>
   <game>
     <path>./Genpei Toumaden - Kan no Ni (Japan).zip</path>
-    <name>Genpei Toumaden - Kan no Ni (Japan)</name>
+    <name>源平討魔伝 巻ノ弐</name>
     <image>./media/images/Genpei Toumaden - Kan no Ni (Japan).png</image>
     <video>./media/videos/Genpei Toumaden - Kan no Ni (Japan).mp4</video>
     <marquee>./media/wheel/Genpei Toumaden - Kan no Ni (Japan).png</marquee>
@@ -1045,7 +1045,7 @@
   </game>
   <game>
     <path>./Gradius (Japan).zip</path>
-    <name>Gradius (Japan)</name>
+    <name>グラディウス</name>
     <image>./media/images/Gradius (Japan).png</image>
     <video>./media/videos/Gradius (Japan).mp4</video>
     <marquee>./media/wheel/Gradius (Japan).png</marquee>
@@ -1059,7 +1059,7 @@
   </game>
   <game>
     <path>./Gunhed (Japan).zip</path>
-    <name>Gunhed (Japan)</name>
+    <name>ガンヘッド</name>
     <image>./media/images/Gunhed (Japan).png</image>
     <video>./media/videos/Gunhed (Japan).mp4</video>
     <marquee>./media/wheel/Gunhed (Japan).png</marquee>
@@ -1199,7 +1199,7 @@
   </game>
   <game>
     <path>./Jaseiken Necromancer (Japan).zip</path>
-    <name>Jaseiken Necromancer (Japan)</name>
+    <name>邪聖剣ネクロマンサー</name>
     <image>./media/images/Jaseiken Necromancer (Japan).png</image>
     <video>./media/videos/Jaseiken Necromancer (Japan).mp4</video>
     <marquee>./media/wheel/Jaseiken Necromancer (Japan).png</marquee>
@@ -1227,28 +1227,28 @@
   </game>
   <game>
     <path>./Juuouki (Japan).zip</path>
-    <name>Juuouki (Japan)</name>
+    <name>獣王記</name>
     <image>./media/images/Juuouki (Japan).png</image>
     <video>./media/videos/Juuouki (Japan).mp4</video>
     <marquee>./media/wheel/Juuouki (Japan).png</marquee>
   </game>
   <game>
     <path>./Kaizou Choujin Shubibinman (Japan).zip</path>
-    <name>Kaizou Choujin Shubibinman (Japan)</name>
+    <name>改造町人シュビビンマン</name>
     <image>./media/images/Kaizou Choujin Shubibinman (Japan).png</image>
     <video>./media/videos/Kaizou Choujin Shubibinman (Japan).mp4</video>
     <marquee>./media/wheel/Kaizou Choujin Shubibinman (Japan).png</marquee>
   </game>
   <game>
     <path>./Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan).zip</path>
-    <name>Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan)</name>
+    <name>改造町人シュビビンマン2 新たなる敵</name>
     <image>./media/images/Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan).png</image>
     <video>./media/videos/Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan).mp4</video>
     <marquee>./media/wheel/Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan).png</marquee>
   </game>
   <game>
     <path>./Kato-chan Ken-chan (Japan).zip</path>
-    <name>Kato-chan Ken-chan (Japan)</name>
+    <name>カトちゃんケンちゃん</name>
     <image>./media/images/Kato-chan Ken-chan (Japan).png</image>
     <video>./media/videos/Kato-chan Ken-chan (Japan).mp4</video>
     <marquee>./media/wheel/Kato-chan Ken-chan (Japan).png</marquee>
@@ -1276,7 +1276,7 @@
   </game>
   <game>
     <path>./Kiki Kaikai (Japan).zip</path>
-    <name>Kiki Kaikai (Japan)</name>
+    <name>奇々怪界</name>
     <image>./media/images/Kiki Kaikai (Japan).png</image>
     <video>./media/videos/Kiki Kaikai (Japan).mp4</video>
     <marquee>./media/wheel/Kiki Kaikai (Japan).png</marquee>
@@ -1318,14 +1318,14 @@
   </game>
   <game>
     <path>./Kore ga Pro Yakyuu '89 (Japan).zip</path>
-    <name>Kore ga Pro Yakyuu '89 (Japan)</name>
+    <name>これがプロ野球'89</name>
     <image>./media/images/Kore ga Pro Yakyuu '89 (Japan).png</image>
     <video>./media/videos/Kore ga Pro Yakyuu '89 (Japan).mp4</video>
     <marquee>./media/wheel/Kore ga Pro Yakyuu '89 (Japan).png</marquee>
   </game>
   <game>
     <path>./Kore ga Pro Yakyuu '90 (Japan).zip</path>
-    <name>Kore ga Pro Yakyuu '90 (Japan)</name>
+    <name>これがプロ野球'90</name>
     <image>./media/images/Kore ga Pro Yakyuu '90 (Japan).png</image>
     <video>./media/videos/Kore ga Pro Yakyuu '90 (Japan).mp4</video>
     <marquee>./media/wheel/Kore ga Pro Yakyuu '90 (Japan).png</marquee>
@@ -1535,28 +1535,28 @@
   </game>
   <game>
     <path>./Momotarou Densetsu Gaiden - Dai-1-shuu (Japan).zip</path>
-    <name>Momotarou Densetsu Gaiden - Dai-1-shuu (Japan)</name>
+    <name>桃太郎伝説外伝 第1集</name>
     <image>./media/images/Momotarou Densetsu Gaiden - Dai-1-shuu (Japan).png</image>
     <video>./media/videos/Momotarou Densetsu Gaiden - Dai-1-shuu (Japan).mp4</video>
     <marquee>./media/wheel/Momotarou Densetsu Gaiden - Dai-1-shuu (Japan).png</marquee>
   </game>
   <game>
     <path>./Momotarou Densetsu II (Japan).zip</path>
-    <name>Momotarou Densetsu II (Japan)</name>
+    <name>桃太郎伝説II</name>
     <image>./media/images/Momotarou Densetsu II (Japan).png</image>
     <video>./media/videos/Momotarou Densetsu II (Japan).mp4</video>
     <marquee>./media/wheel/Momotarou Densetsu II (Japan).png</marquee>
   </game>
   <game>
     <path>./Momotarou Densetsu Turbo (Japan).zip</path>
-    <name>Momotarou Densetsu Turbo (Japan)</name>
+    <name>桃太郎伝説ターボ</name>
     <image>./media/images/Momotarou Densetsu Turbo (Japan).png</image>
     <video>./media/videos/Momotarou Densetsu Turbo (Japan).mp4</video>
     <marquee>./media/wheel/Momotarou Densetsu Turbo (Japan).png</marquee>
   </game>
   <game>
     <path>./Momotarou Katsugeki (Japan).zip</path>
-    <name>Momotarou Katsugeki (Japan)</name>
+    <name>桃太郎活劇</name>
     <image>./media/images/Momotarou Katsugeki (Japan).png</image>
     <video>./media/videos/Momotarou Katsugeki (Japan).mp4</video>
     <marquee>./media/wheel/Momotarou Katsugeki (Japan).png</marquee>
@@ -1661,7 +1661,7 @@
   </game>
   <game>
     <path>./Neutopia (Japan).zip</path>
-    <name>Neutopia (Japan)</name>
+    <name>ニュートピア</name>
     <image>./media/images/Neutopia (Japan).png</image>
     <video>./media/videos/Neutopia (Japan).mp4</video>
     <marquee>./media/wheel/Neutopia (Japan).png</marquee>
@@ -1682,7 +1682,7 @@
   </game>
   <game>
     <path>./Neutopia II (Japan).zip</path>
-    <name>Neutopia II (Japan)</name>
+    <name>ニュートピアII</name>
     <image>./media/images/Neutopia II (Japan).png</image>
     <video>./media/videos/Neutopia II (Japan).mp4</video>
     <marquee>./media/wheel/Neutopia II (Japan).png</marquee>
@@ -1724,7 +1724,7 @@
   </game>
   <game>
     <path>./Ninja Ryuukenden (Japan) (En,Ja,Zh).zip</path>
-    <name>Ninja Ryuukenden (Japan) (En,Ja,Zh)</name>
+    <name>忍者龍剣伝</name>
     <image>./media/images/Ninja Ryuukenden (Japan) (En,Ja,Zh).png</image>
     <video>./media/videos/Ninja Ryuukenden (Japan) (En,Ja,Zh).mp4</video>
     <marquee>./media/wheel/Ninja Ryuukenden (Japan) (En,Ja,Zh).png</marquee>
@@ -1913,21 +1913,21 @@
   </game>
   <game>
     <path>./Power Drift (Japan).zip</path>
-    <name>Power Drift (Japan)</name>
+    <name>パワードリフト</name>
     <image>./media/images/Power Drift (Japan).png</image>
     <video>./media/videos/Power Drift (Japan).mp4</video>
     <marquee>./media/wheel/Power Drift (Japan).png</marquee>
   </game>
   <game>
     <path>./Power Eleven (Japan).zip</path>
-    <name>Power Eleven (Japan)</name>
+    <name>パワーイレブン</name>
     <image>./media/images/Power Eleven (Japan).png</image>
     <video>./media/videos/Power Eleven (Japan).mp4</video>
     <marquee>./media/wheel/Power Eleven (Japan).png</marquee>
   </game>
   <game>
     <path>./Power Gate (Japan).zip</path>
-    <name>Power Gate (Japan)</name>
+    <name>パワーゲイト</name>
     <image>./media/images/Power Gate (Japan).png</image>
     <video>./media/videos/Power Gate (Japan).mp4</video>
     <marquee>./media/wheel/Power Gate (Japan).png</marquee>
@@ -1941,63 +1941,63 @@
   </game>
   <game>
     <path>./Power Golf (Japan).zip</path>
-    <name>Power Golf (Japan)</name>
+    <name>パワーゴルフ</name>
     <image>./media/images/Power Golf (Japan).png</image>
     <video>./media/videos/Power Golf (Japan).mp4</video>
     <marquee>./media/wheel/Power Golf (Japan).png</marquee>
   </game>
   <game>
     <path>./Power League (Japan).zip</path>
-    <name>Power League (Japan)</name>
+    <name>パワーリーグ</name>
     <image>./media/images/Power League (Japan).png</image>
     <video>./media/videos/Power League (Japan).mp4</video>
     <marquee>./media/wheel/Power League (Japan).png</marquee>
   </game>
   <game>
     <path>./Power League '93 (Japan).zip</path>
-    <name>Power League '93 (Japan)</name>
+    <name>パワーリーグ'93</name>
     <image>./media/images/Power League '93 (Japan).png</image>
     <video>./media/videos/Power League '93 (Japan).mp4</video>
     <marquee>./media/wheel/Power League '93 (Japan).png</marquee>
   </game>
   <game>
     <path>./Power League 4 (Japan).zip</path>
-    <name>Power League 4 (Japan)</name>
+    <name>パワーリーグ4</name>
     <image>./media/images/Power League 4 (Japan).png</image>
     <video>./media/videos/Power League 4 (Japan).mp4</video>
     <marquee>./media/wheel/Power League 4 (Japan).png</marquee>
   </game>
   <game>
     <path>./Power League 5 (Japan).zip</path>
-    <name>Power League 5 (Japan)</name>
+    <name>パワーリーグ5</name>
     <image>./media/images/Power League 5 (Japan).png</image>
     <video>./media/videos/Power League 5 (Japan).mp4</video>
     <marquee>./media/wheel/Power League 5 (Japan).png</marquee>
   </game>
   <game>
     <path>./Power League II (Japan).zip</path>
-    <name>Power League II (Japan)</name>
+    <name>パワーリーグII</name>
     <image>./media/images/Power League II (Japan).png</image>
     <video>./media/videos/Power League II (Japan).mp4</video>
     <marquee>./media/wheel/Power League II (Japan).png</marquee>
   </game>
   <game>
     <path>./Power League III (Japan).zip</path>
-    <name>Power League III (Japan)</name>
+    <name>パワーリーグIII</name>
     <image>./media/images/Power League III (Japan).png</image>
     <video>./media/videos/Power League III (Japan).mp4</video>
     <marquee>./media/wheel/Power League III (Japan).png</marquee>
   </game>
   <game>
     <path>./Power Sports (Japan).zip</path>
-    <name>Power Sports (Japan)</name>
+    <name>パワースポーツ</name>
     <image>./media/images/Power Sports (Japan).png</image>
     <video>./media/videos/Power Sports (Japan).mp4</video>
     <marquee>./media/wheel/Power Sports (Japan).png</marquee>
   </game>
   <game>
     <path>./Power Tennis (Japan).zip</path>
-    <name>Power Tennis (Japan)</name>
+    <name>パワーテニス</name>
     <image>./media/images/Power Tennis (Japan).png</image>
     <video>./media/videos/Power Tennis (Japan).mp4</video>
     <marquee>./media/wheel/Power Tennis (Japan).png</marquee>
@@ -2011,14 +2011,14 @@
   </game>
   <game>
     <path>./Pro Yakyuu World Stadium (Japan).zip</path>
-    <name>Pro Yakyuu World Stadium (Japan)</name>
+    <name>プロ野球ワールドスタジアム</name>
     <image>./media/images/Pro Yakyuu World Stadium (Japan).png</image>
     <video>./media/videos/Pro Yakyuu World Stadium (Japan).mp4</video>
     <marquee>./media/wheel/Pro Yakyuu World Stadium (Japan).png</marquee>
   </game>
   <game>
     <path>./Pro Yakyuu World Stadium '91 (Japan).zip</path>
-    <name>Pro Yakyuu World Stadium '91 (Japan)</name>
+    <name>プロ野球ワールドスタジアム'91</name>
     <image>./media/images/Pro Yakyuu World Stadium '91 (Japan).png</image>
     <video>./media/videos/Pro Yakyuu World Stadium '91 (Japan).mp4</video>
     <marquee>./media/wheel/Pro Yakyuu World Stadium '91 (Japan).png</marquee>
@@ -2074,7 +2074,7 @@
   </game>
   <game>
     <path>./R-Type II (Japan) (v1.1).zip</path>
-    <name>R-Type II (Japan) (v1.1)</name>
+    <name>R-TYPE II</name>
     <image>./media/images/R-Type II (Japan) (v1.1).png</image>
     <video>./media/videos/R-Type II (Japan) (v1.1).mp4</video>
     <marquee>./media/wheel/R-Type II (Japan) (v1.1).png</marquee>
@@ -2158,7 +2158,7 @@
   </game>
   <game>
     <path>./Salamander (Japan).zip</path>
-    <name>Salamander (Japan)</name>
+    <name>沙羅曼蛇</name>
     <image>./media/images/Salamander (Japan).png</image>
     <video>./media/videos/Salamander (Japan).mp4</video>
     <marquee>./media/wheel/Salamander (Japan).png</marquee>
@@ -2361,7 +2361,7 @@
   </game>
   <game>
     <path>./Splatterhouse (Japan) (En).zip</path>
-    <name>Splatterhouse (Japan) (En)</name>
+    <name>スプラッターハウス</name>
     <image>./media/images/Splatterhouse (Japan) (En).png</image>
     <video>./media/videos/Splatterhouse (Japan) (En).mp4</video>
     <marquee>./media/wheel/Splatterhouse (Japan) (En).png</marquee>
@@ -2403,21 +2403,21 @@
   </game>
   <game>
     <path>./Super Momotarou Dentetsu (Japan) (Alt 1).zip</path>
-    <name>Super Momotarou Dentetsu (Japan) (Alt 1)</name>
+    <name>スーパー桃太郎電鉄</name>
     <image>./media/images/Super Momotarou Dentetsu (Japan) (Alt 1).png</image>
     <video>./media/videos/Super Momotarou Dentetsu (Japan) (Alt 1).mp4</video>
     <marquee>./media/wheel/Super Momotarou Dentetsu (Japan) (Alt 1).png</marquee>
   </game>
   <game>
     <path>./Super Momotarou Dentetsu (Japan).zip</path>
-    <name>Super Momotarou Dentetsu (Japan)</name>
+    <name>スーパー桃太郎電鉄</name>
     <image>./media/images/Super Momotarou Dentetsu (Japan).png</image>
     <video>./media/videos/Super Momotarou Dentetsu (Japan).mp4</video>
     <marquee>./media/wheel/Super Momotarou Dentetsu (Japan).png</marquee>
   </game>
   <game>
     <path>./Super Momotarou Dentetsu II (Japan).zip</path>
-    <name>Super Momotarou Dentetsu II (Japan)</name>
+    <name>スーパー桃太郎電鉄II</name>
     <image>./media/images/Super Momotarou Dentetsu II (Japan).png</image>
     <video>./media/videos/Super Momotarou Dentetsu II (Japan).mp4</video>
     <marquee>./media/wheel/Super Momotarou Dentetsu II (Japan).png</marquee>
@@ -2578,7 +2578,7 @@
   </game>
   <game>
     <path>./Toilet Kids (Japan).zip</path>
-    <name>Toilet Kids (Japan)</name>
+    <name>トイレキッズ</name>
     <image>./media/images/Toilet Kids (Japan).png</image>
     <video>./media/videos/Toilet Kids (Japan).mp4</video>
     <marquee>./media/wheel/Toilet Kids (Japan).png</marquee>
@@ -2648,7 +2648,7 @@
   </game>
   <game>
     <path>./TV Sports Basketball (Japan).zip</path>
-    <name>TV Sports Basketball (Japan)</name>
+    <name>TVスポーツ バスケットボール</name>
     <image>./media/images/TV Sports Basketball (Japan).png</image>
     <video>./media/videos/TV Sports Basketball (Japan).mp4</video>
     <marquee>./media/wheel/TV Sports Basketball (Japan).png</marquee>
@@ -2662,7 +2662,7 @@
   </game>
   <game>
     <path>./TV Sports Football (Japan).zip</path>
-    <name>TV Sports Football (Japan)</name>
+    <name>TVスポーツ フットボール</name>
     <image>./media/images/TV Sports Football (Japan).png</image>
     <video>./media/videos/TV Sports Football (Japan).mp4</video>
     <marquee>./media/wheel/TV Sports Football (Japan).png</marquee>
@@ -2676,7 +2676,7 @@
   </game>
   <game>
     <path>./TV Sports Hockey (Japan).zip</path>
-    <name>TV Sports Hockey (Japan)</name>
+    <name>TVスポーツ ホッケー</name>
     <image>./media/images/TV Sports Hockey (Japan).png</image>
     <video>./media/videos/TV Sports Hockey (Japan).mp4</video>
     <marquee>./media/wheel/TV Sports Hockey (Japan).png</marquee>
@@ -2690,7 +2690,7 @@
   </game>
   <game>
     <path>./Valkyrie no Densetsu (Japan).zip</path>
-    <name>Valkyrie no Densetsu (Japan)</name>
+    <name>ワルキューレの伝説</name>
     <image>./media/images/Valkyrie no Densetsu (Japan).png</image>
     <video>./media/videos/Valkyrie no Densetsu (Japan).mp4</video>
     <marquee>./media/wheel/Valkyrie no Densetsu (Japan).png</marquee>
@@ -2781,7 +2781,7 @@
   </game>
   <game>
     <path>./Wonder Momo (Japan).zip</path>
-    <name>Wonder Momo (Japan)</name>
+    <name>ワンダーモモ</name>
     <image>./media/images/Wonder Momo (Japan).png</image>
     <video>./media/videos/Wonder Momo (Japan).mp4</video>
     <marquee>./media/wheel/Wonder Momo (Japan).png</marquee>
@@ -2858,28 +2858,28 @@
   </game>
   <game>
     <path>./Youkai Douchuuki (Japan).zip</path>
-    <name>Youkai Douchuuki (Japan)</name>
+    <name>妖怪道中記</name>
     <image>./media/images/Youkai Douchuuki (Japan).png</image>
     <video>./media/videos/Youkai Douchuuki (Japan).mp4</video>
     <marquee>./media/wheel/Youkai Douchuuki (Japan).png</marquee>
   </game>
   <game>
     <path>./Zero4 Champ (Japan).zip</path>
-    <name>Zero4 Champ (Japan)</name>
+    <name>ゼロヨンチャンプ</name>
     <image>./media/images/Zero4 Champ (Japan).png</image>
     <video>./media/videos/Zero4 Champ (Japan).mp4</video>
     <marquee>./media/wheel/Zero4 Champ (Japan).png</marquee>
   </game>
   <game>
     <path>./Zero4 Champ (Japan) (Alt 1).zip</path>
-    <name>Zero4 Champ (Japan) (Alt 1)</name>
+    <name>ゼロヨンチャンプ</name>
     <image>./media/images/Zero4 Champ (Japan) (Alt 1).png</image>
     <video>./media/videos/Zero4 Champ (Japan) (Alt 1).mp4</video>
     <marquee>./media/wheel/Zero4 Champ (Japan) (Alt 1).png</marquee>
   </game>
   <game>
     <path>./Zipang (Japan).zip</path>
-    <name>Zipang (Japan)</name>
+    <name>ZIPANG</name>
     <image>./media/images/Zipang (Japan).png</image>
     <video>./media/videos/Zipang (Japan).mp4</video>
     <marquee>./media/wheel/Zipang (Japan).png</marquee>
