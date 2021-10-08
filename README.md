@@ -34,6 +34,7 @@ No-Intro や Redump などで配布されている dat を元に、EmulationStat
 | スーパー 32X                            | zip               | sega32x         |
 | メガ CD                                 | chd               | segacd          |
 | SG-1000                                 | zip               | sg-1000         |
+| PC エンジン スーパーグラフィックス      | zip               | supergrafx      |
 | スーパーファミコン                      | zip               | snes            |
 | バーチャルボーイ                        | zip               | virtualboy      |
 | ワンダースワン                          | zip               | wonderswan      |

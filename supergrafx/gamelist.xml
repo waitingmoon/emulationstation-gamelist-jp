@@ -1,38 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <gameList>
-	<game>
-		<path>./1941 - Counter Attack (Japan).zip</path>
-		<name>1941 - Counter Attack (Japan)</name>
-		<image>./media/images/1941 - Counter Attack (Japan).png</image>
-		<video>./media/videos/1941 - Counter Attack (Japan).mp4</video>
-		<marquee>./media/wheel/1941 - Counter Attack (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Aldynes - The Misson Code for Rage Crisis (Japan).zip</path>
-		<name>Aldynes - The Misson Code for Rage Crisis (Japan)</name>
-		<image>./media/images/Aldynes - The Misson Code for Rage Crisis (Japan).png</image>
-		<video>./media/videos/Aldynes - The Misson Code for Rage Crisis (Japan).mp4</video>
-		<marquee>./media/wheel/Aldynes - The Misson Code for Rage Crisis (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Battle Ace (Japan).zip</path>
-		<name>Battle Ace (Japan)</name>
-		<image>./media/images/Battle Ace (Japan).png</image>
-		<video>./media/videos/Battle Ace (Japan).mp4</video>
-		<marquee>./media/wheel/Battle Ace (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Daimakaimura (Japan).zip</path>
-		<name>Daimakaimura (Japan)</name>
-		<image>./media/images/Daimakaimura (Japan).png</image>
-		<video>./media/videos/Daimakaimura (Japan).mp4</video>
-		<marquee>./media/wheel/Daimakaimura (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Madou King Granzort (Japan).zip</path>
-		<name>Madou King Granzort (Japan)</name>
-		<image>./media/images/Madou King Granzort (Japan).png</image>
-		<video>./media/videos/Madou King Granzort (Japan).mp4</video>
-		<marquee>./media/wheel/Madou King Granzort (Japan).png</marquee>
-	</game>
+  <game>
+    <path>./1941 - Counter Attack (Japan).zip</path>
+    <name>1941 Counter Attack</name>
+    <image>./media/images/1941 - Counter Attack (Japan).png</image>
+    <video>./media/videos/1941 - Counter Attack (Japan).mp4</video>
+    <marquee>./media/wheel/1941 - Counter Attack (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Aldynes - The Misson Code for Rage Crisis (Japan).zip</path>
+    <name>オルディネス</name>
+    <image>./media/images/Aldynes - The Misson Code for Rage Crisis (Japan).png</image>
+    <video>./media/videos/Aldynes - The Misson Code for Rage Crisis (Japan).mp4</video>
+    <marquee>./media/wheel/Aldynes - The Misson Code for Rage Crisis (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Battle Ace (Japan).zip</path>
+    <name>バトルエース</name>
+    <image>./media/images/Battle Ace (Japan).png</image>
+    <video>./media/videos/Battle Ace (Japan).mp4</video>
+    <marquee>./media/wheel/Battle Ace (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Daimakaimura (Japan).zip</path>
+    <name>大魔界村</name>
+    <image>./media/images/Daimakaimura (Japan).png</image>
+    <video>./media/videos/Daimakaimura (Japan).mp4</video>
+    <marquee>./media/wheel/Daimakaimura (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Madou King Granzort (Japan).zip</path>
+    <name>魔動王グランゾート</name>
+    <image>./media/images/Madou King Granzort (Japan).png</image>
+    <video>./media/videos/Madou King Granzort (Japan).mp4</video>
+    <marquee>./media/wheel/Madou King Granzort (Japan).png</marquee>
+  </game>
 </gameList>
