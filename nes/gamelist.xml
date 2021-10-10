@@ -58,7 +58,7 @@
   </game>
   <game>
     <path>./1942 (Japan, USA).zip</path>
-    <name>1942 (Japan, USA)</name>
+    <name>1942</name>
     <image>./media/images/1942 (Japan, USA).png</image>
     <video>./media/videos/1942 (Japan, USA).mp4</video>
     <marquee>./media/wheel/1942 (Japan, USA).png</marquee>
@@ -79,7 +79,7 @@
   </game>
   <game>
     <path>./1943 - The Battle of Valhalla (Japan).zip</path>
-    <name>1943 - The Battle of Valhalla (Japan)</name>
+    <name>1943 THE BATTLE OF VALHALLA</name>
     <image>./media/images/1943 - The Battle of Valhalla (Japan).png</image>
     <video>./media/videos/1943 - The Battle of Valhalla (Japan).mp4</video>
     <marquee>./media/wheel/1943 - The Battle of Valhalla (Japan).png</marquee>
@@ -1024,7 +1024,7 @@
   </game>
   <game>
     <path>./Arkanoid (Japan) (En).zip</path>
-    <name>Arkanoid (Japan) (En)</name>
+    <name>アルカノイド</name>
     <image>./media/images/Arkanoid (Japan) (En).png</image>
     <video>./media/videos/Arkanoid (Japan) (En).mp4</video>
     <marquee>./media/wheel/Arkanoid (Japan) (En).png</marquee>
@@ -1038,7 +1038,7 @@
   </game>
   <game>
     <path>./Arkanoid II (Japan) (En).zip</path>
-    <name>Arkanoid II (Japan) (En)</name>
+    <name>アルカノイドII</name>
     <image>./media/images/Arkanoid II (Japan) (En).png</image>
     <video>./media/videos/Arkanoid II (Japan) (En).mp4</video>
     <marquee>./media/wheel/Arkanoid II (Japan) (En).png</marquee>
@@ -5217,21 +5217,21 @@
   </game>
   <game>
     <path>./Dragon Quest (Japan).zip</path>
-    <name>Dragon Quest (Japan)</name>
+    <name>ドラゴンクエスト</name>
     <image>./media/images/Dragon Quest (Japan).png</image>
     <video>./media/videos/Dragon Quest (Japan).mp4</video>
     <marquee>./media/wheel/Dragon Quest (Japan).png</marquee>
   </game>
   <game>
     <path>./Dragon Quest II - Akuryou no Kamigami (Japan).zip</path>
-    <name>Dragon Quest II - Akuryou no Kamigami (Japan)</name>
+    <name>ドラゴンクエストII 悪霊の神々</name>
     <image>./media/images/Dragon Quest II - Akuryou no Kamigami (Japan).png</image>
     <video>./media/videos/Dragon Quest II - Akuryou no Kamigami (Japan).mp4</video>
     <marquee>./media/wheel/Dragon Quest II - Akuryou no Kamigami (Japan).png</marquee>
   </game>
   <game>
     <path>./Dragon Quest III - Soshite Densetsu e... (Japan).zip</path>
-    <name>Dragon Quest III - Soshite Densetsu e... (Japan)</name>
+    <name>ドラゴンクエストIII そして伝説へ…</name>
     <image>./media/images/Dragon Quest III - Soshite Densetsu e... (Japan).png</image>
     <video>./media/videos/Dragon Quest III - Soshite Densetsu e... (Japan).mp4</video>
     <marquee>./media/wheel/Dragon Quest III - Soshite Densetsu e... (Japan).png</marquee>
@@ -5245,7 +5245,7 @@
   </game>
   <game>
     <path>./Dragon Quest IV - Michibikareshi Monotachi (Japan).zip</path>
-    <name>Dragon Quest IV - Michibikareshi Monotachi (Japan)</name>
+    <name>ドラゴンクエストIV 導かれし者たち</name>
     <image>./media/images/Dragon Quest IV - Michibikareshi Monotachi (Japan).png</image>
     <video>./media/videos/Dragon Quest IV - Michibikareshi Monotachi (Japan).mp4</video>
     <marquee>./media/wheel/Dragon Quest IV - Michibikareshi Monotachi (Japan).png</marquee>
@@ -6316,42 +6316,42 @@
   </game>
   <game>
     <path>./Famista '89 - Kaimaku Ban!! (Japan).zip</path>
-    <name>Famista '89 - Kaimaku Ban!! (Japan)</name>
+    <name>ファミスタ'89 開幕版!!</name>
     <image>./media/images/Famista '89 - Kaimaku Ban!! (Japan).png</image>
     <video>./media/videos/Famista '89 - Kaimaku Ban!! (Japan).mp4</video>
     <marquee>./media/wheel/Famista '89 - Kaimaku Ban!! (Japan).png</marquee>
   </game>
   <game>
     <path>./Famista '90 (Japan).zip</path>
-    <name>Famista '90 (Japan)</name>
+    <name>ファミスタ'90</name>
     <image>./media/images/Famista '90 (Japan).png</image>
     <video>./media/videos/Famista '90 (Japan).mp4</video>
     <marquee>./media/wheel/Famista '90 (Japan).png</marquee>
   </game>
   <game>
     <path>./Famista '91 (Japan).zip</path>
-    <name>Famista '91 (Japan)</name>
+    <name>ファミスタ'91</name>
     <image>./media/images/Famista '91 (Japan).png</image>
     <video>./media/videos/Famista '91 (Japan).mp4</video>
     <marquee>./media/wheel/Famista '91 (Japan).png</marquee>
   </game>
   <game>
     <path>./Famista '92 (Japan).zip</path>
-    <name>Famista '92 (Japan)</name>
+    <name>ファミスタ'92</name>
     <image>./media/images/Famista '92 (Japan).png</image>
     <video>./media/videos/Famista '92 (Japan).mp4</video>
     <marquee>./media/wheel/Famista '92 (Japan).png</marquee>
   </game>
   <game>
     <path>./Famista '93 (Japan).zip</path>
-    <name>Famista '93 (Japan)</name>
+    <name>ファミスタ'93</name>
     <image>./media/images/Famista '93 (Japan).png</image>
     <video>./media/videos/Famista '93 (Japan).mp4</video>
     <marquee>./media/wheel/Famista '93 (Japan).png</marquee>
   </game>
   <game>
     <path>./Famista '94 (Japan).zip</path>
-    <name>Famista '94 (Japan)</name>
+    <name>ファミスタ'94</name>
     <image>./media/images/Famista '94 (Japan).png</image>
     <video>./media/videos/Famista '94 (Japan).mp4</video>
     <marquee>./media/wheel/Famista '94 (Japan).png</marquee>
@@ -6568,7 +6568,7 @@
   </game>
   <game>
     <path>./Final Fantasy (Japan).zip</path>
-    <name>Final Fantasy (Japan)</name>
+    <name>ファイナルファンタジー</name>
     <image>./media/images/Final Fantasy (Japan).png</image>
     <video>./media/videos/Final Fantasy (Japan).mp4</video>
     <marquee>./media/wheel/Final Fantasy (Japan).png</marquee>
@@ -6617,14 +6617,14 @@
   </game>
   <game>
     <path>./Final Fantasy I, II (Japan).zip</path>
-    <name>Final Fantasy I, II (Japan)</name>
+    <name>ファイナルファンタジーI・II</name>
     <image>./media/images/Final Fantasy I, II (Japan).png</image>
     <video>./media/videos/Final Fantasy I, II (Japan).mp4</video>
     <marquee>./media/wheel/Final Fantasy I, II (Japan).png</marquee>
   </game>
   <game>
     <path>./Final Fantasy II (Japan).zip</path>
-    <name>Final Fantasy II (Japan)</name>
+    <name>ファイナルファンタジーII</name>
     <image>./media/images/Final Fantasy II (Japan).png</image>
     <video>./media/videos/Final Fantasy II (Japan).mp4</video>
     <marquee>./media/wheel/Final Fantasy II (Japan).png</marquee>
@@ -6666,7 +6666,7 @@
   </game>
   <game>
     <path>./Final Fantasy III (Japan).zip</path>
-    <name>Final Fantasy III (Japan)</name>
+    <name>ファイナルファンタジーIII</name>
     <image>./media/images/Final Fantasy III (Japan).png</image>
     <video>./media/videos/Final Fantasy III (Japan).mp4</video>
     <marquee>./media/wheel/Final Fantasy III (Japan).png</marquee>
@@ -7821,7 +7821,7 @@
   </game>
   <game>
     <path>./Gradius (Japan).zip</path>
-    <name>Gradius (Japan)</name>
+    <name>グラディウス</name>
     <image>./media/images/Gradius (Japan).png</image>
     <video>./media/videos/Gradius (Japan).mp4</video>
     <marquee>./media/wheel/Gradius (Japan).png</marquee>
@@ -7835,7 +7835,7 @@
   </game>
   <game>
     <path>./Gradius II (Japan).zip</path>
-    <name>Gradius II (Japan)</name>
+    <name>グラディウスII</name>
     <image>./media/images/Gradius II (Japan).png</image>
     <video>./media/videos/Gradius II (Japan).mp4</video>
     <marquee>./media/wheel/Gradius II (Japan).png</marquee>
@@ -8899,35 +8899,35 @@
   </game>
   <game>
     <path>./Igo Shinan (Japan).zip</path>
-    <name>Igo Shinan (Japan)</name>
+    <name>囲碁指南</name>
     <image>./media/images/Igo Shinan (Japan).png</image>
     <video>./media/videos/Igo Shinan (Japan).mp4</video>
     <marquee>./media/wheel/Igo Shinan (Japan).png</marquee>
   </game>
   <game>
     <path>./Igo Shinan '91 (Japan).zip</path>
-    <name>Igo Shinan '91 (Japan)</name>
+    <name>囲碁指南'91</name>
     <image>./media/images/Igo Shinan '91 (Japan).png</image>
     <video>./media/videos/Igo Shinan '91 (Japan).mp4</video>
     <marquee>./media/wheel/Igo Shinan '91 (Japan).png</marquee>
   </game>
   <game>
     <path>./Igo Shinan '92 (Japan).zip</path>
-    <name>Igo Shinan '92 (Japan)</name>
+    <name>囲碁指南'92</name>
     <image>./media/images/Igo Shinan '92 (Japan).png</image>
     <video>./media/videos/Igo Shinan '92 (Japan).mp4</video>
     <marquee>./media/wheel/Igo Shinan '92 (Japan).png</marquee>
   </game>
   <game>
     <path>./Igo Shinan '93 (Japan).zip</path>
-    <name>Igo Shinan '93 (Japan)</name>
+    <name>囲碁指南'93</name>
     <image>./media/images/Igo Shinan '93 (Japan).png</image>
     <video>./media/videos/Igo Shinan '93 (Japan).mp4</video>
     <marquee>./media/wheel/Igo Shinan '93 (Japan).png</marquee>
   </game>
   <game>
     <path>./Igo Shinan '94 (Japan).zip</path>
-    <name>Igo Shinan '94 (Japan)</name>
+    <name>囲碁指南'94</name>
     <image>./media/images/Igo Shinan '94 (Japan).png</image>
     <video>./media/videos/Igo Shinan '94 (Japan).mp4</video>
     <marquee>./media/wheel/Igo Shinan '94 (Japan).png</marquee>
@@ -9011,7 +9011,7 @@
   </game>
   <game>
     <path>./Ikki (Japan).zip</path>
-    <name>Ikki (Japan)</name>
+    <name>いっき</name>
     <image>./media/images/Ikki (Japan).png</image>
     <video>./media/videos/Ikki (Japan).mp4</video>
     <marquee>./media/wheel/Ikki (Japan).png</marquee>
@@ -10376,7 +10376,7 @@
   </game>
   <game>
     <path>./Koushien (Japan).zip</path>
-    <name>Koushien (Japan)</name>
+    <name>甲子園</name>
     <image>./media/images/Koushien (Japan).png</image>
     <video>./media/videos/Koushien (Japan).mp4</video>
     <marquee>./media/wheel/Koushien (Japan).png</marquee>
@@ -10418,14 +10418,14 @@
   </game>
   <game>
     <path>./Kujaku Ou (Japan).zip</path>
-    <name>Kujaku Ou (Japan)</name>
+    <name>孔雀王</name>
     <image>./media/images/Kujaku Ou (Japan).png</image>
     <video>./media/videos/Kujaku Ou (Japan).mp4</video>
     <marquee>./media/wheel/Kujaku Ou (Japan).png</marquee>
   </game>
   <game>
     <path>./Kujaku Ou II (Japan).zip</path>
-    <name>Kujaku Ou II (Japan)</name>
+    <name>孔雀王II</name>
     <image>./media/images/Kujaku Ou II (Japan).png</image>
     <video>./media/videos/Kujaku Ou II (Japan).mp4</video>
     <marquee>./media/wheel/Kujaku Ou II (Japan).png</marquee>
@@ -10509,7 +10509,7 @@
   </game>
   <game>
     <path>./Kyuukyoku Harikiri Koushien (Japan).zip</path>
-    <name>Kyuukyoku Harikiri Koushien (Japan)</name>
+    <name>究極ハリキリ甲子園</name>
     <image>./media/images/Kyuukyoku Harikiri Koushien (Japan).png</image>
     <video>./media/videos/Kyuukyoku Harikiri Koushien (Japan).mp4</video>
     <marquee>./media/wheel/Kyuukyoku Harikiri Koushien (Japan).png</marquee>
@@ -18482,7 +18482,7 @@
   </game>
   <game>
     <path>./Super Mario Bros. (World).zip</path>
-    <name>Super Mario Bros. (World)</name>
+    <name>スーパーマリオブラザーズ</name>
     <image>./media/images/Super Mario Bros. (World).png</image>
     <video>./media/videos/Super Mario Bros. (World).mp4</video>
     <marquee>./media/wheel/Super Mario Bros. (World).png</marquee>
@@ -18622,7 +18622,7 @@
   </game>
   <game>
     <path>./Super Mario Bros. 3 (Japan).zip</path>
-    <name>Super Mario Bros. 3 (Japan)</name>
+    <name>スーパーマリオブラザーズ3</name>
     <image>./media/images/Super Mario Bros. 3 (Japan).png</image>
     <video>./media/videos/Super Mario Bros. 3 (Japan).mp4</video>
     <marquee>./media/wheel/Super Mario Bros. 3 (Japan).png</marquee>
@@ -18650,7 +18650,7 @@
   </game>
   <game>
     <path>./Super Mario USA (Japan).zip</path>
-    <name>Super Mario USA (Japan)</name>
+    <name>スーパーマリオUSA</name>
     <image>./media/images/Super Mario USA (Japan).png</image>
     <video>./media/videos/Super Mario USA (Japan).mp4</video>
     <marquee>./media/wheel/Super Mario USA (Japan).png</marquee>
@@ -19035,49 +19035,49 @@
   </game>
   <game>
     <path>./Takahashi Meijin no Bouken-jima (Japan).zip</path>
-    <name>Takahashi Meijin no Bouken-jima (Japan)</name>
+    <name>高橋名人の冒険島</name>
     <image>./media/images/Takahashi Meijin no Bouken-jima (Japan).png</image>
     <video>./media/videos/Takahashi Meijin no Bouken-jima (Japan).mp4</video>
     <marquee>./media/wheel/Takahashi Meijin no Bouken-jima (Japan).png</marquee>
   </game>
   <game>
     <path>./Takahashi Meijin no Bouken-jima II (Japan).zip</path>
-    <name>Takahashi Meijin no Bouken-jima II (Japan)</name>
+    <name>高橋名人の冒険島II</name>
     <image>./media/images/Takahashi Meijin no Bouken-jima II (Japan).png</image>
     <video>./media/videos/Takahashi Meijin no Bouken-jima II (Japan).mp4</video>
     <marquee>./media/wheel/Takahashi Meijin no Bouken-jima II (Japan).png</marquee>
   </game>
   <game>
     <path>./Takahashi Meijin no Bouken-jima III (Japan).zip</path>
-    <name>Takahashi Meijin no Bouken-jima III (Japan)</name>
+    <name>高橋名人の冒険島III</name>
     <image>./media/images/Takahashi Meijin no Bouken-jima III (Japan).png</image>
     <video>./media/videos/Takahashi Meijin no Bouken-jima III (Japan).mp4</video>
     <marquee>./media/wheel/Takahashi Meijin no Bouken-jima III (Japan).png</marquee>
   </game>
   <game>
     <path>./Takahashi Meijin no Bouken-jima IV (Japan).zip</path>
-    <name>Takahashi Meijin no Bouken-jima IV (Japan)</name>
+    <name>高橋名人の冒険島IV</name>
     <image>./media/images/Takahashi Meijin no Bouken-jima IV (Japan).png</image>
     <video>./media/videos/Takahashi Meijin no Bouken-jima IV (Japan).mp4</video>
     <marquee>./media/wheel/Takahashi Meijin no Bouken-jima IV (Japan).png</marquee>
   </game>
   <game>
     <path>./Takahashi Meijin no Bugutte Honey (Japan).zip</path>
-    <name>Takahashi Meijin no Bugutte Honey (Japan)</name>
+    <name>高橋名人のBUGってハニー</name>
     <image>./media/images/Takahashi Meijin no Bugutte Honey (Japan).png</image>
     <video>./media/videos/Takahashi Meijin no Bugutte Honey (Japan).mp4</video>
     <marquee>./media/wheel/Takahashi Meijin no Bugutte Honey (Japan).png</marquee>
   </game>
   <game>
     <path>./Takeda Shingen (Japan).zip</path>
-    <name>Takeda Shingen (Japan)</name>
+    <name>武田信玄</name>
     <image>./media/images/Takeda Shingen (Japan).png</image>
     <video>./media/videos/Takeda Shingen (Japan).mp4</video>
     <marquee>./media/wheel/Takeda Shingen (Japan).png</marquee>
   </game>
   <game>
     <path>./Takeda Shingen 2 (Japan).zip</path>
-    <name>Takeda Shingen 2 (Japan)</name>
+    <name>武田信玄2</name>
     <image>./media/images/Takeda Shingen 2 (Japan).png</image>
     <video>./media/videos/Takeda Shingen 2 (Japan).mp4</video>
     <marquee>./media/wheel/Takeda Shingen 2 (Japan).png</marquee>
@@ -20442,14 +20442,14 @@
   </game>
   <game>
     <path>./TwinBee (Japan).zip</path>
-    <name>TwinBee (Japan)</name>
+    <name>ツインビー</name>
     <image>./media/images/TwinBee (Japan).png</image>
     <video>./media/videos/TwinBee (Japan).mp4</video>
     <marquee>./media/wheel/TwinBee (Japan).png</marquee>
   </game>
   <game>
     <path>./TwinBee 3 - Poko Poko Daimaou (Japan).zip</path>
-    <name>TwinBee 3 - Poko Poko Daimaou (Japan)</name>
+    <name>ツインビー3 ポコポコ大魔王</name>
     <image>./media/images/TwinBee 3 - Poko Poko Daimaou (Japan).png</image>
     <video>./media/videos/TwinBee 3 - Poko Poko Daimaou (Japan).mp4</video>
     <marquee>./media/wheel/TwinBee 3 - Poko Poko Daimaou (Japan).png</marquee>
