@@ -15367,14 +15367,14 @@
   </game>
   <game>
     <path>./Pocket Monsters - Emerald (Japan).zip</path>
-    <name>Pocket Monsters - Emerald (Japan)</name>
+    <name>ポケットモンスター エメラルド</name>
     <image>./media/images/Pocket Monsters - Emerald (Japan).png</image>
     <video>./media/videos/Pocket Monsters - Emerald (Japan).mp4</video>
     <marquee>./media/wheel/Pocket Monsters - Emerald (Japan).png</marquee>
   </game>
   <game>
     <path>./Pocket Monsters - FireRed (Japan).zip</path>
-    <name>Pocket Monsters - FireRed (Japan)</name>
+    <name>ポケットモンスター ファイアレッド</name>
     <image>./media/images/Pocket Monsters - FireRed (Japan).png</image>
     <video>./media/videos/Pocket Monsters - FireRed (Japan).mp4</video>
     <marquee>./media/wheel/Pocket Monsters - FireRed (Japan).png</marquee>
@@ -15395,7 +15395,7 @@
   </game>
   <game>
     <path>./Pocket Monsters - LeafGreen (Japan).zip</path>
-    <name>Pocket Monsters - LeafGreen (Japan)</name>
+    <name>ポケットモンスター リーフグリーン</name>
     <image>./media/images/Pocket Monsters - LeafGreen (Japan).png</image>
     <video>./media/videos/Pocket Monsters - LeafGreen (Japan).mp4</video>
     <marquee>./media/wheel/Pocket Monsters - LeafGreen (Japan).png</marquee>
@@ -15409,7 +15409,7 @@
   </game>
   <game>
     <path>./Pocket Monsters - Ruby (Japan).zip</path>
-    <name>Pocket Monsters - Ruby (Japan)</name>
+    <name>ポケットモンスター ルビー</name>
     <image>./media/images/Pocket Monsters - Ruby (Japan).png</image>
     <video>./media/videos/Pocket Monsters - Ruby (Japan).mp4</video>
     <marquee>./media/wheel/Pocket Monsters - Ruby (Japan).png</marquee>
@@ -15437,7 +15437,7 @@
   </game>
   <game>
     <path>./Pocket Monsters - Sapphire (Japan).zip</path>
-    <name>Pocket Monsters - Sapphire (Japan)</name>
+    <name>ポケットモンスター サファイア</name>
     <image>./media/images/Pocket Monsters - Sapphire (Japan).png</image>
     <video>./media/videos/Pocket Monsters - Sapphire (Japan).mp4</video>
     <marquee>./media/wheel/Pocket Monsters - Sapphire (Japan).png</marquee>
