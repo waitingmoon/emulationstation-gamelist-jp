@@ -1,87 +1,87 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <gameList>
-	<game>
-		<path>./[BIOS] SNK Neo Geo Pocket (Japan, Europe).zip</path>
-		<name>[BIOS] SNK Neo Geo Pocket (Japan, Europe)</name>
-		<image>./media/images/[BIOS] SNK Neo Geo Pocket (Japan, Europe).png</image>
-		<video>./media/videos/[BIOS] SNK Neo Geo Pocket (Japan, Europe).mp4</video>
-		<marquee>./media/wheel/[BIOS] SNK Neo Geo Pocket (Japan, Europe).png</marquee>
-	</game>
-	<game>
-		<path>./[BIOS] SNK Neo Geo Pocket (Japan) (En) (Beta).zip</path>
-		<name>[BIOS] SNK Neo Geo Pocket (Japan) (En) (Beta)</name>
-		<image>./media/images/[BIOS] SNK Neo Geo Pocket (Japan) (En) (Beta).png</image>
-		<video>./media/videos/[BIOS] SNK Neo Geo Pocket (Japan) (En) (Beta).mp4</video>
-		<marquee>./media/wheel/[BIOS] SNK Neo Geo Pocket (Japan) (En) (Beta).png</marquee>
-	</game>
-	<game>
-		<path>./Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).zip</path>
-		<name>Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)</name>
-		<image>./media/images/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).png</image>
-		<video>./media/videos/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).mp4</video>
-		<marquee>./media/wheel/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).zip</path>
-		<name>King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)</name>
-		<image>./media/images/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).png</image>
-		<video>./media/videos/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).mp4</video>
-		<marquee>./media/wheel/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).zip</path>
-		<name>King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo)</name>
-		<image>./media/images/King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).png</image>
-		<video>./media/videos/King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).mp4</video>
-		<marquee>./media/wheel/King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).png</marquee>
-	</game>
-	<game>
-		<path>./Melon-chan no Seichou Nikki (Japan).zip</path>
-		<name>Melon-chan no Seichou Nikki (Japan)</name>
-		<image>./media/images/Melon-chan no Seichou Nikki (Japan).png</image>
-		<video>./media/videos/Melon-chan no Seichou Nikki (Japan).mp4</video>
-		<marquee>./media/wheel/Melon-chan no Seichou Nikki (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Neo Cherry Master - Real Casino Series (Japan) (En,Ja).zip</path>
-		<name>Neo Cherry Master - Real Casino Series (Japan) (En,Ja)</name>
-		<image>./media/images/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).png</image>
-		<video>./media/videos/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).mp4</video>
-		<marquee>./media/wheel/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./Neo Geo Cup '98 (Japan, Europe) (En,Ja).zip</path>
-		<name>Neo Geo Cup '98 (Japan, Europe) (En,Ja)</name>
-		<image>./media/images/Neo Geo Cup '98 (Japan, Europe) (En,Ja).png</image>
-		<video>./media/videos/Neo Geo Cup '98 (Japan, Europe) (En,Ja).mp4</video>
-		<marquee>./media/wheel/Neo Geo Cup '98 (Japan, Europe) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).zip</path>
-		<name>Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)</name>
-		<image>./media/images/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).png</image>
-		<video>./media/videos/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).mp4</video>
-		<marquee>./media/wheel/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./Renketsu Puzzle Tsunagete Pon! (Japan).zip</path>
-		<name>Renketsu Puzzle Tsunagete Pon! (Japan)</name>
-		<image>./media/images/Renketsu Puzzle Tsunagete Pon! (Japan).png</image>
-		<video>./media/videos/Renketsu Puzzle Tsunagete Pon! (Japan).mp4</video>
-		<marquee>./media/wheel/Renketsu Puzzle Tsunagete Pon! (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).zip</path>
-		<name>Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)</name>
-		<image>./media/images/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).png</image>
-		<video>./media/videos/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).mp4</video>
-		<marquee>./media/wheel/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./Shougi no Tatsujin (Japan).zip</path>
-		<name>Shougi no Tatsujin (Japan)</name>
-		<image>./media/images/Shougi no Tatsujin (Japan).png</image>
-		<video>./media/videos/Shougi no Tatsujin (Japan).mp4</video>
-		<marquee>./media/wheel/Shougi no Tatsujin (Japan).png</marquee>
-	</game>
+  <game>
+    <path>./[BIOS] SNK Neo Geo Pocket (Japan, Europe).zip</path>
+    <name>[BIOS] SNK Neo Geo Pocket (Japan, Europe)</name>
+    <image>./media/images/[BIOS] SNK Neo Geo Pocket (Japan, Europe).png</image>
+    <video>./media/videos/[BIOS] SNK Neo Geo Pocket (Japan, Europe).mp4</video>
+    <marquee>./media/wheel/[BIOS] SNK Neo Geo Pocket (Japan, Europe).png</marquee>
+  </game>
+  <game>
+    <path>./[BIOS] SNK Neo Geo Pocket (Japan) (En) (Beta).zip</path>
+    <name>[BIOS] SNK Neo Geo Pocket (Japan) (En) (Beta)</name>
+    <image>./media/images/[BIOS] SNK Neo Geo Pocket (Japan) (En) (Beta).png</image>
+    <video>./media/videos/[BIOS] SNK Neo Geo Pocket (Japan) (En) (Beta).mp4</video>
+    <marquee>./media/wheel/[BIOS] SNK Neo Geo Pocket (Japan) (En) (Beta).png</marquee>
+  </game>
+  <game>
+    <path>./Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).zip</path>
+    <name>Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)</name>
+    <image>./media/images/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).png</image>
+    <video>./media/videos/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).mp4</video>
+    <marquee>./media/wheel/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).zip</path>
+    <name>King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)</name>
+    <image>./media/images/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).png</image>
+    <video>./media/videos/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).mp4</video>
+    <marquee>./media/wheel/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).zip</path>
+    <name>King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo)</name>
+    <image>./media/images/King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).png</image>
+    <video>./media/videos/King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).mp4</video>
+    <marquee>./media/wheel/King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).png</marquee>
+  </game>
+  <game>
+    <path>./Melon-chan no Seichou Nikki (Japan).zip</path>
+    <name>Melon-chan no Seichou Nikki (Japan)</name>
+    <image>./media/images/Melon-chan no Seichou Nikki (Japan).png</image>
+    <video>./media/videos/Melon-chan no Seichou Nikki (Japan).mp4</video>
+    <marquee>./media/wheel/Melon-chan no Seichou Nikki (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Neo Cherry Master - Real Casino Series (Japan) (En,Ja).zip</path>
+    <name>Neo Cherry Master - Real Casino Series (Japan) (En,Ja)</name>
+    <image>./media/images/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).png</image>
+    <video>./media/videos/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).mp4</video>
+    <marquee>./media/wheel/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./Neo Geo Cup '98 (Japan, Europe) (En,Ja).zip</path>
+    <name>Neo Geo Cup '98 (Japan, Europe) (En,Ja)</name>
+    <image>./media/images/Neo Geo Cup '98 (Japan, Europe) (En,Ja).png</image>
+    <video>./media/videos/Neo Geo Cup '98 (Japan, Europe) (En,Ja).mp4</video>
+    <marquee>./media/wheel/Neo Geo Cup '98 (Japan, Europe) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).zip</path>
+    <name>Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)</name>
+    <image>./media/images/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).png</image>
+    <video>./media/videos/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).mp4</video>
+    <marquee>./media/wheel/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./Renketsu Puzzle Tsunagete Pon! (Japan).zip</path>
+    <name>Renketsu Puzzle Tsunagete Pon! (Japan)</name>
+    <image>./media/images/Renketsu Puzzle Tsunagete Pon! (Japan).png</image>
+    <video>./media/videos/Renketsu Puzzle Tsunagete Pon! (Japan).mp4</video>
+    <marquee>./media/wheel/Renketsu Puzzle Tsunagete Pon! (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).zip</path>
+    <name>Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)</name>
+    <image>./media/images/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).png</image>
+    <video>./media/videos/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).mp4</video>
+    <marquee>./media/wheel/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./Shougi no Tatsujin (Japan).zip</path>
+    <name>Shougi no Tatsujin (Japan)</name>
+    <image>./media/images/Shougi no Tatsujin (Japan).png</image>
+    <video>./media/videos/Shougi no Tatsujin (Japan).mp4</video>
+    <marquee>./media/wheel/Shougi no Tatsujin (Japan).png</marquee>
+  </game>
 </gameList>

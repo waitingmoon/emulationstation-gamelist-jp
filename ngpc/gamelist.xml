@@ -1,843 +1,843 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <gameList>
-	<game>
-		<path>./[BIOS] SNK Neo Geo Pocket Color (World) (En,Ja).zip</path>
-		<name>[BIOS] SNK Neo Geo Pocket Color (World) (En,Ja)</name>
-		<image>./media/images/[BIOS] SNK Neo Geo Pocket Color (World) (En,Ja).png</image>
-		<video>./media/videos/[BIOS] SNK Neo Geo Pocket Color (World) (En,Ja).mp4</video>
-		<marquee>./media/wheel/[BIOS] SNK Neo Geo Pocket Color (World) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).zip</path>
-		<name>Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)</name>
-		<image>./media/images/Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).png</image>
-		<video>./media/videos/Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).mp4</video>
-		<marquee>./media/wheel/Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Baseball Stars Color - Pocket Sports Series (World) (En,Ja).zip</path>
-		<name>Baseball Stars Color - Pocket Sports Series (World) (En,Ja)</name>
-		<image>./media/images/Baseball Stars Color - Pocket Sports Series (World) (En,Ja).png</image>
-		<video>./media/videos/Baseball Stars Color - Pocket Sports Series (World) (En,Ja).mp4</video>
-		<marquee>./media/wheel/Baseball Stars Color - Pocket Sports Series (World) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./Big Bang Pro Wrestling (Japan) (En,Ja).zip</path>
-		<name>Big Bang Pro Wrestling (Japan) (En,Ja)</name>
-		<image>./media/images/Big Bang Pro Wrestling (Japan) (En,Ja).png</image>
-		<video>./media/videos/Big Bang Pro Wrestling (Japan) (En,Ja).mp4</video>
-		<marquee>./media/wheel/Big Bang Pro Wrestling (Japan) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./Bikkuriman 2000 - Viva! Pocket Festival! (Japan).zip</path>
-		<name>Bikkuriman 2000 - Viva! Pocket Festival! (Japan)</name>
-		<image>./media/images/Bikkuriman 2000 - Viva! Pocket Festival! (Japan).png</image>
-		<video>./media/videos/Bikkuriman 2000 - Viva! Pocket Festival! (Japan).mp4</video>
-		<marquee>./media/wheel/Bikkuriman 2000 - Viva! Pocket Festival! (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Biomotor Unitron (Japan).zip</path>
-		<name>Biomotor Unitron (Japan)</name>
-		<image>./media/images/Biomotor Unitron (Japan).png</image>
-		<video>./media/videos/Biomotor Unitron (Japan).mp4</video>
-		<marquee>./media/wheel/Biomotor Unitron (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Biomotor Unitron (USA, Europe).zip</path>
-		<name>Biomotor Unitron (USA, Europe)</name>
-		<image>./media/images/Biomotor Unitron (USA, Europe).png</image>
-		<video>./media/videos/Biomotor Unitron (USA, Europe).mp4</video>
-		<marquee>./media/wheel/Biomotor Unitron (USA, Europe).png</marquee>
-	</game>
-	<game>
-		<path>./Biomotor Unitron (Japan) (Demo).zip</path>
-		<name>Biomotor Unitron (Japan) (Demo)</name>
-		<image>./media/images/Biomotor Unitron (Japan) (Demo).png</image>
-		<video>./media/videos/Biomotor Unitron (Japan) (Demo).mp4</video>
-		<marquee>./media/wheel/Biomotor Unitron (Japan) (Demo).png</marquee>
-	</game>
-	<game>
-		<path>./Bust-A-Move Pocket (USA).zip</path>
-		<name>Bust-A-Move Pocket (USA)</name>
-		<image>./media/images/Bust-A-Move Pocket (USA).png</image>
-		<video>./media/videos/Bust-A-Move Pocket (USA).mp4</video>
-		<marquee>./media/wheel/Bust-A-Move Pocket (USA).png</marquee>
-	</game>
-	<game>
-		<path>./Bust-A-Move Pocket (USA) (Beta).zip</path>
-		<name>Bust-A-Move Pocket (USA) (Beta)</name>
-		<image>./media/images/Bust-A-Move Pocket (USA) (Beta).png</image>
-		<video>./media/videos/Bust-A-Move Pocket (USA) (Beta).mp4</video>
-		<marquee>./media/wheel/Bust-A-Move Pocket (USA) (Beta).png</marquee>
-	</game>
-	<game>
-		<path>./Cool Boarders Pocket (Japan, Europe) (En,Ja).zip</path>
-		<name>Cool Boarders Pocket (Japan, Europe) (En,Ja)</name>
-		<image>./media/images/Cool Boarders Pocket (Japan, Europe) (En,Ja).png</image>
-		<video>./media/videos/Cool Boarders Pocket (Japan, Europe) (En,Ja).mp4</video>
-		<marquee>./media/wheel/Cool Boarders Pocket (Japan, Europe) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./Cool Cool Jam (Japan).zip</path>
-		<name>Cool Cool Jam (Japan)</name>
-		<image>./media/images/Cool Cool Jam (Japan).png</image>
-		<video>./media/videos/Cool Cool Jam (Japan).mp4</video>
-		<marquee>./media/wheel/Cool Cool Jam (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Cool Cool Jam (USA) (Proto).zip</path>
-		<name>Cool Cool Jam (USA) (Proto)</name>
-		<image>./media/images/Cool Cool Jam (USA) (Proto).png</image>
-		<video>./media/videos/Cool Cool Jam (USA) (Proto).mp4</video>
-		<marquee>./media/wheel/Cool Cool Jam (USA) (Proto).png</marquee>
-	</game>
-	<game>
-		<path>./Crush Roller (World) (En,Ja).zip</path>
-		<name>Crush Roller (World) (En,Ja)</name>
-		<image>./media/images/Crush Roller (World) (En,Ja).png</image>
-		<video>./media/videos/Crush Roller (World) (En,Ja).mp4</video>
-		<marquee>./media/wheel/Crush Roller (World) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./Dark Arms - Beast Buster 1999 (World) (En,Ja).zip</path>
-		<name>Dark Arms - Beast Buster 1999 (World) (En,Ja)</name>
-		<image>./media/images/Dark Arms - Beast Buster 1999 (World) (En,Ja).png</image>
-		<video>./media/videos/Dark Arms - Beast Buster 1999 (World) (En,Ja).mp4</video>
-		<marquee>./media/wheel/Dark Arms - Beast Buster 1999 (World) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./Delta Warp (Japan) (En,Ja).zip</path>
-		<name>Delta Warp (Japan) (En,Ja)</name>
-		<image>./media/images/Delta Warp (Japan) (En,Ja).png</image>
-		<video>./media/videos/Delta Warp (Japan) (En,Ja).mp4</video>
-		<marquee>./media/wheel/Delta Warp (Japan) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./Delta Warp (Japan) (Beta).zip</path>
-		<name>Delta Warp (Japan) (Beta)</name>
-		<image>./media/images/Delta Warp (Japan) (Beta).png</image>
-		<video>./media/videos/Delta Warp (Japan) (Beta).mp4</video>
-		<marquee>./media/wheel/Delta Warp (Japan) (Beta).png</marquee>
-	</game>
-	<game>
-		<path>./Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan).zip</path>
-		<name>Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan)</name>
-		<image>./media/images/Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan).png</image>
-		<video>./media/videos/Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan).mp4</video>
-		<marquee>./media/wheel/Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Densha de Go! 2 on Neo Geo Pocket (Japan).zip</path>
-		<name>Densha de Go! 2 on Neo Geo Pocket (Japan)</name>
-		<image>./media/images/Densha de Go! 2 on Neo Geo Pocket (Japan).png</image>
-		<video>./media/videos/Densha de Go! 2 on Neo Geo Pocket (Japan).mp4</video>
-		<marquee>./media/wheel/Densha de Go! 2 on Neo Geo Pocket (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Densha de Go! 2 on Neo Geo Pocket (Japan) (Beta).zip</path>
-		<name>Densha de Go! 2 on Neo Geo Pocket (Japan) (Beta)</name>
-		<image>./media/images/Densha de Go! 2 on Neo Geo Pocket (Japan) (Beta).png</image>
-		<video>./media/videos/Densha de Go! 2 on Neo Geo Pocket (Japan) (Beta).mp4</video>
-		<marquee>./media/wheel/Densha de Go! 2 on Neo Geo Pocket (Japan) (Beta).png</marquee>
-	</game>
-	<game>
-		<path>./Dive Alert - Becky's Version (USA, Europe).zip</path>
-		<name>Dive Alert - Becky's Version (USA, Europe)</name>
-		<image>./media/images/Dive Alert - Becky's Version (USA, Europe).png</image>
-		<video>./media/videos/Dive Alert - Becky's Version (USA, Europe).mp4</video>
-		<marquee>./media/wheel/Dive Alert - Becky's Version (USA, Europe).png</marquee>
-	</game>
-	<game>
-		<path>./Dive Alert - Burn Hen (Japan).zip</path>
-		<name>Dive Alert - Burn Hen (Japan)</name>
-		<image>./media/images/Dive Alert - Burn Hen (Japan).png</image>
-		<video>./media/videos/Dive Alert - Burn Hen (Japan).mp4</video>
-		<marquee>./media/wheel/Dive Alert - Burn Hen (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Dive Alert - Burn Hen (Japan) (Beta).zip</path>
-		<name>Dive Alert - Burn Hen (Japan) (Beta)</name>
-		<image>./media/images/Dive Alert - Burn Hen (Japan) (Beta).png</image>
-		<video>./media/videos/Dive Alert - Burn Hen (Japan) (Beta).mp4</video>
-		<marquee>./media/wheel/Dive Alert - Burn Hen (Japan) (Beta).png</marquee>
-	</game>
-	<game>
-		<path>./Dive Alert - Matt's Version (USA, Europe).zip</path>
-		<name>Dive Alert - Matt's Version (USA, Europe)</name>
-		<image>./media/images/Dive Alert - Matt's Version (USA, Europe).png</image>
-		<video>./media/videos/Dive Alert - Matt's Version (USA, Europe).mp4</video>
-		<marquee>./media/wheel/Dive Alert - Matt's Version (USA, Europe).png</marquee>
-	</game>
-	<game>
-		<path>./Dive Alert - Rebecca Hen (Japan).zip</path>
-		<name>Dive Alert - Rebecca Hen (Japan)</name>
-		<image>./media/images/Dive Alert - Rebecca Hen (Japan).png</image>
-		<video>./media/videos/Dive Alert - Rebecca Hen (Japan).mp4</video>
-		<marquee>./media/wheel/Dive Alert - Rebecca Hen (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Dokodemo Mahjong (Japan).zip</path>
-		<name>Dokodemo Mahjong (Japan)</name>
-		<image>./media/images/Dokodemo Mahjong (Japan).png</image>
-		<video>./media/videos/Dokodemo Mahjong (Japan).mp4</video>
-		<marquee>./media/wheel/Dokodemo Mahjong (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Dynamite Slugger (Japan, Europe) (En,Ja).zip</path>
-		<name>Dynamite Slugger (Japan, Europe) (En,Ja)</name>
-		<image>./media/images/Dynamite Slugger (Japan, Europe) (En,Ja).png</image>
-		<video>./media/videos/Dynamite Slugger (Japan, Europe) (En,Ja).mp4</video>
-		<marquee>./media/wheel/Dynamite Slugger (Japan, Europe) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./Evolution - Eternal Dungeons (Europe).zip</path>
-		<name>Evolution - Eternal Dungeons (Europe)</name>
-		<image>./media/images/Evolution - Eternal Dungeons (Europe).png</image>
-		<video>./media/videos/Evolution - Eternal Dungeons (Europe).mp4</video>
-		<marquee>./media/wheel/Evolution - Eternal Dungeons (Europe).png</marquee>
-	</game>
-	<game>
-		<path>./Fantastic Night Dreams - Cotton (Europe).zip</path>
-		<name>Fantastic Night Dreams - Cotton (Europe)</name>
-		<image>./media/images/Fantastic Night Dreams - Cotton (Europe).png</image>
-		<video>./media/videos/Fantastic Night Dreams - Cotton (Europe).mp4</video>
-		<marquee>./media/wheel/Fantastic Night Dreams - Cotton (Europe).png</marquee>
-	</game>
-	<game>
-		<path>./Fantastic Night Dreams - Cotton (Japan).zip</path>
-		<name>Fantastic Night Dreams - Cotton (Japan)</name>
-		<image>./media/images/Fantastic Night Dreams - Cotton (Japan).png</image>
-		<video>./media/videos/Fantastic Night Dreams - Cotton (Japan).mp4</video>
-		<marquee>./media/wheel/Fantastic Night Dreams - Cotton (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Faselei! (USA, Europe).zip</path>
-		<name>Faselei! (USA, Europe)</name>
-		<image>./media/images/Faselei! (USA, Europe).png</image>
-		<video>./media/videos/Faselei! (USA, Europe).mp4</video>
-		<marquee>./media/wheel/Faselei! (USA, Europe).png</marquee>
-	</game>
-	<game>
-		<path>./Faselei! (Japan).zip</path>
-		<name>Faselei! (Japan)</name>
-		<image>./media/images/Faselei! (Japan).png</image>
-		<video>./media/videos/Faselei! (Japan).mp4</video>
-		<marquee>./media/wheel/Faselei! (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).zip</path>
-		<name>Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)</name>
-		<image>./media/images/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).png</image>
-		<video>./media/videos/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).mp4</video>
-		<marquee>./media/wheel/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./Ganbare Neo Poke-kun (Kari) (Japan).zip</path>
-		<name>Ganbare Neo Poke-kun (Kari) (Japan)</name>
-		<image>./media/images/Ganbare Neo Poke-kun (Kari) (Japan).png</image>
-		<video>./media/videos/Ganbare Neo Poke-kun (Kari) (Japan).mp4</video>
-		<marquee>./media/wheel/Ganbare Neo Poke-kun (Kari) (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Infinity Cure (Japan).zip</path>
-		<name>Infinity Cure (Japan)</name>
-		<image>./media/images/Infinity Cure (Japan).png</image>
-		<video>./media/videos/Infinity Cure (Japan).mp4</video>
-		<marquee>./media/wheel/Infinity Cure (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan).zip</path>
-		<name>Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan)</name>
-		<image>./media/images/Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan).png</image>
-		<video>./media/videos/Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan).mp4</video>
-		<marquee>./media/wheel/Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).zip</path>
-		<name>King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)</name>
-		<image>./media/images/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).png</image>
-		<video>./media/videos/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).mp4</video>
-		<marquee>./media/wheel/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja) (Demo).zip</path>
-		<name>King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja) (Demo)</name>
-		<image>./media/images/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja) (Demo).png</image>
-		<video>./media/videos/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja) (Demo).mp4</video>
-		<marquee>./media/wheel/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja) (Demo).png</marquee>
-	</game>
-	<game>
-		<path>./King of Fighters R-2 Version 2 - Pocket Fighting Series (Japan) (En,Ja) (Demo).zip</path>
-		<name>King of Fighters R-2 Version 2 - Pocket Fighting Series (Japan) (En,Ja) (Demo)</name>
-		<image>./media/images/King of Fighters R-2 Version 2 - Pocket Fighting Series (Japan) (En,Ja) (Demo).png</image>
-		<video>./media/videos/King of Fighters R-2 Version 2 - Pocket Fighting Series (Japan) (En,Ja) (Demo).mp4</video>
-		<marquee>./media/wheel/King of Fighters R-2 Version 2 - Pocket Fighting Series (Japan) (En,Ja) (Demo).png</marquee>
-	</game>
-	<game>
-		<path>./King of Fighters, The - Battle de Paradise (Japan).zip</path>
-		<name>King of Fighters, The - Battle de Paradise (Japan)</name>
-		<image>./media/images/King of Fighters, The - Battle de Paradise (Japan).png</image>
-		<video>./media/videos/King of Fighters, The - Battle de Paradise (Japan).mp4</video>
-		<marquee>./media/wheel/King of Fighters, The - Battle de Paradise (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Koi Koi Mahjong (Japan).zip</path>
-		<name>Koi Koi Mahjong (Japan)</name>
-		<image>./media/images/Koi Koi Mahjong (Japan).png</image>
-		<video>./media/videos/Koi Koi Mahjong (Japan).mp4</video>
-		<marquee>./media/wheel/Koi Koi Mahjong (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Last Blade, The - Beyond the Destiny (USA, Europe).zip</path>
-		<name>Last Blade, The - Beyond the Destiny (USA, Europe)</name>
-		<image>./media/images/Last Blade, The - Beyond the Destiny (USA, Europe).png</image>
-		<video>./media/videos/Last Blade, The - Beyond the Destiny (USA, Europe).mp4</video>
-		<marquee>./media/wheel/Last Blade, The - Beyond the Destiny (USA, Europe).png</marquee>
-	</game>
-	<game>
-		<path>./Magical Drop Pocket (Japan).zip</path>
-		<name>Magical Drop Pocket (Japan)</name>
-		<image>./media/images/Magical Drop Pocket (Japan).png</image>
-		<video>./media/videos/Magical Drop Pocket (Japan).mp4</video>
-		<marquee>./media/wheel/Magical Drop Pocket (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Magical Drop Pocket (USA, Europe).zip</path>
-		<name>Magical Drop Pocket (USA, Europe)</name>
-		<image>./media/images/Magical Drop Pocket (USA, Europe).png</image>
-		<video>./media/videos/Magical Drop Pocket (USA, Europe).mp4</video>
-		<marquee>./media/wheel/Magical Drop Pocket (USA, Europe).png</marquee>
-	</game>
-	<game>
-		<path>./Magical Drop Pocket (Japan) (Demo).zip</path>
-		<name>Magical Drop Pocket (Japan) (Demo)</name>
-		<image>./media/images/Magical Drop Pocket (Japan) (Demo).png</image>
-		<video>./media/videos/Magical Drop Pocket (Japan) (Demo).mp4</video>
-		<marquee>./media/wheel/Magical Drop Pocket (Japan) (Demo).png</marquee>
-	</game>
-	<game>
-		<path>./Memories Off - Pure (Japan).zip</path>
-		<name>Memories Off - Pure (Japan)</name>
-		<image>./media/images/Memories Off - Pure (Japan).png</image>
-		<video>./media/videos/Memories Off - Pure (Japan).mp4</video>
-		<marquee>./media/wheel/Memories Off - Pure (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Metal Slug - 1st Mission (World) (En,Ja).zip</path>
-		<name>Metal Slug - 1st Mission (World) (En,Ja)</name>
-		<image>./media/images/Metal Slug - 1st Mission (World) (En,Ja).png</image>
-		<video>./media/videos/Metal Slug - 1st Mission (World) (En,Ja).mp4</video>
-		<marquee>./media/wheel/Metal Slug - 1st Mission (World) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./Metal Slug - 2nd Mission (World) (En,Ja).zip</path>
-		<name>Metal Slug - 2nd Mission (World) (En,Ja)</name>
-		<image>./media/images/Metal Slug - 2nd Mission (World) (En,Ja).png</image>
-		<video>./media/videos/Metal Slug - 2nd Mission (World) (En,Ja).mp4</video>
-		<marquee>./media/wheel/Metal Slug - 2nd Mission (World) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./Metal Slug - 2nd Mission (World) (En,Ja) (Demo).zip</path>
-		<name>Metal Slug - 2nd Mission (World) (En,Ja) (Demo)</name>
-		<image>./media/images/Metal Slug - 2nd Mission (World) (En,Ja) (Demo).png</image>
-		<video>./media/videos/Metal Slug - 2nd Mission (World) (En,Ja) (Demo).mp4</video>
-		<marquee>./media/wheel/Metal Slug - 2nd Mission (World) (En,Ja) (Demo).png</marquee>
-	</game>
-	<game>
-		<path>./Mezase! Kanji Ou (Japan).zip</path>
-		<name>Mezase! Kanji Ou (Japan)</name>
-		<image>./media/images/Mezase! Kanji Ou (Japan).png</image>
-		<video>./media/videos/Mezase! Kanji Ou (Japan).mp4</video>
-		<marquee>./media/wheel/Mezase! Kanji Ou (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Mizuki Shigeru no Youkai Shashinkan (Japan).zip</path>
-		<name>Mizuki Shigeru no Youkai Shashinkan (Japan)</name>
-		<image>./media/images/Mizuki Shigeru no Youkai Shashinkan (Japan).png</image>
-		<video>./media/videos/Mizuki Shigeru no Youkai Shashinkan (Japan).mp4</video>
-		<marquee>./media/wheel/Mizuki Shigeru no Youkai Shashinkan (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Neo 21 - Pocket Casino Series (World).zip</path>
-		<name>Neo 21 - Pocket Casino Series (World)</name>
-		<image>./media/images/Neo 21 - Pocket Casino Series (World).png</image>
-		<video>./media/videos/Neo 21 - Pocket Casino Series (World).mp4</video>
-		<marquee>./media/wheel/Neo 21 - Pocket Casino Series (World).png</marquee>
-	</game>
-	<game>
-		<path>./Neo Baccarat - Pocket Casino Series (Japan, Europe).zip</path>
-		<name>Neo Baccarat - Pocket Casino Series (Japan, Europe)</name>
-		<image>./media/images/Neo Baccarat - Pocket Casino Series (Japan, Europe).png</image>
-		<video>./media/videos/Neo Baccarat - Pocket Casino Series (Japan, Europe).mp4</video>
-		<marquee>./media/wheel/Neo Baccarat - Pocket Casino Series (Japan, Europe).png</marquee>
-	</game>
-	<game>
-		<path>./Neo Baccarat - Pocket Casino Series (Japan, Europe) (Beta).zip</path>
-		<name>Neo Baccarat - Pocket Casino Series (Japan, Europe) (Beta)</name>
-		<image>./media/images/Neo Baccarat - Pocket Casino Series (Japan, Europe) (Beta).png</image>
-		<video>./media/videos/Neo Baccarat - Pocket Casino Series (Japan, Europe) (Beta).mp4</video>
-		<marquee>./media/wheel/Neo Baccarat - Pocket Casino Series (Japan, Europe) (Beta).png</marquee>
-	</game>
-	<game>
-		<path>./Neo Baccarat - Pocket Casino Series (Japan, Europe) (v1.1).zip</path>
-		<name>Neo Baccarat - Pocket Casino Series (Japan, Europe) (v1.1)</name>
-		<image>./media/images/Neo Baccarat - Pocket Casino Series (Japan, Europe) (v1.1).png</image>
-		<video>./media/videos/Neo Baccarat - Pocket Casino Series (Japan, Europe) (v1.1).mp4</video>
-		<marquee>./media/wheel/Neo Baccarat - Pocket Casino Series (Japan, Europe) (v1.1).png</marquee>
-	</game>
-	<game>
-		<path>./Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).zip</path>
-		<name>Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja)</name>
-		<image>./media/images/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).png</image>
-		<video>./media/videos/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).mp4</video>
-		<marquee>./media/wheel/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Beta).zip</path>
-		<name>Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Beta)</name>
-		<image>./media/images/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Beta).png</image>
-		<video>./media/videos/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Beta).mp4</video>
-		<marquee>./media/wheel/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Beta).png</marquee>
-	</game>
-	<game>
-		<path>./Neo Derby Champ Daiyosou (Japan).zip</path>
-		<name>Neo Derby Champ Daiyosou (Japan)</name>
-		<image>./media/images/Neo Derby Champ Daiyosou (Japan).png</image>
-		<video>./media/videos/Neo Derby Champ Daiyosou (Japan).mp4</video>
-		<marquee>./media/wheel/Neo Derby Champ Daiyosou (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja).zip</path>
-		<name>Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja)</name>
-		<image>./media/images/Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja).png</image>
-		<video>./media/videos/Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja).mp4</video>
-		<marquee>./media/wheel/Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (Beta).zip</path>
-		<name>Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (Beta)</name>
-		<image>./media/images/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (Beta).png</image>
-		<video>./media/videos/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (Beta).mp4</video>
-		<marquee>./media/wheel/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (Beta).png</marquee>
-	</game>
-	<game>
-		<path>./Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja).zip</path>
-		<name>Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja)</name>
-		<image>./media/images/Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja).png</image>
-		<video>./media/videos/Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja).mp4</video>
-		<marquee>./media/wheel/Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./Neo Poke Pro Yakyuu (Japan) (v32).zip</path>
-		<name>Neo Poke Pro Yakyuu (Japan) (v32)</name>
-		<image>./media/images/Neo Poke Pro Yakyuu (Japan) (v32).png</image>
-		<video>./media/videos/Neo Poke Pro Yakyuu (Japan) (v32).mp4</video>
-		<marquee>./media/wheel/Neo Poke Pro Yakyuu (Japan) (v32).png</marquee>
-	</game>
-	<game>
-		<path>./Neo Poke Pro Yakyuu (Japan) (v1F).zip</path>
-		<name>Neo Poke Pro Yakyuu (Japan) (v1F)</name>
-		<image>./media/images/Neo Poke Pro Yakyuu (Japan) (v1F).png</image>
-		<video>./media/videos/Neo Poke Pro Yakyuu (Japan) (v1F).mp4</video>
-		<marquee>./media/wheel/Neo Poke Pro Yakyuu (Japan) (v1F).png</marquee>
-	</game>
-	<game>
-		<path>./Neo Turf Masters (World) (En,Ja).zip</path>
-		<name>Neo Turf Masters (World) (En,Ja)</name>
-		<image>./media/images/Neo Turf Masters (World) (En,Ja).png</image>
-		<video>./media/videos/Neo Turf Masters (World) (En,Ja).mp4</video>
-		<marquee>./media/wheel/Neo Turf Masters (World) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./Neo Turf Masters (World) (En,Ja) (Demo).zip</path>
-		<name>Neo Turf Masters (World) (En,Ja) (Demo)</name>
-		<image>./media/images/Neo Turf Masters (World) (En,Ja) (Demo).png</image>
-		<video>./media/videos/Neo Turf Masters (World) (En,Ja) (Demo).mp4</video>
-		<marquee>./media/wheel/Neo Turf Masters (World) (En,Ja) (Demo).png</marquee>
-	</game>
-	<game>
-		<path>./NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja).zip</path>
-		<name>NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja)</name>
-		<image>./media/images/NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja).png</image>
-		<video>./media/videos/NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja).mp4</video>
-		<marquee>./media/wheel/NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./Nige-ron-pa (Japan).zip</path>
-		<name>Nige-ron-pa (Japan)</name>
-		<image>./media/images/Nige-ron-pa (Japan).png</image>
-		<video>./media/videos/Nige-ron-pa (Japan).mp4</video>
-		<marquee>./media/wheel/Nige-ron-pa (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Oekaki Puzzle (Japan).zip</path>
-		<name>Oekaki Puzzle (Japan)</name>
-		<image>./media/images/Oekaki Puzzle (Japan).png</image>
-		<video>./media/videos/Oekaki Puzzle (Japan).mp4</video>
-		<marquee>./media/wheel/Oekaki Puzzle (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Pac-Man (World) (En,Ja).zip</path>
-		<name>Pac-Man (World) (En,Ja)</name>
-		<image>./media/images/Pac-Man (World) (En,Ja).png</image>
-		<video>./media/videos/Pac-Man (World) (En,Ja).mp4</video>
-		<marquee>./media/wheel/Pac-Man (World) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan).zip</path>
-		<name>Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan)</name>
-		<image>./media/images/Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan).png</image>
-		<video>./media/videos/Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan).mp4</video>
-		<marquee>./media/wheel/Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan).zip</path>
-		<name>Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan)</name>
-		<image>./media/images/Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan).png</image>
-		<video>./media/videos/Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan).mp4</video>
-		<marquee>./media/wheel/Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan).zip</path>
-		<name>Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan)</name>
-		<image>./media/images/Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan).png</image>
-		<video>./media/videos/Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan).mp4</video>
-		<marquee>./media/wheel/Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan).zip</path>
-		<name>Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan)</name>
-		<image>./media/images/Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan).png</image>
-		<video>./media/videos/Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan).mp4</video>
-		<marquee>./media/wheel/Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (Beta).zip</path>
-		<name>Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (Beta)</name>
-		<image>./media/images/Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (Beta).png</image>
-		<video>./media/videos/Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (Beta).mp4</video>
-		<marquee>./media/wheel/Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (Beta).png</marquee>
-	</game>
-	<game>
-		<path>./Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan).zip</path>
-		<name>Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan)</name>
-		<image>./media/images/Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan).png</image>
-		<video>./media/videos/Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan).mp4</video>
-		<marquee>./media/wheel/Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Pachi-Slot Aruze Oukoku Pocket - Ohanabi (Japan).zip</path>
-		<name>Pachi-Slot Aruze Oukoku Pocket - Ohanabi (Japan)</name>
-		<image>./media/images/Pachi-Slot Aruze Oukoku Pocket - Ohanabi (Japan).png</image>
-		<video>./media/videos/Pachi-Slot Aruze Oukoku Pocket - Ohanabi (Japan).mp4</video>
-		<marquee>./media/wheel/Pachi-Slot Aruze Oukoku Pocket - Ohanabi (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan).zip</path>
-		<name>Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan)</name>
-		<image>./media/images/Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan).png</image>
-		<video>./media/videos/Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan).mp4</video>
-		<marquee>./media/wheel/Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Pachi-slot Aruze Oukoku Porcano 2 (Japan) [b].zip</path>
-		<name>Pachi-slot Aruze Oukoku Porcano 2 (Japan) [b]</name>
-		<image>./media/images/Pachi-slot Aruze Oukoku Porcano 2 (Japan) [b].png</image>
-		<video>./media/videos/Pachi-slot Aruze Oukoku Porcano 2 (Japan) [b].mp4</video>
-		<marquee>./media/wheel/Pachi-slot Aruze Oukoku Porcano 2 (Japan) [b].png</marquee>
-	</game>
-	<game>
-		<path>./Pachinko Hisshou Guide - Pocket Parlor (Japan).zip</path>
-		<name>Pachinko Hisshou Guide - Pocket Parlor (Japan)</name>
-		<image>./media/images/Pachinko Hisshou Guide - Pocket Parlor (Japan).png</image>
-		<video>./media/videos/Pachinko Hisshou Guide - Pocket Parlor (Japan).mp4</video>
-		<marquee>./media/wheel/Pachinko Hisshou Guide - Pocket Parlor (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Party Mail (Japan).zip</path>
-		<name>Party Mail (Japan)</name>
-		<image>./media/images/Party Mail (Japan).png</image>
-		<video>./media/videos/Party Mail (Japan).mp4</video>
-		<marquee>./media/wheel/Party Mail (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Party Mail (Japan) (Beta).zip</path>
-		<name>Party Mail (Japan) (Beta)</name>
-		<image>./media/images/Party Mail (Japan) (Beta).png</image>
-		<video>./media/videos/Party Mail (Japan) (Beta).mp4</video>
-		<marquee>./media/wheel/Party Mail (Japan) (Beta).png</marquee>
-	</game>
-	<game>
-		<path>./Picture Puzzle (Europe).zip</path>
-		<name>Picture Puzzle (Europe)</name>
-		<image>./media/images/Picture Puzzle (Europe).png</image>
-		<video>./media/videos/Picture Puzzle (Europe).mp4</video>
-		<marquee>./media/wheel/Picture Puzzle (Europe).png</marquee>
-	</game>
-	<game>
-		<path>./Pocket Love - if (Japan).zip</path>
-		<name>Pocket Love - if (Japan)</name>
-		<image>./media/images/Pocket Love - if (Japan).png</image>
-		<video>./media/videos/Pocket Love - if (Japan).mp4</video>
-		<marquee>./media/wheel/Pocket Love - if (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Pocket Reversi (Europe).zip</path>
-		<name>Pocket Reversi (Europe)</name>
-		<image>./media/images/Pocket Reversi (Europe).png</image>
-		<video>./media/videos/Pocket Reversi (Europe).mp4</video>
-		<marquee>./media/wheel/Pocket Reversi (Europe).png</marquee>
-	</game>
-	<game>
-		<path>./Pocket Reversi (Japan).zip</path>
-		<name>Pocket Reversi (Japan)</name>
-		<image>./media/images/Pocket Reversi (Japan).png</image>
-		<video>./media/videos/Pocket Reversi (Japan).mp4</video>
-		<marquee>./media/wheel/Pocket Reversi (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).zip</path>
-		<name>Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)</name>
-		<image>./media/images/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).png</image>
-		<video>./media/videos/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).mp4</video>
-		<marquee>./media/wheel/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./PP-AA01 - Pusher - Program - Hontai Controller Gawa (Japan).zip</path>
-		<name>PP-AA01 - Pusher - Program - Hontai Controller Gawa (Japan)</name>
-		<image>./media/images/PP-AA01 - Pusher - Program - Hontai Controller Gawa (Japan).png</image>
-		<video>./media/videos/PP-AA01 - Pusher - Program - Hontai Controller Gawa (Japan).mp4</video>
-		<marquee>./media/wheel/PP-AA01 - Pusher - Program - Hontai Controller Gawa (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Puyo Pop (World) (En,Ja) (v1.05).zip</path>
-		<name>Puyo Pop (World) (En,Ja) (v1.05)</name>
-		<image>./media/images/Puyo Pop (World) (En,Ja) (v1.05).png</image>
-		<video>./media/videos/Puyo Pop (World) (En,Ja) (v1.05).mp4</video>
-		<marquee>./media/wheel/Puyo Pop (World) (En,Ja) (v1.05).png</marquee>
-	</game>
-	<game>
-		<path>./Puyo Pop (World) (En,Ja).zip</path>
-		<name>Puyo Pop (World) (En,Ja)</name>
-		<image>./media/images/Puyo Pop (World) (En,Ja).png</image>
-		<video>./media/videos/Puyo Pop (World) (En,Ja).mp4</video>
-		<marquee>./media/wheel/Puyo Pop (World) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./Puzzle Bobble Mini (Japan, Europe).zip</path>
-		<name>Puzzle Bobble Mini (Japan, Europe)</name>
-		<image>./media/images/Puzzle Bobble Mini (Japan, Europe).png</image>
-		<video>./media/videos/Puzzle Bobble Mini (Japan, Europe).mp4</video>
-		<marquee>./media/wheel/Puzzle Bobble Mini (Japan, Europe).png</marquee>
-	</game>
-	<game>
-		<path>./Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Demo).zip</path>
-		<name>Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Demo)</name>
-		<image>./media/images/Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Demo).png</image>
-		<video>./media/videos/Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Demo).mp4</video>
-		<marquee>./media/wheel/Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Demo).png</marquee>
-	</game>
-	<game>
-		<path>./Puzzle Link (USA, Europe).zip</path>
-		<name>Puzzle Link (USA, Europe)</name>
-		<image>./media/images/Puzzle Link (USA, Europe).png</image>
-		<video>./media/videos/Puzzle Link (USA, Europe).mp4</video>
-		<marquee>./media/wheel/Puzzle Link (USA, Europe).png</marquee>
-	</game>
-	<game>
-		<path>./Puzzle Link 2 (USA, Europe).zip</path>
-		<name>Puzzle Link 2 (USA, Europe)</name>
-		<image>./media/images/Puzzle Link 2 (USA, Europe).png</image>
-		<video>./media/videos/Puzzle Link 2 (USA, Europe).mp4</video>
-		<marquee>./media/wheel/Puzzle Link 2 (USA, Europe).png</marquee>
-	</game>
-	<game>
-		<path>./Renketsu Puzzle Tsunagete Pon! Color (Japan).zip</path>
-		<name>Renketsu Puzzle Tsunagete Pon! Color (Japan)</name>
-		<image>./media/images/Renketsu Puzzle Tsunagete Pon! Color (Japan).png</image>
-		<video>./media/videos/Renketsu Puzzle Tsunagete Pon! Color (Japan).mp4</video>
-		<marquee>./media/wheel/Renketsu Puzzle Tsunagete Pon! Color (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Rockman - Battle &amp; Fighters (Japan).zip</path>
-		<name>Rockman - Battle &amp; Fighters (Japan)</name>
-		<image>./media/images/Rockman - Battle &amp; Fighters (Japan).png</image>
-		<video>./media/videos/Rockman - Battle &amp; Fighters (Japan).mp4</video>
-		<marquee>./media/wheel/Rockman - Battle &amp; Fighters (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Rockman - Battle &amp; Fighters (Japan) (Beta).zip</path>
-		<name>Rockman - Battle &amp; Fighters (Japan) (Beta)</name>
-		<image>./media/images/Rockman - Battle &amp; Fighters (Japan) (Beta).png</image>
-		<video>./media/videos/Rockman - Battle &amp; Fighters (Japan) (Beta).mp4</video>
-		<marquee>./media/wheel/Rockman - Battle &amp; Fighters (Japan) (Beta).png</marquee>
-	</game>
-	<game>
-		<path>./Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).zip</path>
-		<name>Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)</name>
-		<image>./media/images/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).png</image>
-		<video>./media/videos/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).mp4</video>
-		<marquee>./media/wheel/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./Shanghai Mini (World) (En,Ja).zip</path>
-		<name>Shanghai Mini (World) (En,Ja)</name>
-		<image>./media/images/Shanghai Mini (World) (En,Ja).png</image>
-		<video>./media/videos/Shanghai Mini (World) (En,Ja).mp4</video>
-		<marquee>./media/wheel/Shanghai Mini (World) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./Shanghai Mini (World) (En,Ja) (Beta 1).zip</path>
-		<name>Shanghai Mini (World) (En,Ja) (Beta 1)</name>
-		<image>./media/images/Shanghai Mini (World) (En,Ja) (Beta 1).png</image>
-		<video>./media/videos/Shanghai Mini (World) (En,Ja) (Beta 1).mp4</video>
-		<marquee>./media/wheel/Shanghai Mini (World) (En,Ja) (Beta 1).png</marquee>
-	</game>
-	<game>
-		<path>./Shanghai Mini (World) (En,Ja) (Beta 2).zip</path>
-		<name>Shanghai Mini (World) (En,Ja) (Beta 2)</name>
-		<image>./media/images/Shanghai Mini (World) (En,Ja) (Beta 2).png</image>
-		<video>./media/videos/Shanghai Mini (World) (En,Ja) (Beta 2).mp4</video>
-		<marquee>./media/wheel/Shanghai Mini (World) (En,Ja) (Beta 2).png</marquee>
-	</game>
-	<game>
-		<path>./Shinki Sekai Evolution - Hateshinai Dungeon (Japan).zip</path>
-		<name>Shinki Sekai Evolution - Hateshinai Dungeon (Japan)</name>
-		<image>./media/images/Shinki Sekai Evolution - Hateshinai Dungeon (Japan).png</image>
-		<video>./media/videos/Shinki Sekai Evolution - Hateshinai Dungeon (Japan).mp4</video>
-		<marquee>./media/wheel/Shinki Sekai Evolution - Hateshinai Dungeon (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Shougi no Tatsujin Color (Japan).zip</path>
-		<name>Shougi no Tatsujin Color (Japan)</name>
-		<image>./media/images/Shougi no Tatsujin Color (Japan).png</image>
-		<video>./media/videos/Shougi no Tatsujin Color (Japan).mp4</video>
-		<marquee>./media/wheel/Shougi no Tatsujin Color (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./SNK Gals' Fighters (Japan).zip</path>
-		<name>SNK Gals' Fighters (Japan)</name>
-		<image>./media/images/SNK Gals' Fighters (Japan).png</image>
-		<video>./media/videos/SNK Gals' Fighters (Japan).mp4</video>
-		<marquee>./media/wheel/SNK Gals' Fighters (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./SNK Gals' Fighters (USA, Europe).zip</path>
-		<name>SNK Gals' Fighters (USA, Europe)</name>
-		<image>./media/images/SNK Gals' Fighters (USA, Europe).png</image>
-		<video>./media/videos/SNK Gals' Fighters (USA, Europe).mp4</video>
-		<marquee>./media/wheel/SNK Gals' Fighters (USA, Europe).png</marquee>
-	</game>
-	<game>
-		<path>./SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan).zip</path>
-		<name>SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)</name>
-		<image>./media/images/SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan).png</image>
-		<video>./media/videos/SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan).mp4</video>
-		<marquee>./media/wheel/SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).zip</path>
-		<name>SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)</name>
-		<image>./media/images/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).png</image>
-		<video>./media/videos/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).mp4</video>
-		<marquee>./media/wheel/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).png</marquee>
-	</game>
-	<game>
-		<path>./SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).zip</path>
-		<name>SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)</name>
-		<image>./media/images/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).png</image>
-		<video>./media/videos/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).mp4</video>
-		<marquee>./media/wheel/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).png</marquee>
-	</game>
-	<game>
-		<path>./SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo).zip</path>
-		<name>SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo)</name>
-		<image>./media/images/SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo).png</image>
-		<video>./media/videos/SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo).mp4</video>
-		<marquee>./media/wheel/SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo).png</marquee>
-	</game>
-	<game>
-		<path>./SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan).zip</path>
-		<name>SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)</name>
-		<image>./media/images/SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan).png</image>
-		<video>./media/videos/SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan).mp4</video>
-		<marquee>./media/wheel/SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan).zip</path>
-		<name>SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan)</name>
-		<image>./media/images/SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan).png</image>
-		<video>./media/videos/SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan).mp4</video>
-		<marquee>./media/wheel/SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Beta).zip</path>
-		<name>SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Beta)</name>
-		<image>./media/images/SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Beta).png</image>
-		<video>./media/videos/SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Beta).mp4</video>
-		<marquee>./media/wheel/SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Beta).png</marquee>
-	</game>
-	<game>
-		<path>./SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).zip</path>
-		<name>SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)</name>
-		<image>./media/images/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).png</image>
-		<video>./media/videos/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).mp4</video>
-		<marquee>./media/wheel/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).png</marquee>
-	</game>
-	<game>
-		<path>./SNK vs. Capcom - The Match of the Millennium (Japan) (Demo).zip</path>
-		<name>SNK vs. Capcom - The Match of the Millennium (Japan) (Demo)</name>
-		<image>./media/images/SNK vs. Capcom - The Match of the Millennium (Japan) (Demo).png</image>
-		<video>./media/videos/SNK vs. Capcom - The Match of the Millennium (Japan) (Demo).mp4</video>
-		<marquee>./media/wheel/SNK vs. Capcom - The Match of the Millennium (Japan) (Demo).png</marquee>
-	</game>
-	<game>
-		<path>./Sonic The Hedgehog - Pocket Adventure (World).zip</path>
-		<name>Sonic The Hedgehog - Pocket Adventure (World)</name>
-		<image>./media/images/Sonic The Hedgehog - Pocket Adventure (World).png</image>
-		<video>./media/videos/Sonic The Hedgehog - Pocket Adventure (World).mp4</video>
-		<marquee>./media/wheel/Sonic The Hedgehog - Pocket Adventure (World).png</marquee>
-	</game>
-	<game>
-		<path>./Sonic The Hedgehog - Pocket Adventure (World) (Demo).zip</path>
-		<name>Sonic The Hedgehog - Pocket Adventure (World) (Demo)</name>
-		<image>./media/images/Sonic The Hedgehog - Pocket Adventure (World) (Demo).png</image>
-		<video>./media/videos/Sonic The Hedgehog - Pocket Adventure (World) (Demo).mp4</video>
-		<marquee>./media/wheel/Sonic The Hedgehog - Pocket Adventure (World) (Demo).png</marquee>
-	</game>
-	<game>
-		<path>./Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22).zip</path>
-		<name>Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22)</name>
-		<image>./media/images/Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22).png</image>
-		<video>./media/videos/Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22).mp4</video>
-		<marquee>./media/wheel/Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22).png</marquee>
-	</game>
-	<game>
-		<path>./Soreike!! Hanafuda Doujou (Japan).zip</path>
-		<name>Soreike!! Hanafuda Doujou (Japan)</name>
-		<image>./media/images/Soreike!! Hanafuda Doujou (Japan).png</image>
-		<video>./media/videos/Soreike!! Hanafuda Doujou (Japan).mp4</video>
-		<marquee>./media/wheel/Soreike!! Hanafuda Doujou (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Super Real Mahjong - Premium Collection (Japan).zip</path>
-		<name>Super Real Mahjong - Premium Collection (Japan)</name>
-		<image>./media/images/Super Real Mahjong - Premium Collection (Japan).png</image>
-		<video>./media/videos/Super Real Mahjong - Premium Collection (Japan).mp4</video>
-		<marquee>./media/wheel/Super Real Mahjong - Premium Collection (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Tsunagete Pon! 2 (Japan).zip</path>
-		<name>Tsunagete Pon! 2 (Japan)</name>
-		<image>./media/images/Tsunagete Pon! 2 (Japan).png</image>
-		<video>./media/videos/Tsunagete Pon! 2 (Japan).mp4</video>
-		<marquee>./media/wheel/Tsunagete Pon! 2 (Japan).png</marquee>
-	</game>
-	<game>
-		<path>./Wrestling Madness (Japan) (En) (Beta).zip</path>
-		<name>Wrestling Madness (Japan) (En) (Beta)</name>
-		<image>./media/images/Wrestling Madness (Japan) (En) (Beta).png</image>
-		<video>./media/videos/Wrestling Madness (Japan) (En) (Beta).mp4</video>
-		<marquee>./media/wheel/Wrestling Madness (Japan) (En) (Beta).png</marquee>
-	</game>
+  <game>
+    <path>./[BIOS] SNK Neo Geo Pocket Color (World) (En,Ja).zip</path>
+    <name>[BIOS] SNK Neo Geo Pocket Color (World) (En,Ja)</name>
+    <image>./media/images/[BIOS] SNK Neo Geo Pocket Color (World) (En,Ja).png</image>
+    <video>./media/videos/[BIOS] SNK Neo Geo Pocket Color (World) (En,Ja).mp4</video>
+    <marquee>./media/wheel/[BIOS] SNK Neo Geo Pocket Color (World) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).zip</path>
+    <name>Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)</name>
+    <image>./media/images/Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).png</image>
+    <video>./media/videos/Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).mp4</video>
+    <marquee>./media/wheel/Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Baseball Stars Color - Pocket Sports Series (World) (En,Ja).zip</path>
+    <name>Baseball Stars Color - Pocket Sports Series (World) (En,Ja)</name>
+    <image>./media/images/Baseball Stars Color - Pocket Sports Series (World) (En,Ja).png</image>
+    <video>./media/videos/Baseball Stars Color - Pocket Sports Series (World) (En,Ja).mp4</video>
+    <marquee>./media/wheel/Baseball Stars Color - Pocket Sports Series (World) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./Big Bang Pro Wrestling (Japan) (En,Ja).zip</path>
+    <name>Big Bang Pro Wrestling (Japan) (En,Ja)</name>
+    <image>./media/images/Big Bang Pro Wrestling (Japan) (En,Ja).png</image>
+    <video>./media/videos/Big Bang Pro Wrestling (Japan) (En,Ja).mp4</video>
+    <marquee>./media/wheel/Big Bang Pro Wrestling (Japan) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./Bikkuriman 2000 - Viva! Pocket Festival! (Japan).zip</path>
+    <name>Bikkuriman 2000 - Viva! Pocket Festival! (Japan)</name>
+    <image>./media/images/Bikkuriman 2000 - Viva! Pocket Festival! (Japan).png</image>
+    <video>./media/videos/Bikkuriman 2000 - Viva! Pocket Festival! (Japan).mp4</video>
+    <marquee>./media/wheel/Bikkuriman 2000 - Viva! Pocket Festival! (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Biomotor Unitron (Japan).zip</path>
+    <name>Biomotor Unitron (Japan)</name>
+    <image>./media/images/Biomotor Unitron (Japan).png</image>
+    <video>./media/videos/Biomotor Unitron (Japan).mp4</video>
+    <marquee>./media/wheel/Biomotor Unitron (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Biomotor Unitron (USA, Europe).zip</path>
+    <name>Biomotor Unitron (USA, Europe)</name>
+    <image>./media/images/Biomotor Unitron (USA, Europe).png</image>
+    <video>./media/videos/Biomotor Unitron (USA, Europe).mp4</video>
+    <marquee>./media/wheel/Biomotor Unitron (USA, Europe).png</marquee>
+  </game>
+  <game>
+    <path>./Biomotor Unitron (Japan) (Demo).zip</path>
+    <name>Biomotor Unitron (Japan) (Demo)</name>
+    <image>./media/images/Biomotor Unitron (Japan) (Demo).png</image>
+    <video>./media/videos/Biomotor Unitron (Japan) (Demo).mp4</video>
+    <marquee>./media/wheel/Biomotor Unitron (Japan) (Demo).png</marquee>
+  </game>
+  <game>
+    <path>./Bust-A-Move Pocket (USA).zip</path>
+    <name>Bust-A-Move Pocket (USA)</name>
+    <image>./media/images/Bust-A-Move Pocket (USA).png</image>
+    <video>./media/videos/Bust-A-Move Pocket (USA).mp4</video>
+    <marquee>./media/wheel/Bust-A-Move Pocket (USA).png</marquee>
+  </game>
+  <game>
+    <path>./Bust-A-Move Pocket (USA) (Beta).zip</path>
+    <name>Bust-A-Move Pocket (USA) (Beta)</name>
+    <image>./media/images/Bust-A-Move Pocket (USA) (Beta).png</image>
+    <video>./media/videos/Bust-A-Move Pocket (USA) (Beta).mp4</video>
+    <marquee>./media/wheel/Bust-A-Move Pocket (USA) (Beta).png</marquee>
+  </game>
+  <game>
+    <path>./Cool Boarders Pocket (Japan, Europe) (En,Ja).zip</path>
+    <name>Cool Boarders Pocket (Japan, Europe) (En,Ja)</name>
+    <image>./media/images/Cool Boarders Pocket (Japan, Europe) (En,Ja).png</image>
+    <video>./media/videos/Cool Boarders Pocket (Japan, Europe) (En,Ja).mp4</video>
+    <marquee>./media/wheel/Cool Boarders Pocket (Japan, Europe) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./Cool Cool Jam (Japan).zip</path>
+    <name>Cool Cool Jam (Japan)</name>
+    <image>./media/images/Cool Cool Jam (Japan).png</image>
+    <video>./media/videos/Cool Cool Jam (Japan).mp4</video>
+    <marquee>./media/wheel/Cool Cool Jam (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Cool Cool Jam (USA) (Proto).zip</path>
+    <name>Cool Cool Jam (USA) (Proto)</name>
+    <image>./media/images/Cool Cool Jam (USA) (Proto).png</image>
+    <video>./media/videos/Cool Cool Jam (USA) (Proto).mp4</video>
+    <marquee>./media/wheel/Cool Cool Jam (USA) (Proto).png</marquee>
+  </game>
+  <game>
+    <path>./Crush Roller (World) (En,Ja).zip</path>
+    <name>Crush Roller (World) (En,Ja)</name>
+    <image>./media/images/Crush Roller (World) (En,Ja).png</image>
+    <video>./media/videos/Crush Roller (World) (En,Ja).mp4</video>
+    <marquee>./media/wheel/Crush Roller (World) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./Dark Arms - Beast Buster 1999 (World) (En,Ja).zip</path>
+    <name>Dark Arms - Beast Buster 1999 (World) (En,Ja)</name>
+    <image>./media/images/Dark Arms - Beast Buster 1999 (World) (En,Ja).png</image>
+    <video>./media/videos/Dark Arms - Beast Buster 1999 (World) (En,Ja).mp4</video>
+    <marquee>./media/wheel/Dark Arms - Beast Buster 1999 (World) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./Delta Warp (Japan) (En,Ja).zip</path>
+    <name>Delta Warp (Japan) (En,Ja)</name>
+    <image>./media/images/Delta Warp (Japan) (En,Ja).png</image>
+    <video>./media/videos/Delta Warp (Japan) (En,Ja).mp4</video>
+    <marquee>./media/wheel/Delta Warp (Japan) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./Delta Warp (Japan) (Beta).zip</path>
+    <name>Delta Warp (Japan) (Beta)</name>
+    <image>./media/images/Delta Warp (Japan) (Beta).png</image>
+    <video>./media/videos/Delta Warp (Japan) (Beta).mp4</video>
+    <marquee>./media/wheel/Delta Warp (Japan) (Beta).png</marquee>
+  </game>
+  <game>
+    <path>./Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan).zip</path>
+    <name>Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan)</name>
+    <image>./media/images/Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan).png</image>
+    <video>./media/videos/Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan).mp4</video>
+    <marquee>./media/wheel/Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Densha de Go! 2 on Neo Geo Pocket (Japan).zip</path>
+    <name>Densha de Go! 2 on Neo Geo Pocket (Japan)</name>
+    <image>./media/images/Densha de Go! 2 on Neo Geo Pocket (Japan).png</image>
+    <video>./media/videos/Densha de Go! 2 on Neo Geo Pocket (Japan).mp4</video>
+    <marquee>./media/wheel/Densha de Go! 2 on Neo Geo Pocket (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Densha de Go! 2 on Neo Geo Pocket (Japan) (Beta).zip</path>
+    <name>Densha de Go! 2 on Neo Geo Pocket (Japan) (Beta)</name>
+    <image>./media/images/Densha de Go! 2 on Neo Geo Pocket (Japan) (Beta).png</image>
+    <video>./media/videos/Densha de Go! 2 on Neo Geo Pocket (Japan) (Beta).mp4</video>
+    <marquee>./media/wheel/Densha de Go! 2 on Neo Geo Pocket (Japan) (Beta).png</marquee>
+  </game>
+  <game>
+    <path>./Dive Alert - Becky's Version (USA, Europe).zip</path>
+    <name>Dive Alert - Becky's Version (USA, Europe)</name>
+    <image>./media/images/Dive Alert - Becky's Version (USA, Europe).png</image>
+    <video>./media/videos/Dive Alert - Becky's Version (USA, Europe).mp4</video>
+    <marquee>./media/wheel/Dive Alert - Becky's Version (USA, Europe).png</marquee>
+  </game>
+  <game>
+    <path>./Dive Alert - Burn Hen (Japan).zip</path>
+    <name>Dive Alert - Burn Hen (Japan)</name>
+    <image>./media/images/Dive Alert - Burn Hen (Japan).png</image>
+    <video>./media/videos/Dive Alert - Burn Hen (Japan).mp4</video>
+    <marquee>./media/wheel/Dive Alert - Burn Hen (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Dive Alert - Burn Hen (Japan) (Beta).zip</path>
+    <name>Dive Alert - Burn Hen (Japan) (Beta)</name>
+    <image>./media/images/Dive Alert - Burn Hen (Japan) (Beta).png</image>
+    <video>./media/videos/Dive Alert - Burn Hen (Japan) (Beta).mp4</video>
+    <marquee>./media/wheel/Dive Alert - Burn Hen (Japan) (Beta).png</marquee>
+  </game>
+  <game>
+    <path>./Dive Alert - Matt's Version (USA, Europe).zip</path>
+    <name>Dive Alert - Matt's Version (USA, Europe)</name>
+    <image>./media/images/Dive Alert - Matt's Version (USA, Europe).png</image>
+    <video>./media/videos/Dive Alert - Matt's Version (USA, Europe).mp4</video>
+    <marquee>./media/wheel/Dive Alert - Matt's Version (USA, Europe).png</marquee>
+  </game>
+  <game>
+    <path>./Dive Alert - Rebecca Hen (Japan).zip</path>
+    <name>Dive Alert - Rebecca Hen (Japan)</name>
+    <image>./media/images/Dive Alert - Rebecca Hen (Japan).png</image>
+    <video>./media/videos/Dive Alert - Rebecca Hen (Japan).mp4</video>
+    <marquee>./media/wheel/Dive Alert - Rebecca Hen (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Dokodemo Mahjong (Japan).zip</path>
+    <name>Dokodemo Mahjong (Japan)</name>
+    <image>./media/images/Dokodemo Mahjong (Japan).png</image>
+    <video>./media/videos/Dokodemo Mahjong (Japan).mp4</video>
+    <marquee>./media/wheel/Dokodemo Mahjong (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Dynamite Slugger (Japan, Europe) (En,Ja).zip</path>
+    <name>Dynamite Slugger (Japan, Europe) (En,Ja)</name>
+    <image>./media/images/Dynamite Slugger (Japan, Europe) (En,Ja).png</image>
+    <video>./media/videos/Dynamite Slugger (Japan, Europe) (En,Ja).mp4</video>
+    <marquee>./media/wheel/Dynamite Slugger (Japan, Europe) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./Evolution - Eternal Dungeons (Europe).zip</path>
+    <name>Evolution - Eternal Dungeons (Europe)</name>
+    <image>./media/images/Evolution - Eternal Dungeons (Europe).png</image>
+    <video>./media/videos/Evolution - Eternal Dungeons (Europe).mp4</video>
+    <marquee>./media/wheel/Evolution - Eternal Dungeons (Europe).png</marquee>
+  </game>
+  <game>
+    <path>./Fantastic Night Dreams - Cotton (Europe).zip</path>
+    <name>Fantastic Night Dreams - Cotton (Europe)</name>
+    <image>./media/images/Fantastic Night Dreams - Cotton (Europe).png</image>
+    <video>./media/videos/Fantastic Night Dreams - Cotton (Europe).mp4</video>
+    <marquee>./media/wheel/Fantastic Night Dreams - Cotton (Europe).png</marquee>
+  </game>
+  <game>
+    <path>./Fantastic Night Dreams - Cotton (Japan).zip</path>
+    <name>Fantastic Night Dreams - Cotton (Japan)</name>
+    <image>./media/images/Fantastic Night Dreams - Cotton (Japan).png</image>
+    <video>./media/videos/Fantastic Night Dreams - Cotton (Japan).mp4</video>
+    <marquee>./media/wheel/Fantastic Night Dreams - Cotton (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Faselei! (USA, Europe).zip</path>
+    <name>Faselei! (USA, Europe)</name>
+    <image>./media/images/Faselei! (USA, Europe).png</image>
+    <video>./media/videos/Faselei! (USA, Europe).mp4</video>
+    <marquee>./media/wheel/Faselei! (USA, Europe).png</marquee>
+  </game>
+  <game>
+    <path>./Faselei! (Japan).zip</path>
+    <name>Faselei! (Japan)</name>
+    <image>./media/images/Faselei! (Japan).png</image>
+    <video>./media/videos/Faselei! (Japan).mp4</video>
+    <marquee>./media/wheel/Faselei! (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).zip</path>
+    <name>Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)</name>
+    <image>./media/images/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).png</image>
+    <video>./media/videos/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).mp4</video>
+    <marquee>./media/wheel/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./Ganbare Neo Poke-kun (Kari) (Japan).zip</path>
+    <name>Ganbare Neo Poke-kun (Kari) (Japan)</name>
+    <image>./media/images/Ganbare Neo Poke-kun (Kari) (Japan).png</image>
+    <video>./media/videos/Ganbare Neo Poke-kun (Kari) (Japan).mp4</video>
+    <marquee>./media/wheel/Ganbare Neo Poke-kun (Kari) (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Infinity Cure (Japan).zip</path>
+    <name>Infinity Cure (Japan)</name>
+    <image>./media/images/Infinity Cure (Japan).png</image>
+    <video>./media/videos/Infinity Cure (Japan).mp4</video>
+    <marquee>./media/wheel/Infinity Cure (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan).zip</path>
+    <name>Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan)</name>
+    <image>./media/images/Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan).png</image>
+    <video>./media/videos/Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan).mp4</video>
+    <marquee>./media/wheel/Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).zip</path>
+    <name>King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)</name>
+    <image>./media/images/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).png</image>
+    <video>./media/videos/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).mp4</video>
+    <marquee>./media/wheel/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja) (Demo).zip</path>
+    <name>King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja) (Demo)</name>
+    <image>./media/images/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja) (Demo).png</image>
+    <video>./media/videos/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja) (Demo).mp4</video>
+    <marquee>./media/wheel/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja) (Demo).png</marquee>
+  </game>
+  <game>
+    <path>./King of Fighters R-2 Version 2 - Pocket Fighting Series (Japan) (En,Ja) (Demo).zip</path>
+    <name>King of Fighters R-2 Version 2 - Pocket Fighting Series (Japan) (En,Ja) (Demo)</name>
+    <image>./media/images/King of Fighters R-2 Version 2 - Pocket Fighting Series (Japan) (En,Ja) (Demo).png</image>
+    <video>./media/videos/King of Fighters R-2 Version 2 - Pocket Fighting Series (Japan) (En,Ja) (Demo).mp4</video>
+    <marquee>./media/wheel/King of Fighters R-2 Version 2 - Pocket Fighting Series (Japan) (En,Ja) (Demo).png</marquee>
+  </game>
+  <game>
+    <path>./King of Fighters, The - Battle de Paradise (Japan).zip</path>
+    <name>King of Fighters, The - Battle de Paradise (Japan)</name>
+    <image>./media/images/King of Fighters, The - Battle de Paradise (Japan).png</image>
+    <video>./media/videos/King of Fighters, The - Battle de Paradise (Japan).mp4</video>
+    <marquee>./media/wheel/King of Fighters, The - Battle de Paradise (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Koi Koi Mahjong (Japan).zip</path>
+    <name>Koi Koi Mahjong (Japan)</name>
+    <image>./media/images/Koi Koi Mahjong (Japan).png</image>
+    <video>./media/videos/Koi Koi Mahjong (Japan).mp4</video>
+    <marquee>./media/wheel/Koi Koi Mahjong (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Last Blade, The - Beyond the Destiny (USA, Europe).zip</path>
+    <name>Last Blade, The - Beyond the Destiny (USA, Europe)</name>
+    <image>./media/images/Last Blade, The - Beyond the Destiny (USA, Europe).png</image>
+    <video>./media/videos/Last Blade, The - Beyond the Destiny (USA, Europe).mp4</video>
+    <marquee>./media/wheel/Last Blade, The - Beyond the Destiny (USA, Europe).png</marquee>
+  </game>
+  <game>
+    <path>./Magical Drop Pocket (Japan).zip</path>
+    <name>Magical Drop Pocket (Japan)</name>
+    <image>./media/images/Magical Drop Pocket (Japan).png</image>
+    <video>./media/videos/Magical Drop Pocket (Japan).mp4</video>
+    <marquee>./media/wheel/Magical Drop Pocket (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Magical Drop Pocket (USA, Europe).zip</path>
+    <name>Magical Drop Pocket (USA, Europe)</name>
+    <image>./media/images/Magical Drop Pocket (USA, Europe).png</image>
+    <video>./media/videos/Magical Drop Pocket (USA, Europe).mp4</video>
+    <marquee>./media/wheel/Magical Drop Pocket (USA, Europe).png</marquee>
+  </game>
+  <game>
+    <path>./Magical Drop Pocket (Japan) (Demo).zip</path>
+    <name>Magical Drop Pocket (Japan) (Demo)</name>
+    <image>./media/images/Magical Drop Pocket (Japan) (Demo).png</image>
+    <video>./media/videos/Magical Drop Pocket (Japan) (Demo).mp4</video>
+    <marquee>./media/wheel/Magical Drop Pocket (Japan) (Demo).png</marquee>
+  </game>
+  <game>
+    <path>./Memories Off - Pure (Japan).zip</path>
+    <name>Memories Off - Pure (Japan)</name>
+    <image>./media/images/Memories Off - Pure (Japan).png</image>
+    <video>./media/videos/Memories Off - Pure (Japan).mp4</video>
+    <marquee>./media/wheel/Memories Off - Pure (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Metal Slug - 1st Mission (World) (En,Ja).zip</path>
+    <name>Metal Slug - 1st Mission (World) (En,Ja)</name>
+    <image>./media/images/Metal Slug - 1st Mission (World) (En,Ja).png</image>
+    <video>./media/videos/Metal Slug - 1st Mission (World) (En,Ja).mp4</video>
+    <marquee>./media/wheel/Metal Slug - 1st Mission (World) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./Metal Slug - 2nd Mission (World) (En,Ja).zip</path>
+    <name>Metal Slug - 2nd Mission (World) (En,Ja)</name>
+    <image>./media/images/Metal Slug - 2nd Mission (World) (En,Ja).png</image>
+    <video>./media/videos/Metal Slug - 2nd Mission (World) (En,Ja).mp4</video>
+    <marquee>./media/wheel/Metal Slug - 2nd Mission (World) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./Metal Slug - 2nd Mission (World) (En,Ja) (Demo).zip</path>
+    <name>Metal Slug - 2nd Mission (World) (En,Ja) (Demo)</name>
+    <image>./media/images/Metal Slug - 2nd Mission (World) (En,Ja) (Demo).png</image>
+    <video>./media/videos/Metal Slug - 2nd Mission (World) (En,Ja) (Demo).mp4</video>
+    <marquee>./media/wheel/Metal Slug - 2nd Mission (World) (En,Ja) (Demo).png</marquee>
+  </game>
+  <game>
+    <path>./Mezase! Kanji Ou (Japan).zip</path>
+    <name>Mezase! Kanji Ou (Japan)</name>
+    <image>./media/images/Mezase! Kanji Ou (Japan).png</image>
+    <video>./media/videos/Mezase! Kanji Ou (Japan).mp4</video>
+    <marquee>./media/wheel/Mezase! Kanji Ou (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Mizuki Shigeru no Youkai Shashinkan (Japan).zip</path>
+    <name>Mizuki Shigeru no Youkai Shashinkan (Japan)</name>
+    <image>./media/images/Mizuki Shigeru no Youkai Shashinkan (Japan).png</image>
+    <video>./media/videos/Mizuki Shigeru no Youkai Shashinkan (Japan).mp4</video>
+    <marquee>./media/wheel/Mizuki Shigeru no Youkai Shashinkan (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Neo 21 - Pocket Casino Series (World).zip</path>
+    <name>Neo 21 - Pocket Casino Series (World)</name>
+    <image>./media/images/Neo 21 - Pocket Casino Series (World).png</image>
+    <video>./media/videos/Neo 21 - Pocket Casino Series (World).mp4</video>
+    <marquee>./media/wheel/Neo 21 - Pocket Casino Series (World).png</marquee>
+  </game>
+  <game>
+    <path>./Neo Baccarat - Pocket Casino Series (Japan, Europe).zip</path>
+    <name>Neo Baccarat - Pocket Casino Series (Japan, Europe)</name>
+    <image>./media/images/Neo Baccarat - Pocket Casino Series (Japan, Europe).png</image>
+    <video>./media/videos/Neo Baccarat - Pocket Casino Series (Japan, Europe).mp4</video>
+    <marquee>./media/wheel/Neo Baccarat - Pocket Casino Series (Japan, Europe).png</marquee>
+  </game>
+  <game>
+    <path>./Neo Baccarat - Pocket Casino Series (Japan, Europe) (Beta).zip</path>
+    <name>Neo Baccarat - Pocket Casino Series (Japan, Europe) (Beta)</name>
+    <image>./media/images/Neo Baccarat - Pocket Casino Series (Japan, Europe) (Beta).png</image>
+    <video>./media/videos/Neo Baccarat - Pocket Casino Series (Japan, Europe) (Beta).mp4</video>
+    <marquee>./media/wheel/Neo Baccarat - Pocket Casino Series (Japan, Europe) (Beta).png</marquee>
+  </game>
+  <game>
+    <path>./Neo Baccarat - Pocket Casino Series (Japan, Europe) (v1.1).zip</path>
+    <name>Neo Baccarat - Pocket Casino Series (Japan, Europe) (v1.1)</name>
+    <image>./media/images/Neo Baccarat - Pocket Casino Series (Japan, Europe) (v1.1).png</image>
+    <video>./media/videos/Neo Baccarat - Pocket Casino Series (Japan, Europe) (v1.1).mp4</video>
+    <marquee>./media/wheel/Neo Baccarat - Pocket Casino Series (Japan, Europe) (v1.1).png</marquee>
+  </game>
+  <game>
+    <path>./Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).zip</path>
+    <name>Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja)</name>
+    <image>./media/images/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).png</image>
+    <video>./media/videos/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).mp4</video>
+    <marquee>./media/wheel/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Beta).zip</path>
+    <name>Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Beta)</name>
+    <image>./media/images/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Beta).png</image>
+    <video>./media/videos/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Beta).mp4</video>
+    <marquee>./media/wheel/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Beta).png</marquee>
+  </game>
+  <game>
+    <path>./Neo Derby Champ Daiyosou (Japan).zip</path>
+    <name>Neo Derby Champ Daiyosou (Japan)</name>
+    <image>./media/images/Neo Derby Champ Daiyosou (Japan).png</image>
+    <video>./media/videos/Neo Derby Champ Daiyosou (Japan).mp4</video>
+    <marquee>./media/wheel/Neo Derby Champ Daiyosou (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja).zip</path>
+    <name>Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja)</name>
+    <image>./media/images/Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja).png</image>
+    <video>./media/videos/Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja).mp4</video>
+    <marquee>./media/wheel/Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (Beta).zip</path>
+    <name>Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (Beta)</name>
+    <image>./media/images/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (Beta).png</image>
+    <video>./media/videos/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (Beta).mp4</video>
+    <marquee>./media/wheel/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (Beta).png</marquee>
+  </game>
+  <game>
+    <path>./Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja).zip</path>
+    <name>Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja)</name>
+    <image>./media/images/Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja).png</image>
+    <video>./media/videos/Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja).mp4</video>
+    <marquee>./media/wheel/Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./Neo Poke Pro Yakyuu (Japan) (v32).zip</path>
+    <name>Neo Poke Pro Yakyuu (Japan) (v32)</name>
+    <image>./media/images/Neo Poke Pro Yakyuu (Japan) (v32).png</image>
+    <video>./media/videos/Neo Poke Pro Yakyuu (Japan) (v32).mp4</video>
+    <marquee>./media/wheel/Neo Poke Pro Yakyuu (Japan) (v32).png</marquee>
+  </game>
+  <game>
+    <path>./Neo Poke Pro Yakyuu (Japan) (v1F).zip</path>
+    <name>Neo Poke Pro Yakyuu (Japan) (v1F)</name>
+    <image>./media/images/Neo Poke Pro Yakyuu (Japan) (v1F).png</image>
+    <video>./media/videos/Neo Poke Pro Yakyuu (Japan) (v1F).mp4</video>
+    <marquee>./media/wheel/Neo Poke Pro Yakyuu (Japan) (v1F).png</marquee>
+  </game>
+  <game>
+    <path>./Neo Turf Masters (World) (En,Ja).zip</path>
+    <name>Neo Turf Masters (World) (En,Ja)</name>
+    <image>./media/images/Neo Turf Masters (World) (En,Ja).png</image>
+    <video>./media/videos/Neo Turf Masters (World) (En,Ja).mp4</video>
+    <marquee>./media/wheel/Neo Turf Masters (World) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./Neo Turf Masters (World) (En,Ja) (Demo).zip</path>
+    <name>Neo Turf Masters (World) (En,Ja) (Demo)</name>
+    <image>./media/images/Neo Turf Masters (World) (En,Ja) (Demo).png</image>
+    <video>./media/videos/Neo Turf Masters (World) (En,Ja) (Demo).mp4</video>
+    <marquee>./media/wheel/Neo Turf Masters (World) (En,Ja) (Demo).png</marquee>
+  </game>
+  <game>
+    <path>./NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja).zip</path>
+    <name>NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja)</name>
+    <image>./media/images/NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja).png</image>
+    <video>./media/videos/NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja).mp4</video>
+    <marquee>./media/wheel/NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./Nige-ron-pa (Japan).zip</path>
+    <name>Nige-ron-pa (Japan)</name>
+    <image>./media/images/Nige-ron-pa (Japan).png</image>
+    <video>./media/videos/Nige-ron-pa (Japan).mp4</video>
+    <marquee>./media/wheel/Nige-ron-pa (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Oekaki Puzzle (Japan).zip</path>
+    <name>Oekaki Puzzle (Japan)</name>
+    <image>./media/images/Oekaki Puzzle (Japan).png</image>
+    <video>./media/videos/Oekaki Puzzle (Japan).mp4</video>
+    <marquee>./media/wheel/Oekaki Puzzle (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Pac-Man (World) (En,Ja).zip</path>
+    <name>Pac-Man (World) (En,Ja)</name>
+    <image>./media/images/Pac-Man (World) (En,Ja).png</image>
+    <video>./media/videos/Pac-Man (World) (En,Ja).mp4</video>
+    <marquee>./media/wheel/Pac-Man (World) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan).zip</path>
+    <name>Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan)</name>
+    <image>./media/images/Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan).png</image>
+    <video>./media/videos/Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan).mp4</video>
+    <marquee>./media/wheel/Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan).zip</path>
+    <name>Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan)</name>
+    <image>./media/images/Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan).png</image>
+    <video>./media/videos/Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan).mp4</video>
+    <marquee>./media/wheel/Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan).zip</path>
+    <name>Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan)</name>
+    <image>./media/images/Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan).png</image>
+    <video>./media/videos/Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan).mp4</video>
+    <marquee>./media/wheel/Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan).zip</path>
+    <name>Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan)</name>
+    <image>./media/images/Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan).png</image>
+    <video>./media/videos/Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan).mp4</video>
+    <marquee>./media/wheel/Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (Beta).zip</path>
+    <name>Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (Beta)</name>
+    <image>./media/images/Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (Beta).png</image>
+    <video>./media/videos/Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (Beta).mp4</video>
+    <marquee>./media/wheel/Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (Beta).png</marquee>
+  </game>
+  <game>
+    <path>./Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan).zip</path>
+    <name>Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan)</name>
+    <image>./media/images/Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan).png</image>
+    <video>./media/videos/Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan).mp4</video>
+    <marquee>./media/wheel/Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Pachi-Slot Aruze Oukoku Pocket - Ohanabi (Japan).zip</path>
+    <name>Pachi-Slot Aruze Oukoku Pocket - Ohanabi (Japan)</name>
+    <image>./media/images/Pachi-Slot Aruze Oukoku Pocket - Ohanabi (Japan).png</image>
+    <video>./media/videos/Pachi-Slot Aruze Oukoku Pocket - Ohanabi (Japan).mp4</video>
+    <marquee>./media/wheel/Pachi-Slot Aruze Oukoku Pocket - Ohanabi (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan).zip</path>
+    <name>Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan)</name>
+    <image>./media/images/Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan).png</image>
+    <video>./media/videos/Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan).mp4</video>
+    <marquee>./media/wheel/Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Pachi-slot Aruze Oukoku Porcano 2 (Japan) [b].zip</path>
+    <name>Pachi-slot Aruze Oukoku Porcano 2 (Japan) [b]</name>
+    <image>./media/images/Pachi-slot Aruze Oukoku Porcano 2 (Japan) [b].png</image>
+    <video>./media/videos/Pachi-slot Aruze Oukoku Porcano 2 (Japan) [b].mp4</video>
+    <marquee>./media/wheel/Pachi-slot Aruze Oukoku Porcano 2 (Japan) [b].png</marquee>
+  </game>
+  <game>
+    <path>./Pachinko Hisshou Guide - Pocket Parlor (Japan).zip</path>
+    <name>Pachinko Hisshou Guide - Pocket Parlor (Japan)</name>
+    <image>./media/images/Pachinko Hisshou Guide - Pocket Parlor (Japan).png</image>
+    <video>./media/videos/Pachinko Hisshou Guide - Pocket Parlor (Japan).mp4</video>
+    <marquee>./media/wheel/Pachinko Hisshou Guide - Pocket Parlor (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Party Mail (Japan).zip</path>
+    <name>Party Mail (Japan)</name>
+    <image>./media/images/Party Mail (Japan).png</image>
+    <video>./media/videos/Party Mail (Japan).mp4</video>
+    <marquee>./media/wheel/Party Mail (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Party Mail (Japan) (Beta).zip</path>
+    <name>Party Mail (Japan) (Beta)</name>
+    <image>./media/images/Party Mail (Japan) (Beta).png</image>
+    <video>./media/videos/Party Mail (Japan) (Beta).mp4</video>
+    <marquee>./media/wheel/Party Mail (Japan) (Beta).png</marquee>
+  </game>
+  <game>
+    <path>./Picture Puzzle (Europe).zip</path>
+    <name>Picture Puzzle (Europe)</name>
+    <image>./media/images/Picture Puzzle (Europe).png</image>
+    <video>./media/videos/Picture Puzzle (Europe).mp4</video>
+    <marquee>./media/wheel/Picture Puzzle (Europe).png</marquee>
+  </game>
+  <game>
+    <path>./Pocket Love - if (Japan).zip</path>
+    <name>Pocket Love - if (Japan)</name>
+    <image>./media/images/Pocket Love - if (Japan).png</image>
+    <video>./media/videos/Pocket Love - if (Japan).mp4</video>
+    <marquee>./media/wheel/Pocket Love - if (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Pocket Reversi (Europe).zip</path>
+    <name>Pocket Reversi (Europe)</name>
+    <image>./media/images/Pocket Reversi (Europe).png</image>
+    <video>./media/videos/Pocket Reversi (Europe).mp4</video>
+    <marquee>./media/wheel/Pocket Reversi (Europe).png</marquee>
+  </game>
+  <game>
+    <path>./Pocket Reversi (Japan).zip</path>
+    <name>Pocket Reversi (Japan)</name>
+    <image>./media/images/Pocket Reversi (Japan).png</image>
+    <video>./media/videos/Pocket Reversi (Japan).mp4</video>
+    <marquee>./media/wheel/Pocket Reversi (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).zip</path>
+    <name>Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)</name>
+    <image>./media/images/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).png</image>
+    <video>./media/videos/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).mp4</video>
+    <marquee>./media/wheel/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./PP-AA01 - Pusher - Program - Hontai Controller Gawa (Japan).zip</path>
+    <name>PP-AA01 - Pusher - Program - Hontai Controller Gawa (Japan)</name>
+    <image>./media/images/PP-AA01 - Pusher - Program - Hontai Controller Gawa (Japan).png</image>
+    <video>./media/videos/PP-AA01 - Pusher - Program - Hontai Controller Gawa (Japan).mp4</video>
+    <marquee>./media/wheel/PP-AA01 - Pusher - Program - Hontai Controller Gawa (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Puyo Pop (World) (En,Ja) (v1.05).zip</path>
+    <name>Puyo Pop (World) (En,Ja) (v1.05)</name>
+    <image>./media/images/Puyo Pop (World) (En,Ja) (v1.05).png</image>
+    <video>./media/videos/Puyo Pop (World) (En,Ja) (v1.05).mp4</video>
+    <marquee>./media/wheel/Puyo Pop (World) (En,Ja) (v1.05).png</marquee>
+  </game>
+  <game>
+    <path>./Puyo Pop (World) (En,Ja).zip</path>
+    <name>Puyo Pop (World) (En,Ja)</name>
+    <image>./media/images/Puyo Pop (World) (En,Ja).png</image>
+    <video>./media/videos/Puyo Pop (World) (En,Ja).mp4</video>
+    <marquee>./media/wheel/Puyo Pop (World) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./Puzzle Bobble Mini (Japan, Europe).zip</path>
+    <name>Puzzle Bobble Mini (Japan, Europe)</name>
+    <image>./media/images/Puzzle Bobble Mini (Japan, Europe).png</image>
+    <video>./media/videos/Puzzle Bobble Mini (Japan, Europe).mp4</video>
+    <marquee>./media/wheel/Puzzle Bobble Mini (Japan, Europe).png</marquee>
+  </game>
+  <game>
+    <path>./Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Demo).zip</path>
+    <name>Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Demo)</name>
+    <image>./media/images/Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Demo).png</image>
+    <video>./media/videos/Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Demo).mp4</video>
+    <marquee>./media/wheel/Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Demo).png</marquee>
+  </game>
+  <game>
+    <path>./Puzzle Link (USA, Europe).zip</path>
+    <name>Puzzle Link (USA, Europe)</name>
+    <image>./media/images/Puzzle Link (USA, Europe).png</image>
+    <video>./media/videos/Puzzle Link (USA, Europe).mp4</video>
+    <marquee>./media/wheel/Puzzle Link (USA, Europe).png</marquee>
+  </game>
+  <game>
+    <path>./Puzzle Link 2 (USA, Europe).zip</path>
+    <name>Puzzle Link 2 (USA, Europe)</name>
+    <image>./media/images/Puzzle Link 2 (USA, Europe).png</image>
+    <video>./media/videos/Puzzle Link 2 (USA, Europe).mp4</video>
+    <marquee>./media/wheel/Puzzle Link 2 (USA, Europe).png</marquee>
+  </game>
+  <game>
+    <path>./Renketsu Puzzle Tsunagete Pon! Color (Japan).zip</path>
+    <name>Renketsu Puzzle Tsunagete Pon! Color (Japan)</name>
+    <image>./media/images/Renketsu Puzzle Tsunagete Pon! Color (Japan).png</image>
+    <video>./media/videos/Renketsu Puzzle Tsunagete Pon! Color (Japan).mp4</video>
+    <marquee>./media/wheel/Renketsu Puzzle Tsunagete Pon! Color (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Rockman - Battle &amp; Fighters (Japan).zip</path>
+    <name>Rockman - Battle &amp; Fighters (Japan)</name>
+    <image>./media/images/Rockman - Battle &amp; Fighters (Japan).png</image>
+    <video>./media/videos/Rockman - Battle &amp; Fighters (Japan).mp4</video>
+    <marquee>./media/wheel/Rockman - Battle &amp; Fighters (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Rockman - Battle &amp; Fighters (Japan) (Beta).zip</path>
+    <name>Rockman - Battle &amp; Fighters (Japan) (Beta)</name>
+    <image>./media/images/Rockman - Battle &amp; Fighters (Japan) (Beta).png</image>
+    <video>./media/videos/Rockman - Battle &amp; Fighters (Japan) (Beta).mp4</video>
+    <marquee>./media/wheel/Rockman - Battle &amp; Fighters (Japan) (Beta).png</marquee>
+  </game>
+  <game>
+    <path>./Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).zip</path>
+    <name>Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)</name>
+    <image>./media/images/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).png</image>
+    <video>./media/videos/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).mp4</video>
+    <marquee>./media/wheel/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./Shanghai Mini (World) (En,Ja).zip</path>
+    <name>Shanghai Mini (World) (En,Ja)</name>
+    <image>./media/images/Shanghai Mini (World) (En,Ja).png</image>
+    <video>./media/videos/Shanghai Mini (World) (En,Ja).mp4</video>
+    <marquee>./media/wheel/Shanghai Mini (World) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./Shanghai Mini (World) (En,Ja) (Beta 1).zip</path>
+    <name>Shanghai Mini (World) (En,Ja) (Beta 1)</name>
+    <image>./media/images/Shanghai Mini (World) (En,Ja) (Beta 1).png</image>
+    <video>./media/videos/Shanghai Mini (World) (En,Ja) (Beta 1).mp4</video>
+    <marquee>./media/wheel/Shanghai Mini (World) (En,Ja) (Beta 1).png</marquee>
+  </game>
+  <game>
+    <path>./Shanghai Mini (World) (En,Ja) (Beta 2).zip</path>
+    <name>Shanghai Mini (World) (En,Ja) (Beta 2)</name>
+    <image>./media/images/Shanghai Mini (World) (En,Ja) (Beta 2).png</image>
+    <video>./media/videos/Shanghai Mini (World) (En,Ja) (Beta 2).mp4</video>
+    <marquee>./media/wheel/Shanghai Mini (World) (En,Ja) (Beta 2).png</marquee>
+  </game>
+  <game>
+    <path>./Shinki Sekai Evolution - Hateshinai Dungeon (Japan).zip</path>
+    <name>Shinki Sekai Evolution - Hateshinai Dungeon (Japan)</name>
+    <image>./media/images/Shinki Sekai Evolution - Hateshinai Dungeon (Japan).png</image>
+    <video>./media/videos/Shinki Sekai Evolution - Hateshinai Dungeon (Japan).mp4</video>
+    <marquee>./media/wheel/Shinki Sekai Evolution - Hateshinai Dungeon (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Shougi no Tatsujin Color (Japan).zip</path>
+    <name>Shougi no Tatsujin Color (Japan)</name>
+    <image>./media/images/Shougi no Tatsujin Color (Japan).png</image>
+    <video>./media/videos/Shougi no Tatsujin Color (Japan).mp4</video>
+    <marquee>./media/wheel/Shougi no Tatsujin Color (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./SNK Gals' Fighters (Japan).zip</path>
+    <name>SNK Gals' Fighters (Japan)</name>
+    <image>./media/images/SNK Gals' Fighters (Japan).png</image>
+    <video>./media/videos/SNK Gals' Fighters (Japan).mp4</video>
+    <marquee>./media/wheel/SNK Gals' Fighters (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./SNK Gals' Fighters (USA, Europe).zip</path>
+    <name>SNK Gals' Fighters (USA, Europe)</name>
+    <image>./media/images/SNK Gals' Fighters (USA, Europe).png</image>
+    <video>./media/videos/SNK Gals' Fighters (USA, Europe).mp4</video>
+    <marquee>./media/wheel/SNK Gals' Fighters (USA, Europe).png</marquee>
+  </game>
+  <game>
+    <path>./SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan).zip</path>
+    <name>SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)</name>
+    <image>./media/images/SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan).png</image>
+    <video>./media/videos/SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan).mp4</video>
+    <marquee>./media/wheel/SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).zip</path>
+    <name>SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)</name>
+    <image>./media/images/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).png</image>
+    <video>./media/videos/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).mp4</video>
+    <marquee>./media/wheel/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).png</marquee>
+  </game>
+  <game>
+    <path>./SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).zip</path>
+    <name>SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)</name>
+    <image>./media/images/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).png</image>
+    <video>./media/videos/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).mp4</video>
+    <marquee>./media/wheel/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).png</marquee>
+  </game>
+  <game>
+    <path>./SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo).zip</path>
+    <name>SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo)</name>
+    <image>./media/images/SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo).png</image>
+    <video>./media/videos/SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo).mp4</video>
+    <marquee>./media/wheel/SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo).png</marquee>
+  </game>
+  <game>
+    <path>./SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan).zip</path>
+    <name>SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)</name>
+    <image>./media/images/SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan).png</image>
+    <video>./media/videos/SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan).mp4</video>
+    <marquee>./media/wheel/SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan).zip</path>
+    <name>SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan)</name>
+    <image>./media/images/SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan).png</image>
+    <video>./media/videos/SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan).mp4</video>
+    <marquee>./media/wheel/SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Beta).zip</path>
+    <name>SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Beta)</name>
+    <image>./media/images/SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Beta).png</image>
+    <video>./media/videos/SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Beta).mp4</video>
+    <marquee>./media/wheel/SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Beta).png</marquee>
+  </game>
+  <game>
+    <path>./SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).zip</path>
+    <name>SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)</name>
+    <image>./media/images/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).png</image>
+    <video>./media/videos/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).mp4</video>
+    <marquee>./media/wheel/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).png</marquee>
+  </game>
+  <game>
+    <path>./SNK vs. Capcom - The Match of the Millennium (Japan) (Demo).zip</path>
+    <name>SNK vs. Capcom - The Match of the Millennium (Japan) (Demo)</name>
+    <image>./media/images/SNK vs. Capcom - The Match of the Millennium (Japan) (Demo).png</image>
+    <video>./media/videos/SNK vs. Capcom - The Match of the Millennium (Japan) (Demo).mp4</video>
+    <marquee>./media/wheel/SNK vs. Capcom - The Match of the Millennium (Japan) (Demo).png</marquee>
+  </game>
+  <game>
+    <path>./Sonic The Hedgehog - Pocket Adventure (World).zip</path>
+    <name>Sonic The Hedgehog - Pocket Adventure (World)</name>
+    <image>./media/images/Sonic The Hedgehog - Pocket Adventure (World).png</image>
+    <video>./media/videos/Sonic The Hedgehog - Pocket Adventure (World).mp4</video>
+    <marquee>./media/wheel/Sonic The Hedgehog - Pocket Adventure (World).png</marquee>
+  </game>
+  <game>
+    <path>./Sonic The Hedgehog - Pocket Adventure (World) (Demo).zip</path>
+    <name>Sonic The Hedgehog - Pocket Adventure (World) (Demo)</name>
+    <image>./media/images/Sonic The Hedgehog - Pocket Adventure (World) (Demo).png</image>
+    <video>./media/videos/Sonic The Hedgehog - Pocket Adventure (World) (Demo).mp4</video>
+    <marquee>./media/wheel/Sonic The Hedgehog - Pocket Adventure (World) (Demo).png</marquee>
+  </game>
+  <game>
+    <path>./Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22).zip</path>
+    <name>Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22)</name>
+    <image>./media/images/Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22).png</image>
+    <video>./media/videos/Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22).mp4</video>
+    <marquee>./media/wheel/Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22).png</marquee>
+  </game>
+  <game>
+    <path>./Soreike!! Hanafuda Doujou (Japan).zip</path>
+    <name>Soreike!! Hanafuda Doujou (Japan)</name>
+    <image>./media/images/Soreike!! Hanafuda Doujou (Japan).png</image>
+    <video>./media/videos/Soreike!! Hanafuda Doujou (Japan).mp4</video>
+    <marquee>./media/wheel/Soreike!! Hanafuda Doujou (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Super Real Mahjong - Premium Collection (Japan).zip</path>
+    <name>Super Real Mahjong - Premium Collection (Japan)</name>
+    <image>./media/images/Super Real Mahjong - Premium Collection (Japan).png</image>
+    <video>./media/videos/Super Real Mahjong - Premium Collection (Japan).mp4</video>
+    <marquee>./media/wheel/Super Real Mahjong - Premium Collection (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Tsunagete Pon! 2 (Japan).zip</path>
+    <name>Tsunagete Pon! 2 (Japan)</name>
+    <image>./media/images/Tsunagete Pon! 2 (Japan).png</image>
+    <video>./media/videos/Tsunagete Pon! 2 (Japan).mp4</video>
+    <marquee>./media/wheel/Tsunagete Pon! 2 (Japan).png</marquee>
+  </game>
+  <game>
+    <path>./Wrestling Madness (Japan) (En) (Beta).zip</path>
+    <name>Wrestling Madness (Japan) (En) (Beta)</name>
+    <image>./media/images/Wrestling Madness (Japan) (En) (Beta).png</image>
+    <video>./media/videos/Wrestling Madness (Japan) (En) (Beta).mp4</video>
+    <marquee>./media/wheel/Wrestling Madness (Japan) (En) (Beta).png</marquee>
+  </game>
 </gameList>
