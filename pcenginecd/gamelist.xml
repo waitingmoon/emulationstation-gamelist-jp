@@ -2,49 +2,49 @@
 <gameList>
   <game>
     <path>./1552 Tenka Tairan (Japan).chd</path>
-    <name>1552 Tenka Tairan (Japan)</name>
+    <name>1552 天下大乱</name>
     <image>./media/images/1552 Tenka Tairan (Japan).png</image>
     <video>./media/videos/1552 Tenka Tairan (Japan).mp4</video>
     <marquee>./media/wheel/1552 Tenka Tairan (Japan).png</marquee>
   </game>
   <game>
     <path>./3x3 Eyes - Sanjiyan Henjou (Japan).chd</path>
-    <name>3x3 Eyes - Sanjiyan Henjou (Japan)</name>
+    <name>3×3EYES 三只眼變成</name>
     <image>./media/images/3x3 Eyes - Sanjiyan Henjou (Japan).png</image>
     <video>./media/videos/3x3 Eyes - Sanjiyan Henjou (Japan).mp4</video>
     <marquee>./media/wheel/3x3 Eyes - Sanjiyan Henjou (Japan).png</marquee>
   </game>
   <game>
     <path>./3x3 Eyes - Sanjiyan Henjou (Japan) (Rev 1).chd</path>
-    <name>3x3 Eyes - Sanjiyan Henjou (Japan) (Rev 1)</name>
+    <name>3×3EYES 三只眼變成</name>
     <image>./media/images/3x3 Eyes - Sanjiyan Henjou (Japan) (Rev 1).png</image>
     <video>./media/videos/3x3 Eyes - Sanjiyan Henjou (Japan) (Rev 1).mp4</video>
     <marquee>./media/wheel/3x3 Eyes - Sanjiyan Henjou (Japan) (Rev 1).png</marquee>
   </game>
   <game>
     <path>./A.III. - A Ressha de Ikou III (Japan).chd</path>
-    <name>A.III. - A Ressha de Ikou III (Japan)</name>
+    <name>A列車で行こうIII</name>
     <image>./media/images/A.III. - A Ressha de Ikou III (Japan).png</image>
     <video>./media/videos/A.III. - A Ressha de Ikou III (Japan).mp4</video>
     <marquee>./media/wheel/A.III. - A Ressha de Ikou III (Japan).png</marquee>
   </game>
   <game>
     <path>./AV Tanjou (Japan) (Unl).chd</path>
-    <name>AV Tanjou (Japan) (Unl)</name>
+    <name>AV誕生</name>
     <image>./media/images/AV Tanjou (Japan) (Unl).png</image>
     <video>./media/videos/AV Tanjou (Japan) (Unl).mp4</video>
     <marquee>./media/wheel/AV Tanjou (Japan) (Unl).png</marquee>
   </game>
   <game>
     <path>./AV Tanjou (Japan) (Unl) (Alt 1).chd</path>
-    <name>AV Tanjou (Japan) (Unl) (Alt 1)</name>
+    <name>AV誕生</name>
     <image>./media/images/AV Tanjou (Japan) (Unl) (Alt 1).png</image>
     <video>./media/videos/AV Tanjou (Japan) (Unl) (Alt 1).mp4</video>
     <marquee>./media/wheel/AV Tanjou (Japan) (Unl) (Alt 1).png</marquee>
   </game>
   <game>
     <path>./AV Tanjou (Japan) (Unl) (Alt 2).chd</path>
-    <name>AV Tanjou (Japan) (Unl) (Alt 2)</name>
+    <name>AV誕生</name>
     <image>./media/images/AV Tanjou (Japan) (Unl) (Alt 2).png</image>
     <video>./media/videos/AV Tanjou (Japan) (Unl) (Alt 2).mp4</video>
     <marquee>./media/wheel/AV Tanjou (Japan) (Unl) (Alt 2).png</marquee>
@@ -58,140 +58,140 @@
   </game>
   <game>
     <path>./Advanced V.G. (Japan).chd</path>
-    <name>Advanced V.G. (Japan)</name>
+    <name>アドヴァンストV.G.</name>
     <image>./media/images/Advanced V.G. (Japan).png</image>
     <video>./media/videos/Advanced V.G. (Japan).mp4</video>
     <marquee>./media/wheel/Advanced V.G. (Japan).png</marquee>
   </game>
   <game>
     <path>./Adventure Quiz - Capcom World + Hatena no Daibouken (Japan).chd</path>
-    <name>Adventure Quiz - Capcom World + Hatena no Daibouken (Japan)</name>
+    <name>アドベンチャークイズ カプコンワールド ハテナの大冒険</name>
     <image>./media/images/Adventure Quiz - Capcom World + Hatena no Daibouken (Japan).png</image>
     <video>./media/videos/Adventure Quiz - Capcom World + Hatena no Daibouken (Japan).mp4</video>
     <marquee>./media/wheel/Adventure Quiz - Capcom World + Hatena no Daibouken (Japan).png</marquee>
   </game>
   <game>
     <path>./Ai Chou Aniki (Japan) (SADS).chd</path>
-    <name>Ai Chou Aniki (Japan) (SADS)</name>
+    <name>愛・超兄貴</name>
     <image>./media/images/Ai Chou Aniki (Japan) (SADS).png</image>
     <video>./media/videos/Ai Chou Aniki (Japan) (SADS).mp4</video>
     <marquee>./media/wheel/Ai Chou Aniki (Japan) (SADS).png</marquee>
   </game>
   <game>
     <path>./Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT).chd</path>
-    <name>Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT)</name>
+    <name>悪魔城ドラキュラX 血の輪廻</name>
     <image>./media/images/Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT).png</image>
     <video>./media/videos/Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT).mp4</video>
     <marquee>./media/wheel/Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT).png</marquee>
   </game>
   <game>
     <path>./Alnam no Kiba - Juuzoku Juuni Shinto Densetsu (Japan) (FAAT).chd</path>
-    <name>Alnam no Kiba - Juuzoku Juuni Shinto Densetsu (Japan) (FAAT)</name>
+    <name>アルナムの牙 獣族十二神徒伝説</name>
     <image>./media/images/Alnam no Kiba - Juuzoku Juuni Shinto Densetsu (Japan) (FAAT).png</image>
     <video>./media/videos/Alnam no Kiba - Juuzoku Juuni Shinto Densetsu (Japan) (FAAT).mp4</video>
     <marquee>./media/wheel/Alnam no Kiba - Juuzoku Juuni Shinto Densetsu (Japan) (FAAT).png</marquee>
   </game>
   <game>
     <path>./Alnam no Kiba - Juuzoku Juuni Shinto Densetsu (Japan) (FABT).chd</path>
-    <name>Alnam no Kiba - Juuzoku Juuni Shinto Densetsu (Japan) (FABT)</name>
+    <name>アルナムの牙 獣族十二神徒伝説</name>
     <image>./media/images/Alnam no Kiba - Juuzoku Juuni Shinto Densetsu (Japan) (FABT).png</image>
     <video>./media/videos/Alnam no Kiba - Juuzoku Juuni Shinto Densetsu (Japan) (FABT).mp4</video>
     <marquee>./media/wheel/Alnam no Kiba - Juuzoku Juuni Shinto Densetsu (Japan) (FABT).png</marquee>
   </game>
   <game>
     <path>./Alshark (Japan).chd</path>
-    <name>Alshark (Japan)</name>
+    <name>アルシャーク</name>
     <image>./media/images/Alshark (Japan).png</image>
     <video>./media/videos/Alshark (Japan).mp4</video>
     <marquee>./media/wheel/Alshark (Japan).png</marquee>
   </game>
   <game>
     <path>./Ane-san (Japan).chd</path>
-    <name>Ane-san (Japan)</name>
+    <name>姐</name>
     <image>./media/images/Ane-san (Japan).png</image>
     <video>./media/videos/Ane-san (Japan).mp4</video>
     <marquee>./media/wheel/Ane-san (Japan).png</marquee>
   </game>
   <game>
     <path>./Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan).chd</path>
-    <name>Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)</name>
+    <name>蒼き狼と白き牝鹿 元朝秘史</name>
     <image>./media/images/Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan).png</image>
     <video>./media/videos/Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan).mp4</video>
     <marquee>./media/wheel/Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan).png</marquee>
   </game>
   <game>
     <path>./Asuka 120% Maxima - Burning Fest. Maxima (Japan).chd</path>
-    <name>Asuka 120% Maxima - Burning Fest. Maxima (Japan)</name>
+    <name>あすか120%マキシマ BURNING Fest.</name>
     <image>./media/images/Asuka 120% Maxima - Burning Fest. Maxima (Japan).png</image>
     <video>./media/videos/Asuka 120% Maxima - Burning Fest. Maxima (Japan).mp4</video>
     <marquee>./media/wheel/Asuka 120% Maxima - Burning Fest. Maxima (Japan).png</marquee>
   </game>
   <game>
     <path>./Atlas, The - Renaissance Voyager (Japan).chd</path>
-    <name>Atlas, The - Renaissance Voyager (Japan)</name>
+    <name>THE ATLAS</name>
     <image>./media/images/Atlas, The - Renaissance Voyager (Japan).png</image>
     <video>./media/videos/Atlas, The - Renaissance Voyager (Japan).mp4</video>
     <marquee>./media/wheel/Atlas, The - Renaissance Voyager (Japan).png</marquee>
   </game>
   <game>
     <path>./Aurora Quest - Otaku no Seiza in Another World (Japan).chd</path>
-    <name>Aurora Quest - Otaku no Seiza in Another World (Japan)</name>
+    <name>オーロラクエスト おたくの星座 In Another World</name>
     <image>./media/images/Aurora Quest - Otaku no Seiza in Another World (Japan).png</image>
     <video>./media/videos/Aurora Quest - Otaku no Seiza in Another World (Japan).mp4</video>
     <marquee>./media/wheel/Aurora Quest - Otaku no Seiza in Another World (Japan).png</marquee>
   </game>
   <game>
     <path>./Avenger (Japan).chd</path>
-    <name>Avenger (Japan)</name>
+    <name>アヴェンジャー</name>
     <image>./media/images/Avenger (Japan).png</image>
     <video>./media/videos/Avenger (Japan).mp4</video>
     <marquee>./media/wheel/Avenger (Japan).png</marquee>
   </game>
   <game>
     <path>./Babel (Japan).chd</path>
-    <name>Babel (Japan)</name>
+    <name>BABEL</name>
     <image>./media/images/Babel (Japan).png</image>
     <video>./media/videos/Babel (Japan).mp4</video>
     <marquee>./media/wheel/Babel (Japan).png</marquee>
   </game>
   <game>
     <path>./Baby Jo - The Super Hero (Japan).chd</path>
-    <name>Baby Jo - The Super Hero (Japan)</name>
+    <name>ベイビー・ジョー ザ・スーパーヒーロー</name>
     <image>./media/images/Baby Jo - The Super Hero (Japan).png</image>
     <video>./media/videos/Baby Jo - The Super Hero (Japan).mp4</video>
     <marquee>./media/wheel/Baby Jo - The Super Hero (Japan).png</marquee>
   </game>
   <game>
     <path>./Bakuden - Unbalance Zone (Japan).chd</path>
-    <name>Bakuden - Unbalance Zone (Japan)</name>
+    <name>爆伝 アンバランスゾーン</name>
     <image>./media/images/Bakuden - Unbalance Zone (Japan).png</image>
     <video>./media/videos/Bakuden - Unbalance Zone (Japan).mp4</video>
     <marquee>./media/wheel/Bakuden - Unbalance Zone (Japan).png</marquee>
   </game>
   <game>
     <path>./Bakushou Yoshimoto Shinkigeki (Japan) (FABT).chd</path>
-    <name>Bakushou Yoshimoto Shinkigeki (Japan) (FABT)</name>
+    <name>爆笑吉本新喜劇 今日はこれぐらいにしといたる!</name>
     <image>./media/images/Bakushou Yoshimoto Shinkigeki (Japan) (FABT).png</image>
     <video>./media/videos/Bakushou Yoshimoto Shinkigeki (Japan) (FABT).mp4</video>
     <marquee>./media/wheel/Bakushou Yoshimoto Shinkigeki (Japan) (FABT).png</marquee>
   </game>
   <game>
     <path>./Basted (Japan).chd</path>
-    <name>Basted (Japan)</name>
+    <name>バステッド</name>
     <image>./media/images/Basted (Japan).png</image>
     <video>./media/videos/Basted (Japan).mp4</video>
     <marquee>./media/wheel/Basted (Japan).png</marquee>
   </game>
   <game>
     <path>./Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan).chd</path>
-    <name>Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan)</name>
+    <name>上海III ドラゴンズアイ</name>
     <image>./media/images/Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan).png</image>
     <video>./media/videos/Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan).mp4</video>
     <marquee>./media/wheel/Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan).png</marquee>
   </game>
   <game>
     <path>./Bazar de Gozarre no Game de Gozarre (Japan).chd</path>
-    <name>Bazar de Gozarre no Game de Gozarre (Japan)</name>
+    <name>バザールでござーるのゲームでござーる</name>
     <image>./media/images/Bazar de Gozarre no Game de Gozarre (Japan).png</image>
     <video>./media/videos/Bazar de Gozarre no Game de Gozarre (Japan).mp4</video>
     <marquee>./media/wheel/Bazar de Gozarre no Game de Gozarre (Japan).png</marquee>
@@ -205,49 +205,49 @@
   </game>
   <game>
     <path>./Bikkuriman Daijikai (Japan).chd</path>
-    <name>Bikkuriman Daijikai (Japan)</name>
+    <name>ビックリマン大事界</name>
     <image>./media/images/Bikkuriman Daijikai (Japan).png</image>
     <video>./media/videos/Bikkuriman Daijikai (Japan).mp4</video>
     <marquee>./media/wheel/Bikkuriman Daijikai (Japan).png</marquee>
   </game>
   <game>
     <path>./Bishoujo Janshi Idol Pai (Japan) (Unl).chd</path>
-    <name>Bishoujo Janshi Idol Pai (Japan) (Unl)</name>
+    <name>美少女雀士アイドルパイ</name>
     <image>./media/images/Bishoujo Janshi Idol Pai (Japan) (Unl).png</image>
     <video>./media/videos/Bishoujo Janshi Idol Pai (Japan) (Unl).mp4</video>
     <marquee>./media/wheel/Bishoujo Janshi Idol Pai (Japan) (Unl).png</marquee>
   </game>
   <game>
     <path>./Bishoujo Senshi Sailor Moon (Japan).chd</path>
-    <name>Bishoujo Senshi Sailor Moon (Japan)</name>
+    <name>美少女戦士セーラームーン</name>
     <image>./media/images/Bishoujo Senshi Sailor Moon (Japan).png</image>
     <video>./media/videos/Bishoujo Senshi Sailor Moon (Japan).mp4</video>
     <marquee>./media/wheel/Bishoujo Senshi Sailor Moon (Japan).png</marquee>
   </game>
   <game>
     <path>./Bishoujo Senshi Sailor Moon Collection (Japan).chd</path>
-    <name>Bishoujo Senshi Sailor Moon Collection (Japan)</name>
+    <name>美少女戦士セーラームーン Collection</name>
     <image>./media/images/Bishoujo Senshi Sailor Moon Collection (Japan).png</image>
     <video>./media/videos/Bishoujo Senshi Sailor Moon Collection (Japan).mp4</video>
     <marquee>./media/wheel/Bishoujo Senshi Sailor Moon Collection (Japan).png</marquee>
   </game>
   <game>
     <path>./Bishoujo Senshi Sailor Moon Collection (Japan) (Demo).chd</path>
-    <name>Bishoujo Senshi Sailor Moon Collection (Japan) (Demo)</name>
+    <name>美少女戦士セーラームーン Collection</name>
     <image>./media/images/Bishoujo Senshi Sailor Moon Collection (Japan) (Demo).png</image>
     <video>./media/videos/Bishoujo Senshi Sailor Moon Collection (Japan) (Demo).mp4</video>
     <marquee>./media/wheel/Bishoujo Senshi Sailor Moon Collection (Japan) (Demo).png</marquee>
   </game>
   <game>
     <path>./Black Hole Assault (Japan).chd</path>
-    <name>Black Hole Assault (Japan)</name>
+    <name>ブラックホールアサルト</name>
     <image>./media/images/Black Hole Assault (Japan).png</image>
     <video>./media/videos/Black Hole Assault (Japan).mp4</video>
     <marquee>./media/wheel/Black Hole Assault (Japan).png</marquee>
   </game>
   <game>
     <path>./Blood Gear (Japan).chd</path>
-    <name>Blood Gear (Japan)</name>
+    <name>ブラッド・ギア</name>
     <image>./media/images/Blood Gear (Japan).png</image>
     <video>./media/videos/Blood Gear (Japan).mp4</video>
     <marquee>./media/wheel/Blood Gear (Japan).png</marquee>
@@ -261,21 +261,21 @@
   </game>
   <game>
     <path>./Bomberman - Panic Bomber (Japan) (FAAT).chd</path>
-    <name>Bomberman - Panic Bomber (Japan) (FAAT)</name>
+    <name>ボンバーマン ぱにっくボンバー</name>
     <image>./media/images/Bomberman - Panic Bomber (Japan) (FAAT).png</image>
     <video>./media/videos/Bomberman - Panic Bomber (Japan) (FAAT).mp4</video>
     <marquee>./media/wheel/Bomberman - Panic Bomber (Japan) (FAAT).png</marquee>
   </game>
   <game>
     <path>./Bomberman - Panic Bomber (Japan) (FABT).chd</path>
-    <name>Bomberman - Panic Bomber (Japan) (FABT)</name>
+    <name>ボンバーマン ぱにっくボンバー</name>
     <image>./media/images/Bomberman - Panic Bomber (Japan) (FABT).png</image>
     <video>./media/videos/Bomberman - Panic Bomber (Japan) (FABT).mp4</video>
     <marquee>./media/wheel/Bomberman - Panic Bomber (Japan) (FABT).png</marquee>
   </game>
   <game>
     <path>./Bonanza Bros. (Japan).chd</path>
-    <name>Bonanza Bros. (Japan)</name>
+    <name>ボナンザブラザーズ</name>
     <image>./media/images/Bonanza Bros. (Japan).png</image>
     <video>./media/videos/Bonanza Bros. (Japan).mp4</video>
     <marquee>./media/wheel/Bonanza Bros. (Japan).png</marquee>
@@ -289,35 +289,35 @@
   </game>
   <game>
     <path>./Brandish (Japan).chd</path>
-    <name>Brandish (Japan)</name>
+    <name>ブランディッシュ</name>
     <image>./media/images/Brandish (Japan).png</image>
     <video>./media/videos/Brandish (Japan).mp4</video>
     <marquee>./media/wheel/Brandish (Japan).png</marquee>
   </game>
   <game>
     <path>./Browning (Japan).chd</path>
-    <name>Browning (Japan)</name>
+    <name>ブロウニング</name>
     <image>./media/images/Browning (Japan).png</image>
     <video>./media/videos/Browning (Japan).mp4</video>
     <marquee>./media/wheel/Browning (Japan).png</marquee>
   </game>
   <game>
     <path>./BuilderLand - The Story of Melba (Japan).chd</path>
-    <name>BuilderLand - The Story of Melba (Japan)</name>
+    <name>ビルダーランド</name>
     <image>./media/images/BuilderLand - The Story of Melba (Japan).png</image>
     <video>./media/videos/BuilderLand - The Story of Melba (Japan).mp4</video>
     <marquee>./media/wheel/BuilderLand - The Story of Melba (Japan).png</marquee>
   </game>
   <game>
     <path>./Burai - Yatsudama no Yuushi Densetsu (Japan).chd</path>
-    <name>Burai - Yatsudama no Yuushi Densetsu (Japan)</name>
+    <name>ブライ 八玉の勇士伝説</name>
     <image>./media/images/Burai - Yatsudama no Yuushi Densetsu (Japan).png</image>
     <video>./media/videos/Burai - Yatsudama no Yuushi Densetsu (Japan).mp4</video>
     <marquee>./media/wheel/Burai - Yatsudama no Yuushi Densetsu (Japan).png</marquee>
   </game>
   <game>
     <path>./Burai II - Yami Koutei no Gyakushuu (Japan).chd</path>
-    <name>Burai II - Yami Koutei no Gyakushuu (Japan)</name>
+    <name>ブライII 闇皇帝の逆襲</name>
     <image>./media/images/Burai II - Yami Koutei no Gyakushuu (Japan).png</image>
     <video>./media/videos/Burai II - Yami Koutei no Gyakushuu (Japan).mp4</video>
     <marquee>./media/wheel/Burai II - Yami Koutei no Gyakushuu (Japan).png</marquee>
@@ -331,63 +331,63 @@
   </game>
   <game>
     <path>./CAL II (Japan).chd</path>
-    <name>CAL II (Japan)</name>
+    <name>CAL II</name>
     <image>./media/images/CAL II (Japan).png</image>
     <video>./media/videos/CAL II (Japan).mp4</video>
     <marquee>./media/wheel/CAL II (Japan).png</marquee>
   </game>
   <game>
     <path>./CAL II (Japan) (Alt).chd</path>
-    <name>CAL II (Japan) (Alt)</name>
+    <name>CAL II</name>
     <image>./media/images/CAL II (Japan) (Alt).png</image>
     <video>./media/videos/CAL II (Japan) (Alt).mp4</video>
     <marquee>./media/wheel/CAL II (Japan) (Alt).png</marquee>
   </game>
   <game>
     <path>./CAL III - Kanketsu-hen (Japan).chd</path>
-    <name>CAL III - Kanketsu-hen (Japan)</name>
+    <name>CAL III 完結編</name>
     <image>./media/images/CAL III - Kanketsu-hen (Japan).png</image>
     <video>./media/videos/CAL III - Kanketsu-hen (Japan).mp4</video>
     <marquee>./media/wheel/CAL III - Kanketsu-hen (Japan).png</marquee>
   </game>
   <game>
     <path>./CD Battle - Hikari no Yuusha-tachi (Japan).chd</path>
-    <name>CD Battle - Hikari no Yuusha-tachi (Japan)</name>
+    <name>CDバトル 光の勇者たち</name>
     <image>./media/images/CD Battle - Hikari no Yuusha-tachi (Japan).png</image>
     <video>./media/videos/CD Battle - Hikari no Yuusha-tachi (Japan).mp4</video>
     <marquee>./media/wheel/CD Battle - Hikari no Yuusha-tachi (Japan).png</marquee>
   </game>
   <game>
     <path>./CD Bishoujo Pachinko - Kyuuma Yon Shimai (Japan) (Unl).chd</path>
-    <name>CD Bishoujo Pachinko - Kyuuma Yon Shimai (Japan) (Unl)</name>
+    <name>CD美少女パチンコ 球魔四姉妹</name>
     <image>./media/images/CD Bishoujo Pachinko - Kyuuma Yon Shimai (Japan) (Unl).png</image>
     <video>./media/videos/CD Bishoujo Pachinko - Kyuuma Yon Shimai (Japan) (Unl).mp4</video>
     <marquee>./media/wheel/CD Bishoujo Pachinko - Kyuuma Yon Shimai (Japan) (Unl).png</marquee>
   </game>
   <game>
     <path>./CD Denjin - Rockabilly Tengoku (Japan).chd</path>
-    <name>CD Denjin - Rockabilly Tengoku (Japan)</name>
+    <name>CD電人 ロカビリー天国</name>
     <image>./media/images/CD Denjin - Rockabilly Tengoku (Japan).png</image>
     <video>./media/videos/CD Denjin - Rockabilly Tengoku (Japan).mp4</video>
     <marquee>./media/wheel/CD Denjin - Rockabilly Tengoku (Japan).png</marquee>
   </game>
   <game>
     <path>./CD Hanafuda - Bishoujo Fan Club (Japan) (Unl).chd</path>
-    <name>CD Hanafuda - Bishoujo Fan Club (Japan) (Unl)</name>
+    <name>CD花札 美少女ファンクラブ</name>
     <image>./media/images/CD Hanafuda - Bishoujo Fan Club (Japan) (Unl).png</image>
     <video>./media/videos/CD Hanafuda - Bishoujo Fan Club (Japan) (Unl).mp4</video>
     <marquee>./media/wheel/CD Hanafuda - Bishoujo Fan Club (Japan) (Unl).png</marquee>
   </game>
   <game>
     <path>./CD Mahjong - Bishoujo Chuushinha (Japan) (Unl).chd</path>
-    <name>CD Mahjong - Bishoujo Chuushinha (Japan) (Unl)</name>
+    <name>CD麻雀 美少女中心派</name>
     <image>./media/images/CD Mahjong - Bishoujo Chuushinha (Japan) (Unl).png</image>
     <video>./media/videos/CD Mahjong - Bishoujo Chuushinha (Japan) (Unl).mp4</video>
     <marquee>./media/wheel/CD Mahjong - Bishoujo Chuushinha (Japan) (Unl).png</marquee>
   </game>
   <game>
     <path>./CD Pachi-Slot - Bishoujo Gambler (Japan) (Unl).chd</path>
-    <name>CD Pachi-Slot - Bishoujo Gambler (Japan) (Unl)</name>
+    <name>CDパチスロ美少女ギャンブラー</name>
     <image>./media/images/CD Pachi-Slot - Bishoujo Gambler (Japan) (Unl).png</image>
     <video>./media/videos/CD Pachi-Slot - Bishoujo Gambler (Japan) (Unl).mp4</video>
     <marquee>./media/wheel/CD Pachi-Slot - Bishoujo Gambler (Japan) (Unl).png</marquee>
@@ -401,77 +401,77 @@
   </game>
   <game>
     <path>./Campaign Version - Daisenryaku II (Japan).chd</path>
-    <name>Campaign Version - Daisenryaku II (Japan)</name>
+    <name>キャンペーン版 大戦略II</name>
     <image>./media/images/Campaign Version - Daisenryaku II (Japan).png</image>
     <video>./media/videos/Campaign Version - Daisenryaku II (Japan).mp4</video>
     <marquee>./media/wheel/Campaign Version - Daisenryaku II (Japan).png</marquee>
   </game>
   <game>
     <path>./Cardangels (Japan).chd</path>
-    <name>Cardangels (Japan)</name>
+    <name>カードエンジェルス</name>
     <image>./media/images/Cardangels (Japan).png</image>
     <video>./media/videos/Cardangels (Japan).mp4</video>
     <marquee>./media/wheel/Cardangels (Japan).png</marquee>
   </game>
   <game>
     <path>./Chiki Chiki Boys (Japan).chd</path>
-    <name>Chiki Chiki Boys (Japan)</name>
+    <name>チキチキボーイズ</name>
     <image>./media/images/Chiki Chiki Boys (Japan).png</image>
     <video>./media/videos/Chiki Chiki Boys (Japan).mp4</video>
     <marquee>./media/wheel/Chiki Chiki Boys (Japan).png</marquee>
   </game>
   <game>
     <path>./Chou Aniki (Japan) (FAAT, FACT).chd</path>
-    <name>Chou Aniki (Japan) (FAAT, FACT)</name>
+    <name>超兄貴</name>
     <image>./media/images/Chou Aniki (Japan) (FAAT, FACT).png</image>
     <video>./media/videos/Chou Aniki (Japan) (FAAT, FACT).mp4</video>
     <marquee>./media/wheel/Chou Aniki (Japan) (FAAT, FACT).png</marquee>
   </game>
   <game>
     <path>./Chou Eiyuu Densetsu - Dynastic Hero (Japan).chd</path>
-    <name>Chou Eiyuu Densetsu - Dynastic Hero (Japan)</name>
+    <name>超英雄伝説ダイナスティックヒーロー</name>
     <image>./media/images/Chou Eiyuu Densetsu - Dynastic Hero (Japan).png</image>
     <video>./media/videos/Chou Eiyuu Densetsu - Dynastic Hero (Japan).mp4</video>
     <marquee>./media/wheel/Chou Eiyuu Densetsu - Dynastic Hero (Japan).png</marquee>
   </game>
   <game>
     <path>./Chou Jikuu Yousai Macross - Eien no Love Song (Japan).chd</path>
-    <name>Chou Jikuu Yousai Macross - Eien no Love Song (Japan)</name>
+    <name>超時空要塞マクロス 永遠のラヴソング</name>
     <image>./media/images/Chou Jikuu Yousai Macross - Eien no Love Song (Japan).png</image>
     <video>./media/videos/Chou Jikuu Yousai Macross - Eien no Love Song (Japan).mp4</video>
     <marquee>./media/wheel/Chou Jikuu Yousai Macross - Eien no Love Song (Japan).png</marquee>
   </game>
   <game>
     <path>./Chou Jikuu Yousai Macross 2036 (Japan).chd</path>
-    <name>Chou Jikuu Yousai Macross 2036 (Japan)</name>
+    <name>超時空要塞マクロス2036</name>
     <image>./media/images/Chou Jikuu Yousai Macross 2036 (Japan).png</image>
     <video>./media/videos/Chou Jikuu Yousai Macross 2036 (Japan).mp4</video>
     <marquee>./media/wheel/Chou Jikuu Yousai Macross 2036 (Japan).png</marquee>
   </game>
   <game>
     <path>./Color Wars (Japan).chd</path>
-    <name>Color Wars (Japan)</name>
+    <name>カラーウォーズ</name>
     <image>./media/images/Color Wars (Japan).png</image>
     <video>./media/videos/Color Wars (Japan).mp4</video>
     <marquee>./media/wheel/Color Wars (Japan).png</marquee>
   </game>
   <game>
     <path>./Cosmic Fantasy - Bouken Shounen Yuu (Japan).chd</path>
-    <name>Cosmic Fantasy - Bouken Shounen Yuu (Japan)</name>
+    <name>コズミックファンタジー 冒険少年ユウ</name>
     <image>./media/images/Cosmic Fantasy - Bouken Shounen Yuu (Japan).png</image>
     <video>./media/videos/Cosmic Fantasy - Bouken Shounen Yuu (Japan).mp4</video>
     <marquee>./media/wheel/Cosmic Fantasy - Bouken Shounen Yuu (Japan).png</marquee>
   </game>
   <game>
     <path>./Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 1).chd</path>
-    <name>Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 1)</name>
+    <name>コズミックファンタジー 冒険少年ユウ</name>
     <image>./media/images/Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 1).png</image>
     <video>./media/videos/Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 1).mp4</video>
     <marquee>./media/wheel/Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 1).png</marquee>
   </game>
   <game>
     <path>./Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 2).chd</path>
-    <name>Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 2)</name>
+    <name>コズミックファンタジー 冒険少年ユウ</name>
     <image>./media/images/Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 2).png</image>
     <video>./media/videos/Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 2).mp4</video>
     <marquee>./media/wheel/Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 2).png</marquee>
@@ -485,28 +485,28 @@
   </game>
   <game>
     <path>./Cosmic Fantasy 2 - Bouken Shounen Ban (Japan).chd</path>
-    <name>Cosmic Fantasy 2 - Bouken Shounen Ban (Japan)</name>
+    <name>コズミックファンタジー2 冒険少年バン</name>
     <image>./media/images/Cosmic Fantasy 2 - Bouken Shounen Ban (Japan).png</image>
     <video>./media/videos/Cosmic Fantasy 2 - Bouken Shounen Ban (Japan).mp4</video>
     <marquee>./media/wheel/Cosmic Fantasy 2 - Bouken Shounen Ban (Japan).png</marquee>
   </game>
   <game>
     <path>./Cosmic Fantasy 3 - Bouken Shounen Rei (Japan).chd</path>
-    <name>Cosmic Fantasy 3 - Bouken Shounen Rei (Japan)</name>
+    <name>コズミックファンタジー3 冒険少年レイ</name>
     <image>./media/images/Cosmic Fantasy 3 - Bouken Shounen Rei (Japan).png</image>
     <video>./media/videos/Cosmic Fantasy 3 - Bouken Shounen Rei (Japan).mp4</video>
     <marquee>./media/wheel/Cosmic Fantasy 3 - Bouken Shounen Rei (Japan).png</marquee>
   </game>
   <game>
     <path>./Cosmic Fantasy 4 - Ginga Shounen Densetsu - Gekitou-hen (Japan).chd</path>
-    <name>Cosmic Fantasy 4 - Ginga Shounen Densetsu - Gekitou-hen (Japan)</name>
+    <name>コズミックファンタジー4 銀河少年伝説 激突編</name>
     <image>./media/images/Cosmic Fantasy 4 - Ginga Shounen Densetsu - Gekitou-hen (Japan).png</image>
     <video>./media/videos/Cosmic Fantasy 4 - Ginga Shounen Densetsu - Gekitou-hen (Japan).mp4</video>
     <marquee>./media/wheel/Cosmic Fantasy 4 - Ginga Shounen Densetsu - Gekitou-hen (Japan).png</marquee>
   </game>
   <game>
     <path>./Cosmic Fantasy 4 - Ginga Shounen Densetsu - Totsunyuu-hen (Japan).chd</path>
-    <name>Cosmic Fantasy 4 - Ginga Shounen Densetsu - Totsunyuu-hen (Japan)</name>
+    <name>コズミックファンタジー4 銀河少年伝説 突入編</name>
     <image>./media/images/Cosmic Fantasy 4 - Ginga Shounen Densetsu - Totsunyuu-hen (Japan).png</image>
     <video>./media/videos/Cosmic Fantasy 4 - Ginga Shounen Densetsu - Totsunyuu-hen (Japan).mp4</video>
     <marquee>./media/wheel/Cosmic Fantasy 4 - Ginga Shounen Densetsu - Totsunyuu-hen (Japan).png</marquee>
@@ -520,7 +520,7 @@
   </game>
   <game>
     <path>./Daisenpuu Custom (Japan).chd</path>
-    <name>Daisenpuu Custom (Japan)</name>
+    <name>大旋風カスタム</name>
     <image>./media/images/Daisenpuu Custom (Japan).png</image>
     <video>./media/videos/Daisenpuu Custom (Japan).mp4</video>
     <marquee>./media/wheel/Daisenpuu Custom (Japan).png</marquee>
@@ -534,14 +534,14 @@
   </game>
   <game>
     <path>./De-Ja (Japan).chd</path>
-    <name>De-Ja (Japan)</name>
+    <name>DE・JA</name>
     <image>./media/images/De-Ja (Japan).png</image>
     <video>./media/videos/De-Ja (Japan).mp4</video>
     <marquee>./media/wheel/De-Ja (Japan).png</marquee>
   </game>
   <game>
     <path>./Dead of the Brain 1&amp;2 (Japan).chd</path>
-    <name>Dead of the Brain 1&amp;2 (Japan)</name>
+    <name>デッド・オブ・ザ・ブレイン1&amp;2</name>
     <image>./media/images/Dead of the Brain 1&amp;2 (Japan).png</image>
     <video>./media/videos/Dead of the Brain 1&amp;2 (Japan).mp4</video>
     <marquee>./media/wheel/Dead of the Brain 1&amp;2 (Japan).png</marquee>
@@ -555,7 +555,7 @@
   </game>
   <game>
     <path>./Dekoboko Densetsu - Hashiru Wagamanmaa (Japan).chd</path>
-    <name>Dekoboko Densetsu - Hashiru Wagamanmaa (Japan)</name>
+    <name>デコボコ伝説 走るワガマンマー</name>
     <image>./media/images/Dekoboko Densetsu - Hashiru Wagamanmaa (Japan).png</image>
     <video>./media/videos/Dekoboko Densetsu - Hashiru Wagamanmaa (Japan).mp4</video>
     <marquee>./media/wheel/Dekoboko Densetsu - Hashiru Wagamanmaa (Japan).png</marquee>
@@ -604,49 +604,49 @@
   </game>
   <game>
     <path>./Doukyuusei (Japan) (Rev 3).chd</path>
-    <name>Doukyuusei (Japan) (Rev 3)</name>
+    <name>同級生</name>
     <image>./media/images/Doukyuusei (Japan) (Rev 3).png</image>
     <video>./media/videos/Doukyuusei (Japan) (Rev 3).mp4</video>
     <marquee>./media/wheel/Doukyuusei (Japan) (Rev 3).png</marquee>
   </game>
   <game>
     <path>./Doukyuusei (Japan) (Rev 3) (Alt 1).chd</path>
-    <name>Doukyuusei (Japan) (Rev 3) (Alt 1)</name>
+    <name>同級生</name>
     <image>./media/images/Doukyuusei (Japan) (Rev 3) (Alt 1).png</image>
     <video>./media/videos/Doukyuusei (Japan) (Rev 3) (Alt 1).mp4</video>
     <marquee>./media/wheel/Doukyuusei (Japan) (Rev 3) (Alt 1).png</marquee>
   </game>
   <game>
     <path>./Doukyuusei (Japan) (Rev 3) (Alt 2).chd</path>
-    <name>Doukyuusei (Japan) (Rev 3) (Alt 2)</name>
+    <name>同級生</name>
     <image>./media/images/Doukyuusei (Japan) (Rev 3) (Alt 2).png</image>
     <video>./media/videos/Doukyuusei (Japan) (Rev 3) (Alt 2).mp4</video>
     <marquee>./media/wheel/Doukyuusei (Japan) (Rev 3) (Alt 2).png</marquee>
   </game>
   <game>
     <path>./Doukyuusei (Japan) (Rev 4).chd</path>
-    <name>Doukyuusei (Japan) (Rev 4)</name>
+    <name>同級生</name>
     <image>./media/images/Doukyuusei (Japan) (Rev 4).png</image>
     <video>./media/videos/Doukyuusei (Japan) (Rev 4).mp4</video>
     <marquee>./media/wheel/Doukyuusei (Japan) (Rev 4).png</marquee>
   </game>
   <game>
     <path>./Down Load 2 (Japan).chd</path>
-    <name>Down Load 2 (Japan)</name>
+    <name>ダウンロード2</name>
     <image>./media/images/Down Load 2 (Japan).png</image>
     <video>./media/videos/Down Load 2 (Japan).mp4</video>
     <marquee>./media/wheel/Down Load 2 (Japan).png</marquee>
   </game>
   <game>
     <path>./Downtown Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan).chd</path>
-    <name>Downtown Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan)</name>
+    <name>ダウンタウン熱血行進曲 それゆけ大運動会</name>
     <image>./media/images/Downtown Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan).png</image>
     <video>./media/videos/Downtown Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan).mp4</video>
     <marquee>./media/wheel/Downtown Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan).png</marquee>
   </game>
   <game>
     <path>./Downtown Nekketsu Monogatari (Japan).chd</path>
-    <name>Downtown Nekketsu Monogatari (Japan)</name>
+    <name>ダウンタウン熱血物語</name>
     <image>./media/images/Downtown Nekketsu Monogatari (Japan).png</image>
     <video>./media/videos/Downtown Nekketsu Monogatari (Japan).mp4</video>
     <marquee>./media/wheel/Downtown Nekketsu Monogatari (Japan).png</marquee>
@@ -660,35 +660,35 @@
   </game>
   <game>
     <path>./Dragon Half (Japan).chd</path>
-    <name>Dragon Half (Japan)</name>
+    <name>ドラゴンハーフ</name>
     <image>./media/images/Dragon Half (Japan).png</image>
     <video>./media/videos/Dragon Half (Japan).mp4</video>
     <marquee>./media/wheel/Dragon Half (Japan).png</marquee>
   </game>
   <game>
     <path>./Dragon Knight &amp; Graffiti (Japan).chd</path>
-    <name>Dragon Knight &amp; Graffiti (Japan)</name>
+    <name>ドラゴンナイト&amp;グラフィティ</name>
     <image>./media/images/Dragon Knight &amp; Graffiti (Japan).png</image>
     <video>./media/videos/Dragon Knight &amp; Graffiti (Japan).mp4</video>
     <marquee>./media/wheel/Dragon Knight &amp; Graffiti (Japan).png</marquee>
   </game>
   <game>
     <path>./Dragon Knight II (Japan).chd</path>
-    <name>Dragon Knight II (Japan)</name>
+    <name>ドラゴンナイトII</name>
     <image>./media/images/Dragon Knight II (Japan).png</image>
     <video>./media/videos/Dragon Knight II (Japan).mp4</video>
     <marquee>./media/wheel/Dragon Knight II (Japan).png</marquee>
   </game>
   <game>
     <path>./Dragon Knight III (Japan).chd</path>
-    <name>Dragon Knight III (Japan)</name>
+    <name>ドラゴンナイトIII</name>
     <image>./media/images/Dragon Knight III (Japan).png</image>
     <video>./media/videos/Dragon Knight III (Japan).mp4</video>
     <marquee>./media/wheel/Dragon Knight III (Japan).png</marquee>
   </game>
   <game>
     <path>./Dragon Slayer - The Legend of Heroes (Japan).chd</path>
-    <name>Dragon Slayer - The Legend of Heroes (Japan)</name>
+    <name>ドラゴンスレイヤー 英雄伝説</name>
     <image>./media/images/Dragon Slayer - The Legend of Heroes (Japan).png</image>
     <video>./media/videos/Dragon Slayer - The Legend of Heroes (Japan).mp4</video>
     <marquee>./media/wheel/Dragon Slayer - The Legend of Heroes (Japan).png</marquee>
@@ -702,14 +702,14 @@
   </game>
   <game>
     <path>./Dragon Slayer - The Legend of Heroes II (Japan).chd</path>
-    <name>Dragon Slayer - The Legend of Heroes II (Japan)</name>
+    <name>ドラゴンスレイヤー 英雄伝説II</name>
     <image>./media/images/Dragon Slayer - The Legend of Heroes II (Japan).png</image>
     <video>./media/videos/Dragon Slayer - The Legend of Heroes II (Japan).mp4</video>
     <marquee>./media/wheel/Dragon Slayer - The Legend of Heroes II (Japan).png</marquee>
   </game>
   <game>
     <path>./Dungeon Explorer II (Japan).chd</path>
-    <name>Dungeon Explorer II (Japan)</name>
+    <name>ダンジョンエクスプローラーII</name>
     <image>./media/images/Dungeon Explorer II (Japan).png</image>
     <video>./media/videos/Dungeon Explorer II (Japan).mp4</video>
     <marquee>./media/wheel/Dungeon Explorer II (Japan).png</marquee>
@@ -723,7 +723,7 @@
   </game>
   <game>
     <path>./Dungeon Master - Theron's Quest (Japan).chd</path>
-    <name>Dungeon Master - Theron's Quest (Japan)</name>
+    <name>ダンジョンマスター セロンズ・クエスト</name>
     <image>./media/images/Dungeon Master - Theron's Quest (Japan).png</image>
     <video>./media/videos/Dungeon Master - Theron's Quest (Japan).mp4</video>
     <marquee>./media/wheel/Dungeon Master - Theron's Quest (Japan).png</marquee>
@@ -765,14 +765,14 @@
   </game>
   <game>
     <path>./Eiyuu Sangokushi (Japan).chd</path>
-    <name>Eiyuu Sangokushi (Japan)</name>
+    <name>英雄三国志</name>
     <image>./media/images/Eiyuu Sangokushi (Japan).png</image>
     <video>./media/videos/Eiyuu Sangokushi (Japan).mp4</video>
     <marquee>./media/wheel/Eiyuu Sangokushi (Japan).png</marquee>
   </game>
   <game>
     <path>./Emerald Dragon (Japan).chd</path>
-    <name>Emerald Dragon (Japan)</name>
+    <name>エメラルドドラゴン</name>
     <image>./media/images/Emerald Dragon (Japan).png</image>
     <video>./media/videos/Emerald Dragon (Japan).mp4</video>
     <marquee>./media/wheel/Emerald Dragon (Japan).png</marquee>
@@ -786,7 +786,7 @@
   </game>
   <game>
     <path>./Emerald Dragon (Japan) (Rev 1).chd</path>
-    <name>Emerald Dragon (Japan) (Rev 1)</name>
+    <name>エメラルドドラゴン</name>
     <image>./media/images/Emerald Dragon (Japan) (Rev 1).png</image>
     <video>./media/videos/Emerald Dragon (Japan) (Rev 1).mp4</video>
     <marquee>./media/wheel/Emerald Dragon (Japan) (Rev 1).png</marquee>
@@ -800,7 +800,7 @@
   </game>
   <game>
     <path>./Exile - Toki no Hasama e (Japan).chd</path>
-    <name>Exile - Toki no Hasama e (Japan)</name>
+    <name>エクザイル 時の狭間へ</name>
     <image>./media/images/Exile - Toki no Hasama e (Japan).png</image>
     <video>./media/videos/Exile - Toki no Hasama e (Japan).mp4</video>
     <marquee>./media/wheel/Exile - Toki no Hasama e (Japan).png</marquee>
@@ -814,7 +814,7 @@
   </game>
   <game>
     <path>./Exile II - Janen no Jishou (Japan).chd</path>
-    <name>Exile II - Janen no Jishou (Japan)</name>
+    <name>エグザイルII 邪念の事象</name>
     <image>./media/images/Exile II - Janen no Jishou (Japan).png</image>
     <video>./media/videos/Exile II - Janen no Jishou (Japan).mp4</video>
     <marquee>./media/wheel/Exile II - Janen no Jishou (Japan).png</marquee>
@@ -849,7 +849,7 @@
   </game>
   <game>
     <path>./Faceball (Japan).chd</path>
-    <name>Faceball (Japan)</name>
+    <name>フェイスボール</name>
     <image>./media/images/Faceball (Japan).png</image>
     <video>./media/videos/Faceball (Japan).mp4</video>
     <marquee>./media/wheel/Faceball (Japan).png</marquee>
@@ -863,14 +863,14 @@
   </game>
   <game>
     <path>./Faerie Dust Story - Meikyuu no Elfeene (Japan).chd</path>
-    <name>Faerie Dust Story - Meikyuu no Elfeene (Japan)</name>
+    <name>迷宮のエルフィーネ</name>
     <image>./media/images/Faerie Dust Story - Meikyuu no Elfeene (Japan).png</image>
     <video>./media/videos/Faerie Dust Story - Meikyuu no Elfeene (Japan).mp4</video>
     <marquee>./media/wheel/Faerie Dust Story - Meikyuu no Elfeene (Japan).png</marquee>
   </game>
   <game>
     <path>./Fantastic Night Dreams - Cotton (Japan) (En,Ja).chd</path>
-    <name>Fantastic Night Dreams - Cotton (Japan) (En,Ja)</name>
+    <name>コットン</name>
     <image>./media/images/Fantastic Night Dreams - Cotton (Japan) (En,Ja).png</image>
     <video>./media/videos/Fantastic Night Dreams - Cotton (Japan) (En,Ja).mp4</video>
     <marquee>./media/wheel/Fantastic Night Dreams - Cotton (Japan) (En,Ja).png</marquee>
@@ -884,7 +884,7 @@
   </game>
   <game>
     <path>./Far East of Eden - Tengai Makyou - Fuun Kabuki-den (Japan).chd</path>
-    <name>Far East of Eden - Tengai Makyou - Fuun Kabuki-den (Japan)</name>
+    <name>天外魔境 風雲カブキ伝</name>
     <image>./media/images/Far East of Eden - Tengai Makyou - Fuun Kabuki-den (Japan).png</image>
     <video>./media/videos/Far East of Eden - Tengai Makyou - Fuun Kabuki-den (Japan).mp4</video>
     <marquee>./media/wheel/Far East of Eden - Tengai Makyou - Fuun Kabuki-den (Japan).png</marquee>
@@ -898,70 +898,70 @@
   </game>
   <game>
     <path>./Far East of Eden - Tengai Makyou - Ziria (Japan) (Hibaihin).chd</path>
-    <name>Far East of Eden - Tengai Makyou - Ziria (Japan) (Hibaihin)</name>
+    <name>天外魔境ZIRIA</name>
     <image>./media/images/Far East of Eden - Tengai Makyou - Ziria (Japan) (Hibaihin).png</image>
     <video>./media/videos/Far East of Eden - Tengai Makyou - Ziria (Japan) (Hibaihin).mp4</video>
     <marquee>./media/wheel/Far East of Eden - Tengai Makyou - Ziria (Japan) (Hibaihin).png</marquee>
   </game>
   <game>
     <path>./Far East of Eden - Tengai Makyou - Ziria (Japan) (Rev 6).chd</path>
-    <name>Far East of Eden - Tengai Makyou - Ziria (Japan) (Rev 6)</name>
+    <name>天外魔境ZIRIA</name>
     <image>./media/images/Far East of Eden - Tengai Makyou - Ziria (Japan) (Rev 6).png</image>
     <video>./media/videos/Far East of Eden - Tengai Makyou - Ziria (Japan) (Rev 6).mp4</video>
     <marquee>./media/wheel/Far East of Eden - Tengai Makyou - Ziria (Japan) (Rev 6).png</marquee>
   </game>
   <game>
     <path>./Far East of Eden - Tengai Makyou - Ziria (Japan) (Rev 7).chd</path>
-    <name>Far East of Eden - Tengai Makyou - Ziria (Japan) (Rev 7)</name>
+    <name>天外魔境ZIRIA</name>
     <image>./media/images/Far East of Eden - Tengai Makyou - Ziria (Japan) (Rev 7).png</image>
     <video>./media/videos/Far East of Eden - Tengai Makyou - Ziria (Japan) (Rev 7).mp4</video>
     <marquee>./media/wheel/Far East of Eden - Tengai Makyou - Ziria (Japan) (Rev 7).png</marquee>
   </game>
   <game>
     <path>./Far East of Eden - Tengai Makyou II - Manji Maru (Japan).chd</path>
-    <name>Far East of Eden - Tengai Makyou II - Manji Maru (Japan)</name>
+    <name>天外魔境II 卍MARU</name>
     <image>./media/images/Far East of Eden - Tengai Makyou II - Manji Maru (Japan).png</image>
     <video>./media/videos/Far East of Eden - Tengai Makyou II - Manji Maru (Japan).mp4</video>
     <marquee>./media/wheel/Far East of Eden - Tengai Makyou II - Manji Maru (Japan).png</marquee>
   </game>
   <game>
     <path>./Farjius no Jakoutei - Neo Metal Fantasy (Japan).chd</path>
-    <name>Farjius no Jakoutei - Neo Metal Fantasy (Japan)</name>
+    <name>ファージアスの邪皇帝</name>
     <image>./media/images/Farjius no Jakoutei - Neo Metal Fantasy (Japan).png</image>
     <video>./media/videos/Farjius no Jakoutei - Neo Metal Fantasy (Japan).mp4</video>
     <marquee>./media/wheel/Farjius no Jakoutei - Neo Metal Fantasy (Japan).png</marquee>
   </game>
   <game>
     <path>./Farjius no Jakoutei - Neo Metal Fantasy (Japan) (Rev 1).chd</path>
-    <name>Farjius no Jakoutei - Neo Metal Fantasy (Japan) (Rev 1)</name>
+    <name>ファージアスの邪皇帝</name>
     <image>./media/images/Farjius no Jakoutei - Neo Metal Fantasy (Japan) (Rev 1).png</image>
     <video>./media/videos/Farjius no Jakoutei - Neo Metal Fantasy (Japan) (Rev 1).mp4</video>
     <marquee>./media/wheel/Farjius no Jakoutei - Neo Metal Fantasy (Japan) (Rev 1).png</marquee>
   </game>
   <game>
     <path>./Faussete Amour (Japan).chd</path>
-    <name>Faussete Amour (Japan)</name>
+    <name>フォーセットアムール</name>
     <image>./media/images/Faussete Amour (Japan).png</image>
     <video>./media/videos/Faussete Amour (Japan).mp4</video>
     <marquee>./media/wheel/Faussete Amour (Japan).png</marquee>
   </game>
   <game>
     <path>./Fiend Hunter (Japan).chd</path>
-    <name>Fiend Hunter (Japan)</name>
+    <name>フィーンドハンター</name>
     <image>./media/images/Fiend Hunter (Japan).png</image>
     <video>./media/videos/Fiend Hunter (Japan).mp4</video>
     <marquee>./media/wheel/Fiend Hunter (Japan).png</marquee>
   </game>
   <game>
     <path>./Fighting Street (Japan) (Rev 4).chd</path>
-    <name>Fighting Street (Japan) (Rev 4)</name>
+    <name>ファイティングストリート</name>
     <image>./media/images/Fighting Street (Japan) (Rev 4).png</image>
     <video>./media/videos/Fighting Street (Japan) (Rev 4).mp4</video>
     <marquee>./media/wheel/Fighting Street (Japan) (Rev 4).png</marquee>
   </game>
   <game>
     <path>./Fighting Street (Japan) (Rev 5).chd</path>
-    <name>Fighting Street (Japan) (Rev 5)</name>
+    <name>ファイティングストリート</name>
     <image>./media/images/Fighting Street (Japan) (Rev 5).png</image>
     <video>./media/videos/Fighting Street (Japan) (Rev 5).mp4</video>
     <marquee>./media/wheel/Fighting Street (Japan) (Rev 5).png</marquee>
@@ -975,7 +975,7 @@
   </game>
   <game>
     <path>./Final Zone II (Japan).chd</path>
-    <name>Final Zone II (Japan)</name>
+    <name>ファイナルゾーンII</name>
     <image>./media/images/Final Zone II (Japan).png</image>
     <video>./media/videos/Final Zone II (Japan).mp4</video>
     <marquee>./media/wheel/Final Zone II (Japan).png</marquee>
@@ -989,14 +989,14 @@
   </game>
   <game>
     <path>./Flash Hiders (Japan).chd</path>
-    <name>Flash Hiders (Japan)</name>
+    <name>フラッシュハイダース</name>
     <image>./media/images/Flash Hiders (Japan).png</image>
     <video>./media/videos/Flash Hiders (Japan).mp4</video>
     <marquee>./media/wheel/Flash Hiders (Japan).png</marquee>
   </game>
   <game>
     <path>./Forgotten Worlds (Japan).chd</path>
-    <name>Forgotten Worlds (Japan)</name>
+    <name>フォゴットンワールド</name>
     <image>./media/images/Forgotten Worlds (Japan).png</image>
     <video>./media/videos/Forgotten Worlds (Japan).mp4</video>
     <marquee>./media/wheel/Forgotten Worlds (Japan).png</marquee>
@@ -1017,14 +1017,14 @@
   </game>
   <game>
     <path>./Fushigi no Umi no Nadia - The Secret of Blue Water (Japan).chd</path>
-    <name>Fushigi no Umi no Nadia - The Secret of Blue Water (Japan)</name>
+    <name>ふしぎの海のナディア</name>
     <image>./media/images/Fushigi no Umi no Nadia - The Secret of Blue Water (Japan).png</image>
     <video>./media/videos/Fushigi no Umi no Nadia - The Secret of Blue Water (Japan).mp4</video>
     <marquee>./media/wheel/Fushigi no Umi no Nadia - The Secret of Blue Water (Japan).png</marquee>
   </game>
   <game>
     <path>./GS (Ghost Sweeper) Mikami (Japan).chd</path>
-    <name>GS (Ghost Sweeper) Mikami (Japan)</name>
+    <name>GS美神</name>
     <image>./media/images/GS (Ghost Sweeper) Mikami (Japan).png</image>
     <video>./media/videos/GS (Ghost Sweeper) Mikami (Japan).mp4</video>
     <marquee>./media/wheel/GS (Ghost Sweeper) Mikami (Japan).png</marquee>
@@ -1045,14 +1045,14 @@
   </game>
   <game>
     <path>./Garou Densetsu 2 - Aratanaru Tatakai (Japan) (Demo) (SABS).chd</path>
-    <name>Garou Densetsu 2 - Aratanaru Tatakai (Japan) (Demo) (SABS)</name>
+    <name>餓狼伝説2 新たなる闘い</name>
     <image>./media/images/Garou Densetsu 2 - Aratanaru Tatakai (Japan) (Demo) (SABS).png</image>
     <video>./media/videos/Garou Densetsu 2 - Aratanaru Tatakai (Japan) (Demo) (SABS).mp4</video>
     <marquee>./media/wheel/Garou Densetsu 2 - Aratanaru Tatakai (Japan) (Demo) (SABS).png</marquee>
   </game>
   <game>
     <path>./Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT).chd</path>
-    <name>Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT)</name>
+    <name>餓狼伝説2 新たなる闘い</name>
     <image>./media/images/Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT).png</image>
     <video>./media/videos/Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT).mp4</video>
     <marquee>./media/wheel/Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT).png</marquee>
@@ -1066,7 +1066,7 @@
   </game>
   <game>
     <path>./Garou Densetsu Special (Japan) (FABT).chd</path>
-    <name>Garou Densetsu Special (Japan) (FABT)</name>
+    <name>餓狼伝説SPECIAL</name>
     <image>./media/images/Garou Densetsu Special (Japan) (FABT).png</image>
     <video>./media/videos/Garou Densetsu Special (Japan) (FABT).mp4</video>
     <marquee>./media/wheel/Garou Densetsu Special (Japan) (FABT).png</marquee>
@@ -1087,7 +1087,7 @@
   </game>
   <game>
     <path>./Genocide (Japan).chd</path>
-    <name>Genocide (Japan)</name>
+    <name>ジェノサイド</name>
     <image>./media/images/Genocide (Japan).png</image>
     <video>./media/videos/Genocide (Japan).mp4</video>
     <marquee>./media/wheel/Genocide (Japan).png</marquee>
@@ -1101,7 +1101,7 @@
   </game>
   <game>
     <path>./Ginga Fukei Densetsu Sapphire (Japan).chd</path>
-    <name>Ginga Fukei Densetsu Sapphire (Japan)</name>
+    <name>銀河婦警伝説サファイア</name>
     <image>./media/images/Ginga Fukei Densetsu Sapphire (Japan).png</image>
     <video>./media/videos/Ginga Fukei Densetsu Sapphire (Japan).mp4</video>
     <marquee>./media/wheel/Ginga Fukei Densetsu Sapphire (Japan).png</marquee>
@@ -1122,28 +1122,28 @@
   </game>
   <game>
     <path>./Ginga Ojousama Densetsu Yuna (Japan) (FABT, FACT).chd</path>
-    <name>Ginga Ojousama Densetsu Yuna (Japan) (FABT, FACT)</name>
+    <name>銀河お嬢様伝説ユナ</name>
     <image>./media/images/Ginga Ojousama Densetsu Yuna (Japan) (FABT, FACT).png</image>
     <video>./media/videos/Ginga Ojousama Densetsu Yuna (Japan) (FABT, FACT).mp4</video>
     <marquee>./media/wheel/Ginga Ojousama Densetsu Yuna (Japan) (FABT, FACT).png</marquee>
   </game>
   <game>
     <path>./Ginga Ojousama Densetsu Yuna (Japan) (FAFT).chd</path>
-    <name>Ginga Ojousama Densetsu Yuna (Japan) (FAFT)</name>
+    <name>銀河お嬢様伝説ユナ</name>
     <image>./media/images/Ginga Ojousama Densetsu Yuna (Japan) (FAFT).png</image>
     <video>./media/videos/Ginga Ojousama Densetsu Yuna (Japan) (FAFT).mp4</video>
     <marquee>./media/wheel/Ginga Ojousama Densetsu Yuna (Japan) (FAFT).png</marquee>
   </game>
   <game>
     <path>./Ginga Ojousama Densetsu Yuna 2 - Eien no Princess (Japan) (FAAT).chd</path>
-    <name>Ginga Ojousama Densetsu Yuna 2 - Eien no Princess (Japan) (FAAT)</name>
+    <name>銀河お嬢様伝説ユナ2 永遠のプリンセス</name>
     <image>./media/images/Ginga Ojousama Densetsu Yuna 2 - Eien no Princess (Japan) (FAAT).png</image>
     <video>./media/videos/Ginga Ojousama Densetsu Yuna 2 - Eien no Princess (Japan) (FAAT).mp4</video>
     <marquee>./media/wheel/Ginga Ojousama Densetsu Yuna 2 - Eien no Princess (Japan) (FAAT).png</marquee>
   </game>
   <game>
     <path>./Ginga Ojousama Densetsu Yuna 2 - Eien no Princess (Japan) (FABT).chd</path>
-    <name>Ginga Ojousama Densetsu Yuna 2 - Eien no Princess (Japan) (FABT)</name>
+    <name>銀河お嬢様伝説ユナ2 永遠のプリンセス</name>
     <image>./media/images/Ginga Ojousama Densetsu Yuna 2 - Eien no Princess (Japan) (FABT).png</image>
     <video>./media/videos/Ginga Ojousama Densetsu Yuna 2 - Eien no Princess (Japan) (FABT).mp4</video>
     <marquee>./media/wheel/Ginga Ojousama Densetsu Yuna 2 - Eien no Princess (Japan) (FABT).png</marquee>
@@ -1178,7 +1178,7 @@
   </game>
   <game>
     <path>./Godzilla Bakutou Retsuden (Japan).chd</path>
-    <name>Godzilla Bakutou Retsuden (Japan)</name>
+    <name>ゴジラ 爆闘列伝</name>
     <image>./media/images/Godzilla Bakutou Retsuden (Japan).png</image>
     <video>./media/videos/Godzilla Bakutou Retsuden (Japan).mp4</video>
     <marquee>./media/wheel/Godzilla Bakutou Retsuden (Japan).png</marquee>
@@ -1192,21 +1192,21 @@
   </game>
   <game>
     <path>./Golden Axe (Japan).chd</path>
-    <name>Golden Axe (Japan)</name>
+    <name>ゴールデンアックス</name>
     <image>./media/images/Golden Axe (Japan).png</image>
     <video>./media/videos/Golden Axe (Japan).mp4</video>
     <marquee>./media/wheel/Golden Axe (Japan).png</marquee>
   </game>
   <game>
     <path>./Golden Axe (Japan) (Alt).chd</path>
-    <name>Golden Axe (Japan) (Alt)</name>
+    <name>ゴールデンアックス</name>
     <image>./media/images/Golden Axe (Japan) (Alt).png</image>
     <video>./media/videos/Golden Axe (Japan) (Alt).mp4</video>
     <marquee>./media/wheel/Golden Axe (Japan) (Alt).png</marquee>
   </game>
   <game>
     <path>./Gradius II - Gofer no Yabou (Japan).chd</path>
-    <name>Gradius II - Gofer no Yabou (Japan)</name>
+    <name>グラディウスII GOFERの野望</name>
     <image>./media/images/Gradius II - Gofer no Yabou (Japan).png</image>
     <video>./media/videos/Gradius II - Gofer no Yabou (Japan).mp4</video>
     <marquee>./media/wheel/Gradius II - Gofer no Yabou (Japan).png</marquee>
@@ -1220,14 +1220,14 @@
   </game>
   <game>
     <path>./Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan).chd</path>
-    <name>Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan)</name>
+    <name>ぎゅわんぶらあ自己中心派 激闘36雀士</name>
     <image>./media/images/Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan).png</image>
     <video>./media/videos/Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan).mp4</video>
     <marquee>./media/wheel/Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan).png</marquee>
   </game>
   <game>
     <path>./Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan) (Alt).chd</path>
-    <name>Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan) (Alt)</name>
+    <name>ぎゅわんぶらあ自己中心派 激闘36雀士</name>
     <image>./media/images/Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan) (Alt).png</image>
     <video>./media/videos/Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan) (Alt).mp4</video>
     <marquee>./media/wheel/Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan) (Alt).png</marquee>
@@ -1248,14 +1248,14 @@
   </game>
   <game>
     <path>./Hatsukoi Monogatari (Japan) (Rev 1).chd</path>
-    <name>Hatsukoi Monogatari (Japan) (Rev 1)</name>
+    <name>初恋物語</name>
     <image>./media/images/Hatsukoi Monogatari (Japan) (Rev 1).png</image>
     <video>./media/videos/Hatsukoi Monogatari (Japan) (Rev 1).mp4</video>
     <marquee>./media/wheel/Hatsukoi Monogatari (Japan) (Rev 1).png</marquee>
   </game>
   <game>
     <path>./Hatsukoi Monogatari (Japan) (Rev 2).chd</path>
-    <name>Hatsukoi Monogatari (Japan) (Rev 2)</name>
+    <name>初恋物語</name>
     <image>./media/images/Hatsukoi Monogatari (Japan) (Rev 2).png</image>
     <video>./media/videos/Hatsukoi Monogatari (Japan) (Rev 2).mp4</video>
     <marquee>./media/wheel/Hatsukoi Monogatari (Japan) (Rev 2).png</marquee>
@@ -1290,14 +1290,14 @@
   </game>
   <game>
     <path>./Hi-Leg Fantasy (Japan) (Unl).chd</path>
-    <name>Hi-Leg Fantasy (Japan) (Unl)</name>
+    <name>ハイレグファンタジー</name>
     <image>./media/images/Hi-Leg Fantasy (Japan) (Unl).png</image>
     <video>./media/videos/Hi-Leg Fantasy (Japan) (Unl).mp4</video>
     <marquee>./media/wheel/Hi-Leg Fantasy (Japan) (Unl).png</marquee>
   </game>
   <game>
     <path>./High Grenadier (Japan).chd</path>
-    <name>High Grenadier (Japan)</name>
+    <name>ハイグレネーダー</name>
     <image>./media/images/High Grenadier (Japan).png</image>
     <video>./media/videos/High Grenadier (Japan).mp4</video>
     <marquee>./media/wheel/High Grenadier (Japan).png</marquee>
@@ -1311,7 +1311,7 @@
   </game>
   <game>
     <path>./Himitsu no Hanazono (Japan).chd</path>
-    <name>Himitsu no Hanazono (Japan)</name>
+    <name>秘密の花園</name>
     <image>./media/images/Himitsu no Hanazono (Japan).png</image>
     <video>./media/videos/Himitsu no Hanazono (Japan).mp4</video>
     <marquee>./media/wheel/Himitsu no Hanazono (Japan).png</marquee>
@@ -1360,14 +1360,14 @@
   </game>
   <game>
     <path>./Hyper Wars (Japan) (SAAS).chd</path>
-    <name>Hyper Wars (Japan) (SAAS)</name>
+    <name>ハイパーウォーズ</name>
     <image>./media/images/Hyper Wars (Japan) (SAAS).png</image>
     <video>./media/videos/Hyper Wars (Japan) (SAAS).mp4</video>
     <marquee>./media/wheel/Hyper Wars (Japan) (SAAS).png</marquee>
   </game>
   <game>
     <path>./Hyper Wars (Japan) (SABS).chd</path>
-    <name>Hyper Wars (Japan) (SABS)</name>
+    <name>ハイパーウォーズ</name>
     <image>./media/images/Hyper Wars (Japan) (SABS).png</image>
     <video>./media/videos/Hyper Wars (Japan) (SABS).mp4</video>
     <marquee>./media/wheel/Hyper Wars (Japan) (SABS).png</marquee>
@@ -1479,28 +1479,28 @@
   </game>
   <game>
     <path>./Jantei Monogatari (Japan).chd</path>
-    <name>Jantei Monogatari (Japan)</name>
+    <name>雀偵物語</name>
     <image>./media/images/Jantei Monogatari (Japan).png</image>
     <video>./media/videos/Jantei Monogatari (Japan).mp4</video>
     <marquee>./media/wheel/Jantei Monogatari (Japan).png</marquee>
   </game>
   <game>
     <path>./Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsu-hen (Japan).chd</path>
-    <name>Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsu-hen (Japan)</name>
+    <name>雀偵物語2 宇宙探偵ディバン 完結編</name>
     <image>./media/images/Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsu-hen (Japan).png</image>
     <video>./media/videos/Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsu-hen (Japan).mp4</video>
     <marquee>./media/wheel/Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsu-hen (Japan).png</marquee>
   </game>
   <game>
     <path>./Jantei Monogatari 2 - Uchuu Tantei Diban - Shutsudou-hen (Japan).chd</path>
-    <name>Jantei Monogatari 2 - Uchuu Tantei Diban - Shutsudou-hen (Japan)</name>
+    <name>雀偵物語2 宇宙探偵ディバン 出動編</name>
     <image>./media/images/Jantei Monogatari 2 - Uchuu Tantei Diban - Shutsudou-hen (Japan).png</image>
     <video>./media/videos/Jantei Monogatari 2 - Uchuu Tantei Diban - Shutsudou-hen (Japan).mp4</video>
     <marquee>./media/wheel/Jantei Monogatari 2 - Uchuu Tantei Diban - Shutsudou-hen (Japan).png</marquee>
   </game>
   <game>
     <path>./Jantei Monogatari 3 - Saver Angels (Japan).chd</path>
-    <name>Jantei Monogatari 3 - Saver Angels (Japan)</name>
+    <name>雀偵物語3 セイバーエンジェル</name>
     <image>./media/images/Jantei Monogatari 3 - Saver Angels (Japan).png</image>
     <video>./media/videos/Jantei Monogatari 3 - Saver Angels (Japan).mp4</video>
     <marquee>./media/wheel/Jantei Monogatari 3 - Saver Angels (Japan).png</marquee>
@@ -1521,14 +1521,14 @@
   </game>
   <game>
     <path>./Juuouki (Japan) (Rev 4).chd</path>
-    <name>Juuouki (Japan) (Rev 4)</name>
+    <name>獣王記</name>
     <image>./media/images/Juuouki (Japan) (Rev 4).png</image>
     <video>./media/videos/Juuouki (Japan) (Rev 4).mp4</video>
     <marquee>./media/wheel/Juuouki (Japan) (Rev 4).png</marquee>
   </game>
   <game>
     <path>./Juuouki (Japan) (Rev 5).chd</path>
-    <name>Juuouki (Japan) (Rev 5)</name>
+    <name>獣王記</name>
     <image>./media/images/Juuouki (Japan) (Rev 5).png</image>
     <video>./media/videos/Juuouki (Japan) (Rev 5).mp4</video>
     <marquee>./media/wheel/Juuouki (Japan) (Rev 5).png</marquee>
@@ -1542,14 +1542,14 @@
   </game>
   <game>
     <path>./Kabuki Ittouryoudan (Japan) (FAAT).chd</path>
-    <name>Kabuki Ittouryoudan (Japan) (FAAT)</name>
+    <name>カブキ一刀涼談</name>
     <image>./media/images/Kabuki Ittouryoudan (Japan) (FAAT).png</image>
     <video>./media/videos/Kabuki Ittouryoudan (Japan) (FAAT).mp4</video>
     <marquee>./media/wheel/Kabuki Ittouryoudan (Japan) (FAAT).png</marquee>
   </game>
   <game>
     <path>./Kabuki Ittouryoudan (Japan) (FABT).chd</path>
-    <name>Kabuki Ittouryoudan (Japan) (FABT)</name>
+    <name>カブキ一刀涼談</name>
     <image>./media/images/Kabuki Ittouryoudan (Japan) (FABT).png</image>
     <video>./media/videos/Kabuki Ittouryoudan (Japan) (FABT).mp4</video>
     <marquee>./media/wheel/Kabuki Ittouryoudan (Japan) (FABT).png</marquee>
@@ -1563,7 +1563,7 @@
   </game>
   <game>
     <path>./Kaizou Choujin Shubibinman 3 - Ikai no Princess (Japan).chd</path>
-    <name>Kaizou Choujin Shubibinman 3 - Ikai no Princess (Japan)</name>
+    <name>改造町人シュビビンマン3 異界のプリンセス</name>
     <image>./media/images/Kaizou Choujin Shubibinman 3 - Ikai no Princess (Japan).png</image>
     <video>./media/videos/Kaizou Choujin Shubibinman 3 - Ikai no Princess (Japan).mp4</video>
     <marquee>./media/wheel/Kaizou Choujin Shubibinman 3 - Ikai no Princess (Japan).png</marquee>
@@ -1577,14 +1577,14 @@
   </game>
   <game>
     <path>./Kawa no Nushitsuri - Shizen-ha (Japan).chd</path>
-    <name>Kawa no Nushitsuri - Shizen-ha (Japan)</name>
+    <name>川のぬし釣り 自然派</name>
     <image>./media/images/Kawa no Nushitsuri - Shizen-ha (Japan).png</image>
     <video>./media/videos/Kawa no Nushitsuri - Shizen-ha (Japan).mp4</video>
     <marquee>./media/wheel/Kawa no Nushitsuri - Shizen-ha (Japan).png</marquee>
   </game>
   <game>
     <path>./Kaze Kiri - Ninja Action (Japan).chd</path>
-    <name>Kaze Kiri - Ninja Action (Japan)</name>
+    <name>風霧</name>
     <image>./media/images/Kaze Kiri - Ninja Action (Japan).png</image>
     <video>./media/videos/Kaze Kiri - Ninja Action (Japan).mp4</video>
     <marquee>./media/wheel/Kaze Kiri - Ninja Action (Japan).png</marquee>
@@ -1619,14 +1619,14 @@
   </game>
   <game>
     <path>./Kisou Louga (Japan) (FABT).chd</path>
-    <name>Kisou Louga (Japan) (FABT)</name>
+    <name>機装ルーガ</name>
     <image>./media/images/Kisou Louga (Japan) (FABT).png</image>
     <video>./media/videos/Kisou Louga (Japan) (FABT).mp4</video>
     <marquee>./media/wheel/Kisou Louga (Japan) (FABT).png</marquee>
   </game>
   <game>
     <path>./Kisou Louga II - The Ends of Shangrila (Japan).chd</path>
-    <name>Kisou Louga II - The Ends of Shangrila (Japan)</name>
+    <name>機装ルーガII The Ends of Shangrila</name>
     <image>./media/images/Kisou Louga II - The Ends of Shangrila (Japan).png</image>
     <video>./media/videos/Kisou Louga II - The Ends of Shangrila (Japan).mp4</video>
     <marquee>./media/wheel/Kisou Louga II - The Ends of Shangrila (Japan).png</marquee>
@@ -1710,14 +1710,14 @@
   </game>
   <game>
     <path>./Legend of Xanadu - Kaze no Densetsu Xanadu (Japan).chd</path>
-    <name>Legend of Xanadu - Kaze no Densetsu Xanadu (Japan)</name>
+    <name>風の伝説ザナドゥ</name>
     <image>./media/images/Legend of Xanadu - Kaze no Densetsu Xanadu (Japan).png</image>
     <video>./media/videos/Legend of Xanadu - Kaze no Densetsu Xanadu (Japan).mp4</video>
     <marquee>./media/wheel/Legend of Xanadu - Kaze no Densetsu Xanadu (Japan).png</marquee>
   </game>
   <game>
     <path>./Legend of Xanadu - Kaze no Densetsu Xanadu II (Japan).chd</path>
-    <name>Legend of Xanadu - Kaze no Densetsu Xanadu II (Japan)</name>
+    <name>風の伝説ザナドゥII</name>
     <image>./media/images/Legend of Xanadu - Kaze no Densetsu Xanadu II (Japan).png</image>
     <video>./media/videos/Legend of Xanadu - Kaze no Densetsu Xanadu II (Japan).mp4</video>
     <marquee>./media/wheel/Legend of Xanadu - Kaze no Densetsu Xanadu II (Japan).png</marquee>
@@ -1731,21 +1731,21 @@
   </game>
   <game>
     <path>./Lemmings (Japan).chd</path>
-    <name>Lemmings (Japan)</name>
+    <name>レミングス</name>
     <image>./media/images/Lemmings (Japan).png</image>
     <video>./media/videos/Lemmings (Japan).mp4</video>
     <marquee>./media/wheel/Lemmings (Japan).png</marquee>
   </game>
   <game>
     <path>./Linda^3 (Japan) (Rev 1).chd</path>
-    <name>Linda^3 (Japan) (Rev 1)</name>
+    <name>リンダキューブ</name>
     <image>./media/images/Linda^3 (Japan) (Rev 1).png</image>
     <video>./media/videos/Linda^3 (Japan) (Rev 1).mp4</video>
     <marquee>./media/wheel/Linda^3 (Japan) (Rev 1).png</marquee>
   </game>
   <game>
     <path>./Linda^3 (Japan) (Rev 2).chd</path>
-    <name>Linda^3 (Japan) (Rev 2)</name>
+    <name>リンダキューブ</name>
     <image>./media/images/Linda^3 (Japan) (Rev 2).png</image>
     <video>./media/videos/Linda^3 (Japan) (Rev 2).mp4</video>
     <marquee>./media/wheel/Linda^3 (Japan) (Rev 2).png</marquee>
@@ -1885,21 +1885,21 @@
   </game>
   <game>
     <path>./Mamono Hunter Youko - Makai kara no Tenkousei (Japan).chd</path>
-    <name>Mamono Hunter Youko - Makai kara no Tenkousei (Japan)</name>
+    <name>魔物ハンター妖子 魔界からの転校生</name>
     <image>./media/images/Mamono Hunter Youko - Makai kara no Tenkousei (Japan).png</image>
     <video>./media/videos/Mamono Hunter Youko - Makai kara no Tenkousei (Japan).mp4</video>
     <marquee>./media/wheel/Mamono Hunter Youko - Makai kara no Tenkousei (Japan).png</marquee>
   </game>
   <game>
     <path>./Mamono Hunter Youko - Tooki Yobigoe (Japan).chd</path>
-    <name>Mamono Hunter Youko - Tooki Yobigoe (Japan)</name>
+    <name>魔物ハンター妖子 遠き呼び声</name>
     <image>./media/images/Mamono Hunter Youko - Tooki Yobigoe (Japan).png</image>
     <video>./media/videos/Mamono Hunter Youko - Tooki Yobigoe (Japan).mp4</video>
     <marquee>./media/wheel/Mamono Hunter Youko - Tooki Yobigoe (Japan).png</marquee>
   </game>
   <game>
     <path>./Manhole, The (Japan).chd</path>
-    <name>Manhole, The (Japan)</name>
+    <name>マンホール</name>
     <image>./media/images/Manhole, The (Japan).png</image>
     <video>./media/videos/Manhole, The (Japan).mp4</video>
     <marquee>./media/wheel/Manhole, The (Japan).png</marquee>
@@ -1920,7 +1920,7 @@
   </game>
   <game>
     <path>./Master of Monsters (Japan).chd</path>
-    <name>Master of Monsters (Japan)</name>
+    <name>マスターオブモンスターズ</name>
     <image>./media/images/Master of Monsters (Japan).png</image>
     <video>./media/videos/Master of Monsters (Japan).mp4</video>
     <marquee>./media/wheel/Master of Monsters (Japan).png</marquee>
@@ -1941,14 +1941,14 @@
   </game>
   <game>
     <path>./Metal Angel (Japan).chd</path>
-    <name>Metal Angel (Japan)</name>
+    <name>メタルエンジェル</name>
     <image>./media/images/Metal Angel (Japan).png</image>
     <video>./media/videos/Metal Angel (Japan).mp4</video>
     <marquee>./media/wheel/Metal Angel (Japan).png</marquee>
   </game>
   <game>
     <path>./Metal Angel 2 (Japan).chd</path>
-    <name>Metal Angel 2 (Japan)</name>
+    <name>メタルエンジェル2</name>
     <image>./media/images/Metal Angel 2 (Japan).png</image>
     <video>./media/videos/Metal Angel 2 (Japan).mp4</video>
     <marquee>./media/wheel/Metal Angel 2 (Japan).png</marquee>
@@ -2004,14 +2004,14 @@
   </game>
   <game>
     <path>./Mirai Shounen Conan (Japan).chd</path>
-    <name>Mirai Shounen Conan (Japan)</name>
+    <name>未来少年コナン</name>
     <image>./media/images/Mirai Shounen Conan (Japan).png</image>
     <video>./media/videos/Mirai Shounen Conan (Japan).mp4</video>
     <marquee>./media/wheel/Mirai Shounen Conan (Japan).png</marquee>
   </game>
   <game>
     <path>./Mitsubachi Gakuen (Japan).chd</path>
-    <name>Mitsubachi Gakuen (Japan)</name>
+    <name>みつばち学園</name>
     <image>./media/images/Mitsubachi Gakuen (Japan).png</image>
     <video>./media/videos/Mitsubachi Gakuen (Japan).mp4</video>
     <marquee>./media/wheel/Mitsubachi Gakuen (Japan).png</marquee>
@@ -2025,28 +2025,28 @@
   </game>
   <game>
     <path>./Monster Maker - Yami no Ryuukishi (Japan).chd</path>
-    <name>Monster Maker - Yami no Ryuukishi (Japan)</name>
+    <name>モンスターメーカー 闇の竜騎士</name>
     <image>./media/images/Monster Maker - Yami no Ryuukishi (Japan).png</image>
     <video>./media/videos/Monster Maker - Yami no Ryuukishi (Japan).mp4</video>
     <marquee>./media/wheel/Monster Maker - Yami no Ryuukishi (Japan).png</marquee>
   </game>
   <game>
     <path>./Monster Maker - Yami no Ryuukishi (Japan) (Alt).chd</path>
-    <name>Monster Maker - Yami no Ryuukishi (Japan) (Alt)</name>
+    <name>モンスターメーカー 闇の竜騎士</name>
     <image>./media/images/Monster Maker - Yami no Ryuukishi (Japan) (Alt).png</image>
     <video>./media/videos/Monster Maker - Yami no Ryuukishi (Japan) (Alt).mp4</video>
     <marquee>./media/wheel/Monster Maker - Yami no Ryuukishi (Japan) (Alt).png</marquee>
   </game>
   <game>
     <path>./Moonlight Lady (Japan).chd</path>
-    <name>Moonlight Lady (Japan)</name>
+    <name>ムーンライトレディ</name>
     <image>./media/images/Moonlight Lady (Japan).png</image>
     <video>./media/videos/Moonlight Lady (Japan).mp4</video>
     <marquee>./media/wheel/Moonlight Lady (Japan).png</marquee>
   </game>
   <game>
     <path>./Motoroader MC (Japan).chd</path>
-    <name>Motoroader MC (Japan)</name>
+    <name>モトローダーMC</name>
     <image>./media/images/Motoroader MC (Japan).png</image>
     <video>./media/videos/Motoroader MC (Japan).mp4</video>
     <marquee>./media/wheel/Motoroader MC (Japan).png</marquee>
@@ -2060,7 +2060,7 @@
   </game>
   <game>
     <path>./Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan).chd</path>
-    <name>Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan)</name>
+    <name>夢幻戦士ヴァリス</name>
     <image>./media/images/Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan).png</image>
     <video>./media/videos/Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan).mp4</video>
     <marquee>./media/wheel/Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan).png</marquee>
@@ -2088,7 +2088,7 @@
   </game>
   <game>
     <path>./NEXZR (Japan).chd</path>
-    <name>NEXZR (Japan)</name>
+    <name>ネクスザール</name>
     <image>./media/images/NEXZR (Japan).png</image>
     <video>./media/videos/NEXZR (Japan).mp4</video>
     <marquee>./media/wheel/NEXZR (Japan).png</marquee>
@@ -2109,7 +2109,7 @@
   </game>
   <game>
     <path>./Nemurenu Yoru no Chiisana Ohanashi (Japan).chd</path>
-    <name>Nemurenu Yoru no Chiisana Ohanashi (Japan)</name>
+    <name>眠れぬ夜の小さなお話</name>
     <image>./media/images/Nemurenu Yoru no Chiisana Ohanashi (Japan).png</image>
     <video>./media/videos/Nemurenu Yoru no Chiisana Ohanashi (Japan).mp4</video>
     <marquee>./media/wheel/Nemurenu Yoru no Chiisana Ohanashi (Japan).png</marquee>
@@ -2123,7 +2123,7 @@
   </game>
   <game>
     <path>./Nishimura Kyoutarou Mystery - Hokutosei no Onna (Japan).chd</path>
-    <name>Nishimura Kyoutarou Mystery - Hokutosei no Onna (Japan)</name>
+    <name>西村京太郎ミステリー 北斗星の女</name>
     <image>./media/images/Nishimura Kyoutarou Mystery - Hokutosei no Onna (Japan).png</image>
     <video>./media/videos/Nishimura Kyoutarou Mystery - Hokutosei no Onna (Japan).mp4</video>
     <marquee>./media/wheel/Nishimura Kyoutarou Mystery - Hokutosei no Onna (Japan).png</marquee>
@@ -2137,14 +2137,14 @@
   </game>
   <game>
     <path>./Nobunaga no Yabou - Bushou Fuuunroku (Japan).chd</path>
-    <name>Nobunaga no Yabou - Bushou Fuuunroku (Japan)</name>
+    <name>信長の野望 武将風雲録</name>
     <image>./media/images/Nobunaga no Yabou - Bushou Fuuunroku (Japan).png</image>
     <video>./media/videos/Nobunaga no Yabou - Bushou Fuuunroku (Japan).mp4</video>
     <marquee>./media/wheel/Nobunaga no Yabou - Bushou Fuuunroku (Japan).png</marquee>
   </game>
   <game>
     <path>./Nobunaga no Yabou - Zenkokuban (Japan).chd</path>
-    <name>Nobunaga no Yabou - Zenkokuban (Japan)</name>
+    <name>信長の野望 全国版</name>
     <image>./media/images/Nobunaga no Yabou - Zenkokuban (Japan).png</image>
     <video>./media/videos/Nobunaga no Yabou - Zenkokuban (Japan).mp4</video>
     <marquee>./media/wheel/Nobunaga no Yabou - Zenkokuban (Japan).png</marquee>
@@ -2228,42 +2228,42 @@
   </game>
   <game>
     <path>./Pachio-kun - Maboroshi no Densetsu (Japan) (Rev 7).chd</path>
-    <name>Pachio-kun - Maboroshi no Densetsu (Japan) (Rev 7)</name>
+    <name>パチ夫くん 幻の伝説</name>
     <image>./media/images/Pachio-kun - Maboroshi no Densetsu (Japan) (Rev 7).png</image>
     <video>./media/videos/Pachio-kun - Maboroshi no Densetsu (Japan) (Rev 7).mp4</video>
     <marquee>./media/wheel/Pachio-kun - Maboroshi no Densetsu (Japan) (Rev 7).png</marquee>
   </game>
   <game>
     <path>./Pachio-kun - Maboroshi no Densetsu (Japan) (Rev 8).chd</path>
-    <name>Pachio-kun - Maboroshi no Densetsu (Japan) (Rev 8)</name>
+    <name>パチ夫くん 幻の伝説</name>
     <image>./media/images/Pachio-kun - Maboroshi no Densetsu (Japan) (Rev 8).png</image>
     <video>./media/videos/Pachio-kun - Maboroshi no Densetsu (Japan) (Rev 8).mp4</video>
     <marquee>./media/wheel/Pachio-kun - Maboroshi no Densetsu (Japan) (Rev 8).png</marquee>
   </game>
   <game>
     <path>./Pachio-kun - Warau Uchuu (Japan).chd</path>
-    <name>Pachio-kun - Warau Uchuu (Japan)</name>
+    <name>パチ夫くん 笑う宇宙</name>
     <image>./media/images/Pachio-kun - Warau Uchuu (Japan).png</image>
     <video>./media/videos/Pachio-kun - Warau Uchuu (Japan).mp4</video>
     <marquee>./media/wheel/Pachio-kun - Warau Uchuu (Japan).png</marquee>
   </game>
   <game>
     <path>./Pachio-kun 3 - Pachi-Slot &amp; Pachinko (Japan).chd</path>
-    <name>Pachio-kun 3 - Pachi-Slot &amp; Pachinko (Japan)</name>
+    <name>パチ夫くん3 パチスロ&amp;パチンコ</name>
     <image>./media/images/Pachio-kun 3 - Pachi-Slot &amp; Pachinko (Japan).png</image>
     <video>./media/videos/Pachio-kun 3 - Pachi-Slot &amp; Pachinko (Japan).mp4</video>
     <marquee>./media/wheel/Pachio-kun 3 - Pachi-Slot &amp; Pachinko (Japan).png</marquee>
   </game>
   <game>
     <path>./Palladion - Auto Crusher Palladium (Japan).chd</path>
-    <name>Palladion - Auto Crusher Palladium (Japan)</name>
+    <name>パラディオン</name>
     <image>./media/images/Palladion - Auto Crusher Palladium (Japan).png</image>
     <video>./media/videos/Palladion - Auto Crusher Palladium (Japan).mp4</video>
     <marquee>./media/wheel/Palladion - Auto Crusher Palladium (Japan).png</marquee>
   </game>
   <game>
     <path>./Pastel Lime (Japan).chd</path>
-    <name>Pastel Lime (Japan)</name>
+    <name>パステルLime</name>
     <image>./media/images/Pastel Lime (Japan).png</image>
     <video>./media/videos/Pastel Lime (Japan).mp4</video>
     <marquee>./media/wheel/Pastel Lime (Japan).png</marquee>
@@ -2284,7 +2284,7 @@
   </game>
   <game>
     <path>./Pomping World (Japan).chd</path>
-    <name>Pomping World (Japan)</name>
+    <name>ポンピングワールド</name>
     <image>./media/images/Pomping World (Japan).png</image>
     <video>./media/videos/Pomping World (Japan).mp4</video>
     <marquee>./media/wheel/Pomping World (Japan).png</marquee>
@@ -2298,7 +2298,7 @@
   </game>
   <game>
     <path>./PopfulMail (Japan).chd</path>
-    <name>PopfulMail (Japan)</name>
+    <name>ぽっぷるメイル</name>
     <image>./media/images/PopfulMail (Japan).png</image>
     <video>./media/videos/PopfulMail (Japan).mp4</video>
     <marquee>./media/wheel/PopfulMail (Japan).png</marquee>
@@ -2319,7 +2319,7 @@
   </game>
   <game>
     <path>./Prince of Persia (Japan).chd</path>
-    <name>Prince of Persia (Japan)</name>
+    <name>プリンス・オブ・ペルシャ</name>
     <image>./media/images/Prince of Persia (Japan).png</image>
     <video>./media/videos/Prince of Persia (Japan).mp4</video>
     <marquee>./media/wheel/Prince of Persia (Japan).png</marquee>
@@ -2333,49 +2333,49 @@
   </game>
   <game>
     <path>./Princess Maker 1 (Japan).chd</path>
-    <name>Princess Maker 1 (Japan)</name>
+    <name>プリンセスメーカー1</name>
     <image>./media/images/Princess Maker 1 (Japan).png</image>
     <video>./media/videos/Princess Maker 1 (Japan).mp4</video>
     <marquee>./media/wheel/Princess Maker 1 (Japan).png</marquee>
   </game>
   <game>
     <path>./Princess Maker 2 (Japan).chd</path>
-    <name>Princess Maker 2 (Japan)</name>
+    <name>プリンセスメーカー2</name>
     <image>./media/images/Princess Maker 2 (Japan).png</image>
     <video>./media/videos/Princess Maker 2 (Japan).mp4</video>
     <marquee>./media/wheel/Princess Maker 2 (Japan).png</marquee>
   </game>
   <game>
     <path>./Princess Minerva (Japan).chd</path>
-    <name>Princess Minerva (Japan)</name>
+    <name>プリンセス・ミネルバ</name>
     <image>./media/images/Princess Minerva (Japan).png</image>
     <video>./media/videos/Princess Minerva (Japan).mp4</video>
     <marquee>./media/wheel/Princess Minerva (Japan).png</marquee>
   </game>
   <game>
     <path>./Private Eye dol (Japan).chd</path>
-    <name>Private Eye dol (Japan)</name>
+    <name>プライベート・アイ・ドル</name>
     <image>./media/images/Private Eye dol (Japan).png</image>
     <video>./media/videos/Private Eye dol (Japan).mp4</video>
     <marquee>./media/wheel/Private Eye dol (Japan).png</marquee>
   </game>
   <game>
     <path>./Pro Yakyuu Super '94, The (Japan).chd</path>
-    <name>Pro Yakyuu Super '94, The (Japan)</name>
+    <name>ザ・プロ野球SUPER'94</name>
     <image>./media/images/Pro Yakyuu Super '94, The (Japan).png</image>
     <video>./media/videos/Pro Yakyuu Super '94, The (Japan).mp4</video>
     <marquee>./media/wheel/Pro Yakyuu Super '94, The (Japan).png</marquee>
   </game>
   <game>
     <path>./Pro Yakyuu Super, The (Japan) (FABT).chd</path>
-    <name>Pro Yakyuu Super, The (Japan) (FABT)</name>
+    <name>ザ・プロ野球SUPER</name>
     <image>./media/images/Pro Yakyuu Super, The (Japan) (FABT).png</image>
     <video>./media/videos/Pro Yakyuu Super, The (Japan) (FABT).mp4</video>
     <marquee>./media/wheel/Pro Yakyuu Super, The (Japan) (FABT).png</marquee>
   </game>
   <game>
     <path>./Pro Yakyuu, The (Japan).chd</path>
-    <name>Pro Yakyuu, The (Japan)</name>
+    <name>ザ・プロ野球</name>
     <image>./media/images/Pro Yakyuu, The (Japan).png</image>
     <video>./media/videos/Pro Yakyuu, The (Japan).mp4</video>
     <marquee>./media/wheel/Pro Yakyuu, The (Japan).png</marquee>
@@ -2403,21 +2403,21 @@
   </game>
   <game>
     <path>./Psychic Storm (Japan).chd</path>
-    <name>Psychic Storm (Japan)</name>
+    <name>サイキックストーム</name>
     <image>./media/images/Psychic Storm (Japan).png</image>
     <video>./media/videos/Psychic Storm (Japan).mp4</video>
     <marquee>./media/wheel/Psychic Storm (Japan).png</marquee>
   </game>
   <game>
     <path>./Puyo Puyo CD (Japan).chd</path>
-    <name>Puyo Puyo CD (Japan)</name>
+    <name>ぷよぷよCD</name>
     <image>./media/images/Puyo Puyo CD (Japan).png</image>
     <video>./media/videos/Puyo Puyo CD (Japan).mp4</video>
     <marquee>./media/wheel/Puyo Puyo CD (Japan).png</marquee>
   </game>
   <game>
     <path>./Puyo Puyo CD Tsuu (Japan).chd</path>
-    <name>Puyo Puyo CD Tsuu (Japan)</name>
+    <name>ぷよぷよCD通</name>
     <image>./media/images/Puyo Puyo CD Tsuu (Japan).png</image>
     <video>./media/videos/Puyo Puyo CD Tsuu (Japan).mp4</video>
     <marquee>./media/wheel/Puyo Puyo CD Tsuu (Japan).png</marquee>
@@ -2431,84 +2431,84 @@
   </game>
   <game>
     <path>./Quest of Jongmaster - Janshin Densetsu (Japan).chd</path>
-    <name>Quest of Jongmaster - Janshin Densetsu (Japan)</name>
+    <name>雀神伝説 QUEST OF JONGMASTER</name>
     <image>./media/images/Quest of Jongmaster - Janshin Densetsu (Japan).png</image>
     <video>./media/videos/Quest of Jongmaster - Janshin Densetsu (Japan).mp4</video>
     <marquee>./media/wheel/Quest of Jongmaster - Janshin Densetsu (Japan).png</marquee>
   </game>
   <game>
     <path>./Quiz Avenue (Japan).chd</path>
-    <name>Quiz Avenue (Japan)</name>
+    <name>クイズアベニュー</name>
     <image>./media/images/Quiz Avenue (Japan).png</image>
     <video>./media/videos/Quiz Avenue (Japan).mp4</video>
     <marquee>./media/wheel/Quiz Avenue (Japan).png</marquee>
   </game>
   <game>
     <path>./Quiz Avenue II (Japan).chd</path>
-    <name>Quiz Avenue II (Japan)</name>
+    <name>クイズアベニューII</name>
     <image>./media/images/Quiz Avenue II (Japan).png</image>
     <video>./media/videos/Quiz Avenue II (Japan).mp4</video>
     <marquee>./media/wheel/Quiz Avenue II (Japan).png</marquee>
   </game>
   <game>
     <path>./Quiz Avenue III (Japan).chd</path>
-    <name>Quiz Avenue III (Japan)</name>
+    <name>クイズアベニューIII</name>
     <image>./media/images/Quiz Avenue III (Japan).png</image>
     <video>./media/videos/Quiz Avenue III (Japan).mp4</video>
     <marquee>./media/wheel/Quiz Avenue III (Japan).png</marquee>
   </game>
   <game>
     <path>./Quiz Caravan Cult Q (Japan).chd</path>
-    <name>Quiz Caravan Cult Q (Japan)</name>
+    <name>クイズキャラバン カルトQ</name>
     <image>./media/images/Quiz Caravan Cult Q (Japan).png</image>
     <video>./media/videos/Quiz Caravan Cult Q (Japan).mp4</video>
     <marquee>./media/wheel/Quiz Caravan Cult Q (Japan).png</marquee>
   </game>
   <game>
     <path>./Quiz Marugoto the World (Japan) (Rev 7).chd</path>
-    <name>Quiz Marugoto the World (Japan) (Rev 7)</name>
+    <name>クイズまるごとTheワールド</name>
     <image>./media/images/Quiz Marugoto the World (Japan) (Rev 7).png</image>
     <video>./media/videos/Quiz Marugoto the World (Japan) (Rev 7).mp4</video>
     <marquee>./media/wheel/Quiz Marugoto the World (Japan) (Rev 7).png</marquee>
   </game>
   <game>
     <path>./Quiz Marugoto the World (Japan) (Rev 8).chd</path>
-    <name>Quiz Marugoto the World (Japan) (Rev 8)</name>
+    <name>クイズまるごとTheワールド</name>
     <image>./media/images/Quiz Marugoto the World (Japan) (Rev 8).png</image>
     <video>./media/videos/Quiz Marugoto the World (Japan) (Rev 8).mp4</video>
     <marquee>./media/wheel/Quiz Marugoto the World (Japan) (Rev 8).png</marquee>
   </game>
   <game>
     <path>./Quiz Marugoto the World 2 - Time Machine ni Onegai! (Japan).chd</path>
-    <name>Quiz Marugoto the World 2 - Time Machine ni Onegai! (Japan)</name>
+    <name>クイズまるごとTheワールド2 タイムマシンにおねがい!</name>
     <image>./media/images/Quiz Marugoto the World 2 - Time Machine ni Onegai! (Japan).png</image>
     <video>./media/videos/Quiz Marugoto the World 2 - Time Machine ni Onegai! (Japan).mp4</video>
     <marquee>./media/wheel/Quiz Marugoto the World 2 - Time Machine ni Onegai! (Japan).png</marquee>
   </game>
   <game>
     <path>./Quiz Tonosama no Yabou (Japan).chd</path>
-    <name>Quiz Tonosama no Yabou (Japan)</name>
+    <name>クイズ殿様の野望</name>
     <image>./media/images/Quiz Tonosama no Yabou (Japan).png</image>
     <video>./media/videos/Quiz Tonosama no Yabou (Japan).mp4</video>
     <marquee>./media/wheel/Quiz Tonosama no Yabou (Japan).png</marquee>
   </game>
   <game>
     <path>./Quiz de Gakuensai (Japan).chd</path>
-    <name>Quiz de Gakuensai (Japan)</name>
+    <name>クイズ DE 学園祭</name>
     <image>./media/images/Quiz de Gakuensai (Japan).png</image>
     <video>./media/videos/Quiz de Gakuensai (Japan).mp4</video>
     <marquee>./media/wheel/Quiz de Gakuensai (Japan).png</marquee>
   </game>
   <game>
     <path>./Quiz no Hoshi - Star of Quiz (Japan).chd</path>
-    <name>Quiz no Hoshi - Star of Quiz (Japan)</name>
+    <name>クイズの星</name>
     <image>./media/images/Quiz no Hoshi - Star of Quiz (Japan).png</image>
     <video>./media/videos/Quiz no Hoshi - Star of Quiz (Japan).mp4</video>
     <marquee>./media/wheel/Quiz no Hoshi - Star of Quiz (Japan).png</marquee>
   </game>
   <game>
     <path>./R-Type Complete CD (Japan).chd</path>
-    <name>R-Type Complete CD (Japan)</name>
+    <name>R-TYPE Complete CD</name>
     <image>./media/images/R-Type Complete CD (Japan).png</image>
     <video>./media/videos/R-Type Complete CD (Japan).mp4</video>
     <marquee>./media/wheel/R-Type Complete CD (Japan).png</marquee>
@@ -2522,84 +2522,84 @@
   </game>
   <game>
     <path>./ROM^2 Karaoke Vol. 1 - Suteki ni Standard (Japan).chd</path>
-    <name>ROM^2 Karaoke Vol. 1 - Suteki ni Standard (Japan)</name>
+    <name>ROM^2カラオケ VOL.1 すてきにスタンダード</name>
     <image>./media/images/ROM^2 Karaoke Vol. 1 - Suteki ni Standard (Japan).png</image>
     <video>./media/videos/ROM^2 Karaoke Vol. 1 - Suteki ni Standard (Japan).mp4</video>
     <marquee>./media/wheel/ROM^2 Karaoke Vol. 1 - Suteki ni Standard (Japan).png</marquee>
   </game>
   <game>
     <path>./ROM^2 Karaoke Vol. 2 - Nattoku Idol (Japan).chd</path>
-    <name>ROM^2 Karaoke Vol. 2 - Nattoku Idol (Japan)</name>
+    <name>ROM^2カラオケ VOL.2 なっとくアイドル</name>
     <image>./media/images/ROM^2 Karaoke Vol. 2 - Nattoku Idol (Japan).png</image>
     <video>./media/videos/ROM^2 Karaoke Vol. 2 - Nattoku Idol (Japan).mp4</video>
     <marquee>./media/wheel/ROM^2 Karaoke Vol. 2 - Nattoku Idol (Japan).png</marquee>
   </game>
   <game>
     <path>./ROM^2 Karaoke Vol. 3 - Yappashi Band (Japan).chd</path>
-    <name>ROM^2 Karaoke Vol. 3 - Yappashi Band (Japan)</name>
+    <name>ROM^2カラオケ VOL.3 やっぱしバンド</name>
     <image>./media/images/ROM^2 Karaoke Vol. 3 - Yappashi Band (Japan).png</image>
     <video>./media/videos/ROM^2 Karaoke Vol. 3 - Yappashi Band (Japan).mp4</video>
     <marquee>./media/wheel/ROM^2 Karaoke Vol. 3 - Yappashi Band (Japan).png</marquee>
   </game>
   <game>
     <path>./ROM^2 Karaoke Vol. 4 - Choito Otona! (Japan).chd</path>
-    <name>ROM^2 Karaoke Vol. 4 - Choito Otona! (Japan)</name>
+    <name>ROM^2カラオケ VOL.4 ちょいとおとな!?</name>
     <image>./media/images/ROM^2 Karaoke Vol. 4 - Choito Otona! (Japan).png</image>
     <video>./media/videos/ROM^2 Karaoke Vol. 4 - Choito Otona! (Japan).mp4</video>
     <marquee>./media/wheel/ROM^2 Karaoke Vol. 4 - Choito Otona! (Japan).png</marquee>
   </game>
   <game>
     <path>./ROM^2 Karaoke Vol. 5 - Karaoke Maku no Uchi (Japan).chd</path>
-    <name>ROM^2 Karaoke Vol. 5 - Karaoke Maku no Uchi (Japan)</name>
+    <name>ROM^2カラオケ VOL.5 カラオケ幕の内</name>
     <image>./media/images/ROM^2 Karaoke Vol. 5 - Karaoke Maku no Uchi (Japan).png</image>
     <video>./media/videos/ROM^2 Karaoke Vol. 5 - Karaoke Maku no Uchi (Japan).mp4</video>
     <marquee>./media/wheel/ROM^2 Karaoke Vol. 5 - Karaoke Maku no Uchi (Japan).png</marquee>
   </game>
   <game>
     <path>./ROM^2 Karaoke Volume 1 (Japan).chd</path>
-    <name>ROM^2 Karaoke Volume 1 (Japan)</name>
+    <name>ROM^2 KARAOKE VOLUME 1</name>
     <image>./media/images/ROM^2 Karaoke Volume 1 (Japan).png</image>
     <video>./media/videos/ROM^2 Karaoke Volume 1 (Japan).mp4</video>
     <marquee>./media/wheel/ROM^2 Karaoke Volume 1 (Japan).png</marquee>
   </game>
   <game>
     <path>./ROM^2 Karaoke Volume 1 (Japan) (Alt).chd</path>
-    <name>ROM^2 Karaoke Volume 1 (Japan) (Alt)</name>
+    <name>ROM^2 KARAOKE VOLUME 1</name>
     <image>./media/images/ROM^2 Karaoke Volume 1 (Japan) (Alt).png</image>
     <video>./media/videos/ROM^2 Karaoke Volume 1 (Japan) (Alt).mp4</video>
     <marquee>./media/wheel/ROM^2 Karaoke Volume 1 (Japan) (Alt).png</marquee>
   </game>
   <game>
     <path>./ROM^2 Karaoke Volume 2 (Japan).chd</path>
-    <name>ROM^2 Karaoke Volume 2 (Japan)</name>
+    <name>ROM^2 KARAOKE VOLUME 2</name>
     <image>./media/images/ROM^2 Karaoke Volume 2 (Japan).png</image>
     <video>./media/videos/ROM^2 Karaoke Volume 2 (Japan).mp4</video>
     <marquee>./media/wheel/ROM^2 Karaoke Volume 2 (Japan).png</marquee>
   </game>
   <game>
     <path>./ROM^2 Karaoke Volume 3 (Japan).chd</path>
-    <name>ROM^2 Karaoke Volume 3 (Japan)</name>
+    <name>ROM^2 KARAOKE VOLUME 3</name>
     <image>./media/images/ROM^2 Karaoke Volume 3 (Japan).png</image>
     <video>./media/videos/ROM^2 Karaoke Volume 3 (Japan).mp4</video>
     <marquee>./media/wheel/ROM^2 Karaoke Volume 3 (Japan).png</marquee>
   </game>
   <game>
     <path>./ROM^2 Karaoke Volume 4 (Japan).chd</path>
-    <name>ROM^2 Karaoke Volume 4 (Japan)</name>
+    <name>ROM^2 KARAOKE VOLUME 4</name>
     <image>./media/images/ROM^2 Karaoke Volume 4 (Japan).png</image>
     <video>./media/videos/ROM^2 Karaoke Volume 4 (Japan).mp4</video>
     <marquee>./media/wheel/ROM^2 Karaoke Volume 4 (Japan).png</marquee>
   </game>
   <game>
     <path>./ROM^2 Karaoke Volume 5 (Japan).chd</path>
-    <name>ROM^2 Karaoke Volume 5 (Japan)</name>
+    <name>ROM^2 KARAOKE VOLUME 5</name>
     <image>./media/images/ROM^2 Karaoke Volume 5 (Japan).png</image>
     <video>./media/videos/ROM^2 Karaoke Volume 5 (Japan).mp4</video>
     <marquee>./media/wheel/ROM^2 Karaoke Volume 5 (Japan).png</marquee>
   </game>
   <game>
     <path>./Rainbow Islands - The Story of Bubble Bobble 2 (Japan).chd</path>
-    <name>Rainbow Islands - The Story of Bubble Bobble 2 (Japan)</name>
+    <name>レインボーアイランド</name>
     <image>./media/images/Rainbow Islands - The Story of Bubble Bobble 2 (Japan).png</image>
     <video>./media/videos/Rainbow Islands - The Story of Bubble Bobble 2 (Japan).mp4</video>
     <marquee>./media/wheel/Rainbow Islands - The Story of Bubble Bobble 2 (Japan).png</marquee>
@@ -2634,28 +2634,28 @@
   </game>
   <game>
     <path>./Rayxanber II (Japan).chd</path>
-    <name>Rayxanber II (Japan)</name>
+    <name>ライザンバーII</name>
     <image>./media/images/Rayxanber II (Japan).png</image>
     <video>./media/videos/Rayxanber II (Japan).mp4</video>
     <marquee>./media/wheel/Rayxanber II (Japan).png</marquee>
   </game>
   <game>
     <path>./Rayxanber III (Japan).chd</path>
-    <name>Rayxanber III (Japan)</name>
+    <name>ライザンバーIII</name>
     <image>./media/images/Rayxanber III (Japan).png</image>
     <video>./media/videos/Rayxanber III (Japan).mp4</video>
     <marquee>./media/wheel/Rayxanber III (Japan).png</marquee>
   </game>
   <game>
     <path>./Record of Lodoss War (Japan).chd</path>
-    <name>Record of Lodoss War (Japan)</name>
+    <name>ロードス島戦記</name>
     <image>./media/images/Record of Lodoss War (Japan).png</image>
     <video>./media/videos/Record of Lodoss War (Japan).mp4</video>
     <marquee>./media/wheel/Record of Lodoss War (Japan).png</marquee>
   </game>
   <game>
     <path>./Record of Lodoss War II (Japan).chd</path>
-    <name>Record of Lodoss War II (Japan)</name>
+    <name>ロードス島戦記II</name>
     <image>./media/images/Record of Lodoss War II (Japan).png</image>
     <video>./media/videos/Record of Lodoss War II (Japan).mp4</video>
     <marquee>./media/wheel/Record of Lodoss War II (Japan).png</marquee>
@@ -2669,7 +2669,7 @@
   </game>
   <game>
     <path>./Red Alert (Japan).chd</path>
-    <name>Red Alert (Japan)</name>
+    <name>レッドアラート</name>
     <image>./media/images/Red Alert (Japan).png</image>
     <video>./media/videos/Red Alert (Japan).mp4</video>
     <marquee>./media/wheel/Red Alert (Japan).png</marquee>
@@ -2697,14 +2697,14 @@
   </game>
   <game>
     <path>./Rising Sun (Japan).chd</path>
-    <name>Rising Sun (Japan)</name>
+    <name>ライジング・サン</name>
     <image>./media/images/Rising Sun (Japan).png</image>
     <video>./media/videos/Rising Sun (Japan).mp4</video>
     <marquee>./media/wheel/Rising Sun (Japan).png</marquee>
   </game>
   <game>
     <path>./Road Spirits (Japan).chd</path>
-    <name>Road Spirits (Japan)</name>
+    <name>ロードスピリッツ</name>
     <image>./media/images/Road Spirits (Japan).png</image>
     <video>./media/videos/Road Spirits (Japan).mp4</video>
     <marquee>./media/wheel/Road Spirits (Japan).png</marquee>
@@ -2725,56 +2725,56 @@
   </game>
   <game>
     <path>./Ryuuko no Ken (Japan) (En,Ja,Es) (FAAT).chd</path>
-    <name>Ryuuko no Ken (Japan) (En,Ja,Es) (FAAT)</name>
+    <name>龍虎の拳</name>
     <image>./media/images/Ryuuko no Ken (Japan) (En,Ja,Es) (FAAT).png</image>
     <video>./media/videos/Ryuuko no Ken (Japan) (En,Ja,Es) (FAAT).mp4</video>
     <marquee>./media/wheel/Ryuuko no Ken (Japan) (En,Ja,Es) (FAAT).png</marquee>
   </game>
   <game>
     <path>./Ryuuko no Ken (Japan) (En,Ja,Es) (FABT).chd</path>
-    <name>Ryuuko no Ken (Japan) (En,Ja,Es) (FABT)</name>
+    <name>龍虎の拳</name>
     <image>./media/images/Ryuuko no Ken (Japan) (En,Ja,Es) (FABT).png</image>
     <video>./media/videos/Ryuuko no Ken (Japan) (En,Ja,Es) (FABT).mp4</video>
     <marquee>./media/wheel/Ryuuko no Ken (Japan) (En,Ja,Es) (FABT).png</marquee>
   </game>
   <game>
     <path>./Ryuuko no Ken (Japan) (En,Ja,Es) (FACT).chd</path>
-    <name>Ryuuko no Ken (Japan) (En,Ja,Es) (FACT)</name>
+    <name>龍虎の拳</name>
     <image>./media/images/Ryuuko no Ken (Japan) (En,Ja,Es) (FACT).png</image>
     <video>./media/videos/Ryuuko no Ken (Japan) (En,Ja,Es) (FACT).mp4</video>
     <marquee>./media/wheel/Ryuuko no Ken (Japan) (En,Ja,Es) (FACT).png</marquee>
   </game>
   <game>
     <path>./Sangokushi - Eiketsu Tenka ni Nozomu (Japan).chd</path>
-    <name>Sangokushi - Eiketsu Tenka ni Nozomu (Japan)</name>
+    <name>三国志 英雄天下に臨む</name>
     <image>./media/images/Sangokushi - Eiketsu Tenka ni Nozomu (Japan).png</image>
     <video>./media/videos/Sangokushi - Eiketsu Tenka ni Nozomu (Japan).mp4</video>
     <marquee>./media/wheel/Sangokushi - Eiketsu Tenka ni Nozomu (Japan).png</marquee>
   </game>
   <game>
     <path>./Sangokushi III (Japan).chd</path>
-    <name>Sangokushi III (Japan)</name>
+    <name>三國志III</name>
     <image>./media/images/Sangokushi III (Japan).png</image>
     <video>./media/videos/Sangokushi III (Japan).mp4</video>
     <marquee>./media/wheel/Sangokushi III (Japan).png</marquee>
   </game>
   <game>
     <path>./Seirei Senshi Spriggan (Japan).chd</path>
-    <name>Seirei Senshi Spriggan (Japan)</name>
+    <name>精霊戦士スプリガン</name>
     <image>./media/images/Seirei Senshi Spriggan (Japan).png</image>
     <video>./media/videos/Seirei Senshi Spriggan (Japan).mp4</video>
     <marquee>./media/wheel/Seirei Senshi Spriggan (Japan).png</marquee>
   </game>
   <game>
     <path>./Seiryuu Densetsu - Monbit (Japan) (Rev 1).chd</path>
-    <name>Seiryuu Densetsu - Monbit (Japan) (Rev 1)</name>
+    <name>聖竜伝説モンビット</name>
     <image>./media/images/Seiryuu Densetsu - Monbit (Japan) (Rev 1).png</image>
     <video>./media/videos/Seiryuu Densetsu - Monbit (Japan) (Rev 1).mp4</video>
     <marquee>./media/wheel/Seiryuu Densetsu - Monbit (Japan) (Rev 1).png</marquee>
   </game>
   <game>
     <path>./Seiryuu Densetsu - Monbit (Japan) (Rev 4).chd</path>
-    <name>Seiryuu Densetsu - Monbit (Japan) (Rev 4)</name>
+    <name>聖竜伝説モンビット</name>
     <image>./media/images/Seiryuu Densetsu - Monbit (Japan) (Rev 4).png</image>
     <video>./media/videos/Seiryuu Densetsu - Monbit (Japan) (Rev 4).mp4</video>
     <marquee>./media/wheel/Seiryuu Densetsu - Monbit (Japan) (Rev 4).png</marquee>
@@ -2788,7 +2788,7 @@
   </game>
   <game>
     <path>./Seiya Monogatari - Anearth Fantasy Stories (Japan).chd</path>
-    <name>Seiya Monogatari - Anearth Fantasy Stories (Japan)</name>
+    <name>聖夜物語 AnEarth Fantasy Stories</name>
     <image>./media/images/Seiya Monogatari - Anearth Fantasy Stories (Japan).png</image>
     <video>./media/videos/Seiya Monogatari - Anearth Fantasy Stories (Japan).mp4</video>
     <marquee>./media/wheel/Seiya Monogatari - Anearth Fantasy Stories (Japan).png</marquee>
@@ -2802,28 +2802,28 @@
   </game>
   <game>
     <path>./Sengoku Kantou Sangokushi (Japan).chd</path>
-    <name>Sengoku Kantou Sangokushi (Japan)</name>
+    <name>戦国関東三国志</name>
     <image>./media/images/Sengoku Kantou Sangokushi (Japan).png</image>
     <video>./media/videos/Sengoku Kantou Sangokushi (Japan).mp4</video>
     <marquee>./media/wheel/Sengoku Kantou Sangokushi (Japan).png</marquee>
   </game>
   <game>
     <path>./Sexy Idol Mahjong (Japan).chd</path>
-    <name>Sexy Idol Mahjong (Japan)</name>
+    <name>セクシーアイドル麻雀</name>
     <image>./media/images/Sexy Idol Mahjong (Japan).png</image>
     <video>./media/videos/Sexy Idol Mahjong (Japan).mp4</video>
     <marquee>./media/wheel/Sexy Idol Mahjong (Japan).png</marquee>
   </game>
   <game>
     <path>./Sexy Idol Mahjong - Fashion Monogatari (Japan).chd</path>
-    <name>Sexy Idol Mahjong - Fashion Monogatari (Japan)</name>
+    <name>セクシーアイドル麻雀 ファッション物語</name>
     <image>./media/images/Sexy Idol Mahjong - Fashion Monogatari (Japan).png</image>
     <video>./media/videos/Sexy Idol Mahjong - Fashion Monogatari (Japan).mp4</video>
     <marquee>./media/wheel/Sexy Idol Mahjong - Fashion Monogatari (Japan).png</marquee>
   </game>
   <game>
     <path>./Sexy Idol Mahjong - Yakyuuken no Uta (Japan).chd</path>
-    <name>Sexy Idol Mahjong - Yakyuuken no Uta (Japan)</name>
+    <name>セクシーアイドル麻雀 野球拳の詩</name>
     <image>./media/images/Sexy Idol Mahjong - Yakyuuken no Uta (Japan).png</image>
     <video>./media/videos/Sexy Idol Mahjong - Yakyuuken no Uta (Japan).mp4</video>
     <marquee>./media/wheel/Sexy Idol Mahjong - Yakyuuken no Uta (Japan).png</marquee>
@@ -2844,7 +2844,7 @@
   </game>
   <game>
     <path>./Shanghai II (Japan).chd</path>
-    <name>Shanghai II (Japan)</name>
+    <name>上海II</name>
     <image>./media/images/Shanghai II (Japan).png</image>
     <video>./media/videos/Shanghai II (Japan).mp4</video>
     <marquee>./media/wheel/Shanghai II (Japan).png</marquee>
@@ -2858,7 +2858,7 @@
   </game>
   <game>
     <path>./Sherlock Holmes - Consulting Detective (Japan).chd</path>
-    <name>Sherlock Holmes - Consulting Detective (Japan)</name>
+    <name>シャーロック・ホームズの探偵講座</name>
     <image>./media/images/Sherlock Holmes - Consulting Detective (Japan).png</image>
     <video>./media/videos/Sherlock Holmes - Consulting Detective (Japan).mp4</video>
     <marquee>./media/wheel/Sherlock Holmes - Consulting Detective (Japan).png</marquee>
@@ -2879,21 +2879,21 @@
   </game>
   <game>
     <path>./Sherlock Holmes - Consulting Detective Vol. II (Japan).chd</path>
-    <name>Sherlock Holmes - Consulting Detective Vol. II (Japan)</name>
+    <name>シャーロック・ホームズの探偵講座II</name>
     <image>./media/images/Sherlock Holmes - Consulting Detective Vol. II (Japan).png</image>
     <video>./media/videos/Sherlock Holmes - Consulting Detective Vol. II (Japan).mp4</video>
     <marquee>./media/wheel/Sherlock Holmes - Consulting Detective Vol. II (Japan).png</marquee>
   </game>
   <game>
     <path>./Shiawase Usagi - Nureta Bishoujo - Hajimete Nanoni... (Japan) (Unl).chd</path>
-    <name>Shiawase Usagi - Nureta Bishoujo - Hajimete Nanoni... (Japan) (Unl)</name>
+    <name>しあわせうさぎ 濡れた美少女 初めてなのに…</name>
     <image>./media/images/Shiawase Usagi - Nureta Bishoujo - Hajimete Nanoni... (Japan) (Unl).png</image>
     <video>./media/videos/Shiawase Usagi - Nureta Bishoujo - Hajimete Nanoni... (Japan) (Unl).mp4</video>
     <marquee>./media/wheel/Shiawase Usagi - Nureta Bishoujo - Hajimete Nanoni... (Japan) (Unl).png</marquee>
   </game>
   <game>
     <path>./Shiawase Usagi II - Toraware Usagi Sailor Z (Japan) (Unl).chd</path>
-    <name>Shiawase Usagi II - Toraware Usagi Sailor Z (Japan) (Unl)</name>
+    <name>しあわせうさぎII とらわれうさぎ セーラーZ</name>
     <image>./media/images/Shiawase Usagi II - Toraware Usagi Sailor Z (Japan) (Unl).png</image>
     <video>./media/videos/Shiawase Usagi II - Toraware Usagi Sailor Z (Japan) (Unl).mp4</video>
     <marquee>./media/wheel/Shiawase Usagi II - Toraware Usagi Sailor Z (Japan) (Unl).png</marquee>
@@ -2921,14 +2921,14 @@
   </game>
   <game>
     <path>./Shinsetsu Shiawase Usagi (Japan).chd</path>
-    <name>Shinsetsu Shiawase Usagi (Japan)</name>
+    <name>真説しあわせうさぎ</name>
     <image>./media/images/Shinsetsu Shiawase Usagi (Japan).png</image>
     <video>./media/videos/Shinsetsu Shiawase Usagi (Japan).mp4</video>
     <marquee>./media/wheel/Shinsetsu Shiawase Usagi (Japan).png</marquee>
   </game>
   <game>
     <path>./Shinsetsu Shiawase Usagi 2 - Kairaku e no Invitation (Japan) (Unl).chd</path>
-    <name>Shinsetsu Shiawase Usagi 2 - Kairaku e no Invitation (Japan) (Unl)</name>
+    <name>真説しあわせうさぎ2 快楽へのインビテーション</name>
     <image>./media/images/Shinsetsu Shiawase Usagi 2 - Kairaku e no Invitation (Japan) (Unl).png</image>
     <video>./media/videos/Shinsetsu Shiawase Usagi 2 - Kairaku e no Invitation (Japan) (Unl).mp4</video>
     <marquee>./media/wheel/Shinsetsu Shiawase Usagi 2 - Kairaku e no Invitation (Japan) (Unl).png</marquee>
@@ -2942,7 +2942,7 @@
   </game>
   <game>
     <path>./SimEarth - The Living Planet (Japan).chd</path>
-    <name>SimEarth - The Living Planet (Japan)</name>
+    <name>シムアース</name>
     <image>./media/images/SimEarth - The Living Planet (Japan).png</image>
     <video>./media/videos/SimEarth - The Living Planet (Japan).mp4</video>
     <marquee>./media/wheel/SimEarth - The Living Planet (Japan).png</marquee>
@@ -2977,77 +2977,77 @@
   </game>
   <game>
     <path>./Sol Bianca (Japan).chd</path>
-    <name>Sol Bianca (Japan)</name>
+    <name>ソル・ビアンカ</name>
     <image>./media/images/Sol Bianca (Japan).png</image>
     <video>./media/videos/Sol Bianca (Japan).mp4</video>
     <marquee>./media/wheel/Sol Bianca (Japan).png</marquee>
   </game>
   <game>
     <path>./Sol Moonarge (Japan).chd</path>
-    <name>Sol Moonarge (Japan)</name>
+    <name>ソル・モナージュ</name>
     <image>./media/images/Sol Moonarge (Japan).png</image>
     <video>./media/videos/Sol Moonarge (Japan).mp4</video>
     <marquee>./media/wheel/Sol Moonarge (Japan).png</marquee>
   </game>
   <game>
     <path>./Solid Force (Japan).chd</path>
-    <name>Solid Force (Japan)</name>
+    <name>ソリッドフォース</name>
     <image>./media/images/Solid Force (Japan).png</image>
     <video>./media/videos/Solid Force (Japan).mp4</video>
     <marquee>./media/wheel/Solid Force (Japan).png</marquee>
   </game>
   <game>
     <path>./Sorcerian (Japan).chd</path>
-    <name>Sorcerian (Japan)</name>
+    <name>ソーサリアン</name>
     <image>./media/images/Sorcerian (Japan).png</image>
     <video>./media/videos/Sorcerian (Japan).mp4</video>
     <marquee>./media/wheel/Sorcerian (Japan).png</marquee>
   </game>
   <game>
     <path>./Sotsugyou - Graduation (Japan).chd</path>
-    <name>Sotsugyou - Graduation (Japan)</name>
+    <name>卒業 Graduation</name>
     <image>./media/images/Sotsugyou - Graduation (Japan).png</image>
     <video>./media/videos/Sotsugyou - Graduation (Japan).mp4</video>
     <marquee>./media/wheel/Sotsugyou - Graduation (Japan).png</marquee>
   </game>
   <game>
     <path>./Sotsugyou - Graduation (Japan) (Rev 1).chd</path>
-    <name>Sotsugyou - Graduation (Japan) (Rev 1)</name>
+    <name>卒業 Graduation</name>
     <image>./media/images/Sotsugyou - Graduation (Japan) (Rev 1).png</image>
     <video>./media/videos/Sotsugyou - Graduation (Japan) (Rev 1).mp4</video>
     <marquee>./media/wheel/Sotsugyou - Graduation (Japan) (Rev 1).png</marquee>
   </game>
   <game>
     <path>./Sotsugyou II - Neo Generation (Japan).chd</path>
-    <name>Sotsugyou II - Neo Generation (Japan)</name>
+    <name>卒業II Neo Generation</name>
     <image>./media/images/Sotsugyou II - Neo Generation (Japan).png</image>
     <video>./media/videos/Sotsugyou II - Neo Generation (Japan).mp4</video>
     <marquee>./media/wheel/Sotsugyou II - Neo Generation (Japan).png</marquee>
   </game>
   <game>
     <path>./Sotsugyou Shashin - Miki (Japan).chd</path>
-    <name>Sotsugyou Shashin - Miki (Japan)</name>
+    <name>卒業写真 美姫</name>
     <image>./media/images/Sotsugyou Shashin - Miki (Japan).png</image>
     <video>./media/videos/Sotsugyou Shashin - Miki (Japan).mp4</video>
     <marquee>./media/wheel/Sotsugyou Shashin - Miki (Japan).png</marquee>
   </game>
   <game>
     <path>./Space Adventure Cobra - Kokuryuuou no Densetsu (Japan).chd</path>
-    <name>Space Adventure Cobra - Kokuryuuou no Densetsu (Japan)</name>
+    <name>コブラ 黒竜王の伝説</name>
     <image>./media/images/Space Adventure Cobra - Kokuryuuou no Densetsu (Japan).png</image>
     <video>./media/videos/Space Adventure Cobra - Kokuryuuou no Densetsu (Japan).mp4</video>
     <marquee>./media/wheel/Space Adventure Cobra - Kokuryuuou no Densetsu (Japan).png</marquee>
   </game>
   <game>
     <path>./Space Adventure Cobra II - Densetsu no Otoko (Japan).chd</path>
-    <name>Space Adventure Cobra II - Densetsu no Otoko (Japan)</name>
+    <name>コブラII 伝説の男</name>
     <image>./media/images/Space Adventure Cobra II - Densetsu no Otoko (Japan).png</image>
     <video>./media/videos/Space Adventure Cobra II - Densetsu no Otoko (Japan).mp4</video>
     <marquee>./media/wheel/Space Adventure Cobra II - Densetsu no Otoko (Japan).png</marquee>
   </game>
   <game>
     <path>./Space Invaders - The Original Game (Japan).chd</path>
-    <name>Space Invaders - The Original Game (Japan)</name>
+    <name>スペースインベーダー ジ・オリジナルゲーム</name>
     <image>./media/images/Space Invaders - The Original Game (Japan).png</image>
     <video>./media/videos/Space Invaders - The Original Game (Japan).mp4</video>
     <marquee>./media/wheel/Space Invaders - The Original Game (Japan).png</marquee>
@@ -3061,7 +3061,7 @@
   </game>
   <game>
     <path>./Splash Lake - Ostrich Daibouken (Japan).chd</path>
-    <name>Splash Lake - Ostrich Daibouken (Japan)</name>
+    <name>スプラッシュレイク</name>
     <image>./media/images/Splash Lake - Ostrich Daibouken (Japan).png</image>
     <video>./media/videos/Splash Lake - Ostrich Daibouken (Japan).mp4</video>
     <marquee>./media/wheel/Splash Lake - Ostrich Daibouken (Japan).png</marquee>
@@ -3089,21 +3089,21 @@
   </game>
   <game>
     <path>./Star Parodier (Japan).chd</path>
-    <name>Star Parodier (Japan)</name>
+    <name>スターパロジャー</name>
     <image>./media/images/Star Parodier (Japan).png</image>
     <video>./media/videos/Star Parodier (Japan).mp4</video>
     <marquee>./media/wheel/Star Parodier (Japan).png</marquee>
   </game>
   <game>
     <path>./Startling Odyssey (Japan).chd</path>
-    <name>Startling Odyssey (Japan)</name>
+    <name>スターリング・オデッセイ</name>
     <image>./media/images/Startling Odyssey (Japan).png</image>
     <video>./media/videos/Startling Odyssey (Japan).mp4</video>
     <marquee>./media/wheel/Startling Odyssey (Japan).png</marquee>
   </game>
   <game>
     <path>./Startling Odyssey II - Maryuu Sensou (Japan).chd</path>
-    <name>Startling Odyssey II - Maryuu Sensou (Japan)</name>
+    <name>スターリング・オデッセイII 魔竜戦争</name>
     <image>./media/images/Startling Odyssey II - Maryuu Sensou (Japan).png</image>
     <video>./media/videos/Startling Odyssey II - Maryuu Sensou (Japan).mp4</video>
     <marquee>./media/wheel/Startling Odyssey II - Maryuu Sensou (Japan).png</marquee>
@@ -3124,7 +3124,7 @@
   </game>
   <game>
     <path>./Strider Hiryuu (Japan).chd</path>
-    <name>Strider Hiryuu (Japan)</name>
+    <name>ストライダー飛竜</name>
     <image>./media/images/Strider Hiryuu (Japan).png</image>
     <video>./media/videos/Strider Hiryuu (Japan).mp4</video>
     <marquee>./media/wheel/Strider Hiryuu (Japan).png</marquee>
@@ -3138,14 +3138,14 @@
   </game>
   <game>
     <path>./Summer Carnival '92 - Alzadick (Japan).chd</path>
-    <name>Summer Carnival '92 - Alzadick (Japan)</name>
+    <name>サマーカーニバル'92 アルザディック</name>
     <image>./media/images/Summer Carnival '92 - Alzadick (Japan).png</image>
     <video>./media/videos/Summer Carnival '92 - Alzadick (Japan).mp4</video>
     <marquee>./media/wheel/Summer Carnival '92 - Alzadick (Japan).png</marquee>
   </game>
   <game>
     <path>./Summer Carnival '93 - NEXZR Special (Japan).chd</path>
-    <name>Summer Carnival '93 - NEXZR Special (Japan)</name>
+    <name>サマーカーニバル'93 ネクスザールスペシャル</name>
     <image>./media/images/Summer Carnival '93 - NEXZR Special (Japan).png</image>
     <video>./media/videos/Summer Carnival '93 - NEXZR Special (Japan).mp4</video>
     <marquee>./media/wheel/Summer Carnival '93 - NEXZR Special (Japan).png</marquee>
@@ -3173,84 +3173,84 @@
   </game>
   <game>
     <path>./Super Daisenryaku (Japan).chd</path>
-    <name>Super Daisenryaku (Japan)</name>
+    <name>スーパー大戦略</name>
     <image>./media/images/Super Daisenryaku (Japan).png</image>
     <video>./media/videos/Super Daisenryaku (Japan).mp4</video>
     <marquee>./media/wheel/Super Daisenryaku (Japan).png</marquee>
   </game>
   <game>
     <path>./Super Darius (Japan).chd</path>
-    <name>Super Darius (Japan)</name>
+    <name>スーパーダライアス</name>
     <image>./media/images/Super Darius (Japan).png</image>
     <video>./media/videos/Super Darius (Japan).mp4</video>
     <marquee>./media/wheel/Super Darius (Japan).png</marquee>
   </game>
   <game>
     <path>./Super Darius (Japan) (Alt).chd</path>
-    <name>Super Darius (Japan) (Alt)</name>
+    <name>スーパーダライアス</name>
     <image>./media/images/Super Darius (Japan) (Alt).png</image>
     <video>./media/videos/Super Darius (Japan) (Alt).mp4</video>
     <marquee>./media/wheel/Super Darius (Japan) (Alt).png</marquee>
   </game>
   <game>
     <path>./Super Darius II (Japan).chd</path>
-    <name>Super Darius II (Japan)</name>
+    <name>スーパーダライアスII</name>
     <image>./media/images/Super Darius II (Japan).png</image>
     <video>./media/videos/Super Darius II (Japan).mp4</video>
     <marquee>./media/wheel/Super Darius II (Japan).png</marquee>
   </game>
   <game>
     <path>./Super Mahjong Taikai (Japan).chd</path>
-    <name>Super Mahjong Taikai (Japan)</name>
+    <name>スーパー麻雀大会</name>
     <image>./media/images/Super Mahjong Taikai (Japan).png</image>
     <video>./media/videos/Super Mahjong Taikai (Japan).mp4</video>
     <marquee>./media/wheel/Super Mahjong Taikai (Japan).png</marquee>
   </game>
   <game>
     <path>./Super Raiden (Japan).chd</path>
-    <name>Super Raiden (Japan)</name>
+    <name>スーパー雷電</name>
     <image>./media/images/Super Raiden (Japan).png</image>
     <video>./media/videos/Super Raiden (Japan).mp4</video>
     <marquee>./media/wheel/Super Raiden (Japan).png</marquee>
   </game>
   <game>
     <path>./Super Real Mahjong P.V Custom (Japan).chd</path>
-    <name>Super Real Mahjong P.V Custom (Japan)</name>
+    <name>スーパーリアル麻雀P.V カスタム</name>
     <image>./media/images/Super Real Mahjong P.V Custom (Japan).png</image>
     <video>./media/videos/Super Real Mahjong P.V Custom (Japan).mp4</video>
     <marquee>./media/wheel/Super Real Mahjong P.V Custom (Japan).png</marquee>
   </game>
   <game>
     <path>./Super Real Mahjong PII-III Custom (Japan).chd</path>
-    <name>Super Real Mahjong PII-III Custom (Japan)</name>
+    <name>スーパーリアル麻雀PII・III カスタム</name>
     <image>./media/images/Super Real Mahjong PII-III Custom (Japan).png</image>
     <video>./media/videos/Super Real Mahjong PII-III Custom (Japan).mp4</video>
     <marquee>./media/wheel/Super Real Mahjong PII-III Custom (Japan).png</marquee>
   </game>
   <game>
     <path>./Super Real Mahjong PIV Custom (Japan).chd</path>
-    <name>Super Real Mahjong PIV Custom (Japan)</name>
+    <name>スーパーリアル麻雀PIV カスタム</name>
     <image>./media/images/Super Real Mahjong PIV Custom (Japan).png</image>
     <video>./media/videos/Super Real Mahjong PIV Custom (Japan).mp4</video>
     <marquee>./media/wheel/Super Real Mahjong PIV Custom (Japan).png</marquee>
   </game>
   <game>
     <path>./Super Real Mahjong Special - Miki Kasumi Shouko no Omoide yori (Japan).chd</path>
-    <name>Super Real Mahjong Special - Miki Kasumi Shouko no Omoide yori (Japan)</name>
+    <name>スーパーリアル麻雀スペシャル ミキ・カスミ・ショウコの思い出より</name>
     <image>./media/images/Super Real Mahjong Special - Miki Kasumi Shouko no Omoide yori (Japan).png</image>
     <video>./media/videos/Super Real Mahjong Special - Miki Kasumi Shouko no Omoide yori (Japan).mp4</video>
     <marquee>./media/wheel/Super Real Mahjong Special - Miki Kasumi Shouko no Omoide yori (Japan).png</marquee>
   </game>
   <game>
     <path>./Super Schwarzschild (Japan).chd</path>
-    <name>Super Schwarzschild (Japan)</name>
+    <name>スーパーシュヴァルツシルト</name>
     <image>./media/images/Super Schwarzschild (Japan).png</image>
     <video>./media/videos/Super Schwarzschild (Japan).mp4</video>
     <marquee>./media/wheel/Super Schwarzschild (Japan).png</marquee>
   </game>
   <game>
     <path>./Super Schwarzschild 2 (Japan).chd</path>
-    <name>Super Schwarzschild 2 (Japan)</name>
+    <name>スーパーシュヴァルツシルト2</name>
     <image>./media/images/Super Schwarzschild 2 (Japan).png</image>
     <video>./media/videos/Super Schwarzschild 2 (Japan).mp4</video>
     <marquee>./media/wheel/Super Schwarzschild 2 (Japan).png</marquee>
@@ -3264,7 +3264,7 @@
   </game>
   <game>
     <path>./Sword Master (Japan).chd</path>
-    <name>Sword Master (Japan)</name>
+    <name>ソードマスター</name>
     <image>./media/images/Sword Master (Japan).png</image>
     <video>./media/videos/Sword Master (Japan).mp4</video>
     <marquee>./media/wheel/Sword Master (Japan).png</marquee>
@@ -3285,21 +3285,21 @@
   </game>
   <game>
     <path>./TV Show, The (Japan).chd</path>
-    <name>TV Show, The (Japan)</name>
+    <name>ザ・ティーヴィーショー</name>
     <image>./media/images/TV Show, The (Japan).png</image>
     <video>./media/videos/TV Show, The (Japan).mp4</video>
     <marquee>./media/wheel/TV Show, The (Japan).png</marquee>
   </game>
   <game>
     <path>./Tadaima Yuusha Boshuu-chuu (Japan).chd</path>
-    <name>Tadaima Yuusha Boshuu-chuu (Japan)</name>
+    <name>ただいま勇者募集中</name>
     <image>./media/images/Tadaima Yuusha Boshuu-chuu (Japan).png</image>
     <video>./media/videos/Tadaima Yuusha Boshuu-chuu (Japan).mp4</video>
     <marquee>./media/wheel/Tadaima Yuusha Boshuu-chuu (Japan).png</marquee>
   </game>
   <game>
     <path>./Taiheiki (Japan).chd</path>
-    <name>Taiheiki (Japan)</name>
+    <name>太平記</name>
     <image>./media/images/Taiheiki (Japan).png</image>
     <video>./media/videos/Taiheiki (Japan).mp4</video>
     <marquee>./media/wheel/Taiheiki (Japan).png</marquee>
@@ -3327,35 +3327,35 @@
   </game>
   <game>
     <path>./Tenchi o Kurau (Japan).chd</path>
-    <name>Tenchi o Kurau (Japan)</name>
+    <name>天地を喰らう</name>
     <image>./media/images/Tenchi o Kurau (Japan).png</image>
     <video>./media/videos/Tenchi o Kurau (Japan).mp4</video>
     <marquee>./media/wheel/Tenchi o Kurau (Japan).png</marquee>
   </game>
   <game>
     <path>./Tengai Makyou - Deden no Kabuki-den (Japan).chd</path>
-    <name>Tengai Makyou - Deden no Kabuki-den (Japan)</name>
+    <name>天外魔境 電々の伝 カブキ伝</name>
     <image>./media/images/Tengai Makyou - Deden no Kabuki-den (Japan).png</image>
     <video>./media/videos/Tengai Makyou - Deden no Kabuki-den (Japan).mp4</video>
     <marquee>./media/wheel/Tengai Makyou - Deden no Kabuki-den (Japan).png</marquee>
   </game>
   <game>
     <path>./Tenshi no Uta (Japan).chd</path>
-    <name>Tenshi no Uta (Japan)</name>
+    <name>天使の詩</name>
     <image>./media/images/Tenshi no Uta (Japan).png</image>
     <video>./media/videos/Tenshi no Uta (Japan).mp4</video>
     <marquee>./media/wheel/Tenshi no Uta (Japan).png</marquee>
   </game>
   <game>
     <path>./Tenshi no Uta II - Datenshi no Sentaku (Japan).chd</path>
-    <name>Tenshi no Uta II - Datenshi no Sentaku (Japan)</name>
+    <name>天使の詩II 堕天使の選択</name>
     <image>./media/images/Tenshi no Uta II - Datenshi no Sentaku (Japan).png</image>
     <video>./media/videos/Tenshi no Uta II - Datenshi no Sentaku (Japan).mp4</video>
     <marquee>./media/wheel/Tenshi no Uta II - Datenshi no Sentaku (Japan).png</marquee>
   </game>
   <game>
     <path>./TerraForming (Japan).chd</path>
-    <name>TerraForming (Japan)</name>
+    <name>テラフォーミング</name>
     <image>./media/images/TerraForming (Japan).png</image>
     <video>./media/videos/TerraForming (Japan).mp4</video>
     <marquee>./media/wheel/TerraForming (Japan).png</marquee>
@@ -3369,42 +3369,42 @@
   </game>
   <game>
     <path>./Tokimeki Memorial (Japan).chd</path>
-    <name>Tokimeki Memorial (Japan)</name>
+    <name>ときめきメモリアル</name>
     <image>./media/images/Tokimeki Memorial (Japan).png</image>
     <video>./media/videos/Tokimeki Memorial (Japan).mp4</video>
     <marquee>./media/wheel/Tokimeki Memorial (Japan).png</marquee>
   </game>
   <game>
     <path>./Tokimeki Memorial (Japan) (Rev 1).chd</path>
-    <name>Tokimeki Memorial (Japan) (Rev 1)</name>
+    <name>ときめきメモリアル</name>
     <image>./media/images/Tokimeki Memorial (Japan) (Rev 1).png</image>
     <video>./media/videos/Tokimeki Memorial (Japan) (Rev 1).mp4</video>
     <marquee>./media/wheel/Tokimeki Memorial (Japan) (Rev 1).png</marquee>
   </game>
   <game>
     <path>./Tokimeki Memorial (Japan) (Rev 2) (FABT).chd</path>
-    <name>Tokimeki Memorial (Japan) (Rev 2) (FABT)</name>
+    <name>ときめきメモリアル</name>
     <image>./media/images/Tokimeki Memorial (Japan) (Rev 2) (FABT).png</image>
     <video>./media/videos/Tokimeki Memorial (Japan) (Rev 2) (FABT).mp4</video>
     <marquee>./media/wheel/Tokimeki Memorial (Japan) (Rev 2) (FABT).png</marquee>
   </game>
   <game>
     <path>./Tokimeki Memorial (Japan) (Rev 3).chd</path>
-    <name>Tokimeki Memorial (Japan) (Rev 3)</name>
+    <name>ときめきメモリアル</name>
     <image>./media/images/Tokimeki Memorial (Japan) (Rev 3).png</image>
     <video>./media/videos/Tokimeki Memorial (Japan) (Rev 3).mp4</video>
     <marquee>./media/wheel/Tokimeki Memorial (Japan) (Rev 3).png</marquee>
   </game>
   <game>
     <path>./Top o Nerae! GunBuster Vol. 1 (Japan).chd</path>
-    <name>Top o Nerae! GunBuster Vol. 1 (Japan)</name>
+    <name>トップをねらえ! GunBuster Vol.1</name>
     <image>./media/images/Top o Nerae! GunBuster Vol. 1 (Japan).png</image>
     <video>./media/videos/Top o Nerae! GunBuster Vol. 1 (Japan).mp4</video>
     <marquee>./media/wheel/Top o Nerae! GunBuster Vol. 1 (Japan).png</marquee>
   </game>
   <game>
     <path>./Top o Nerae! GunBuster Vol. 2 (Japan).chd</path>
-    <name>Top o Nerae! GunBuster Vol. 2 (Japan)</name>
+    <name>トップをねらえ! GunBuster Vol.2</name>
     <image>./media/images/Top o Nerae! GunBuster Vol. 2 (Japan).png</image>
     <video>./media/videos/Top o Nerae! GunBuster Vol. 2 (Japan).mp4</video>
     <marquee>./media/wheel/Top o Nerae! GunBuster Vol. 2 (Japan).png</marquee>
@@ -3425,49 +3425,49 @@
   </game>
   <game>
     <path>./Uchuu Senkan Yamato (Japan).chd</path>
-    <name>Uchuu Senkan Yamato (Japan)</name>
+    <name>宇宙戦艦ヤマト</name>
     <image>./media/images/Uchuu Senkan Yamato (Japan).png</image>
     <video>./media/videos/Uchuu Senkan Yamato (Japan).mp4</video>
     <marquee>./media/wheel/Uchuu Senkan Yamato (Japan).png</marquee>
   </game>
   <game>
     <path>./Ultra Box 2-gou (Japan).chd</path>
-    <name>Ultra Box 2-gou (Japan)</name>
+    <name>ウルトラボックス2号</name>
     <image>./media/images/Ultra Box 2-gou (Japan).png</image>
     <video>./media/videos/Ultra Box 2-gou (Japan).mp4</video>
     <marquee>./media/wheel/Ultra Box 2-gou (Japan).png</marquee>
   </game>
   <game>
     <path>./Ultra Box 3-gou (Japan).chd</path>
-    <name>Ultra Box 3-gou (Japan)</name>
+    <name>ウルトラボックス3号</name>
     <image>./media/images/Ultra Box 3-gou (Japan).png</image>
     <video>./media/videos/Ultra Box 3-gou (Japan).mp4</video>
     <marquee>./media/wheel/Ultra Box 3-gou (Japan).png</marquee>
   </game>
   <game>
     <path>./Ultra Box 4-gou (Japan).chd</path>
-    <name>Ultra Box 4-gou (Japan)</name>
+    <name>ウルトラボックス4号</name>
     <image>./media/images/Ultra Box 4-gou (Japan).png</image>
     <video>./media/videos/Ultra Box 4-gou (Japan).mp4</video>
     <marquee>./media/wheel/Ultra Box 4-gou (Japan).png</marquee>
   </game>
   <game>
     <path>./Ultra Box 5-gou (Japan).chd</path>
-    <name>Ultra Box 5-gou (Japan)</name>
+    <name>ウルトラボックス5号</name>
     <image>./media/images/Ultra Box 5-gou (Japan).png</image>
     <video>./media/videos/Ultra Box 5-gou (Japan).mp4</video>
     <marquee>./media/wheel/Ultra Box 5-gou (Japan).png</marquee>
   </game>
   <game>
     <path>./Ultra Box 6-gou (Japan).chd</path>
-    <name>Ultra Box 6-gou (Japan)</name>
+    <name>ウルトラボックス6号</name>
     <image>./media/images/Ultra Box 6-gou (Japan).png</image>
     <video>./media/videos/Ultra Box 6-gou (Japan).mp4</video>
     <marquee>./media/wheel/Ultra Box 6-gou (Japan).png</marquee>
   </game>
   <game>
     <path>./Ultra Box Soukan-gou (Japan).chd</path>
-    <name>Ultra Box Soukan-gou (Japan)</name>
+    <name>ウルトラボックス創刊号</name>
     <image>./media/images/Ultra Box Soukan-gou (Japan).png</image>
     <video>./media/videos/Ultra Box Soukan-gou (Japan).mp4</video>
     <marquee>./media/wheel/Ultra Box Soukan-gou (Japan).png</marquee>
@@ -3481,21 +3481,21 @@
   </game>
   <game>
     <path>./Valis II (Japan).chd</path>
-    <name>Valis II (Japan)</name>
+    <name>ヴァリスII</name>
     <image>./media/images/Valis II (Japan).png</image>
     <video>./media/videos/Valis II (Japan).mp4</video>
     <marquee>./media/wheel/Valis II (Japan).png</marquee>
   </game>
   <game>
     <path>./Valis II (Japan) (Alt 1).chd</path>
-    <name>Valis II (Japan) (Alt 1)</name>
+    <name>ヴァリスII</name>
     <image>./media/images/Valis II (Japan) (Alt 1).png</image>
     <video>./media/videos/Valis II (Japan) (Alt 1).mp4</video>
     <marquee>./media/wheel/Valis II (Japan) (Alt 1).png</marquee>
   </game>
   <game>
     <path>./Valis II (Japan) (Alt 2).chd</path>
-    <name>Valis II (Japan) (Alt 2)</name>
+    <name>ヴァリスII</name>
     <image>./media/images/Valis II (Japan) (Alt 2).png</image>
     <video>./media/videos/Valis II (Japan) (Alt 2).mp4</video>
     <marquee>./media/wheel/Valis II (Japan) (Alt 2).png</marquee>
@@ -3509,14 +3509,14 @@
   </game>
   <game>
     <path>./Valis III (Japan).chd</path>
-    <name>Valis III (Japan)</name>
+    <name>ヴァリスIII</name>
     <image>./media/images/Valis III (Japan).png</image>
     <video>./media/videos/Valis III (Japan).mp4</video>
     <marquee>./media/wheel/Valis III (Japan).png</marquee>
   </game>
   <game>
     <path>./Valis III (Japan) (Alt).chd</path>
-    <name>Valis III (Japan) (Alt)</name>
+    <name>ヴァリスIII</name>
     <image>./media/images/Valis III (Japan) (Alt).png</image>
     <video>./media/videos/Valis III (Japan) (Alt).mp4</video>
     <marquee>./media/wheel/Valis III (Japan) (Alt).png</marquee>
@@ -3530,14 +3530,14 @@
   </game>
   <game>
     <path>./Valis IV (Japan).chd</path>
-    <name>Valis IV (Japan)</name>
+    <name>ヴァリスIV</name>
     <image>./media/images/Valis IV (Japan).png</image>
     <video>./media/videos/Valis IV (Japan).mp4</video>
     <marquee>./media/wheel/Valis IV (Japan).png</marquee>
   </game>
   <game>
     <path>./Vasteel (Japan).chd</path>
-    <name>Vasteel (Japan)</name>
+    <name>バスティール</name>
     <image>./media/images/Vasteel (Japan).png</image>
     <video>./media/videos/Vasteel (Japan).mp4</video>
     <marquee>./media/wheel/Vasteel (Japan).png</marquee>
@@ -3551,14 +3551,14 @@
   </game>
   <game>
     <path>./Vasteel 2 (Japan).chd</path>
-    <name>Vasteel 2 (Japan)</name>
+    <name>バスティール2</name>
     <image>./media/images/Vasteel 2 (Japan).png</image>
     <video>./media/videos/Vasteel 2 (Japan).mp4</video>
     <marquee>./media/wheel/Vasteel 2 (Japan).png</marquee>
   </game>
   <game>
     <path>./Virgin Dream (Japan).chd</path>
-    <name>Virgin Dream (Japan)</name>
+    <name>ヴァージン・ドリーム</name>
     <image>./media/images/Virgin Dream (Japan).png</image>
     <video>./media/videos/Virgin Dream (Japan).mp4</video>
     <marquee>./media/wheel/Virgin Dream (Japan).png</marquee>
@@ -3572,49 +3572,49 @@
   </game>
   <game>
     <path>./Winds of Thunder (Japan).chd</path>
-    <name>Winds of Thunder (Japan)</name>
+    <name>ウィンズ・オブ・サンダー</name>
     <image>./media/images/Winds of Thunder (Japan).png</image>
     <video>./media/videos/Winds of Thunder (Japan).mp4</video>
     <marquee>./media/wheel/Winds of Thunder (Japan).png</marquee>
   </game>
   <game>
     <path>./Wizardry I, II (Japan).chd</path>
-    <name>Wizardry I, II (Japan)</name>
+    <name>ウィザードリィI・II</name>
     <image>./media/images/Wizardry I, II (Japan).png</image>
     <video>./media/videos/Wizardry I, II (Japan).mp4</video>
     <marquee>./media/wheel/Wizardry I, II (Japan).png</marquee>
   </game>
   <game>
     <path>./Wizardry III, IV (Japan).chd</path>
-    <name>Wizardry III, IV (Japan)</name>
+    <name>ウィザードリィIII・IV</name>
     <image>./media/images/Wizardry III, IV (Japan).png</image>
     <video>./media/videos/Wizardry III, IV (Japan).mp4</video>
     <marquee>./media/wheel/Wizardry III, IV (Japan).png</marquee>
   </game>
   <game>
     <path>./Wizardry V - Heart of the Maelstrom (Japan).chd</path>
-    <name>Wizardry V - Heart of the Maelstrom (Japan)</name>
+    <name>ウィザードリィV</name>
     <image>./media/images/Wizardry V - Heart of the Maelstrom (Japan).png</image>
     <video>./media/videos/Wizardry V - Heart of the Maelstrom (Japan).mp4</video>
     <marquee>./media/wheel/Wizardry V - Heart of the Maelstrom (Japan).png</marquee>
   </game>
   <game>
     <path>./Wonder Boy III - Monster Lair (Japan) (Rev 3).chd</path>
-    <name>Wonder Boy III - Monster Lair (Japan) (Rev 3)</name>
+    <name>ワンダーボーイIII モンスター・レアー</name>
     <image>./media/images/Wonder Boy III - Monster Lair (Japan) (Rev 3).png</image>
     <video>./media/videos/Wonder Boy III - Monster Lair (Japan) (Rev 3).mp4</video>
     <marquee>./media/wheel/Wonder Boy III - Monster Lair (Japan) (Rev 3).png</marquee>
   </game>
   <game>
     <path>./Wonder Boy III - Monster Lair (Japan) (Rev 4).chd</path>
-    <name>Wonder Boy III - Monster Lair (Japan) (Rev 4)</name>
+    <name>ワンダーボーイIII モンスター・レアー</name>
     <image>./media/images/Wonder Boy III - Monster Lair (Japan) (Rev 4).png</image>
     <video>./media/videos/Wonder Boy III - Monster Lair (Japan) (Rev 4).mp4</video>
     <marquee>./media/wheel/Wonder Boy III - Monster Lair (Japan) (Rev 4).png</marquee>
   </game>
   <game>
     <path>./World Heroes 2 (Japan).chd</path>
-    <name>World Heroes 2 (Japan)</name>
+    <name>ワールドヒーローズ2</name>
     <image>./media/images/World Heroes 2 (Japan).png</image>
     <video>./media/videos/World Heroes 2 (Japan).mp4</video>
     <marquee>./media/wheel/World Heroes 2 (Japan).png</marquee>
@@ -3628,7 +3628,7 @@
   </game>
   <game>
     <path>./Wrestle Angels - Double Impact (Japan).chd</path>
-    <name>Wrestle Angels - Double Impact (Japan)</name>
+    <name>レッスルエンジェルス ダブルインパクト</name>
     <image>./media/images/Wrestle Angels - Double Impact (Japan).png</image>
     <video>./media/videos/Wrestle Angels - Double Impact (Japan).mp4</video>
     <marquee>./media/wheel/Wrestle Angels - Double Impact (Japan).png</marquee>
@@ -3642,35 +3642,35 @@
   </game>
   <game>
     <path>./Xak (Japan).chd</path>
-    <name>Xak (Japan)</name>
+    <name>サークI・II</name>
     <image>./media/images/Xak (Japan).png</image>
     <video>./media/videos/Xak (Japan).mp4</video>
     <marquee>./media/wheel/Xak (Japan).png</marquee>
   </game>
   <game>
     <path>./Xak III - The Eternal Recurrence (Japan).chd</path>
-    <name>Xak III - The Eternal Recurrence (Japan)</name>
+    <name>サークIII</name>
     <image>./media/images/Xak III - The Eternal Recurrence (Japan).png</image>
     <video>./media/videos/Xak III - The Eternal Recurrence (Japan).mp4</video>
     <marquee>./media/wheel/Xak III - The Eternal Recurrence (Japan).png</marquee>
   </game>
   <game>
     <path>./YaWaRa! 2 - A Fashionable Judo Girl! (Japan).chd</path>
-    <name>YaWaRa! 2 - A Fashionable Judo Girl! (Japan)</name>
+    <name>YAWARA!2</name>
     <image>./media/images/YaWaRa! 2 - A Fashionable Judo Girl! (Japan).png</image>
     <video>./media/videos/YaWaRa! 2 - A Fashionable Judo Girl! (Japan).mp4</video>
     <marquee>./media/wheel/YaWaRa! 2 - A Fashionable Judo Girl! (Japan).png</marquee>
   </game>
   <game>
     <path>./YaWaRa! A Fashionable Judo Girl! (Japan).chd</path>
-    <name>YaWaRa! A Fashionable Judo Girl! (Japan)</name>
+    <name>YAWARA!</name>
     <image>./media/images/YaWaRa! A Fashionable Judo Girl! (Japan).png</image>
     <video>./media/videos/YaWaRa! A Fashionable Judo Girl! (Japan).mp4</video>
     <marquee>./media/wheel/YaWaRa! A Fashionable Judo Girl! (Japan).png</marquee>
   </game>
   <game>
     <path>./Yamamura Misa Suspense - Kinsenka Kyouezara Satsujin Jiken (Japan).chd</path>
-    <name>Yamamura Misa Suspense - Kinsenka Kyouezara Satsujin Jiken (Japan)</name>
+    <name>山村美紗サスペンス 金盞花 京絵皿殺人事件</name>
     <image>./media/images/Yamamura Misa Suspense - Kinsenka Kyouezara Satsujin Jiken (Japan).png</image>
     <video>./media/videos/Yamamura Misa Suspense - Kinsenka Kyouezara Satsujin Jiken (Japan).mp4</video>
     <marquee>./media/wheel/Yamamura Misa Suspense - Kinsenka Kyouezara Satsujin Jiken (Japan).png</marquee>
@@ -3684,7 +3684,7 @@
   </game>
   <game>
     <path>./Yokoyama Mitsuteru Shin Sangokushi - Tenka wa Ware ni (Japan).chd</path>
-    <name>Yokoyama Mitsuteru Shin Sangokushi - Tenka wa Ware ni (Japan)</name>
+    <name>横山光輝 真・三国志</name>
     <image>./media/images/Yokoyama Mitsuteru Shin Sangokushi - Tenka wa Ware ni (Japan).png</image>
     <video>./media/videos/Yokoyama Mitsuteru Shin Sangokushi - Tenka wa Ware ni (Japan).mp4</video>
     <marquee>./media/wheel/Yokoyama Mitsuteru Shin Sangokushi - Tenka wa Ware ni (Japan).png</marquee>
@@ -3698,21 +3698,21 @@
   </game>
   <game>
     <path>./Ys I &amp; II (Japan).chd</path>
-    <name>Ys I &amp; II (Japan)</name>
+    <name>イースI・II</name>
     <image>./media/images/Ys I &amp; II (Japan).png</image>
     <video>./media/videos/Ys I &amp; II (Japan).mp4</video>
     <marquee>./media/wheel/Ys I &amp; II (Japan).png</marquee>
   </game>
   <game>
     <path>./Ys I &amp; II (Japan) (Alt).chd</path>
-    <name>Ys I &amp; II (Japan) (Alt)</name>
+    <name>イースI・II</name>
     <image>./media/images/Ys I &amp; II (Japan) (Alt).png</image>
     <video>./media/videos/Ys I &amp; II (Japan) (Alt).mp4</video>
     <marquee>./media/wheel/Ys I &amp; II (Japan) (Alt).png</marquee>
   </game>
   <game>
     <path>./Ys III (Japan).chd</path>
-    <name>Ys III (Japan)</name>
+    <name>イースIII</name>
     <image>./media/images/Ys III (Japan).png</image>
     <video>./media/videos/Ys III (Japan).mp4</video>
     <marquee>./media/wheel/Ys III (Japan).png</marquee>
@@ -3726,14 +3726,14 @@
   </game>
   <game>
     <path>./Ys IV - The Dawn of Ys (Japan) (Rev 3).chd</path>
-    <name>Ys IV - The Dawn of Ys (Japan) (Rev 3)</name>
+    <name>イースIV The Dawn of Ys</name>
     <image>./media/images/Ys IV - The Dawn of Ys (Japan) (Rev 3).png</image>
     <video>./media/videos/Ys IV - The Dawn of Ys (Japan) (Rev 3).mp4</video>
     <marquee>./media/wheel/Ys IV - The Dawn of Ys (Japan) (Rev 3).png</marquee>
   </game>
   <game>
     <path>./Ys IV - The Dawn of Ys (Japan) (Rev 4).chd</path>
-    <name>Ys IV - The Dawn of Ys (Japan) (Rev 4)</name>
+    <name>イースIV The Dawn of Ys</name>
     <image>./media/images/Ys IV - The Dawn of Ys (Japan) (Rev 4).png</image>
     <video>./media/videos/Ys IV - The Dawn of Ys (Japan) (Rev 4).mp4</video>
     <marquee>./media/wheel/Ys IV - The Dawn of Ys (Japan) (Rev 4).png</marquee>
@@ -3747,21 +3747,21 @@
   </game>
   <game>
     <path>./Zan - Kagerou no Toki (Japan).chd</path>
-    <name>Zan - Kagerou no Toki (Japan)</name>
+    <name>斬 陽炎の時代</name>
     <image>./media/images/Zan - Kagerou no Toki (Japan).png</image>
     <video>./media/videos/Zan - Kagerou no Toki (Japan).mp4</video>
     <marquee>./media/wheel/Zan - Kagerou no Toki (Japan).png</marquee>
   </game>
   <game>
     <path>./Zero 4 Champ II (Japan).chd</path>
-    <name>Zero 4 Champ II (Japan)</name>
+    <name>ゼロヨンチャンプII</name>
     <image>./media/images/Zero 4 Champ II (Japan).png</image>
     <video>./media/videos/Zero 4 Champ II (Japan).mp4</video>
     <marquee>./media/wheel/Zero 4 Champ II (Japan).png</marquee>
   </game>
   <game>
     <path>./Zero Wing (Japan).chd</path>
-    <name>Zero Wing (Japan)</name>
+    <name>ゼロウィング</name>
     <image>./media/images/Zero Wing (Japan).png</image>
     <video>./media/videos/Zero Wing (Japan).mp4</video>
     <marquee>./media/wheel/Zero Wing (Japan).png</marquee>
